@@ -147,7 +147,11 @@ class AppState extends ChangeNotifier with WidgetsBindingObserver {
     settings = s.copyWith(onboardingDone: true, firstUseDate: settings.firstUseDate ?? today);
     await store.save(settings);
     notifyListeners();
-    await NotificationService.requestPermissions();
+    try {
+      await NotificationService.requestPermissions();
+    } catch (e) {
+      debugPrint('Permission request failed: $e');
+    }
     await _rescheduleAll();
     unawaited(loadToday());
     unawaited(refreshDates());
@@ -202,14 +206,22 @@ class AppState extends ChangeNotifier with WidgetsBindingObserver {
     snoozedUntil = until;
     await store.setSnoozedUntil(until);
     notifyListeners();
-    await NotificationService.reschedule(settings, until);
+    try {
+      await NotificationService.reschedule(settings, until);
+    } catch (e) {
+      debugPrint('Scheduling failed: $e');
+    }
   }
 
   Future<void> cancelSnooze() async {
     snoozedUntil = null;
     await store.setSnoozedUntil(null);
     notifyListeners();
-    await NotificationService.reschedule(settings, null);
+    try {
+      await NotificationService.reschedule(settings, null);
+    } catch (e) {
+      debugPrint('Scheduling failed: $e');
+    }
   }
 
   // ---------------------------------------------------------------- progress
