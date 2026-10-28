@@ -1,0 +1,987 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-18",
+  "level": "B1",
+  "translationLanguage": "az",
+  "words": [
+    {
+      "word": "raise",
+      "ipa": "/reɪz/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "qaldırmaq; böyütmək (uşaq)",
+          "definition": "to lift or move something up; also, to take care of children until they are adults",
+          "synonyms": [
+            "lift",
+            "bring up"
+          ],
+          "antonyms": [
+            "lower"
+          ],
+          "homonyms": [
+            {
+              "word": "rays",
+              "meaning": "thin lines of light, for example from the sun (sounds the same)",
+              "translation": "şüalar"
+            }
+          ],
+          "examples": [
+            {
+              "text": "Raise your hand if you have a question.",
+              "translation": "Sualınız varsa, əlinizi qaldırın."
+            },
+            {
+              "text": "My grandparents raised five children in a small village.",
+              "translation": "Babamla nənəm kiçik bir kənddə beş uşaq böyüdüblər."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "generation",
+      "ipa": "/ˌdʒɛnəˈreɪʃən/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "nəsil",
+          "definition": "all the people in a family or a society who were born at about the same time",
+          "synonyms": [
+            "age group"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Three generations of the family live in this house.",
+              "translation": "Bu evdə ailənin üç nəsli yaşayır."
+            },
+            {
+              "text": "The younger generation uses phones for almost everything.",
+              "translation": "Gənc nəsil demək olar ki, hər şey üçün telefondan istifadə edir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "resemble",
+      "ipa": "/rɪˈzɛmbəl/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "oxşamaq, bənzəmək",
+          "definition": "to look like or be similar to another person or thing",
+          "synonyms": [
+            "look like",
+            "take after",
+            "be similar to"
+          ],
+          "antonyms": [
+            "differ from"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "You really resemble your mother.",
+              "translation": "Sən həqiqətən anana oxşayırsan."
+            },
+            {
+              "text": "The twins resemble each other, but their characters are very different.",
+              "translation": "Əkizlər bir-birinə oxşayır, amma xasiyyətləri çox fərqlidir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "relative",
+      "ipa": "/ˈrɛlətɪv/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "qohum",
+          "definition": "a person who is a member of your family",
+          "synonyms": [
+            "relation",
+            "family member"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "We visit our relatives in Ganja every summer.",
+              "translation": "Hər yay Gəncədəki qohumlarımıza baş çəkirik."
+            },
+            {
+              "text": "Is she a close relative of yours?",
+              "translation": "O, sənin yaxın qohumundur?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "celebrate",
+      "ipa": "/ˈsɛləˌbreɪt/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "qeyd etmək, bayram etmək",
+          "definition": "to do something special and enjoyable because of an important day or event",
+          "synonyms": [
+            "mark"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "We celebrated my sister's birthday at a restaurant.",
+              "translation": "Bacımın ad gününü restoranda qeyd etdik."
+            },
+            {
+              "text": "How do people celebrate Novruz in your village?",
+              "translation": "Sizin kənddə Novruzu necə qeyd edirlər?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "ancestor",
+      "ipa": "/ˈænˌsɛstər/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "əcdad, ulu baba",
+          "definition": "a person in your family who lived a long time ago, before your grandparents",
+          "synonyms": [
+            "forefather",
+            "forebear"
+          ],
+          "antonyms": [
+            "descendant"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "My ancestors came from a small village near Shamakhi.",
+              "translation": "Mənim əcdadlarım Şamaxı yaxınlığındakı kiçik bir kənddən gəlib."
+            },
+            {
+              "text": "She wants to learn more about her ancestors.",
+              "translation": "O, əcdadları haqqında daha çox öyrənmək istəyir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sibling",
+      "ipa": "/ˈsɪblɪŋ/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "bacı və ya qardaş; bacı-qardaş",
+          "definition": "a brother or a sister",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "I have three siblings: two brothers and a sister.",
+              "translation": "Üç bacı-qardaşım var: iki qardaşım və bir bacım."
+            },
+            {
+              "text": "Do you get along with your siblings?",
+              "translation": "Bacı-qardaşlarınla yola gedirsən?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "wedding",
+      "ipa": "/ˈwɛdɪŋ/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "toy",
+          "definition": "a ceremony when two people get married, and the party after it",
+          "synonyms": [
+            "marriage ceremony"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "We are going to my cousin's wedding on Sunday.",
+              "translation": "Bazar günü xalamın qızının toyuna gedirik."
+            },
+            {
+              "text": "Their wedding was small but very beautiful.",
+              "translation": "Onların toyu kiçik, amma çox gözəl idi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "anniversary",
+      "ipa": "/ˌænəˈvɝsəri/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "ildönümü",
+          "definition": "the date when an important event happened one or more years before",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Today is my parents' twentieth wedding anniversary.",
+              "translation": "Bu gün valideynlərimin toyunun iyirminci ildönümüdür."
+            },
+            {
+              "text": "The school celebrated its fiftieth anniversary last year.",
+              "translation": "Məktəb keçən il əlli illik yubileyini qeyd etdi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "elderly",
+      "ipa": "/ˈɛldərli/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "yaşlı, ahıl",
+          "definition": "old; a polite way to talk about old people",
+          "synonyms": [
+            "old",
+            "aged"
+          ],
+          "antonyms": [
+            "young"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "He helps an elderly neighbor with her shopping.",
+              "translation": "O, yaşlı qonşusuna alış-verişdə kömək edir."
+            },
+            {
+              "text": "The bus has special seats for elderly people.",
+              "translation": "Avtobusda yaşlılar üçün xüsusi oturacaqlar var."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "nephew",
+      "ipa": "/ˈnɛfju/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "qardaşı oğlu, bacısı oğlu",
+          "definition": "the son of your brother or sister",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "My nephew is starting school this year.",
+              "translation": "Qardaşım oğlu bu il məktəbə gedir."
+            },
+            {
+              "text": "I bought a toy car for my little nephew.",
+              "translation": "Balaca bacım oğluna oyuncaq maşın aldım."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "niece",
+      "ipa": "/nis/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "qardaşı qızı, bacısı qızı",
+          "definition": "the daughter of your brother or sister",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "My niece wants to be a doctor.",
+              "translation": "Bacım qızı həkim olmaq istəyir."
+            },
+            {
+              "text": "On Sunday we took our niece to the zoo.",
+              "translation": "Bazar günü qardaşımın qızını zooparka apardıq."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "tradition",
+      "ipa": "/trəˈdɪʃən/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "ənənə, adət",
+          "definition": "a custom or a way of doing something that people have kept for a long time",
+          "synonyms": [
+            "custom",
+            "practice"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Cooking plov on holidays is a family tradition.",
+              "translation": "Bayramlarda plov bişirmək ailə ənənəsidir."
+            },
+            {
+              "text": "Novruz is full of old traditions.",
+              "translation": "Novruz qədim ənənələrlə zəngindir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "inherit",
+      "ipa": "/ɪnˈhɛrɪt/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "miras almaq; (xüsusiyyət) -dan keçmək",
+          "definition": "to get money, a house or things from someone after they die; also, to get a quality from your parents",
+          "synonyms": [
+            "receive"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "She inherited her grandmother's house.",
+              "translation": "Nənəsinin evi ona miras qaldı."
+            },
+            {
+              "text": "He inherited his father's blue eyes.",
+              "translation": "Mavi gözləri ona atasından keçib."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bond",
+      "ipa": "/bɑnd/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "bağ, yaxınlıq",
+          "definition": "a strong feeling of love or friendship that connects people",
+          "synonyms": [
+            "connection",
+            "tie",
+            "link"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "There is a strong bond between the two sisters.",
+              "translation": "İki bacı arasında güclü bağ var."
+            },
+            {
+              "text": "Cooking together helped them build a close bond.",
+              "translation": "Birlikdə yemək bişirmək onlar arasında möhkəm yaxınlıq yaratdı."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "story": {
+    "title": "Grandma's Ninetieth Birthday",
+    "titleTranslation": "Nənənin doxsan yaşı",
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "Next Saturday, the whole family is going to celebrate Grandma Sara's ninetieth birthday.",
+            "translation": "Gələn şənbə bütün ailə Sara nənənin doxsan yaşını qeyd edəcək."
+          },
+          {
+            "text": "It is also the sixty-fifth anniversary of her wedding to Grandpa Tofig, so the party will be twice as special.",
+            "translation": "Bu, həm də onun Tofiq babayla toyunun altmış beşinci ildönümüdür, ona görə də məclis iki qat xüsusi olacaq."
+          },
+          {
+            "text": "More than forty relatives are coming from Baku, Ganja and even from abroad.",
+            "translation": "Bakıdan, Gəncədən, hətta xaricdən qırxdan çox qohum gəlir."
+          },
+          {
+            "text": "Some of them haven't seen each other for years.",
+            "translation": "Onların bəziləri illərdir bir-birini görməyib."
+          },
+          {
+            "text": "Grandma and Grandpa raised six children in their little house by the river, and now four generations of the family will sit at one long table in the garden.",
+            "translation": "Nənə ilə baba çayın kənarındakı kiçik evlərində altı uşaq böyüdüblər və indi ailənin dörd nəsli bağda uzun bir süfrənin arxasında oturacaq."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Their granddaughter Leyla is planning the party, and she is a little worried.",
+            "translation": "Onların nəvəsi Leyla məclisi planlaşdırır və bir az narahatdır."
+          },
+          {
+            "text": "“It might rain on Saturday, so we may need to move the tables inside,” she tells her siblings.",
+            "translation": "«Şənbə günü yağış yağa bilər, ona görə də masaları içəri keçirməli ola bilərik», – o, bacı-qardaşlarına deyir."
+          },
+          {
+            "text": "“And Uncle Rauf could be late, because his flight lands at half past three.”",
+            "translation": "«Rauf əmi də gecikə bilər, çünki onun təyyarəsi dördün yarısında yerə enir.»"
+          },
+          {
+            "text": "Her brother Nihad just smiles: “Don't worry. Grandma might not even notice.”",
+            "translation": "Qardaşı Nihad sadəcə gülümsəyir: «Narahat olma. Nənə bəlkə heç fərqinə də varmaz.»"
+          },
+          {
+            "text": "Nihad's job is to keep the younger guests busy: his nephew and two nieces are full of energy, and they could easily break something.",
+            "translation": "Nihadın vəzifəsi kiçik qonaqları məşğul saxlamaqdır: bacısı oğlu və iki qardaşı qızı enerji doludur və asanlıqla nəyisə sındıra bilərlər."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "In this family, every big celebration has the same tradition: the elderly guests tell stories about the past, and the children listen.",
+            "translation": "Bu ailədə hər böyük şənliyin eyni ənənəsi var: yaşlı qonaqlar keçmişdən danışır, uşaqlar isə qulaq asır."
+          },
+          {
+            "text": "Grandpa Tofig usually talks about his ancestors, who grew grapes on the same land more than a hundred years ago.",
+            "translation": "Tofiq baba adətən yüz ildən də çox əvvəl həmin torpaqda üzüm becərmiş əcdadlarından danışır."
+          },
+          {
+            "text": "Then Grandma Sara tells everyone how she first met him at a summer wedding in 1960.",
+            "translation": "Sonra Sara nənə 1960-cı ildə bir yay toyunda onunla ilk dəfə necə tanış olduğunu hamıya danışır."
+          },
+          {
+            "text": "“This house is old, but the bond between us is even older,” he likes to say.",
+            "translation": "«Bu ev köhnədir, amma aramızdakı bağ ondan da qədimdir», – deyə o, deməyi xoşlayır."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Leyla is also looking through old family photos for a surprise album.",
+            "translation": "Leyla həm də sürpriz albom üçün köhnə ailə şəkillərinə baxır."
+          },
+          {
+            "text": "In one black-and-white picture, a young woman is laughing in front of the same little house.",
+            "translation": "Ağ-qara şəkillərin birində gənc bir qadın həmin kiçik evin qarşısında gülür."
+          },
+          {
+            "text": "“Who could this be?” Leyla wonders. “She really resembles me.”",
+            "translation": "«Bu kim ola bilər?» – deyə Leyla fikirləşir. «Mənə çox oxşayır.»"
+          },
+          {
+            "text": "Then she reads the back of the photo: “Sara, 1956.”",
+            "translation": "Sonra şəklin arxasındakı yazını oxuyur: «Sara, 1956.»"
+          },
+          {
+            "text": "Leyla can't believe her eyes: it is her grandmother at the age of twenty.",
+            "translation": "Leyla gözlərinə inanmır: bu, iyirmi yaşındakı nənəsidir."
+          },
+          {
+            "text": "Everyone always says that Leyla inherited her grandmother's smile, and now she can see it for herself.",
+            "translation": "Hamı həmişə deyir ki, Leylanın təbəssümü nənəsindən keçib, indi isə o, bunu öz gözləri ilə görür."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Leyla puts the photo on the first page of the album.",
+            "translation": "Leyla şəkli albomun birinci səhifəsinə qoyur."
+          },
+          {
+            "text": "She knows the weather may not be perfect, and the cake might be a little too sweet.",
+            "translation": "O bilir ki, hava ideal olmaya bilər, tort da bir az həddindən artıq şirin ola bilər."
+          },
+          {
+            "text": "But that doesn't matter.",
+            "translation": "Amma bunun heç bir əhəmiyyəti yoxdur."
+          },
+          {
+            "text": "When the whole family is together, every day is a celebration.",
+            "translation": "Bütün ailə bir yerdə olanda hər gün bayramdır."
+          }
+        ]
+      }
+    ],
+    "glossary": [
+      {
+        "term": "whole",
+        "lemma": "whole",
+        "partOfSpeech": "adjective",
+        "meaning": "all of something, complete",
+        "translation": "bütün"
+      },
+      {
+        "term": "celebrate",
+        "lemma": "celebrate",
+        "partOfSpeech": "verb",
+        "meaning": "to have a party or do something special for an important day",
+        "translation": "qeyd etmək"
+      },
+      {
+        "term": "ninetieth",
+        "lemma": "ninetieth",
+        "partOfSpeech": "adjective",
+        "meaning": "number 90 in a series",
+        "translation": "doxsanıncı"
+      },
+      {
+        "term": "anniversary",
+        "lemma": "anniversary",
+        "partOfSpeech": "noun",
+        "meaning": "the day when something happened a number of years before",
+        "translation": "ildönümü"
+      },
+      {
+        "term": "wedding",
+        "lemma": "wedding",
+        "partOfSpeech": "noun",
+        "meaning": "the ceremony when two people get married",
+        "translation": "toy"
+      },
+      {
+        "term": "twice as special",
+        "lemma": "twice as ...",
+        "partOfSpeech": "phrase",
+        "meaning": "two times more special than usual",
+        "translation": "iki qat xüsusi"
+      },
+      {
+        "term": "relatives",
+        "lemma": "relative",
+        "partOfSpeech": "noun",
+        "meaning": "members of your family",
+        "translation": "qohumlar"
+      },
+      {
+        "term": "abroad",
+        "lemma": "abroad",
+        "partOfSpeech": "adverb",
+        "meaning": "in or from another country",
+        "translation": "xaricdən, xaricdə"
+      },
+      {
+        "term": "raised",
+        "lemma": "raise",
+        "partOfSpeech": "verb",
+        "meaning": "took care of children until they grew up",
+        "translation": "böyüdüblər"
+      },
+      {
+        "term": "by the river",
+        "lemma": "by the river",
+        "partOfSpeech": "phrase",
+        "meaning": "next to the river",
+        "translation": "çayın kənarında"
+      },
+      {
+        "term": "generations",
+        "lemma": "generation",
+        "partOfSpeech": "noun",
+        "meaning": "groups of people in a family born at about the same time",
+        "translation": "nəsillər"
+      },
+      {
+        "term": "granddaughter",
+        "lemma": "granddaughter",
+        "partOfSpeech": "noun",
+        "meaning": "the daughter of your son or daughter",
+        "translation": "nəvə (qız)"
+      },
+      {
+        "term": "worried",
+        "lemma": "worried",
+        "partOfSpeech": "adjective",
+        "meaning": "feeling that something bad may happen",
+        "translation": "narahat"
+      },
+      {
+        "term": "might",
+        "lemma": "might",
+        "partOfSpeech": "verb",
+        "meaning": "a modal verb that shows something is possible but not certain",
+        "translation": "-a bilər, ola bilsin ki"
+      },
+      {
+        "term": "may",
+        "lemma": "may",
+        "partOfSpeech": "verb",
+        "meaning": "a modal verb that shows something is possible",
+        "translation": "-a bilər, ehtimal ki"
+      },
+      {
+        "term": "need to",
+        "lemma": "need to",
+        "partOfSpeech": "phrase",
+        "meaning": "must do something because it is necessary",
+        "translation": "-malı olmaq, lazım olmaq"
+      },
+      {
+        "term": "siblings",
+        "lemma": "sibling",
+        "partOfSpeech": "noun",
+        "meaning": "brothers and sisters",
+        "translation": "bacı-qardaşlar"
+      },
+      {
+        "term": "could",
+        "lemma": "could",
+        "partOfSpeech": "verb",
+        "meaning": "a modal verb that shows a possibility",
+        "translation": "-a bilər"
+      },
+      {
+        "term": "flight",
+        "lemma": "flight",
+        "partOfSpeech": "noun",
+        "meaning": "a trip on a plane",
+        "translation": "uçuş, reys"
+      },
+      {
+        "term": "lands",
+        "lemma": "land",
+        "partOfSpeech": "verb",
+        "meaning": "comes down to the ground (about a plane)",
+        "translation": "yerə enir"
+      },
+      {
+        "term": "half past three",
+        "lemma": "half past three",
+        "partOfSpeech": "phrase",
+        "meaning": "3:30",
+        "translation": "dördün yarısı"
+      },
+      {
+        "term": "notice",
+        "lemma": "notice",
+        "partOfSpeech": "verb",
+        "meaning": "to see or become aware of something",
+        "translation": "fərqinə varmaq, sezmək"
+      },
+      {
+        "term": "keep the younger guests busy",
+        "lemma": "keep someone busy",
+        "partOfSpeech": "phrase",
+        "meaning": "to give someone things to do so they are not bored",
+        "translation": "kiçik qonaqları məşğul saxlamaq"
+      },
+      {
+        "term": "nephew",
+        "lemma": "nephew",
+        "partOfSpeech": "noun",
+        "meaning": "the son of your brother or sister",
+        "translation": "bacısı oğlu, qardaşı oğlu"
+      },
+      {
+        "term": "nieces",
+        "lemma": "niece",
+        "partOfSpeech": "noun",
+        "meaning": "the daughters of your brother or sister",
+        "translation": "qardaşı qızları, bacısı qızları"
+      },
+      {
+        "term": "full of energy",
+        "lemma": "full of energy",
+        "partOfSpeech": "idiom",
+        "meaning": "very active and lively",
+        "translation": "enerji dolu"
+      },
+      {
+        "term": "easily",
+        "lemma": "easily",
+        "partOfSpeech": "adverb",
+        "meaning": "without any difficulty",
+        "translation": "asanlıqla"
+      },
+      {
+        "term": "celebration",
+        "lemma": "celebration",
+        "partOfSpeech": "noun",
+        "meaning": "a party or special event for an important day",
+        "translation": "şənlik, bayram"
+      },
+      {
+        "term": "tradition",
+        "lemma": "tradition",
+        "partOfSpeech": "noun",
+        "meaning": "a custom that a family or a group has kept for a long time",
+        "translation": "ənənə"
+      },
+      {
+        "term": "elderly",
+        "lemma": "elderly",
+        "partOfSpeech": "adjective",
+        "meaning": "old (a polite word)",
+        "translation": "yaşlı"
+      },
+      {
+        "term": "first met",
+        "lemma": "meet",
+        "partOfSpeech": "verb",
+        "meaning": "saw and got to know someone for the first time",
+        "translation": "ilk dəfə tanış oldu"
+      },
+      {
+        "term": "haven't seen each other",
+        "lemma": "see each other",
+        "partOfSpeech": "phrase",
+        "meaning": "have not met for some time",
+        "translation": "bir-birini görməyib"
+      },
+      {
+        "term": "ancestors",
+        "lemma": "ancestor",
+        "partOfSpeech": "noun",
+        "meaning": "family members who lived long ago",
+        "translation": "əcdadlar"
+      },
+      {
+        "term": "grew",
+        "lemma": "grow",
+        "partOfSpeech": "verb",
+        "meaning": "planted and took care of plants",
+        "translation": "becərdi, yetişdirdi"
+      },
+      {
+        "term": "grapes",
+        "lemma": "grape",
+        "partOfSpeech": "noun",
+        "meaning": "small round green or purple fruit",
+        "translation": "üzüm"
+      },
+      {
+        "term": "land",
+        "lemma": "land",
+        "partOfSpeech": "noun",
+        "meaning": "an area of ground, often used for farming",
+        "translation": "torpaq"
+      },
+      {
+        "term": "bond",
+        "lemma": "bond",
+        "partOfSpeech": "noun",
+        "meaning": "a strong feeling of love that connects people",
+        "translation": "bağ"
+      },
+      {
+        "term": "looking through",
+        "lemma": "look through",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "looking at many things quickly, one after another",
+        "translation": "nəzərdən keçirir, baxır"
+      },
+      {
+        "term": "surprise",
+        "lemma": "surprise",
+        "partOfSpeech": "noun",
+        "meaning": "something that someone does not know about before",
+        "translation": "sürpriz"
+      },
+      {
+        "term": "black-and-white",
+        "lemma": "black-and-white",
+        "partOfSpeech": "adjective",
+        "meaning": "with no colors except black, white and gray",
+        "translation": "ağ-qara"
+      },
+      {
+        "term": "in front of",
+        "lemma": "in front of",
+        "partOfSpeech": "phrase",
+        "meaning": "before the front part of something",
+        "translation": "qarşısında"
+      },
+      {
+        "term": "wonders",
+        "lemma": "wonder",
+        "partOfSpeech": "verb",
+        "meaning": "asks herself a question",
+        "translation": "fikirləşir, öz-özünə soruşur"
+      },
+      {
+        "term": "can't believe her eyes",
+        "lemma": "not believe your eyes",
+        "partOfSpeech": "idiom",
+        "meaning": "to be very surprised by what you see",
+        "translation": "gözlərinə inanmamaq"
+      },
+      {
+        "term": "at the age of",
+        "lemma": "at the age of",
+        "partOfSpeech": "phrase",
+        "meaning": "when someone is a particular age",
+        "translation": "... yaşında"
+      },
+      {
+        "term": "resembles",
+        "lemma": "resemble",
+        "partOfSpeech": "verb",
+        "meaning": "looks like someone",
+        "translation": "oxşayır"
+      },
+      {
+        "term": "inherited",
+        "lemma": "inherit",
+        "partOfSpeech": "verb",
+        "meaning": "got a quality from a parent or grandparent",
+        "translation": "(ona) keçib"
+      },
+      {
+        "term": "for herself",
+        "lemma": "for yourself",
+        "partOfSpeech": "phrase",
+        "meaning": "with her own eyes, without help",
+        "translation": "öz gözləri ilə, özü"
+      },
+      {
+        "term": "perfect",
+        "lemma": "perfect",
+        "partOfSpeech": "adjective",
+        "meaning": "without any problems; the best possible",
+        "translation": "ideal, mükəmməl"
+      },
+      {
+        "term": "doesn't matter",
+        "lemma": "not matter",
+        "partOfSpeech": "phrase",
+        "meaning": "is not important",
+        "translation": "əhəmiyyəti yoxdur"
+      }
+    ]
+  },
+  "grammar": {
+    "topic": "Possibility: may, might, could",
+    "topicTranslation": "Ehtimal: may, might, could",
+    "explanation": "We use may, might and could to say that something is possible now or in the future, but we are not sure. After these words we use the base form of the verb, without to. Might and could are very common in everyday speech; may is a little more formal. For negative possibility we use may not or might not. Be careful: couldn't usually means that something is impossible.",
+    "explanationTranslation": "May, might və could sözləri indi və ya gələcəkdə nəyinsə mümkün olduğunu, amma əmin olmadığımızı bildirmək üçün işlədilir. Bu sözlərdən sonra feil to olmadan, əsas formada gəlir. Gündəlik danışıqda might və could çox işlənir, may isə bir az daha rəsmidir. İnkar ehtimal üçün may not və ya might not işlədilir. Diqqətli olun: couldn't adətən nəyinsə mümkün olmadığını bildirir.",
+    "rules": [
+      {
+        "text": "Form: may / might / could + base verb, without to. (It might rain.)",
+        "translation": "Quruluş: may / might / could + feilin əsas forması, to olmadan. (It might rain.)"
+      },
+      {
+        "text": "These verbs never change: there is no -s with he, she or it. Say “She may come”, not “She mays come”.",
+        "translation": "Bu feillər heç vaxt dəyişmir: he, she, it ilə -s artırılmır. “She mays come” yox, “She may come” deyilir."
+      },
+      {
+        "text": "Negative possibility: may not / might not = perhaps not. (He might not know.)",
+        "translation": "İnkar ehtimal: may not / might not = bəlkə də yox. (He might not know – O, bilməyə bilər.)"
+      },
+      {
+        "text": "To ask about possibility, we often use could: Could this be her house? We don't usually ask questions with may in this meaning.",
+        "translation": "Ehtimal haqqında soruşmaq üçün çox vaxt could işlədilir: Could this be her house? Bu mənada may ilə adətən sual verilmir."
+      }
+    ],
+    "examples": [
+      {
+        "text": "We may celebrate Grandma's birthday in the garden.",
+        "translation": "Nənənin ad gününü bağda qeyd edə bilərik."
+      },
+      {
+        "text": "Take an umbrella – it might rain later.",
+        "translation": "Çətir götür, sonra yağış yağa bilər."
+      },
+      {
+        "text": "That man could be a relative of ours – he looks just like my dad.",
+        "translation": "O kişi bizim qohumumuz ola bilər – lap atama oxşayır."
+      },
+      {
+        "text": "My nephew might not come to the wedding.",
+        "translation": "Ola bilər ki, bacım oğlu toya gəlməsin."
+      },
+      {
+        "text": "Could the keys be in your bag?",
+        "translation": "Açarlar sənin çantanda ola bilərmi?"
+      }
+    ],
+    "exercise": {
+      "instructions": "Choose or write the correct form.",
+      "instructionsTranslation": "Düzgün formanı seçin və ya yazın.",
+      "questions": [
+        {
+          "type": "choice",
+          "prompt": "Take a jacket. It ___ get cold tonight.",
+          "promptTranslation": "Gödəkcə götür. Bu axşam hava soyuya bilər.",
+          "options": [
+            "might",
+            "might to",
+            "mights"
+          ],
+          "answer": "might",
+          "explanation": "After might we use the base verb without to, and might never takes -s.",
+          "explanationTranslation": "Might-dan sonra feil to olmadan işlədilir və might heç vaxt -s qəbul etmir."
+        },
+        {
+          "type": "text",
+          "prompt": "I'm not sure, but Aysel ___ (may / be) at home now.",
+          "promptTranslation": "Əmin deyiləm, amma Aysel indi evdə ola bilər.",
+          "answer": "may be",
+          "explanation": "May + base verb: may be.",
+          "explanationTranslation": "May + feilin əsas forması: may be."
+        },
+        {
+          "type": "choice",
+          "prompt": "He ___ know the answer – he wasn't in class yesterday.",
+          "promptTranslation": "O, cavabı bilməyə bilər – dünən dərsdə deyildi.",
+          "options": [
+            "might not",
+            "doesn't might",
+            "might not to"
+          ],
+          "answer": "might not",
+          "explanation": "The negative is might not + base verb.",
+          "explanationTranslation": "İnkar forma might not + feilin əsas formasıdır."
+        },
+        {
+          "type": "text",
+          "prompt": "Someone is at the door. It ___ (could / be) the delivery man.",
+          "promptTranslation": "Qapını kimsə döyür. Kuryer ola bilər.",
+          "answer": "could be",
+          "explanation": "Could + base verb shows a possibility.",
+          "explanationTranslation": "Could + feilin əsas forması ehtimal bildirir."
+        },
+        {
+          "type": "choice",
+          "prompt": "I'm not sure, but my parents ___ celebrate their anniversary in Sheki.",
+          "promptTranslation": "Əmin deyiləm, amma valideynlərim ildönümlərini Şəkidə qeyd edə bilərlər.",
+          "options": [
+            "might",
+            "must",
+            "will"
+          ],
+          "answer": "might",
+          "explanation": "We are not sure, so we use might for possibility.",
+          "explanationTranslation": "Əmin deyilik, ona görə ehtimal üçün might işlədilir."
+        }
+      ]
+    }
+  }
+}

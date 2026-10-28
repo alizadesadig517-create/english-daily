@@ -209,6 +209,375 @@
           ]
         }
       ]
+    },
+    {
+      "word": "lend",
+      "ipa": "/lɛnd/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "borc vermək, müvəqqəti vermək",
+          "definition": "to give something to someone for a short time, and they give it back later",
+          "synonyms": [
+            "loan"
+          ],
+          "antonyms": [
+            "borrow"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Could you lend me twenty manats until Friday?",
+              "translation": "Cümə gününə qədər mənə iyirmi manat borc verə bilərsən?"
+            },
+            {
+              "text": "The bank lends money to small businesses.",
+              "translation": "Bank kiçik bizneslərə borc pul verir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "owe",
+      "ipa": "/oʊ/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "borclu olmaq",
+          "definition": "to need to pay back money or give something back to someone",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "I owe my brother fifty manats.",
+              "translation": "Qardaşıma əlli manat borcluyam."
+            },
+            {
+              "text": "You don't owe me anything – it was a gift.",
+              "translation": "Mənə heç nə borclu deyilsən – bu hədiyyə idi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "stall",
+      "ipa": "/stɔːl/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "piştaxta, satış yeri",
+          "definition": "a table or small open shop where people sell things in a market or at a fair",
+          "synonyms": [
+            "stand",
+            "booth"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "My aunt has a fruit stall at the market.",
+              "translation": "Xalamın bazarda meyvə piştaxtası var."
+            },
+            {
+              "text": "We stopped at a stall to buy hot corn.",
+              "translation": "İsti qarğıdalı almaq üçün bir piştaxtanın yanında dayandıq."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "vendor",
+      "ipa": "/ˈvɛndər/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "satıcı",
+          "definition": "a person who sells things, often in the street or at a market",
+          "synonyms": [
+            "seller",
+            "trader"
+          ],
+          "antonyms": [
+            "buyer",
+            "customer"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Street vendors sell tea and snacks near the station.",
+              "translation": "Küçə satıcıları vağzalın yanında çay və qəlyanaltı satırlar."
+            },
+            {
+              "text": "I asked the vendor for a smaller bag.",
+              "translation": "Satıcıdan daha kiçik bir torba istədim."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "handmade",
+      "ipa": "/ˌhændˈmeɪd/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "əl işi, əllə hazırlanmış",
+          "definition": "made by a person using their hands, not by a machine",
+          "synonyms": [
+            "handcrafted"
+          ],
+          "antonyms": [
+            "machine-made",
+            "mass-produced"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "She sells handmade jewelry online.",
+              "translation": "O, internetdə əl işi zinət əşyaları satır."
+            },
+            {
+              "text": "This handmade carpet is more than fifty years old.",
+              "translation": "Bu əl işi xalçanın əlli ildən çox yaşı var."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "entrance",
+      "ipa": "/ˈɛntrəns/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "giriş",
+          "definition": "a door, gate or place where you go into a building or an area",
+          "synonyms": [
+            "entry",
+            "way in"
+          ],
+          "antonyms": [
+            "exit",
+            "way out"
+          ],
+          "homonyms": [
+            {
+              "word": "entrance (verb, /ɪnˈtræns/)",
+              "meaning": "to fill someone with wonder so they cannot stop watching or listening",
+              "translation": "valeh etmək, məftun etmək"
+            }
+          ],
+          "examples": [
+            {
+              "text": "Let's meet at the main entrance of the museum.",
+              "translation": "Muzeyin əsas girişində görüşək."
+            },
+            {
+              "text": "The entrance to the park was closed for repairs.",
+              "translation": "Parkın girişi təmir səbəbindən bağlı idi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "promise",
+      "ipa": "/ˈprɑːmɪs/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "söz vermək, vəd etmək",
+          "definition": "to say that you will certainly do something",
+          "synonyms": [
+            "give your word",
+            "swear"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "I promise I'll call you when I arrive.",
+              "translation": "Söz verirəm, çatanda sənə zəng edəcəyəm."
+            },
+            {
+              "text": "He promised to help me with my homework.",
+              "translation": "O, ev tapşırığımda mənə kömək edəcəyinə söz verdi."
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "noun",
+          "translation": "vəd, söz",
+          "definition": "words that say you will certainly do something",
+          "synonyms": [
+            "word",
+            "vow"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "She always keeps her promises.",
+              "translation": "O, həmişə verdiyi sözə əməl edir."
+            },
+            {
+              "text": "Don't make a promise that you can't keep.",
+              "translation": "Tuta bilməyəcəyin sözü vermə."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "brake",
+      "ipa": "/breɪk/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "əyləc",
+          "definition": "the part of a car or bicycle that you use to make it go slower or stop",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [
+            {
+              "word": "break",
+              "meaning": "to damage something so that it is in pieces or stops working (sounds the same as \"brake\")",
+              "translation": "sındırmaq, xarab etmək"
+            }
+          ],
+          "examples": [
+            {
+              "text": "The brakes on my bike need fixing.",
+              "translation": "Velosipedimin əyləclərini təmir etmək lazımdır."
+            },
+            {
+              "text": "Put your foot on the brake!",
+              "translation": "Ayağını əyləcə bas!"
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "verb",
+          "translation": "əyləc basmaq, əyləcləmək",
+          "definition": "to make a car or bicycle go slower or stop",
+          "synonyms": [
+            "slow down",
+            "stop"
+          ],
+          "antonyms": [
+            "speed up",
+            "accelerate"
+          ],
+          "homonyms": [
+            {
+              "word": "break",
+              "meaning": "to damage something so that it is in pieces or stops working (sounds the same as \"brake\")",
+              "translation": "sındırmaq, xarab etmək"
+            }
+          ],
+          "examples": [
+            {
+              "text": "The driver braked suddenly when a cat ran into the road.",
+              "translation": "Yola pişik qaçanda sürücü qəfildən əyləc basdı."
+            },
+            {
+              "text": "Brake gently when the road is wet.",
+              "translation": "Yol yaş olanda yavaşca əyləc bas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "pedal",
+      "ipa": "/ˈpɛdəl/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "pedal",
+          "definition": "a part of a bicycle, car or piano that you push with your foot",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [
+            {
+              "word": "peddle",
+              "meaning": "to sell things by going from place to place (sounds the same as \"pedal\")",
+              "translation": "gəzə-gəzə satmaq, alverçilik etmək"
+            }
+          ],
+          "examples": [
+            {
+              "text": "My foot slipped off the pedal.",
+              "translation": "Ayağım pedaldan sürüşdü."
+            },
+            {
+              "text": "The old piano has three pedals.",
+              "translation": "Köhnə pianonun üç pedalı var."
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "verb",
+          "translation": "pedal çevirmək",
+          "definition": "to make a bicycle move by pushing the parts under your feet round and round",
+          "synonyms": [
+            "cycle",
+            "ride"
+          ],
+          "antonyms": [],
+          "homonyms": [
+            {
+              "word": "peddle",
+              "meaning": "to sell things by going from place to place (sounds the same as \"pedal\")",
+              "translation": "gəzə-gəzə satmaq, alverçilik etmək"
+            }
+          ],
+          "examples": [
+            {
+              "text": "He pedaled hard up the hill.",
+              "translation": "O, təpəyə qalxarkən var gücü ilə pedal çevirdi."
+            },
+            {
+              "text": "It is hard to pedal against the wind.",
+              "translation": "Küləyə qarşı pedal çevirmək çətindir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "local",
+      "ipa": "/ˈloʊkəl/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "yerli",
+          "definition": "from, belonging to or living in the area near you",
+          "synonyms": [
+            "nearby",
+            "regional"
+          ],
+          "antonyms": [
+            "national",
+            "international"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "We buy vegetables from local farmers.",
+              "translation": "Tərəvəzi yerli fermerlərdən alırıq."
+            },
+            {
+              "text": "I read the local newspaper every morning.",
+              "translation": "Hər səhər yerli qəzeti oxuyuram."
+            }
+          ]
+        }
+      ]
     }
   ],
   "story": {
@@ -222,8 +591,20 @@
             "translation": "Hər oktyabrda şəhərimizin mərkəzi meydanında böyük payız yarmarkası keçirilir."
           },
           {
+            "text": "Local farmers and artists come from all the nearby villages to sell their goods.",
+            "translation": "Ətraf kəndlərin hamısından yerli fermerlər və rəssamlar mallarını satmağa gəlirlər."
+          },
+          {
+            "text": "You can find everything there, from fresh cheese to handmade carpets.",
+            "translation": "Orada təzə pendirdən tutmuş əl işi xalçalara qədər hər şey tapmaq olar."
+          },
+          {
             "text": "This year I wanted to go early, but my bicycle was broken.",
             "translation": "Bu il tez getmək istəyirdim, amma velosipedim xarab idi."
+          },
+          {
+            "text": "One of the pedals had fallen off, and the brakes did not work.",
+            "translation": "Pedallardan biri düşmüşdü, əyləclər də işləmirdi."
           },
           {
             "text": "So I asked my neighbor Leyla if I could borrow hers.",
@@ -242,12 +623,24 @@
             "translation": "«Axırıncı dəfə məndən nəsə götürəndə onu geri qaytarmağı unutmuşdun», – dedi."
           },
           {
+            "text": "“And you still owe me an umbrella from last spring!”",
+            "translation": "«Həm də keçən yazdan mənə hələ də bir çətir borclusan!»"
+          },
+          {
             "text": "She had a point, of course.",
             "translation": "Əlbəttə, o haqlı idi."
           },
           {
             "text": "I promised to be more reliable this time and to return the bike by six o'clock.",
             "translation": "Bu dəfə daha etibarlı olacağıma və velosipedi saat altıya qədər qaytaracağıma söz verdim."
+          },
+          {
+            "text": "Finally she agreed to lend me her bike.",
+            "translation": "Nəhayət, o, velosipedini mənə müvəqqəti verməyə razı oldu."
+          },
+          {
+            "text": "“Be careful: the front brake is very strong, so press it gently,” she said.",
+            "translation": "«Ehtiyatlı ol: ön əyləc çox güclüdür, onu yavaşca bas», – dedi."
           }
         ]
       },
@@ -258,16 +651,60 @@
             "translation": "Yarmarka möhtəşəm idi: alma, isti çörək və canlı musiqi var idi."
           },
           {
+            "text": "Local musicians were playing old folk songs, and children were dancing in front of them.",
+            "translation": "Yerli musiqiçilər köhnə xalq mahnıları ifa edir, uşaqlar isə onların qarşısında rəqs edirdilər."
+          },
+          {
+            "text": "I left the bike near the entrance and walked between the stalls.",
+            "translation": "Velosipedi girişin yanında qoyub piştaxtaların arasında gəzdim."
+          },
+          {
+            "text": "At one stall, a friendly vendor was selling handmade baskets and wooden toys.",
+            "translation": "Piştaxtalardan birində mehriban bir satıcı əl işi səbətlər və taxta oyuncaqlar satırdı."
+          },
+          {
+            "text": "The vendor, an old woman with kind eyes, told me that she had made everything herself during the long winter evenings.",
+            "translation": "Satıcı – mehriban baxışlı yaşlı bir qadın – hamısını uzun qış axşamlarında özünün düzəltdiyini dedi."
+          },
+          {
+            "text": "I bought a small basket for my mother, but I wanted a wooden bird for my little brother too, and I didn't have enough money left.",
+            "translation": "Anam üçün kiçik bir səbət aldım, amma kiçik qardaşım üçün taxta quş da istəyirdim, pulum isə çatmırdı."
+          },
+          {
+            "text": "“Take it now and pay me next year,” she said with a smile.",
+            "translation": "«İndi götür, pulunu gələn il verərsən», – deyə gülümsədi."
+          },
+          {
+            "text": "I laughed: now I owed something to two people!",
+            "translation": "Güldüm: indi artıq iki nəfərə borclu idim!"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
             "text": "I lost track of time, but at half past five my phone reminded me about my promise.",
             "translation": "Vaxtın necə keçdiyini hiss etmədim, amma saat altının yarısında telefonum verdiyim sözü mənə xatırlatdı."
+          },
+          {
+            "text": "I hurried back to the entrance, jumped on the bike and started to pedal.",
+            "translation": "Tələsik girişə qayıtdım, velosipedə cəld minib pedal çevirməyə başladım."
           },
           {
             "text": "I rode back quickly and returned the bicycle to Leyla, together with a jar of honey to say thank you.",
             "translation": "Tez geri qayıtdım və velosipedi təşəkkür əlaməti olaraq bir banka balla birlikdə Leylaya qaytardım."
           },
           {
+            "text": "Leyla looked at the bike, then at the clock, and nodded in surprise.",
+            "translation": "Leyla əvvəlcə velosipedə, sonra saata baxdı və təəccüblə başını tərpətdi."
+          },
+          {
             "text": "She smiled and said I could borrow it again next year.",
             "translation": "O gülümsədi və gələn il onu yenə götürə biləcəyimi dedi."
+          },
+          {
+            "text": "“And next time, bring my umbrella too!” she laughed.",
+            "translation": "«Növbəti dəfə çətirimi də gətir!» – deyə güldü."
           }
         ]
       }
@@ -426,6 +863,279 @@
         "partOfSpeech": "phrase",
         "meaning": "in order to show that you are grateful",
         "translation": "təşəkkür etmək üçün"
+      },
+      {
+        "term": "Local",
+        "lemma": "local",
+        "partOfSpeech": "adjective",
+        "meaning": "from the area near you",
+        "translation": "yerli"
+      },
+      {
+        "term": "farmers",
+        "lemma": "farmer",
+        "partOfSpeech": "noun",
+        "meaning": "people who grow food or keep animals on a farm",
+        "translation": "fermerlər"
+      },
+      {
+        "term": "nearby",
+        "lemma": "nearby",
+        "partOfSpeech": "adjective",
+        "meaning": "not far away",
+        "translation": "yaxın, ətrafdakı"
+      },
+      {
+        "term": "goods",
+        "lemma": "goods",
+        "partOfSpeech": "noun",
+        "meaning": "things that people make or grow to sell",
+        "translation": "mallar, məhsullar"
+      },
+      {
+        "term": "pedals",
+        "lemma": "pedal",
+        "partOfSpeech": "noun",
+        "meaning": "the parts of a bicycle that you push with your feet",
+        "translation": "pedallar"
+      },
+      {
+        "term": "had fallen off",
+        "lemma": "fall off",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "had come off and dropped down",
+        "translation": "düşmüşdü, qopmuşdu"
+      },
+      {
+        "term": "brakes",
+        "lemma": "brake",
+        "partOfSpeech": "noun",
+        "meaning": "the parts that make a bicycle slow down or stop",
+        "translation": "əyləclər"
+      },
+      {
+        "term": "owe",
+        "lemma": "owe",
+        "partOfSpeech": "verb",
+        "meaning": "to need to give something back to someone",
+        "translation": "borclu olmaq"
+      },
+      {
+        "term": "umbrella",
+        "lemma": "umbrella",
+        "partOfSpeech": "noun",
+        "meaning": "a thing you hold over your head to keep the rain off",
+        "translation": "çətir"
+      },
+      {
+        "term": "agreed",
+        "lemma": "agree",
+        "partOfSpeech": "verb",
+        "meaning": "said yes to something",
+        "translation": "razı oldu"
+      },
+      {
+        "term": "lend",
+        "lemma": "lend",
+        "partOfSpeech": "verb",
+        "meaning": "to give something to someone for a short time",
+        "translation": "müvəqqəti vermək"
+      },
+      {
+        "term": "Be careful",
+        "lemma": "be careful",
+        "partOfSpeech": "phrase",
+        "meaning": "pay attention so that nothing bad happens",
+        "translation": "ehtiyatlı ol"
+      },
+      {
+        "term": "front",
+        "lemma": "front",
+        "partOfSpeech": "adjective",
+        "meaning": "at the front part of something",
+        "translation": "ön"
+      },
+      {
+        "term": "brake",
+        "lemma": "brake",
+        "partOfSpeech": "noun",
+        "meaning": "the part you press to make a bicycle slow down or stop",
+        "translation": "əyləc"
+      },
+      {
+        "term": "press",
+        "lemma": "press",
+        "partOfSpeech": "verb",
+        "meaning": "to push something with your hand or finger",
+        "translation": "basmaq"
+      },
+      {
+        "term": "gently",
+        "lemma": "gently",
+        "partOfSpeech": "adverb",
+        "meaning": "softly and carefully, not with force",
+        "translation": "yavaşca, ehmalca"
+      },
+      {
+        "term": "entrance",
+        "lemma": "entrance",
+        "partOfSpeech": "noun",
+        "meaning": "the place where you go into an area",
+        "translation": "giriş"
+      },
+      {
+        "term": "stalls",
+        "lemma": "stall",
+        "partOfSpeech": "noun",
+        "meaning": "tables or small open shops where people sell things at a fair",
+        "translation": "piştaxtalar"
+      },
+      {
+        "term": "stall",
+        "lemma": "stall",
+        "partOfSpeech": "noun",
+        "meaning": "a table or small open shop where things are sold",
+        "translation": "piştaxta"
+      },
+      {
+        "term": "vendor",
+        "lemma": "vendor",
+        "partOfSpeech": "noun",
+        "meaning": "a person who sells things at a market",
+        "translation": "satıcı"
+      },
+      {
+        "term": "handmade",
+        "lemma": "handmade",
+        "partOfSpeech": "adjective",
+        "meaning": "made by hand, not by a machine",
+        "translation": "əl işi"
+      },
+      {
+        "term": "baskets",
+        "lemma": "basket",
+        "partOfSpeech": "noun",
+        "meaning": "containers made of thin pieces of wood or grass, used for carrying things",
+        "translation": "səbətlər"
+      },
+      {
+        "term": "wooden",
+        "lemma": "wooden",
+        "partOfSpeech": "adjective",
+        "meaning": "made of wood",
+        "translation": "taxta"
+      },
+      {
+        "term": "herself",
+        "lemma": "herself",
+        "partOfSpeech": "pronoun",
+        "meaning": "she alone, without help from other people",
+        "translation": "özü"
+      },
+      {
+        "term": "basket",
+        "lemma": "basket",
+        "partOfSpeech": "noun",
+        "meaning": "a container made of thin pieces of wood or grass",
+        "translation": "səbət"
+      },
+      {
+        "term": "hurried back",
+        "lemma": "hurry back",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "went back quickly",
+        "translation": "tələsik geri qayıtdım"
+      },
+      {
+        "term": "jumped on",
+        "lemma": "jump on",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "got on a bicycle quickly",
+        "translation": "cəld mindim"
+      },
+      {
+        "term": "pedal",
+        "lemma": "pedal",
+        "partOfSpeech": "verb",
+        "meaning": "to make a bicycle move by pushing with your feet",
+        "translation": "pedal çevirmək"
+      },
+      {
+        "term": "carpets",
+        "lemma": "carpet",
+        "partOfSpeech": "noun",
+        "meaning": "thick pieces of material made to cover a floor",
+        "translation": "xalçalar"
+      },
+      {
+        "term": "from fresh cheese to handmade carpets",
+        "lemma": "from ... to ...",
+        "partOfSpeech": "phrase",
+        "meaning": "used to show how many different things there are",
+        "translation": "təzə pendirdən tutmuş əl işi xalçalara qədər"
+      },
+      {
+        "term": "with kind eyes",
+        "lemma": "with kind eyes",
+        "partOfSpeech": "phrase",
+        "meaning": "having eyes that look friendly and warm",
+        "translation": "mehriban baxışlı"
+      },
+      {
+        "term": "money left",
+        "lemma": "money left",
+        "partOfSpeech": "phrase",
+        "meaning": "money that you still have after spending some",
+        "translation": "qalan pul"
+      },
+      {
+        "term": "musicians",
+        "lemma": "musician",
+        "partOfSpeech": "noun",
+        "meaning": "people who play music",
+        "translation": "musiqiçilər"
+      },
+      {
+        "term": "folk songs",
+        "lemma": "folk song",
+        "partOfSpeech": "noun",
+        "meaning": "traditional songs of a country or area",
+        "translation": "xalq mahnıları"
+      },
+      {
+        "term": "in front of",
+        "lemma": "in front of",
+        "partOfSpeech": "phrase",
+        "meaning": "in the place just before someone or something",
+        "translation": "qarşısında"
+      },
+      {
+        "term": "nodded",
+        "lemma": "nod",
+        "partOfSpeech": "verb",
+        "meaning": "moved the head up and down to show agreement",
+        "translation": "başını tərpətdi"
+      },
+      {
+        "term": "in surprise",
+        "lemma": "in surprise",
+        "partOfSpeech": "phrase",
+        "meaning": "feeling surprised",
+        "translation": "təəccüblə"
+      },
+      {
+        "term": "with a smile",
+        "lemma": "with a smile",
+        "partOfSpeech": "phrase",
+        "meaning": "while smiling",
+        "translation": "gülümsəyərək"
+      },
+      {
+        "term": "owed",
+        "lemma": "owe",
+        "partOfSpeech": "verb",
+        "meaning": "needed to pay back or give back something to someone",
+        "translation": "borclu idim"
       }
     ]
   },

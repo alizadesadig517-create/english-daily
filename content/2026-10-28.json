@@ -237,6 +237,355 @@
           ]
         }
       ]
+    },
+    {
+      "word": "float",
+      "ipa": "/floʊt/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "suyun üzündə qalmaq, batmamaq",
+          "definition": "to stay on top of water, or to move slowly on water or in the air",
+          "synonyms": [
+            "drift"
+          ],
+          "antonyms": [
+            "sink"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Wood floats, but stone sinks.",
+              "translation": "Taxta suyun üzündə qalır, daş isə batır."
+            },
+            {
+              "text": "A plastic bag was floating down the river.",
+              "translation": "Çayın axını ilə plastik torba üzüb gedirdi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sink",
+      "ipa": "/sɪŋk/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "batmaq",
+          "definition": "to go down below the top of water",
+          "synonyms": [
+            "go down",
+            "go under"
+          ],
+          "antonyms": [
+            "float",
+            "rise"
+          ],
+          "homonyms": [
+            {
+              "word": "sync",
+              "meaning": "to make two devices, like a phone and a computer, have the same information (sounds the same as \"sink\")",
+              "translation": "sinxronlaşdırmaq"
+            }
+          ],
+          "examples": [
+            {
+              "text": "The ship began to sink after it hit the rocks.",
+              "translation": "Gəmi qayalara çırpılandan sonra batmağa başladı."
+            },
+            {
+              "text": "Heavy stones sink quickly.",
+              "translation": "Ağır daşlar tez batır."
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "noun",
+          "translation": "lavabo; qabyuyan",
+          "definition": "a bowl in a kitchen or bathroom with taps, used for washing",
+          "synonyms": [
+            "basin"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Put the dirty plates in the sink.",
+              "translation": "Çirkli boşqabları qabyuyana qoy."
+            },
+            {
+              "text": "The bathroom sink is blocked again.",
+              "translation": "Hamamdakı lavabo yenə tutulub."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "dive",
+      "ipa": "/daɪv/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "suya baş vurmaq, dalmaq",
+          "definition": "to jump into water with your head and arms first; also, to swim under water",
+          "synonyms": [
+            "plunge",
+            "jump in"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "She likes to dive from the high board.",
+              "translation": "O, hündür tullanma taxtasından suya baş vurmağı sevir."
+            },
+            {
+              "text": "We went diving near the coast and saw beautiful fish.",
+              "translation": "Sahil yaxınlığında suya dalıb gözəl balıqlar gördük."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "breathe",
+      "ipa": "/briːð/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "nəfəs almaq",
+          "definition": "to take air into your body and let it out again",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Breathe in deeply and count to five.",
+              "translation": "Dərindən nəfəs al və beşə qədər say."
+            },
+            {
+              "text": "It was hard to breathe in the smoky room.",
+              "translation": "Tüstülü otaqda nəfəs almaq çətin idi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "fear",
+      "ipa": "/fɪr/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "qorxu",
+          "definition": "the bad feeling you have when you think something dangerous or bad may happen",
+          "synonyms": [
+            "fright",
+            "terror"
+          ],
+          "antonyms": [
+            "courage",
+            "bravery"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "She has a fear of flying.",
+              "translation": "Onun təyyarə ilə uçmaq qorxusu var."
+            },
+            {
+              "text": "His hands were shaking with fear.",
+              "translation": "Əlləri qorxudan titrəyirdi."
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "verb",
+          "translation": "qorxmaq; ehtiyat etmək",
+          "definition": "to be afraid of something, or to worry that something bad will happen",
+          "synonyms": [
+            "be afraid of",
+            "dread"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Many people fear change.",
+              "translation": "Bir çox insan dəyişiklikdən qorxur."
+            },
+            {
+              "text": "Doctors fear that the illness will spread.",
+              "translation": "Həkimlər xəstəliyin yayılacağından ehtiyat edirlər."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "courage",
+      "ipa": "/ˈkɝːɪdʒ/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "cəsarət, mərdlik",
+          "definition": "the ability to do something difficult or dangerous when you are afraid",
+          "synonyms": [
+            "bravery",
+            "nerve"
+          ],
+          "antonyms": [
+            "fear",
+            "cowardice"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "It took a lot of courage to tell the truth.",
+              "translation": "Həqiqəti demək üçün böyük cəsarət lazım idi."
+            },
+            {
+              "text": "She finally found the courage to ask for help.",
+              "translation": "O, nəhayət kömək istəməyə cəsarət tapdı."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "panic",
+      "ipa": "/ˈpænɪk/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "panikaya düşmək, təşvişə düşmək",
+          "definition": "to suddenly feel so afraid or worried that you cannot think clearly",
+          "synonyms": [
+            "freak out"
+          ],
+          "antonyms": [
+            "keep calm",
+            "relax"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Don't panic – we still have plenty of time.",
+              "translation": "Panikaya düşmə – hələ çox vaxtımız var."
+            },
+            {
+              "text": "Some people started to panic when the lights went out.",
+              "translation": "İşıqlar sönəndə bəzi adamlar panikaya düşməyə başladı."
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "noun",
+          "translation": "panika, təşviş",
+          "definition": "a sudden strong feeling of fear that stops you from thinking clearly",
+          "synonyms": [
+            "alarm",
+            "fear"
+          ],
+          "antonyms": [
+            "calm"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "There was panic in the street when the fire started.",
+              "translation": "Yanğın başlayanda küçədə panika yarandı."
+            },
+            {
+              "text": "In a panic, I left my keys at home.",
+              "translation": "Təşviş içində açarlarımı evdə qoyub çıxdım."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "lifeguard",
+      "ipa": "/ˈlaɪfɡɑːrd/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "xilasedici",
+          "definition": "a person whose job is to watch swimmers at a pool or beach and help them if they are in danger",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The lifeguard blew his whistle at the noisy children.",
+              "translation": "Xilasedici səs-küy salan uşaqlara fit çaldı."
+            },
+            {
+              "text": "My cousin works as a lifeguard every summer.",
+              "translation": "Əmim oğlu hər yay xilasedici işləyir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "depth",
+      "ipa": "/dɛpθ/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "dərinlik",
+          "definition": "how deep something is; the distance from the top to the bottom",
+          "synonyms": [],
+          "antonyms": [
+            "height"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The pool has a depth of two meters.",
+              "translation": "Hovuzun dərinliyi iki metrdir."
+            },
+            {
+              "text": "Check the depth of the water before you jump in.",
+              "translation": "Suya tullanmazdan əvvəl onun dərinliyini yoxla."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "relax",
+      "ipa": "/rɪˈlæks/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "rahatlaşmaq, dincəlmək",
+          "definition": "to become calm and stop worrying; to rest",
+          "synonyms": [
+            "rest",
+            "calm down",
+            "unwind"
+          ],
+          "antonyms": [
+            "worry",
+            "tense up"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "After work I like to relax with a good book.",
+              "translation": "İşdən sonra yaxşı bir kitabla dincəlməyi xoşlayıram."
+            },
+            {
+              "text": "Try to relax your shoulders.",
+              "translation": "Çiyinlərini boşaltmağa çalış."
+            }
+          ]
+        }
+      ]
     }
   ],
   "story": {
@@ -254,8 +603,20 @@
             "translation": "O, həmişə dərin sudan qorxmuşdu və ilk dərslər əsl mübarizə idi."
           },
           {
+            "text": "He was sure that he would sink like a stone.",
+            "translation": "O, daş kimi batacağına əmin idi."
+          },
+          {
+            "text": "Even the sign that showed the depth of the water made his heart beat faster.",
+            "translation": "Hətta suyun dərinliyini göstərən lövhə belə onun ürəyini bərk döyündürürdü."
+          },
+          {
             "text": "Every time he tried to float, he panicked and grabbed the side of the pool.",
             "translation": "Hər dəfə suyun üzündə qalmağa çalışanda təşvişə düşür və hovuzun kənarından yapışırdı."
+          },
+          {
+            "text": "His friends always said, “Just relax!”, but for him it was easier said than done.",
+            "translation": "Dostları həmişə «Sadəcə rahatlaş!» deyirdilər, amma onun üçün bunu demək asan, etmək çətin idi."
           }
         ]
       },
@@ -272,6 +633,18 @@
           {
             "text": "“You have to trust the water, and you have to trust me.”",
             "translation": "«Suya güvənməlisən, mənə də güvənməlisən.»"
+          },
+          {
+            "text": "Kamal showed him how to breathe slowly: in through the nose and out through the mouth.",
+            "translation": "Kamal ona yavaş-yavaş necə nəfəs almağı göstərdi: burundan alıb ağızdan buraxmaq."
+          },
+          {
+            "text": "They practiced at the shallow end, where Murad could always stand up.",
+            "translation": "Onlar hovuzun dayaz hissəsində məşq edirdilər – orada Murad hər an ayağa dura bilərdi."
+          },
+          {
+            "text": "“The worst thing you can do is panic,” he explained. “When you panic, your body gets stiff and you start to sink.”",
+            "translation": "«Ən pis şey panikaya düşməkdir», – deyə izah etdi. «Panikaya düşəndə bədənin gərilir və batmağa başlayırsan.»"
           }
         ]
       },
@@ -286,8 +659,44 @@
             "translation": "Amma Kamal ona nə qədər irəlilədiyini xatırlatdı: o, artıq üzünü suya salmaqdan qorxmurdu."
           },
           {
+            "text": "He also told Murad a secret: when he was a boy, he had been scared of water too.",
+            "translation": "Həm də Murada bir sirr açdı: uşaq olanda o da sudan qorxurmuş."
+          },
+          {
+            "text": "“Fear is normal,” Kamal said. “Courage doesn't mean that you have no fear – it means that you keep going anyway.”",
+            "translation": "«Qorxu təbiidir», – Kamal dedi. «Cəsarət qorxmamaq demək deyil, qorxsan da davam etmək deməkdir.»"
+          },
+          {
             "text": "One morning, without thinking, Murad pushed off from the wall and swam to the other side.",
             "translation": "Bir səhər Murad heç fikirləşmədən divardan təkan aldı və hovuzun o biri tərəfinə üzdü."
+          },
+          {
+            "text": "The young lifeguard at the pool clapped and shouted, “Well done!”",
+            "translation": "Hovuzdakı gənc xilasedici əl çalıb «Afərin!» deyə qışqırdı."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "By the end of the summer, Murad could even dive into the deep end.",
+            "translation": "Yayın sonunda Murad hətta hovuzun dərin hissəsinə baş vura bilirdi."
+          },
+          {
+            "text": "He learned to lie on his back, relax and float like a leaf.",
+            "translation": "O, arxası üstə uzanmağı, rahatlaşmağı və yarpaq kimi suyun üzündə qalmağı öyrəndi."
+          },
+          {
+            "text": "The lifeguard, who had watched him all summer, called him the bravest student at the pool.",
+            "translation": "Bütün yay onu izləyən xilasedici onu hovuzun ən cəsur şagirdi adlandırdı."
+          },
+          {
+            "text": "Murad was very proud of himself.",
+            "translation": "Murad özü ilə çox fəxr edirdi."
+          },
+          {
+            "text": "Sometimes he still feels a little fear, but now he knows how to breathe and stay calm.",
+            "translation": "Bəzən hələ də bir az qorxu hiss edir, amma indi necə nəfəs alıb sakit qalmağı bilir."
           },
           {
             "text": "Now he tells everyone the same thing: “If you don't give up, you will get there.”",
@@ -450,6 +859,244 @@
         "partOfSpeech": "idiom",
         "meaning": "to finally succeed or reach your goal",
         "translation": "məqsədə çatmaq"
+      },
+      {
+        "term": "was sure",
+        "lemma": "be sure",
+        "partOfSpeech": "phrase",
+        "meaning": "felt certain that something was true",
+        "translation": "əmin idi"
+      },
+      {
+        "term": "sink like a stone",
+        "lemma": "sink like a stone",
+        "partOfSpeech": "idiom",
+        "meaning": "to go down in water very quickly",
+        "translation": "daş kimi batmaq"
+      },
+      {
+        "term": "sign",
+        "lemma": "sign",
+        "partOfSpeech": "noun",
+        "meaning": "a board with words or pictures that gives information",
+        "translation": "lövhə, nişan"
+      },
+      {
+        "term": "depth",
+        "lemma": "depth",
+        "partOfSpeech": "noun",
+        "meaning": "how deep the water is",
+        "translation": "dərinlik"
+      },
+      {
+        "term": "made his heart beat faster",
+        "lemma": "make your heart beat faster",
+        "partOfSpeech": "idiom",
+        "meaning": "made him feel nervous or afraid",
+        "translation": "ürəyini bərk döyündürürdü"
+      },
+      {
+        "term": "breathe",
+        "lemma": "breathe",
+        "partOfSpeech": "verb",
+        "meaning": "to take air in and let it out",
+        "translation": "nəfəs almaq"
+      },
+      {
+        "term": "through the nose",
+        "lemma": "through the nose",
+        "partOfSpeech": "phrase",
+        "meaning": "using the nose to take in air",
+        "translation": "burundan"
+      },
+      {
+        "term": "worst",
+        "lemma": "bad",
+        "partOfSpeech": "adjective",
+        "meaning": "the most bad of all",
+        "translation": "ən pis"
+      },
+      {
+        "term": "panic",
+        "lemma": "panic",
+        "partOfSpeech": "verb",
+        "meaning": "to suddenly feel so afraid that you cannot think clearly",
+        "translation": "panikaya düşmək"
+      },
+      {
+        "term": "explained",
+        "lemma": "explain",
+        "partOfSpeech": "verb",
+        "meaning": "said something to make it clear",
+        "translation": "izah etdi"
+      },
+      {
+        "term": "stiff",
+        "lemma": "stiff",
+        "partOfSpeech": "adjective",
+        "meaning": "hard and not able to move or bend easily",
+        "translation": "gərgin, bərk"
+      },
+      {
+        "term": "sink",
+        "lemma": "sink",
+        "partOfSpeech": "verb",
+        "meaning": "to go down under the water",
+        "translation": "batmaq"
+      },
+      {
+        "term": "Fear",
+        "lemma": "fear",
+        "partOfSpeech": "noun",
+        "meaning": "the feeling you have when you think something bad may happen",
+        "translation": "qorxu"
+      },
+      {
+        "term": "Courage",
+        "lemma": "courage",
+        "partOfSpeech": "noun",
+        "meaning": "the ability to do something even when you are afraid",
+        "translation": "cəsarət"
+      },
+      {
+        "term": "keep going",
+        "lemma": "keep going",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "to continue doing something, even when it is difficult",
+        "translation": "davam etmək"
+      },
+      {
+        "term": "anyway",
+        "lemma": "anyway",
+        "partOfSpeech": "adverb",
+        "meaning": "even so; in spite of that",
+        "translation": "yenə də, hər halda"
+      },
+      {
+        "term": "lifeguard",
+        "lemma": "lifeguard",
+        "partOfSpeech": "noun",
+        "meaning": "a person whose job is to watch swimmers and help them",
+        "translation": "xilasedici"
+      },
+      {
+        "term": "clapped",
+        "lemma": "clap",
+        "partOfSpeech": "verb",
+        "meaning": "hit his hands together to show he was pleased",
+        "translation": "əl çaldı"
+      },
+      {
+        "term": "Well done",
+        "lemma": "well done",
+        "partOfSpeech": "phrase",
+        "meaning": "said to praise someone for doing something well",
+        "translation": "afərin"
+      },
+      {
+        "term": "By the end of",
+        "lemma": "by the end of",
+        "partOfSpeech": "phrase",
+        "meaning": "before a period of time finishes",
+        "translation": "... sonunda"
+      },
+      {
+        "term": "dive",
+        "lemma": "dive",
+        "partOfSpeech": "verb",
+        "meaning": "to jump into water head first",
+        "translation": "suya baş vurmaq"
+      },
+      {
+        "term": "deep end",
+        "lemma": "deep end",
+        "partOfSpeech": "noun",
+        "meaning": "the part of a swimming pool where the water is deepest",
+        "translation": "hovuzun dərin hissəsi"
+      },
+      {
+        "term": "lie on his back",
+        "lemma": "lie on your back",
+        "partOfSpeech": "phrase",
+        "meaning": "to lie with your back down and your face up",
+        "translation": "arxası üstə uzanmaq"
+      },
+      {
+        "term": "like a leaf",
+        "lemma": "like a leaf",
+        "partOfSpeech": "phrase",
+        "meaning": "lightly and easily, as a leaf does on water",
+        "translation": "yarpaq kimi"
+      },
+      {
+        "term": "easier said than done",
+        "lemma": "easier said than done",
+        "partOfSpeech": "idiom",
+        "meaning": "easy to talk about but difficult to really do",
+        "translation": "demək asan, etmək çətin"
+      },
+      {
+        "term": "practiced",
+        "lemma": "practice",
+        "partOfSpeech": "verb",
+        "meaning": "did something again and again to get better at it",
+        "translation": "məşq edirdilər"
+      },
+      {
+        "term": "shallow end",
+        "lemma": "shallow end",
+        "partOfSpeech": "noun",
+        "meaning": "the part of a swimming pool where the water is not deep",
+        "translation": "hovuzun dayaz hissəsi"
+      },
+      {
+        "term": "stand up",
+        "lemma": "stand up",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "to be on your feet; to get onto your feet",
+        "translation": "ayağa durmaq"
+      },
+      {
+        "term": "secret",
+        "lemma": "secret",
+        "partOfSpeech": "noun",
+        "meaning": "something that you do not tell other people",
+        "translation": "sirr"
+      },
+      {
+        "term": "scared of",
+        "lemma": "be scared of",
+        "partOfSpeech": "phrase",
+        "meaning": "afraid of",
+        "translation": "... qorxmaq"
+      },
+      {
+        "term": "watched",
+        "lemma": "watch",
+        "partOfSpeech": "verb",
+        "meaning": "looked at someone carefully for some time",
+        "translation": "izlədi"
+      },
+      {
+        "term": "bravest",
+        "lemma": "brave",
+        "partOfSpeech": "adjective",
+        "meaning": "the most able to do things that are frightening",
+        "translation": "ən cəsur"
+      },
+      {
+        "term": "proud of himself",
+        "lemma": "be proud of yourself",
+        "partOfSpeech": "phrase",
+        "meaning": "pleased about something good that he did",
+        "translation": "özü ilə fəxr etmək"
+      },
+      {
+        "term": "stay calm",
+        "lemma": "stay calm",
+        "partOfSpeech": "phrase",
+        "meaning": "to not become worried or afraid",
+        "translation": "sakit qalmaq"
       }
     ]
   },

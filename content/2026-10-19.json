@@ -1,0 +1,1096 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-19",
+  "level": "B1",
+  "translationLanguage": "az",
+  "words": [
+    {
+      "word": "choice",
+      "ipa": "/tʃɔɪs/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "seçim",
+          "definition": "the act of picking one thing from several things, or the thing that you pick",
+          "synonyms": [
+            "option",
+            "selection",
+            "decision"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "You made the right choice.",
+              "translation": "Düzgün seçim etdin."
+            },
+            {
+              "text": "We had no choice – the last bus had already left.",
+              "translation": "Başqa çarəmiz yox idi – son avtobus artıq getmişdi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "consider",
+      "ipa": "/kənˈsɪdər/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "nəzərdən keçirmək, (üzərində) düşünmək",
+          "definition": "to think carefully about something before you decide",
+          "synonyms": [
+            "think about",
+            "think over",
+            "weigh"
+          ],
+          "antonyms": [
+            "ignore"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "I'm considering a new job in Baku.",
+              "translation": "Bakıda yeni bir iş barədə düşünürəm."
+            },
+            {
+              "text": "She considered all the options carefully.",
+              "translation": "O, bütün variantları diqqətlə nəzərdən keçirdi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "regret",
+      "ipa": "/rɪˈɡrɛt/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "peşman olmaq, təəssüflənmək",
+          "definition": "to feel sorry or sad about something that you did or did not do",
+          "synonyms": [
+            "be sorry about"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "I regret selling my old guitar.",
+              "translation": "Köhnə gitaramı satdığıma peşmanam."
+            },
+            {
+              "text": "Try it – you won't regret it!",
+              "translation": "Yoxla – peşman olmayacaqsan!"
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "noun",
+          "translation": "peşmançılıq, təəssüf",
+          "definition": "a sad feeling about something that you did or did not do",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "I have no regrets about moving here.",
+              "translation": "Bura köçdüyümə qətiyyən peşman deyiləm."
+            },
+            {
+              "text": "His biggest regret is that he never learned to swim.",
+              "translation": "Onun ən böyük təəssüfü heç vaxt üzməyi öyrənməməsidir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "risk",
+      "ipa": "/rɪsk/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "risk, təhlükə",
+          "definition": "the possibility that something bad or dangerous might happen",
+          "synonyms": [
+            "danger",
+            "chance"
+          ],
+          "antonyms": [
+            "safety"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Every new business is a risk.",
+              "translation": "Hər yeni biznes riskdir."
+            },
+            {
+              "text": "He took a big risk when he left his job.",
+              "translation": "İşindən çıxanda böyük riskə getdi."
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "verb",
+          "translation": "risk etmək, təhlükəyə atmaq",
+          "definition": "to do something although something bad might happen because of it",
+          "synonyms": [
+            "gamble",
+            "endanger"
+          ],
+          "antonyms": [
+            "protect"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "I don't want to risk losing my job.",
+              "translation": "İşimi itirmək riskinə getmək istəmirəm."
+            },
+            {
+              "text": "He risked his life to save the dog.",
+              "translation": "O, iti xilas etmək üçün həyatını təhlükəyə atdı."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "doubt",
+      "ipa": "/daʊt/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "şübhə",
+          "definition": "a feeling of not being sure about something",
+          "synonyms": [
+            "uncertainty"
+          ],
+          "antonyms": [
+            "certainty",
+            "confidence"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "I have some doubts about this plan.",
+              "translation": "Bu plan barədə bəzi şübhələrim var."
+            },
+            {
+              "text": "There is no doubt that she is the best player on the team.",
+              "translation": "Onun komandanın ən yaxşı oyunçusu olduğuna heç bir şübhə yoxdur."
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "verb",
+          "translation": "şübhə etmək",
+          "definition": "to think that something is probably not true or will probably not happen",
+          "synonyms": [
+            "question"
+          ],
+          "antonyms": [
+            "believe"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "I doubt he will come today.",
+              "translation": "Onun bu gün gələcəyinə şübhə edirəm."
+            },
+            {
+              "text": "Never doubt yourself.",
+              "translation": "Heç vaxt özünə şübhə etmə."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "option",
+      "ipa": "/ˈɑpʃən/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "variant, seçim imkanı",
+          "definition": "one of the things that you can choose",
+          "synonyms": [
+            "choice",
+            "alternative",
+            "possibility"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "We have two options: stay here or go home.",
+              "translation": "İki variantımız var: ya burada qalmaq, ya da evə getmək."
+            },
+            {
+              "text": "Taking a taxi is the fastest option.",
+              "translation": "Taksiyə minmək ən sürətli variantdır."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hesitate",
+      "ipa": "/ˈhɛzəˌteɪt/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "tərəddüd etmək, çəkinmək",
+          "definition": "to stop for a moment before you do or say something because you are not sure",
+          "synonyms": [
+            "pause",
+            "waver"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "If you need help, don't hesitate to call me.",
+              "translation": "Köməyə ehtiyacın olsa, çəkinmədən mənə zəng et."
+            },
+            {
+              "text": "She hesitated for a moment before she answered.",
+              "translation": "O, cavab verməzdən əvvəl bir anlıq tərəddüd etdi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "opportunity",
+      "ipa": "/ˌɑpərˈtunəti/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "fürsət, imkan",
+          "definition": "a time or situation when you can do something that you want to do",
+          "synonyms": [
+            "chance",
+            "possibility"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "This job is a great opportunity for you.",
+              "translation": "Bu iş sənin üçün böyük fürsətdir."
+            },
+            {
+              "text": "I had the opportunity to study in Germany.",
+              "translation": "Almaniyada oxumaq imkanım oldu."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "outcome",
+      "ipa": "/ˈaʊtˌkʌm/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "nəticə",
+          "definition": "the final result of an action or an event",
+          "synonyms": [
+            "result",
+            "consequence"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Nobody knows the outcome of the match yet.",
+              "translation": "Oyunun nəticəsini hələ heç kim bilmir."
+            },
+            {
+              "text": "We were happy with the outcome of the meeting.",
+              "translation": "Görüşün nəticəsindən razı qaldıq."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "alternative",
+      "ipa": "/ɔlˈtɝnətɪv/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "alternativ, başqa yol",
+          "definition": "another thing that you can choose instead of something else",
+          "synonyms": [
+            "option",
+            "choice"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Is there an alternative to the bus?",
+              "translation": "Avtobusdan başqa alternativ varmı?"
+            },
+            {
+              "text": "We had no alternative but to wait.",
+              "translation": "Gözləməkdən başqa çarəmiz yox idi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "advantage",
+      "ipa": "/ədˈvæntɪdʒ/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "üstünlük, müsbət cəhət",
+          "definition": "something that makes a person or thing better or more useful than others",
+          "synonyms": [
+            "benefit",
+            "plus"
+          ],
+          "antonyms": [
+            "disadvantage",
+            "drawback"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "One advantage of living in the city is good public transportation.",
+              "translation": "Şəhərdə yaşamağın bir üstünlüyü yaxşı ictimai nəqliyyatdır."
+            },
+            {
+              "text": "Speaking English is a big advantage in many jobs.",
+              "translation": "İngilis dilini bilmək bir çox işdə böyük üstünlükdür."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "disadvantage",
+      "ipa": "/ˌdɪsədˈvæntɪdʒ/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "mənfi cəhət, çatışmazlıq",
+          "definition": "something that makes a situation worse or more difficult",
+          "synonyms": [
+            "drawback",
+            "minus"
+          ],
+          "antonyms": [
+            "advantage",
+            "benefit"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The main disadvantage of this apartment is the noise.",
+              "translation": "Bu mənzilin əsas mənfi cəhəti səs-küydür."
+            },
+            {
+              "text": "Working from home has advantages and disadvantages.",
+              "translation": "Evdən işləməyin həm üstünlükləri, həm də mənfi cəhətləri var."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "priority",
+      "ipa": "/praɪˈɔrəti/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "prioritet, ən vacib məsələ",
+          "definition": "something that is more important than other things and needs attention first",
+          "synonyms": [
+            "main concern"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "My family is my top priority.",
+              "translation": "Ailəm mənim üçün hər şeydən vacibdir."
+            },
+            {
+              "text": "Safety is our first priority.",
+              "translation": "Təhlükəsizlik bizim əsas prioritetimizdir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "weigh",
+      "ipa": "/weɪ/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "çəkmək; ölçüb-biçmək",
+          "definition": "to have a certain heaviness; also, to think carefully about something before you decide",
+          "synonyms": [
+            "consider",
+            "think over"
+          ],
+          "antonyms": [],
+          "homonyms": [
+            {
+              "word": "way",
+              "meaning": "a road or a method of doing something (sounds the same)",
+              "translation": "yol; üsul"
+            }
+          ],
+          "examples": [
+            {
+              "text": "My suitcase weighs twenty kilos.",
+              "translation": "Çamadanım iyirmi kilo çəkir."
+            },
+            {
+              "text": "You should weigh the advantages and disadvantages before you decide.",
+              "translation": "Qərar verməzdən əvvəl üstünlükləri və mənfi cəhətləri ölçüb-biçməlisən."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "gamble",
+      "ipa": "/ˈɡæmbəl/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "risk, riskli addım",
+          "definition": "something you do that may bring success but may also fail",
+          "synonyms": [
+            "risk",
+            "chance"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Opening a restaurant is always a gamble.",
+              "translation": "Restoran açmaq həmişə riskli addımdır."
+            },
+            {
+              "text": "Her gamble paid off, and the shop became popular.",
+              "translation": "Onun riski özünü doğrultdu və dükan məşhurlaşdı."
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "verb",
+          "translation": "qumar oynamaq; riskə getmək",
+          "definition": "to play games for money; also, to take a risk hoping for a good result",
+          "synonyms": [
+            "bet",
+            "risk"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "He gambled all his money and lost it.",
+              "translation": "O, bütün pulunu qumarda uduzdu."
+            },
+            {
+              "text": "We gambled on good weather, but it rained all day.",
+              "translation": "Havanın yaxşı olacağına ümid edib riskə getdik, amma bütün günü yağış yağdı."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "story": {
+    "title": "The Bakery Dream",
+    "titleTranslation": "Çörəkxana arzusu",
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "Kamran worked in an office at a big bank, but his real love was baking bread.",
+            "translation": "Kamran böyük bir bankın ofisində işləyirdi, amma onun əsl sevgisi çörək bişirmək idi."
+          },
+          {
+            "text": "Every Sunday he made fresh bread for his family and his neighbors.",
+            "translation": "Hər bazar günü o, ailəsi və qonşuları üçün təzə çörək bişirirdi."
+          },
+          {
+            "text": "His friends often said, “If you opened a bakery, people would stand in line for your bread.”",
+            "translation": "Dostları tez-tez deyirdi: «Əgər çörəkxana açsaydın, insanlar sənin çörəyin üçün növbəyə dayanardı.»"
+          },
+          {
+            "text": "Kamran always laughed, but secretly he began to consider the idea.",
+            "translation": "Kamran həmişə gülürdü, amma gizlicə bu fikir üzərində düşünməyə başladı."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "One day, he saw that a small shop on the corner of his street was for rent.",
+            "translation": "Bir gün o, öz küçəsinin tinindəki kiçik bir dükanın icarəyə verildiyini gördü."
+          },
+          {
+            "text": "It was a real opportunity, but it was not an easy choice.",
+            "translation": "Bu, əsl fürsət idi, amma asan seçim deyildi."
+          },
+          {
+            "text": "The rent was high, and the shop needed new ovens.",
+            "translation": "İcarə haqqı baha idi, dükana isə yeni sobalar lazım idi."
+          },
+          {
+            "text": "That evening, he sat at the kitchen table with his wife, Nigar, and they made a list of the advantages and disadvantages.",
+            "translation": "Həmin axşam o, həyat yoldaşı Nigarla mətbəx masasının arxasında oturdu və onlar üstünlüklərin və mənfi cəhətlərin siyahısını tutdular."
+          },
+          {
+            "text": "The bank paid well, and a new business is always a gamble.",
+            "translation": "Bank yaxşı maaş verirdi, yeni biznes isə həmişə riskli addımdır."
+          },
+          {
+            "text": "“If I lost all our savings, I would never forgive myself,” he said. “Our children are my first priority.”",
+            "translation": "«Əgər bütün yığdığımız pulu itirsəydim, özümü heç vaxt bağışlamazdım», – dedi. «Uşaqlarımız mənim üçün hər şeydən vacibdir.»"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Nigar had no doubt about his talent.",
+            "translation": "Nigarın onun istedadına heç bir şübhəsi yox idi."
+          },
+          {
+            "text": "“Let's weigh our options carefully,” she said. “If you stayed at the bank, would you be happy?”",
+            "translation": "«Gəl variantlarımızı diqqətlə ölçüb-biçək», – dedi. «Bankda qalsaydın, xoşbəxt olardınmı?»"
+          },
+          {
+            "text": "Kamran hesitated, because he knew the honest answer.",
+            "translation": "Kamran tərəddüd etdi, çünki səmimi cavabı bilirdi."
+          },
+          {
+            "text": "“I think you would regret it for the rest of your life,” Nigar said softly.",
+            "translation": "«Məncə, ömrünün sonuna qədər buna peşman olardın», – deyə Nigar yavaşca dedi."
+          },
+          {
+            "text": "“And there is another alternative: you could start small and keep your job for a few months.”",
+            "translation": "«Bir başqa yol da var: kiçikdən başlaya və bir neçə ay işini saxlaya bilərsən.»"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "In the end, Kamran decided to take the risk.",
+            "translation": "Sonda Kamran riskə getməyə qərar verdi."
+          },
+          {
+            "text": "For six months, he worked at the bank during the day and baked at night.",
+            "translation": "Altı ay ərzində o, gündüzlər bankda işlədi, gecələr isə çörək bişirdi."
+          },
+          {
+            "text": "Nigar helped with the accounts, and even their children came on weekends to sell bread to the neighbors.",
+            "translation": "Nigar hesablarla kömək edirdi, hətta uşaqları da həftə sonları gəlib qonşulara çörək satırdılar."
+          },
+          {
+            "text": "It was hard, but the outcome was better than he expected: by spring, he had more customers than bread.",
+            "translation": "Çətin idi, amma nəticə gözlədiyindən də yaxşı oldu: yaz gələndə müştəriləri çörəyindən çox idi."
+          },
+          {
+            "text": "So he finally left the bank and gave all his time to the bakery.",
+            "translation": "Beləliklə, o, nəhayət bankdan çıxdı və bütün vaxtını çörəkxanaya həsr etdi."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Now his little bakery smells of fresh bread from six in the morning.",
+            "translation": "İndi onun kiçik çörəkxanasından səhər saat altıdan təzə çörək ətri gəlir."
+          },
+          {
+            "text": "He works harder than before and earns less, but he smiles much more.",
+            "translation": "O, əvvəlkindən daha çox işləyir və daha az qazanır, amma xeyli çox gülümsəyir."
+          },
+          {
+            "text": "Sometimes his old colleagues from the bank stop by for a warm loaf and ask him if he misses his old job.",
+            "translation": "Bəzən bankdakı keçmiş iş yoldaşları isti çörək almaq üçün ona baş çəkir və köhnə işi üçün darıxıb-darıxmadığını soruşurlar."
+          },
+          {
+            "text": "“If I could go back in time, I would make the same choice again,” he says.",
+            "translation": "«Keçmişə qayıda bilsəydim, yenə eyni seçimi edərdim», – deyir."
+          }
+        ]
+      }
+    ],
+    "glossary": [
+      {
+        "term": "real",
+        "lemma": "real",
+        "partOfSpeech": "adjective",
+        "meaning": "true; the most important",
+        "translation": "əsl"
+      },
+      {
+        "term": "baking",
+        "lemma": "bake",
+        "partOfSpeech": "verb",
+        "meaning": "cooking bread or cakes in an oven",
+        "translation": "bişirmək (sobada)"
+      },
+      {
+        "term": "fresh",
+        "lemma": "fresh",
+        "partOfSpeech": "adjective",
+        "meaning": "made a short time ago",
+        "translation": "təzə"
+      },
+      {
+        "term": "bakery",
+        "lemma": "bakery",
+        "partOfSpeech": "noun",
+        "meaning": "a shop where bread and cakes are made and sold",
+        "translation": "çörəkxana"
+      },
+      {
+        "term": "stand in line",
+        "lemma": "stand in line",
+        "partOfSpeech": "phrase",
+        "meaning": "to wait in a row of people",
+        "translation": "növbəyə dayanmaq"
+      },
+      {
+        "term": "secretly",
+        "lemma": "secretly",
+        "partOfSpeech": "adverb",
+        "meaning": "without telling other people",
+        "translation": "gizlicə"
+      },
+      {
+        "term": "consider",
+        "lemma": "consider",
+        "partOfSpeech": "verb",
+        "meaning": "to think carefully about something",
+        "translation": "üzərində düşünmək, nəzərdən keçirmək"
+      },
+      {
+        "term": "on the corner",
+        "lemma": "on the corner",
+        "partOfSpeech": "phrase",
+        "meaning": "at the place where two streets meet",
+        "translation": "tində"
+      },
+      {
+        "term": "for rent",
+        "lemma": "for rent",
+        "partOfSpeech": "phrase",
+        "meaning": "available to use if you pay money every month",
+        "translation": "icarəyə verilir"
+      },
+      {
+        "term": "rent",
+        "lemma": "rent",
+        "partOfSpeech": "noun",
+        "meaning": "money that you pay every month to use a building",
+        "translation": "icarə haqqı"
+      },
+      {
+        "term": "ovens",
+        "lemma": "oven",
+        "partOfSpeech": "noun",
+        "meaning": "large boxes that get hot inside, used for baking",
+        "translation": "sobalar"
+      },
+      {
+        "term": "opportunity",
+        "lemma": "opportunity",
+        "partOfSpeech": "noun",
+        "meaning": "a good chance to do something",
+        "translation": "fürsət"
+      },
+      {
+        "term": "choice",
+        "lemma": "choice",
+        "partOfSpeech": "noun",
+        "meaning": "a decision between two or more things",
+        "translation": "seçim"
+      },
+      {
+        "term": "made a list",
+        "lemma": "make a list",
+        "partOfSpeech": "phrase",
+        "meaning": "wrote things down one under another",
+        "translation": "siyahı tutdular"
+      },
+      {
+        "term": "advantages",
+        "lemma": "advantage",
+        "partOfSpeech": "noun",
+        "meaning": "good points of something",
+        "translation": "üstünlüklər, müsbət cəhətlər"
+      },
+      {
+        "term": "disadvantages",
+        "lemma": "disadvantage",
+        "partOfSpeech": "noun",
+        "meaning": "bad points of something",
+        "translation": "mənfi cəhətlər"
+      },
+      {
+        "term": "paid well",
+        "lemma": "pay well",
+        "partOfSpeech": "phrase",
+        "meaning": "gave a good salary",
+        "translation": "yaxşı maaş verirdi"
+      },
+      {
+        "term": "business",
+        "lemma": "business",
+        "partOfSpeech": "noun",
+        "meaning": "a company or a shop that sells things to make money",
+        "translation": "biznes, iş"
+      },
+      {
+        "term": "gamble",
+        "lemma": "gamble",
+        "partOfSpeech": "noun",
+        "meaning": "something risky that may succeed or fail",
+        "translation": "riskli addım"
+      },
+      {
+        "term": "savings",
+        "lemma": "savings",
+        "partOfSpeech": "noun",
+        "meaning": "money that you keep and do not spend",
+        "translation": "yığılmış pul, əmanət"
+      },
+      {
+        "term": "forgive myself",
+        "lemma": "forgive yourself",
+        "partOfSpeech": "phrase",
+        "meaning": "stop feeling guilty about your own mistake",
+        "translation": "özünü bağışlamaq"
+      },
+      {
+        "term": "priority",
+        "lemma": "priority",
+        "partOfSpeech": "noun",
+        "meaning": "the most important thing",
+        "translation": "ən vacib məsələ, prioritet"
+      },
+      {
+        "term": "doubt",
+        "lemma": "doubt",
+        "partOfSpeech": "noun",
+        "meaning": "a feeling of not being sure",
+        "translation": "şübhə"
+      },
+      {
+        "term": "talent",
+        "lemma": "talent",
+        "partOfSpeech": "noun",
+        "meaning": "a natural ability to do something well",
+        "translation": "istedad"
+      },
+      {
+        "term": "weigh",
+        "lemma": "weigh",
+        "partOfSpeech": "verb",
+        "meaning": "to think carefully about good and bad points",
+        "translation": "ölçüb-biçmək"
+      },
+      {
+        "term": "options",
+        "lemma": "option",
+        "partOfSpeech": "noun",
+        "meaning": "things that you can choose",
+        "translation": "variantlar"
+      },
+      {
+        "term": "hesitated",
+        "lemma": "hesitate",
+        "partOfSpeech": "verb",
+        "meaning": "stopped for a moment because he was not sure",
+        "translation": "tərəddüd etdi"
+      },
+      {
+        "term": "honest",
+        "lemma": "honest",
+        "partOfSpeech": "adjective",
+        "meaning": "true and sincere",
+        "translation": "səmimi, dürüst"
+      },
+      {
+        "term": "regret",
+        "lemma": "regret",
+        "partOfSpeech": "verb",
+        "meaning": "to feel sorry about something you did or did not do",
+        "translation": "peşman olmaq"
+      },
+      {
+        "term": "for the rest of your life",
+        "lemma": "for the rest of your life",
+        "partOfSpeech": "phrase",
+        "meaning": "until you die; always from now on",
+        "translation": "ömrünün sonuna qədər"
+      },
+      {
+        "term": "softly",
+        "lemma": "softly",
+        "partOfSpeech": "adverb",
+        "meaning": "in a quiet and gentle way",
+        "translation": "yavaşca, mülayimcə"
+      },
+      {
+        "term": "alternative",
+        "lemma": "alternative",
+        "partOfSpeech": "noun",
+        "meaning": "another possible choice",
+        "translation": "başqa yol, alternativ"
+      },
+      {
+        "term": "start small",
+        "lemma": "start small",
+        "partOfSpeech": "phrase",
+        "meaning": "to begin with something little and simple",
+        "translation": "kiçikdən başlamaq"
+      },
+      {
+        "term": "in the end",
+        "lemma": "in the end",
+        "partOfSpeech": "phrase",
+        "meaning": "finally, after a lot of thinking",
+        "translation": "sonda, axırda"
+      },
+      {
+        "term": "take the risk",
+        "lemma": "take a risk",
+        "partOfSpeech": "phrase",
+        "meaning": "to do something although it might go wrong",
+        "translation": "riskə getmək"
+      },
+      {
+        "term": "risk",
+        "lemma": "risk",
+        "partOfSpeech": "noun",
+        "meaning": "the possibility that something bad might happen",
+        "translation": "risk"
+      },
+      {
+        "term": "during the day",
+        "lemma": "during the day",
+        "partOfSpeech": "phrase",
+        "meaning": "in the daytime, not at night",
+        "translation": "gündüzlər"
+      },
+      {
+        "term": "accounts",
+        "lemma": "accounts",
+        "partOfSpeech": "noun",
+        "meaning": "records of the money a business gets and spends",
+        "translation": "hesablar, mühasibat"
+      },
+      {
+        "term": "on weekends",
+        "lemma": "on weekends",
+        "partOfSpeech": "phrase",
+        "meaning": "on Saturdays and Sundays",
+        "translation": "həftə sonları"
+      },
+      {
+        "term": "outcome",
+        "lemma": "outcome",
+        "partOfSpeech": "noun",
+        "meaning": "the final result",
+        "translation": "nəticə"
+      },
+      {
+        "term": "expected",
+        "lemma": "expect",
+        "partOfSpeech": "verb",
+        "meaning": "thought that something would happen",
+        "translation": "gözləyirdi"
+      },
+      {
+        "term": "customers",
+        "lemma": "customer",
+        "partOfSpeech": "noun",
+        "meaning": "people who buy things from a shop",
+        "translation": "müştərilər"
+      },
+      {
+        "term": "smells of",
+        "lemma": "smell of",
+        "partOfSpeech": "phrase",
+        "meaning": "has the smell of something",
+        "translation": "... ətri gəlir, ... iyi verir"
+      },
+      {
+        "term": "colleagues",
+        "lemma": "colleague",
+        "partOfSpeech": "noun",
+        "meaning": "people you work with",
+        "translation": "iş yoldaşları"
+      },
+      {
+        "term": "stop by",
+        "lemma": "stop by",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "to visit a place for a short time",
+        "translation": "baş çəkmək, uğramaq"
+      },
+      {
+        "term": "loaf",
+        "lemma": "loaf",
+        "partOfSpeech": "noun",
+        "meaning": "bread baked in one piece",
+        "translation": "bir bütöv çörək"
+      },
+      {
+        "term": "misses",
+        "lemma": "miss",
+        "partOfSpeech": "verb",
+        "meaning": "feels sad because he no longer has something",
+        "translation": "darıxır"
+      },
+      {
+        "term": "earns",
+        "lemma": "earn",
+        "partOfSpeech": "verb",
+        "meaning": "gets money for his work",
+        "translation": "qazanır"
+      },
+      {
+        "term": "go back in time",
+        "lemma": "go back in time",
+        "partOfSpeech": "idiom",
+        "meaning": "to return to the past",
+        "translation": "keçmişə qayıtmaq"
+      }
+    ]
+  },
+  "grammar": {
+    "topic": "Second conditional",
+    "topicTranslation": "İkinci tip şərt cümlələri",
+    "explanation": "We use the second conditional to talk about situations that are not real or not likely, now or in the future, and their imagined results. The if-part uses the past simple, but it does not talk about the past. The main part uses would + base verb. With be, we often use were for all persons, for example “If I were you”. The if-part can come first (with a comma) or second.",
+    "explanationTranslation": "İkinci tip şərt cümlələri indi və ya gələcəkdə real olmayan, yaxud baş verməsi az ehtimal olunan vəziyyətlər və onların təsəvvür edilən nəticələri haqqında danışmaq üçün işlədilir. If hissəsində past simple işlədilir, amma bu, keçmiş zamandan danışmaq demək deyil. Əsas hissədə would + feilin əsas forması gəlir. Be feili ilə bütün şəxslər üçün çox vaxt were işlədilir, məsələn, “If I were you”. If hissəsi əvvəldə (vergüllə) və ya sonda gələ bilər.",
+    "rules": [
+      {
+        "text": "Form: If + past simple, would + base verb. (If I had more time, I would read more.)",
+        "translation": "Quruluş: If + past simple, would + feilin əsas forması. (If I had more time, I would read more.)"
+      },
+      {
+        "text": "Do not use would in the if-part: say “If I knew”, not “If I would know”.",
+        "translation": "If hissəsində would işlədilmir: “If I would know” yox, “If I knew” deyilir."
+      },
+      {
+        "text": "With be, we can use were for all persons. “If I were you, I would …” is a common way to give advice.",
+        "translation": "Be feili ilə bütün şəxslər üçün were işlədilə bilər. “If I were you, I would …” məsləhət vermək üçün geniş yayılmış ifadədir."
+      },
+      {
+        "text": "You can use could or might instead of would: If I had a car, I could drive you home.",
+        "translation": "Would əvəzinə could və ya might da işlətmək olar: If I had a car, I could drive you home."
+      }
+    ],
+    "examples": [
+      {
+        "text": "If I won a lot of money, I would open a small café.",
+        "translation": "Çoxlu pul udsaydım, kiçik bir kafe açardım."
+      },
+      {
+        "text": "If I were you, I would consider the offer carefully.",
+        "translation": "Sənin yerində olsaydım, təklifi diqqətlə nəzərdən keçirərdim."
+      },
+      {
+        "text": "She would travel more if she didn't have so much work.",
+        "translation": "Bu qədər işi olmasaydı, daha çox səyahət edərdi."
+      },
+      {
+        "text": "If you took that risk, you might regret it.",
+        "translation": "O riskə getsəydin, peşman ola bilərdin."
+      },
+      {
+        "text": "What would you do if you had no other option?",
+        "translation": "Başqa variantın olmasaydı, nə edərdin?"
+      }
+    ],
+    "exercise": {
+      "instructions": "Choose or write the correct form.",
+      "instructionsTranslation": "Düzgün formanı seçin və ya yazın.",
+      "questions": [
+        {
+          "type": "choice",
+          "prompt": "If I ___ more free time, I would learn to play the guitar.",
+          "promptTranslation": "Daha çox boş vaxtım olsaydı, gitara çalmağı öyrənərdim.",
+          "options": [
+            "have",
+            "had",
+            "would have"
+          ],
+          "answer": "had",
+          "explanation": "The if-part of the second conditional uses the past simple.",
+          "explanationTranslation": "İkinci tip şərt cümləsinin if hissəsində past simple işlədilir."
+        },
+        {
+          "type": "text",
+          "prompt": "If she studied harder, she ___ (pass) the exam.",
+          "promptTranslation": "Daha çox oxusaydı, imtahandan keçərdi.",
+          "answer": "would pass",
+          "acceptedAnswers": [
+            "'d pass"
+          ],
+          "explanation": "The main part uses would + base verb.",
+          "explanationTranslation": "Əsas hissədə would + feilin əsas forması işlədilir."
+        },
+        {
+          "type": "choice",
+          "prompt": "If I ___ you, I wouldn't take that risk.",
+          "promptTranslation": "Sənin yerində olsaydım, o riskə getməzdim.",
+          "options": [
+            "am",
+            "were",
+            "will be"
+          ],
+          "answer": "were",
+          "explanation": "We say “If I were you” to give advice.",
+          "explanationTranslation": "Məsləhət vermək üçün “If I were you” deyilir."
+        },
+        {
+          "type": "text",
+          "prompt": "We ___ (not / move) to another city if we didn't have to.",
+          "promptTranslation": "Məcbur olmasaydıq, başqa şəhərə köçməzdik.",
+          "answer": "wouldn't move",
+          "acceptedAnswers": [
+            "would not move"
+          ],
+          "explanation": "The negative of the main part is wouldn't + base verb.",
+          "explanationTranslation": "Əsas hissənin inkar forması wouldn't + feilin əsas formasıdır."
+        },
+        {
+          "type": "choice",
+          "prompt": "What ___ you do if you lost your phone?",
+          "promptTranslation": "Telefonunu itirsəydin, nə edərdin?",
+          "options": [
+            "will",
+            "would",
+            "did"
+          ],
+          "answer": "would",
+          "explanation": "In questions about imagined situations, we use would + subject + base verb.",
+          "explanationTranslation": "Təsəvvür edilən vəziyyətlə bağlı suallarda would + mübtəda + feilin əsas forması işlədilir."
+        }
+      ]
+    }
+  }
+}

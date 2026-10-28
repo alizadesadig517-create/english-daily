@@ -1,0 +1,1064 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-05",
+  "level": "B1",
+  "translationLanguage": "az",
+  "words": [
+    {
+      "word": "forecast",
+      "ipa": "/ˈfɔrkæst/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "proqnoz",
+          "definition": "a statement about what will probably happen, especially about the weather",
+          "synonyms": [
+            "prediction"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The weather forecast says it will rain tomorrow.",
+              "translation": "Hava proqnozuna görə, sabah yağış yağacaq."
+            },
+            {
+              "text": "Did you check the forecast before the trip?",
+              "translation": "Səfərdən əvvəl hava proqnozuna baxdın?"
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "verb",
+          "translation": "proqnozlaşdırmaq, əvvəlcədən demək",
+          "definition": "to say what you think will happen in the future",
+          "synonyms": [
+            "predict"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "They have forecast snow for the weekend.",
+              "translation": "Həftəsonu üçün qar proqnozlaşdırıblar."
+            },
+            {
+              "text": "Experts forecast that prices will rise next year.",
+              "translation": "Mütəxəssislər gələn il qiymətlərin artacağını proqnozlaşdırırlar."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "freeze",
+      "ipa": "/friz/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "donmaq; dondurmaq",
+          "definition": "to become hard and turn into ice because it is very cold, or to make something do this",
+          "synonyms": [],
+          "antonyms": [
+            "melt",
+            "thaw"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Water freezes at zero degrees Celsius.",
+              "translation": "Su sıfır dərəcə Selsidə donur."
+            },
+            {
+              "text": "You can freeze the soup and eat it next week.",
+              "translation": "Şorbanı dondurub gələn həftə yeyə bilərsən."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "shelter",
+      "ipa": "/ˈʃɛltər/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "sığınacaq, daldalanacaq yer",
+          "definition": "a place or building that protects you from bad weather or danger",
+          "synonyms": [
+            "cover",
+            "refuge"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "We found shelter from the rain under a bridge.",
+              "translation": "Körpünün altında yağışdan daldalanmağa yer tapdıq."
+            },
+            {
+              "text": "The town opened a shelter for homeless animals.",
+              "translation": "Şəhərdə evsiz heyvanlar üçün sığınacaq açıldı."
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "verb",
+          "translation": "daldalanmaq, sığınmaq; qorumaq",
+          "definition": "to stay in a safe place, or to protect someone or something from bad weather or danger",
+          "synonyms": [
+            "protect",
+            "hide"
+          ],
+          "antonyms": [
+            "expose"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "We sheltered under a tree until the rain stopped.",
+              "translation": "Yağış kəsənə qədər bir ağacın altında daldalandıq."
+            },
+            {
+              "text": "The tall wall shelters the garden from the wind.",
+              "translation": "Hündür divar bağı küləkdən qoruyur."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "damp",
+      "ipa": "/dæmp/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "nəm, rütubətli",
+          "definition": "a little wet, often in an unpleasant way",
+          "synonyms": [
+            "moist",
+            "wet"
+          ],
+          "antonyms": [
+            "dry"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "My socks are still damp from the rain.",
+              "translation": "Corablarım yağışdan hələ də nəmdir."
+            },
+            {
+              "text": "Clean the table with a damp cloth.",
+              "translation": "Masanı nəm əsgi ilə silin."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "storm",
+      "ipa": "/stɔrm/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "fırtına, tufan",
+          "definition": "very bad weather with strong winds, rain and often thunder",
+          "synonyms": [],
+          "antonyms": [
+            "calm"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The storm knocked down several trees.",
+              "translation": "Fırtına bir neçə ağacı yıxdı."
+            },
+            {
+              "text": "There was a big storm last night, and the lights went out.",
+              "translation": "Dünən gecə güclü fırtına oldu və işıqlar söndü."
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "verb",
+          "translation": "hirslə çıxıb getmək (və ya içəri girmək)",
+          "definition": "to go somewhere quickly and angrily",
+          "synonyms": [
+            "stomp"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "He stormed out of the room without a word.",
+              "translation": "O, bir kəlmə demədən hirslə otaqdan çıxdı."
+            },
+            {
+              "text": "She stormed into the office and shouted at everyone.",
+              "translation": "O, hirslə ofisə girdi və hamının üstünə qışqırdı."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "thunder",
+      "ipa": "/ˈθʌndər/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "göy gurultusu",
+          "definition": "the loud noise that you hear after lightning in a storm",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The thunder was so loud that the baby woke up.",
+              "translation": "Göy gurultusu elə güclü idi ki, körpə oyandı."
+            },
+            {
+              "text": "We heard thunder in the distance.",
+              "translation": "Uzaqdan göy gurultusu eşitdik."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "humid",
+      "ipa": "/ˈhjumɪd/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "rütubətli, nəmli (hava)",
+          "definition": "hot and wet in a way that makes you feel uncomfortable (about air or weather)",
+          "synonyms": [
+            "muggy",
+            "sticky"
+          ],
+          "antonyms": [
+            "dry"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Baku can be very humid in August.",
+              "translation": "Avqustda Bakıda hava çox rütubətli ola bilər."
+            },
+            {
+              "text": "I don't like humid weather because I can't sleep well.",
+              "translation": "Rütubətli havanı sevmirəm, çünki yaxşı yata bilmirəm."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "breeze",
+      "ipa": "/briz/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "meh, yüngül külək",
+          "definition": "a light, gentle wind",
+          "synonyms": [
+            "light wind"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "A cool breeze came from the sea.",
+              "translation": "Dənizdən sərin meh əsirdi."
+            },
+            {
+              "text": "The curtains moved in the breeze.",
+              "translation": "Pərdələr mehdən yellənirdi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "flood",
+      "ipa": "/flʌd/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "daşqın, sel",
+          "definition": "a large amount of water that covers an area that is usually dry",
+          "synonyms": [],
+          "antonyms": [
+            "drought"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The flood damaged many houses near the river.",
+              "translation": "Daşqın çayın yaxınlığındakı bir çox evə ziyan vurdu."
+            },
+            {
+              "text": "After the heavy rain, there were floods in the north.",
+              "translation": "Güclü yağışdan sonra şimalda daşqınlar oldu."
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "verb",
+          "translation": "su basmaq; daşmaq",
+          "definition": "to cover a place with water, or to become covered with water",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The river flooded the fields.",
+              "translation": "Çay daşdı və tarlaları su basdı."
+            },
+            {
+              "text": "Our kitchen floods every time it rains hard.",
+              "translation": "Hər dəfə güclü yağış yağanda mətbəximizi su basır."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "drought",
+      "ipa": "/draʊt/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "quraqlıq",
+          "definition": "a long time with little or no rain",
+          "synonyms": [
+            "dry spell"
+          ],
+          "antonyms": [
+            "flood"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The drought destroyed the farmers' crops.",
+              "translation": "Quraqlıq fermerlərin məhsulunu məhv etdi."
+            },
+            {
+              "text": "Many rivers dried up during the drought.",
+              "translation": "Quraqlıq zamanı bir çox çay qurudu."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "temperature",
+      "ipa": "/ˈtɛmpərətʃər/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "temperatur; hərarət",
+          "definition": "how hot or cold something is; also, how hot your body is",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The temperature dropped below zero last night.",
+              "translation": "Dünən gecə temperatur sıfırdan aşağı düşdü."
+            },
+            {
+              "text": "The nurse took my temperature.",
+              "translation": "Tibb bacısı hərarətimi ölçdü."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "chilly",
+      "ipa": "/ˈtʃɪli/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "soyuq, sərin",
+          "definition": "cold in an unpleasant way",
+          "synonyms": [
+            "cold",
+            "cool"
+          ],
+          "antonyms": [
+            "warm"
+          ],
+          "homonyms": [
+            {
+              "word": "chili",
+              "meaning": "a small red or green pepper with a very hot taste (sounds the same as \"chilly\")",
+              "translation": "acı bibər"
+            }
+          ],
+          "examples": [
+            {
+              "text": "It's a bit chilly today, so take a jacket.",
+              "translation": "Bu gün hava bir az soyuqdur, gödəkçəni götür."
+            },
+            {
+              "text": "The mornings are getting chilly.",
+              "translation": "Səhərlər soyuqlaşır."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "pour",
+      "ipa": "/pɔr/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "tökmək, süzmək; leysan yağmaq",
+          "definition": "to make a liquid flow out of a container; also, to rain very hard",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [
+            {
+              "word": "pore",
+              "meaning": "a very small hole in your skin (sounds the same as \"pour\")",
+              "translation": "məsamə"
+            }
+          ],
+          "examples": [
+            {
+              "text": "Can you pour me a glass of water?",
+              "translation": "Mənə bir stəkan su süzə bilərsən?"
+            },
+            {
+              "text": "It's pouring outside, so take an umbrella.",
+              "translation": "Çöldə leysan yağır, çətir götür."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "melt",
+      "ipa": "/mɛlt/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "ərimək; əritmək",
+          "definition": "to change from solid to liquid because of heat",
+          "synonyms": [
+            "thaw"
+          ],
+          "antonyms": [
+            "freeze"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The snow melted quickly in the sun.",
+              "translation": "Qar günəşdə tez əridi."
+            },
+            {
+              "text": "Melt the butter in a small pan.",
+              "translation": "Kərə yağını kiçik tavada əridin."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "lightning",
+      "ipa": "/ˈlaɪtnɪŋ/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "şimşək, ildırım",
+          "definition": "a bright flash of light in the sky during a storm",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [
+            {
+              "word": "lightening",
+              "meaning": "making something lighter in color or weight (sounds the same as \"lightning\")",
+              "translation": "açıqlaşdırma, yüngülləşdirmə"
+            }
+          ],
+          "examples": [
+            {
+              "text": "Lightning hit a tall tree in the park.",
+              "translation": "Parkda hündür bir ağaca ildırım düşdü."
+            },
+            {
+              "text": "We saw lightning over the sea.",
+              "translation": "Dənizin üzərində şimşək çaxdığını gördük."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "story": {
+    "title": "Grandpa's Weather Forecast",
+    "titleTranslation": "Babamın hava proqnozu",
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "When I was a child, I used to spend every summer and autumn at my grandfather's house in a small village near Shamakhi.",
+            "translation": "Uşaq olanda hər yayı və payızı Şamaxı yaxınlığındakı kiçik bir kənddə babamın evində keçirərdim."
+          },
+          {
+            "text": "My grandmother used to bake bread every morning, and the whole house used to smell wonderful.",
+            "translation": "Nənəm hər səhər çörək bişirərdi və bütün ev gözəl qoxuyardı."
+          },
+          {
+            "text": "My grandfather Rauf didn't use to watch the weather forecast on TV.",
+            "translation": "Babam Rauf televizorda hava proqnozuna baxmazdı."
+          },
+          {
+            "text": "Instead, he used to look at the sky, the birds and the clouds over the mountains.",
+            "translation": "Bunun əvəzinə o, səmaya, quşlara və dağların üzərindəki buludlara baxardı."
+          },
+          {
+            "text": "“When the air feels humid and the birds fly low, rain is coming,” he used to say.",
+            "translation": "«Hava rütubətli olanda və quşlar alçaqdan uçanda, yağış gəlir», – deyərdi."
+          },
+          {
+            "text": "And he was almost always right.",
+            "translation": "Və demək olar ki, həmişə haqlı çıxardı."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "He also used to tell me about the hard years of his youth.",
+            "translation": "O, həm də mənə gəncliyinin çətin illərindən danışardı."
+          },
+          {
+            "text": "One summer there was a terrible drought, and the river almost disappeared.",
+            "translation": "Bir yay dəhşətli quraqlıq oldu və çay az qala yox oldu."
+          },
+          {
+            "text": "The farmers used to carry water from the well in heavy buckets.",
+            "translation": "Fermerlər quyudan ağır vedrələrlə su daşıyardılar."
+          },
+          {
+            "text": "The next spring, the snow on the mountains melted too fast, and a flood covered the fields.",
+            "translation": "Növbəti yaz dağlardakı qar çox tez əridi və daşqın tarlaları basdı."
+          },
+          {
+            "text": "“Nature is strong, so we must respect it,” he used to tell me.",
+            "translation": "«Təbiət güclüdür, ona görə də ona hörmət etməliyik», – deyə mənə tez-tez deyərdi."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "One October afternoon, we went to pick walnuts in the forest.",
+            "translation": "Bir oktyabr günortası meşəyə qoz yığmağa getdik."
+          },
+          {
+            "text": "Grandpa used to say that the best walnuts fall after the first cold night.",
+            "translation": "Babam deyərdi ki, ən yaxşı qozlar ilk soyuq gecədən sonra düşür."
+          },
+          {
+            "text": "At first a soft breeze was blowing, but suddenly the wind became stronger and the sky turned dark gray.",
+            "translation": "Əvvəlcə yüngül meh əsirdi, amma birdən külək gücləndi və səma tünd boz rəngə boyandı."
+          },
+          {
+            "text": "Then we saw lightning and heard loud thunder.",
+            "translation": "Sonra şimşək çaxdığını gördük və güclü göy gurultusu eşitdik."
+          },
+          {
+            "text": "“A storm is coming!” Grandpa said, and he took my hand.",
+            "translation": "«Fırtına gəlir!» – deyə babam dedi və əlimdən tutdu."
+          },
+          {
+            "text": "We ran to an old stone hut where shepherds used to shelter from bad weather.",
+            "translation": "Biz çobanların vaxtilə pis havadan daldalandığı köhnə daş daxmaya qaçdıq."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Soon the rain started to pour, and water ran down the walls.",
+            "translation": "Tezliklə leysan yağmağa başladı və divarlardan aşağı su axdı."
+          },
+          {
+            "text": "We sat on the damp floor, and the temperature dropped quickly.",
+            "translation": "Biz nəm döşəmədə oturduq, temperatur isə sürətlə düşdü."
+          },
+          {
+            "text": "It was so chilly that I thought my fingers would freeze.",
+            "translation": "Hava elə soyuq idi ki, barmaqlarımın donacağını düşündüm."
+          },
+          {
+            "text": "To keep me calm, Grandpa told me funny stories about his own childhood.",
+            "translation": "Məni sakit saxlamaq üçün babam öz uşaqlığından gülməli əhvalatlar danışdı."
+          },
+          {
+            "text": "After an hour, the storm passed, and we walked home in the fresh, clean air.",
+            "translation": "Bir saat sonra fırtına keçdi və biz təmiz, sərin havada evə piyada qayıtdıq."
+          },
+          {
+            "text": "Then we drank hot tea at home, and Grandma dried my wet clothes by the stove.",
+            "translation": "Sonra evdə isti çay içdik, nənəm isə yaş paltarlarımı sobanın yanında qurutdu."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Now I live in the city and check the forecast on my phone every morning.",
+            "translation": "İndi şəhərdə yaşayıram və hər səhər telefonumda hava proqnozuna baxıram."
+          },
+          {
+            "text": "But when I see dark clouds, I still look up at the sky, just like Grandpa used to.",
+            "translation": "Amma qara buludlar görəndə hələ də, eynilə babam kimi, başımı qaldırıb səmaya baxıram."
+          },
+          {
+            "text": "Last year I took my own daughter to the village for the first time.",
+            "translation": "Keçən il öz qızımı ilk dəfə kəndə apardım."
+          },
+          {
+            "text": "I showed her the old hut, and I told her about the day of the storm.",
+            "translation": "Ona köhnə daxmanı göstərdim və o fırtınalı gün haqqında danışdım."
+          }
+        ]
+      }
+    ],
+    "glossary": [
+      {
+        "term": "used to",
+        "lemma": "used to",
+        "partOfSpeech": "phrase",
+        "meaning": "did something regularly in the past, but not now",
+        "translation": "-ardı/-ərdi (keçmişdəki vərdiş)"
+      },
+      {
+        "term": "didn't use to",
+        "lemma": "used to",
+        "partOfSpeech": "phrase",
+        "meaning": "did not do something regularly in the past",
+        "translation": "-mazdı/-məzdi (keçmişdə etməzdi)"
+      },
+      {
+        "term": "weather forecast",
+        "lemma": "weather forecast",
+        "partOfSpeech": "noun",
+        "meaning": "a report that says what the weather will be like",
+        "translation": "hava proqnozu"
+      },
+      {
+        "term": "forecast",
+        "lemma": "forecast",
+        "partOfSpeech": "noun",
+        "meaning": "a report about what the weather will probably be",
+        "translation": "proqnoz"
+      },
+      {
+        "term": "bake",
+        "lemma": "bake",
+        "partOfSpeech": "verb",
+        "meaning": "to cook bread or cakes in an oven",
+        "translation": "bişirmək"
+      },
+      {
+        "term": "smell",
+        "lemma": "smell",
+        "partOfSpeech": "verb",
+        "meaning": "to have a smell that people notice",
+        "translation": "qoxumaq, ətir saçmaq"
+      },
+      {
+        "term": "instead",
+        "lemma": "instead",
+        "partOfSpeech": "adverb",
+        "meaning": "in place of something else",
+        "translation": "bunun əvəzinə"
+      },
+      {
+        "term": "humid",
+        "lemma": "humid",
+        "partOfSpeech": "adjective",
+        "meaning": "hot and wet, so the air feels heavy",
+        "translation": "rütubətli"
+      },
+      {
+        "term": "fly low",
+        "lemma": "fly low",
+        "partOfSpeech": "phrase",
+        "meaning": "to fly close to the ground",
+        "translation": "alçaqdan uçmaq"
+      },
+      {
+        "term": "almost always",
+        "lemma": "almost always",
+        "partOfSpeech": "phrase",
+        "meaning": "nearly every time",
+        "translation": "demək olar ki, həmişə"
+      },
+      {
+        "term": "youth",
+        "lemma": "youth",
+        "partOfSpeech": "noun",
+        "meaning": "the time of your life when you are young",
+        "translation": "gənclik"
+      },
+      {
+        "term": "terrible",
+        "lemma": "terrible",
+        "partOfSpeech": "adjective",
+        "meaning": "very bad",
+        "translation": "dəhşətli"
+      },
+      {
+        "term": "drought",
+        "lemma": "drought",
+        "partOfSpeech": "noun",
+        "meaning": "a long time with no rain",
+        "translation": "quraqlıq"
+      },
+      {
+        "term": "disappeared",
+        "lemma": "disappear",
+        "partOfSpeech": "verb",
+        "meaning": "was gone; could not be seen any more",
+        "translation": "yox oldu"
+      },
+      {
+        "term": "well",
+        "lemma": "well",
+        "partOfSpeech": "noun",
+        "meaning": "a deep hole in the ground where people get water",
+        "translation": "quyu"
+      },
+      {
+        "term": "buckets",
+        "lemma": "bucket",
+        "partOfSpeech": "noun",
+        "meaning": "round open containers with a handle, for carrying water",
+        "translation": "vedrələr"
+      },
+      {
+        "term": "melted",
+        "lemma": "melt",
+        "partOfSpeech": "verb",
+        "meaning": "changed from snow or ice into water",
+        "translation": "əridi"
+      },
+      {
+        "term": "flood",
+        "lemma": "flood",
+        "partOfSpeech": "noun",
+        "meaning": "a lot of water that covers land that is usually dry",
+        "translation": "daşqın"
+      },
+      {
+        "term": "fields",
+        "lemma": "field",
+        "partOfSpeech": "noun",
+        "meaning": "areas of land used for growing crops",
+        "translation": "tarlalar"
+      },
+      {
+        "term": "respect",
+        "lemma": "respect",
+        "partOfSpeech": "verb",
+        "meaning": "to treat something as important and be careful with it",
+        "translation": "hörmət etmək"
+      },
+      {
+        "term": "pick",
+        "lemma": "pick",
+        "partOfSpeech": "verb",
+        "meaning": "to collect fruit or nuts from trees or from the ground",
+        "translation": "yığmaq, dərmək"
+      },
+      {
+        "term": "walnuts",
+        "lemma": "walnut",
+        "partOfSpeech": "noun",
+        "meaning": "nuts with a hard brown shell",
+        "translation": "qoz"
+      },
+      {
+        "term": "breeze",
+        "lemma": "breeze",
+        "partOfSpeech": "noun",
+        "meaning": "a light, gentle wind",
+        "translation": "meh, yüngül külək"
+      },
+      {
+        "term": "turned",
+        "lemma": "turn",
+        "partOfSpeech": "verb",
+        "meaning": "became (a color)",
+        "translation": "boyandı, oldu"
+      },
+      {
+        "term": "lightning",
+        "lemma": "lightning",
+        "partOfSpeech": "noun",
+        "meaning": "a bright flash of light in the sky during a storm",
+        "translation": "şimşək"
+      },
+      {
+        "term": "thunder",
+        "lemma": "thunder",
+        "partOfSpeech": "noun",
+        "meaning": "the loud noise in the sky after lightning",
+        "translation": "göy gurultusu"
+      },
+      {
+        "term": "storm",
+        "lemma": "storm",
+        "partOfSpeech": "noun",
+        "meaning": "bad weather with strong wind, rain and thunder",
+        "translation": "fırtına"
+      },
+      {
+        "term": "took my hand",
+        "lemma": "take someone's hand",
+        "partOfSpeech": "phrase",
+        "meaning": "to hold someone's hand",
+        "translation": "əlindən tutmaq"
+      },
+      {
+        "term": "hut",
+        "lemma": "hut",
+        "partOfSpeech": "noun",
+        "meaning": "a small, simple building",
+        "translation": "daxma"
+      },
+      {
+        "term": "shepherds",
+        "lemma": "shepherd",
+        "partOfSpeech": "noun",
+        "meaning": "people who look after sheep",
+        "translation": "çobanlar"
+      },
+      {
+        "term": "shelter",
+        "lemma": "shelter",
+        "partOfSpeech": "verb",
+        "meaning": "to stay in a place that protects you from bad weather",
+        "translation": "daldalanmaq"
+      },
+      {
+        "term": "pour",
+        "lemma": "pour",
+        "partOfSpeech": "verb",
+        "meaning": "to rain very hard",
+        "translation": "leysan yağmaq"
+      },
+      {
+        "term": "damp",
+        "lemma": "damp",
+        "partOfSpeech": "adjective",
+        "meaning": "a little wet",
+        "translation": "nəm"
+      },
+      {
+        "term": "temperature",
+        "lemma": "temperature",
+        "partOfSpeech": "noun",
+        "meaning": "how hot or cold the air is",
+        "translation": "temperatur"
+      },
+      {
+        "term": "dropped",
+        "lemma": "drop",
+        "partOfSpeech": "verb",
+        "meaning": "became lower",
+        "translation": "düşdü"
+      },
+      {
+        "term": "chilly",
+        "lemma": "chilly",
+        "partOfSpeech": "adjective",
+        "meaning": "cold in an unpleasant way",
+        "translation": "soyuq"
+      },
+      {
+        "term": "freeze",
+        "lemma": "freeze",
+        "partOfSpeech": "verb",
+        "meaning": "to become extremely cold, almost like ice",
+        "translation": "donmaq"
+      },
+      {
+        "term": "keep me calm",
+        "lemma": "keep someone calm",
+        "partOfSpeech": "phrase",
+        "meaning": "to help someone stay relaxed and not afraid",
+        "translation": "sakit saxlamaq"
+      },
+      {
+        "term": "childhood",
+        "lemma": "childhood",
+        "partOfSpeech": "noun",
+        "meaning": "the time when you are a child",
+        "translation": "uşaqlıq"
+      },
+      {
+        "term": "passed",
+        "lemma": "pass",
+        "partOfSpeech": "verb",
+        "meaning": "ended; went away",
+        "translation": "keçdi"
+      },
+      {
+        "term": "dried",
+        "lemma": "dry",
+        "partOfSpeech": "verb",
+        "meaning": "made something dry",
+        "translation": "qurutdu"
+      },
+      {
+        "term": "stove",
+        "lemma": "stove",
+        "partOfSpeech": "noun",
+        "meaning": "a thing in a house that burns wood or gas to make heat or cook food",
+        "translation": "soba"
+      },
+      {
+        "term": "for the first time",
+        "lemma": "for the first time",
+        "partOfSpeech": "phrase",
+        "meaning": "and never before",
+        "translation": "ilk dəfə"
+      },
+      {
+        "term": "look up",
+        "lemma": "look up",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "to raise your eyes to see something above you",
+        "translation": "başını qaldırıb baxmaq"
+      },
+      {
+        "term": "just like",
+        "lemma": "just like",
+        "partOfSpeech": "phrase",
+        "meaning": "in the same way as",
+        "translation": "eynilə ... kimi"
+      }
+    ]
+  },
+  "grammar": {
+    "topic": "Used to for past habits",
+    "topicTranslation": "Keçmiş vərdişlər üçün used to",
+    "explanation": "We use used to + base verb to talk about habits and situations that were true in the past but are not true now. It is only used for the past. In negatives we say didn't use to, and in questions Did you use to...? (without -d). If an action happened only once, we use the past simple, not used to.",
+    "explanationTranslation": "Used to + feilin əsas forması keçmişdə doğru olan, amma indi artıq doğru olmayan vərdiş və vəziyyətlər haqqında danışmaq üçün işlədilir. O, yalnız keçmiş zaman üçündür. İnkar cümlələrində didn't use to, sual cümlələrində isə Did you use to...? deyilir (sonda -d olmadan). Hərəkət yalnız bir dəfə baş veribsə, used to yox, past simple işlədilir.",
+    "rules": [
+      {
+        "text": "Form: subject + used to + base verb (I used to live in Ganja).",
+        "translation": "Quruluş: mübtəda + used to + feilin əsas forması (I used to live in Ganja)."
+      },
+      {
+        "text": "Negative: didn't use to + base verb (She didn't use to like coffee).",
+        "translation": "İnkar: didn't use to + feilin əsas forması (She didn't use to like coffee)."
+      },
+      {
+        "text": "Question: Did + subject + use to + base verb? (Did you use to walk to school?)",
+        "translation": "Sual: Did + mübtəda + use to + feilin əsas forması? (Did you use to walk to school?)"
+      },
+      {
+        "text": "Use the past simple, not used to, for one action at a specific time: I went to Paris in 2019.",
+        "translation": "Müəyyən vaxtda bir dəfə baş vermiş hərəkət üçün used to yox, past simple işlədilir: I went to Paris in 2019."
+      }
+    ],
+    "examples": [
+      {
+        "text": "I used to walk to school every day.",
+        "translation": "Hər gün məktəbə piyada gedərdim."
+      },
+      {
+        "text": "We used to shelter under the old bridge when it rained.",
+        "translation": "Yağış yağanda köhnə körpünün altında daldalanardıq."
+      },
+      {
+        "text": "My grandmother didn't use to trust the weather forecast.",
+        "translation": "Nənəm hava proqnozuna inanmazdı."
+      },
+      {
+        "text": "Did you use to play outside in winter?",
+        "translation": "Qışda çöldə oynayardın?"
+      },
+      {
+        "text": "This town used to be very quiet, but now it is busy.",
+        "translation": "Bu şəhər əvvəllər çox sakit idi, amma indi çox qələbəlikdir."
+      }
+    ],
+    "exercise": {
+      "instructions": "Choose or write the correct form.",
+      "instructionsTranslation": "Düzgün formanı seçin və ya yazın.",
+      "questions": [
+        {
+          "type": "choice",
+          "prompt": "When I was a child, I ___ in a village.",
+          "promptTranslation": "Uşaq olanda kənddə yaşayardım.",
+          "options": [
+            "use to live",
+            "used to live",
+            "used to living"
+          ],
+          "answer": "used to live",
+          "explanation": "In positive sentences we say used to + base verb.",
+          "explanationTranslation": "Təsdiq cümlələrində used to + feilin əsas forması işlədilir."
+        },
+        {
+          "type": "choice",
+          "prompt": "She ___ like cold weather, but now she loves winter.",
+          "promptTranslation": "O, əvvəllər soyuq havanı sevməzdi, amma indi qışı çox sevir.",
+          "options": [
+            "didn't use to",
+            "didn't used to",
+            "not used to"
+          ],
+          "answer": "didn't use to",
+          "explanation": "After didn't we say use to, without -d.",
+          "explanationTranslation": "Didn't-dən sonra -d olmadan use to işlədilir."
+        },
+        {
+          "type": "choice",
+          "prompt": "Last Saturday we ___ to the mountains.",
+          "promptTranslation": "Keçən şənbə dağlara getdik.",
+          "options": [
+            "used to go",
+            "went"
+          ],
+          "answer": "went",
+          "explanation": "It happened once at a specific time, so we use the past simple.",
+          "explanationTranslation": "Hərəkət müəyyən vaxtda bir dəfə baş verib, ona görə past simple işlədilir."
+        },
+        {
+          "type": "text",
+          "prompt": "We ___ (play) in the snow every winter.",
+          "promptTranslation": "Hər qış qarda oynayardıq.",
+          "answer": "used to play",
+          "explanation": "This is a regular past habit: used to + base verb.",
+          "explanationTranslation": "Bu, keçmişdəki müntəzəm vərdişdir: used to + feilin əsas forması."
+        },
+        {
+          "type": "text",
+          "prompt": "My grandfather ___ (not / check) the forecast on TV.",
+          "promptTranslation": "Babam televizorda hava proqnozuna baxmazdı.",
+          "answer": "didn't use to check",
+          "acceptedAnswers": [
+            "did not use to check"
+          ],
+          "explanation": "Negative: didn't use to + base verb.",
+          "explanationTranslation": "İnkar forması: didn't use to + feilin əsas forması."
+        }
+      ]
+    }
+  }
+}
