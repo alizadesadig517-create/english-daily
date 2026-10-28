@@ -72,6 +72,10 @@ sensible progression; if unsure, pick the next unused topic from this list:
 **Size** - roughly fit `minutesPerDay` (about 3-4 minutes per word, 4-6 minutes
 for the story, 4-6 minutes for grammar). Story length by level:
 A1 80-120 words, A2 120-180, B1 180-280, B2 250-350, C1/C2 300-450.
+With many new words (more than 8), the story may grow to 4-5 paragraphs and
+about 350-450 words so that every word fits naturally. To keep the file a
+reasonable size, give each word only its most common part(s) of speech and 2
+examples per sense.
 
 ## 4. Write `content/<DATE>.json`
 
