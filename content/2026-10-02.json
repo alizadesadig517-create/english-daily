@@ -1,0 +1,1095 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-02",
+  "level": "B1",
+  "translationLanguage": "az",
+  "words": [
+    {
+      "word": "recipe",
+      "ipa": "/ˈrɛsəpi/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "resept",
+          "definition": "a set of instructions that tells you how to cook a dish",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "This is my grandmother's recipe for baklava.",
+              "translation": "Bu, nənəmin paxlava reseptidir."
+            },
+            {
+              "text": "I found a great soup recipe online.",
+              "translation": "İnternetdə əla bir şorba resepti tapdım."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "ingredient",
+      "ipa": "/ɪnˈɡriːdiənt/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "tərkib hissəsi, inqrediyent (yemək üçün məhsul)",
+          "definition": "one of the foods that you mix together to make a dish",
+          "synonyms": [
+            "component",
+            "element"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Mix all the ingredients in a large bowl.",
+              "translation": "Bütün məhsulları böyük bir kasada qarışdırın."
+            },
+            {
+              "text": "Fresh tomatoes are the main ingredient of this salad.",
+              "translation": "Təzə pomidor bu salatın əsas tərkib hissəsidir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "boil",
+      "ipa": "/bɔɪl/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "qaynamaq; qaynatmaq, suda bişirmək",
+          "definition": "to heat a liquid until it bubbles, or to cook food in very hot water",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [
+            {
+              "word": "boil (noun)",
+              "meaning": "a painful red swelling under the skin",
+              "translation": "çiban"
+            }
+          ],
+          "examples": [
+            {
+              "text": "Boil the eggs for ten minutes.",
+              "translation": "Yumurtaları on dəqiqə qaynadın."
+            },
+            {
+              "text": "The water is boiling, so you can add the pasta now.",
+              "translation": "Su qaynayır, indi makaronu əlavə edə bilərsən."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "slice",
+      "ipa": "/slaɪs/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "dilim, tikə",
+          "definition": "a thin, flat piece cut from something like bread or cake",
+          "synonyms": [
+            "piece"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Would you like a slice of cake?",
+              "translation": "Bir dilim tort istəyirsən?"
+            },
+            {
+              "text": "He ate two slices of bread with cheese.",
+              "translation": "O, pendirlə iki dilim çörək yedi."
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "verb",
+          "translation": "dilimləmək, doğramaq",
+          "definition": "to cut something into thin, flat pieces",
+          "synonyms": [
+            "cut",
+            "chop"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Slice the onions very thinly.",
+              "translation": "Soğanları çox nazik doğrayın."
+            },
+            {
+              "text": "She sliced the bread and put it on the table.",
+              "translation": "O, çörəyi dilimləyib masaya qoydu."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "taste",
+      "ipa": "/teɪst/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "dadmaq, dadına baxmaq; dadı olmaq",
+          "definition": "to try a little food to see what it is like, or to have a particular flavor",
+          "synonyms": [
+            "try",
+            "sample"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Taste the sauce and add more salt if you need to.",
+              "translation": "Sousun dadına baxın, lazım olsa, bir az da duz əlavə edin."
+            },
+            {
+              "text": "This soup tastes great!",
+              "translation": "Bu şorbanın dadı əladır!"
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "noun",
+          "translation": "dad; zövq",
+          "definition": "the flavor of food in your mouth; also, the kind of things a person likes",
+          "synonyms": [
+            "flavor"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "I love the taste of fresh strawberries.",
+              "translation": "Təzə çiyələyin dadını çox sevirəm."
+            },
+            {
+              "text": "She has very good taste in music.",
+              "translation": "Onun musiqidə çox yaxşı zövqü var."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "fry",
+      "ipa": "/fraɪ/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "qızartmaq",
+          "definition": "to cook food in hot oil or fat",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Fry the onions until they are golden.",
+              "translation": "Soğanı qızılı rəng alana qədər qızardın."
+            },
+            {
+              "text": "We fried some fish for dinner.",
+              "translation": "Şam yeməyi üçün bir az balıq qızartdıq."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "stir",
+      "ipa": "/stɝː/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "qarışdırmaq",
+          "definition": "to move a spoon around in a liquid or food to mix it",
+          "synonyms": [
+            "mix"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Stir the soup so it doesn't burn.",
+              "translation": "Şorbanı qarışdırın ki, dibi tutmasın."
+            },
+            {
+              "text": "He put sugar in his tea and stirred it slowly.",
+              "translation": "O, çayına şəkər salıb yavaş-yavaş qarışdırdı."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "flavor",
+      "ipa": "/ˈfleɪvɚ/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "dad, ləzzət",
+          "definition": "the particular taste of a food or drink",
+          "synonyms": [
+            "taste"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "This ice cream comes in ten different flavors.",
+              "translation": "Bu dondurmanın on müxtəlif dadı var."
+            },
+            {
+              "text": "Fresh herbs give the soup a wonderful flavor.",
+              "translation": "Təzə göyərti şorbaya gözəl dad verir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "raw",
+      "ipa": "/rɔː/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "çiy",
+          "definition": "not cooked",
+          "synonyms": [
+            "uncooked"
+          ],
+          "antonyms": [
+            "cooked"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "You can eat these vegetables raw.",
+              "translation": "Bu tərəvəzləri çiy yemək olar."
+            },
+            {
+              "text": "Wash your hands after you touch raw meat.",
+              "translation": "Çiy ətə toxunduqdan sonra əllərinizi yuyun."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bitter",
+      "ipa": "/ˈbɪtɚ/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "acı (dad); incik, kədərli",
+          "definition": "having a strong, sharp taste that is not sweet, like black coffee; also, angry and sad because something was unfair",
+          "synonyms": [
+            "sharp"
+          ],
+          "antonyms": [
+            "sweet"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "This coffee is too bitter for me.",
+              "translation": "Bu qəhvə mənim üçün çox acıdır."
+            },
+            {
+              "text": "He felt bitter about losing his job.",
+              "translation": "İşini itirdiyi üçün qəlbi qırıq və incik idi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bake",
+      "ipa": "/beɪk/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "(sobada) bişirmək",
+          "definition": "to cook food such as bread or cake in an oven",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "My mother bakes bread every Friday.",
+              "translation": "Anam hər cümə çörək bişirir."
+            },
+            {
+              "text": "We baked a chocolate cake for his birthday.",
+              "translation": "Onun ad günü üçün şokoladlı tort bişirdik."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "portion",
+      "ipa": "/ˈpɔːrʃən/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "porsiya; hissə",
+          "definition": "the amount of food for one person; also, a part of something",
+          "synonyms": [
+            "serving",
+            "helping",
+            "part"
+          ],
+          "antonyms": [
+            "whole"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The portions in this restaurant are very large.",
+              "translation": "Bu restoranda porsiyalar çox böyükdür."
+            },
+            {
+              "text": "A large portion of my salary goes on rent.",
+              "translation": "Maaşımın böyük hissəsi kirayəyə gedir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "spicy",
+      "ipa": "/ˈspaɪsi/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "acılı, ədviyyatlı",
+          "definition": "having a strong, hot taste from spices or peppers",
+          "synonyms": [
+            "hot",
+            "peppery"
+          ],
+          "antonyms": [
+            "mild",
+            "bland"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Do you like spicy food?",
+              "translation": "Acılı yeməkləri sevirsən?"
+            },
+            {
+              "text": "This soup is too spicy for the children.",
+              "translation": "Bu şorba uşaqlar üçün çox acılıdır."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "leftover",
+      "ipa": "/ˈlɛftˌoʊvɚ/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "artıq qalan yemək, qalıq",
+          "definition": "food that was not eaten at a meal and is kept for later (usually plural: leftovers)",
+          "synonyms": [
+            "remains"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "We had the leftovers from last night's dinner for lunch.",
+              "translation": "Nahar üçün dünən axşamdan qalan yeməyi yedik."
+            },
+            {
+              "text": "Put the leftovers in the fridge.",
+              "translation": "Artıq qalan yeməkləri soyuducuya qoy."
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "adjective",
+          "translation": "artıq qalmış, qalan",
+          "definition": "remaining after the rest has been used or eaten",
+          "synonyms": [
+            "remaining",
+            "extra",
+            "spare"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "What can I make with leftover rice?",
+              "translation": "Artıq qalmış düyüdən nə bişirə bilərəm?"
+            },
+            {
+              "text": "She used the leftover paint for a small chair.",
+              "translation": "O, qalan boyanı kiçik bir stul üçün istifadə etdi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "peel",
+      "ipa": "/piːl/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "qabığını soymaq, təmizləmək",
+          "definition": "to take the skin off fruit or vegetables",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Peel the potatoes and cut them into small pieces.",
+              "translation": "Kartofun qabığını soyub kiçik tikələrə doğrayın."
+            },
+            {
+              "text": "She peeled an orange for her little brother.",
+              "translation": "O, balaca qardaşı üçün portağal soydu."
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "noun",
+          "translation": "qabıq",
+          "definition": "the skin of fruit or vegetables",
+          "synonyms": [
+            "skin",
+            "rind"
+          ],
+          "antonyms": [],
+          "homonyms": [
+            {
+              "word": "peal",
+              "meaning": "the loud sound of bells (sounds the same as \"peel\")",
+              "translation": "zəng səsi"
+            }
+          ],
+          "examples": [
+            {
+              "text": "Don't throw away the lemon peel.",
+              "translation": "Limon qabığını atma."
+            },
+            {
+              "text": "He slipped on a banana peel.",
+              "translation": "O, banan qabığına sürüşüb yıxıldı."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "story": {
+    "title": "My First Plov",
+    "titleTranslation": "İlk plovum",
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "Last Sunday, I decided to cook plov for my family for the first time.",
+            "translation": "Keçən bazar günü ilk dəfə ailəm üçün plov bişirməyə qərar verdim."
+          },
+          {
+            "text": "I wanted to surprise everyone, so I didn't tell anyone about my plan.",
+            "translation": "Hamını təəccübləndirmək istəyirdim, ona görə də planım barədə heç kimə heç nə demədim."
+          },
+          {
+            "text": "I called my grandmother and asked her for her famous recipe.",
+            "translation": "Nənəmə zəng edib ondan məşhur reseptini istədim."
+          },
+          {
+            "text": "She laughed and said, “There's no recipe, my dear. I just feel it.”",
+            "translation": "O güldü və dedi: «Resept yoxdur, əzizim. Mən sadəcə hiss edirəm.»"
+          },
+          {
+            "text": "In the end, she told me every ingredient on the phone, and I wrote everything down.",
+            "translation": "Sonda telefonda bütün məhsulları bir-bir dedi, mən də hamısını yazdım."
+          },
+          {
+            "text": "She also gave me a piece of advice: “Don't make it too spicy. Your grandfather doesn't like hot pepper.”",
+            "translation": "O, mənə bir məsləhət də verdi: «Çox acılı etmə. Baban acı bibəri sevmir.»"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "In the morning, I went to the market and bought rice, saffron, chestnuts, dried fruit and fresh butter.",
+            "translation": "Səhər bazara getdim və düyü, zəfəran, şabalıd, quru meyvə və təzə kərə yağı aldım."
+          },
+          {
+            "text": "At home, I washed the rice and boiled it in salty water for about ten minutes.",
+            "translation": "Evdə düyünü yudum və duzlu suda təxminən on dəqiqə qaynatdım."
+          },
+          {
+            "text": "Then I peeled and sliced the onions and fried them slowly with the chestnuts.",
+            "translation": "Sonra soğanları təmizləyib doğradım və şabalıdla birlikdə zəif odda qızartdım."
+          },
+          {
+            "text": "I made a lot of mistakes. At first I forgot the saffron, and later I almost burned the onions because I didn't stir them.",
+            "translation": "Çoxlu səhv etdim. Əvvəlcə zəfəranı unutdum, sonra isə qarışdırmadığım üçün soğanı az qala yandırdım."
+          },
+          {
+            "text": "I tried a chestnut, but it was still raw and a little bitter, so I cooked them for ten more minutes.",
+            "translation": "Bir şabalıdın dadına baxdım, amma o hələ çiy və bir az acı idi, ona görə də onları daha on dəqiqə bişirdim."
+          },
+          {
+            "text": "Finally, I put everything in a big pot, covered it with a lid and cooked it slowly for forty minutes.",
+            "translation": "Nəhayət, hər şeyi böyük bir qazana yığdım, qapağını örtdüm və qırx dəqiqə zəif odda dəmə qoydum."
+          },
+          {
+            "text": "Meanwhile, my sister baked fresh bread in the oven, and the whole apartment smelled wonderful.",
+            "translation": "Bu vaxt bacım sobada təzə çörək bişirdi və bütün mənzili gözəl ətir bürüdü."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "At six o'clock, my family sat down at the table.",
+            "translation": "Saat altıda ailəm süfrə arxasına keçdi."
+          },
+          {
+            "text": "My grandmother wanted to taste the plov first.",
+            "translation": "Nənəm plovun dadına ilk olaraq özü baxmaq istədi."
+          },
+          {
+            "text": "She ate slowly, put down her spoon and smiled.",
+            "translation": "O, yavaş-yavaş yedi, qaşığını kənara qoydu və gülümsədi."
+          },
+          {
+            "text": "“It tastes just like mine,” she said. “The flavor is perfect, but next time, use a little more butter.”",
+            "translation": "«Dadı eynilə mənim plovum kimidir», – dedi. «Ləzzəti əladır, amma gələn dəfə bir az çox yağ qoy.»"
+          },
+          {
+            "text": "My grandfather asked for a second portion, and my little brother asked for a third!",
+            "translation": "Babam ikinci porsiya istədi, balaca qardaşım isə üçüncüsünü!"
+          },
+          {
+            "text": "Everyone laughed, and I felt very proud.",
+            "translation": "Hamı güldü, mən də özümlə çox fəxr etdim."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "After dinner, we drank black tea with lemon and talked for hours.",
+            "translation": "Şam yeməyindən sonra limonlu qara çay içdik və saatlarla söhbət etdik."
+          },
+          {
+            "text": "There was only a little plov left in the pot, so my mother put the leftovers in a box for my grandparents.",
+            "translation": "Qazanda bir az plov qalmışdı, ona görə də anam artıq qalan yeməyi nənəmlə babam üçün qaba qoydu."
+          },
+          {
+            "text": "Before she left, my grandmother hugged me and said, “Now the recipe belongs to you too.”",
+            "translation": "Nənəm getməzdən əvvəl məni qucaqladı və dedi: «İndi bu resept sənin də reseptindir.»"
+          },
+          {
+            "text": "That evening, I wrote the recipe in my own notebook, together with all my mistakes, so that I don't repeat them.",
+            "translation": "Həmin axşam resepti bütün səhvlərimlə birlikdə öz dəftərimə yazdım ki, onları bir daha təkrarlamayım."
+          }
+        ]
+      }
+    ],
+    "glossary": [
+      {
+        "term": "decided",
+        "lemma": "decide",
+        "partOfSpeech": "verb",
+        "meaning": "made a choice about what to do",
+        "translation": "qərar verdim"
+      },
+      {
+        "term": "for the first time",
+        "lemma": "for the first time",
+        "partOfSpeech": "phrase",
+        "meaning": "when something happens and it has never happened before",
+        "translation": "ilk dəfə"
+      },
+      {
+        "term": "surprise",
+        "lemma": "surprise",
+        "partOfSpeech": "verb",
+        "meaning": "to do something that people do not expect",
+        "translation": "təəccübləndirmək"
+      },
+      {
+        "term": "famous",
+        "lemma": "famous",
+        "partOfSpeech": "adjective",
+        "meaning": "known by many people",
+        "translation": "məşhur"
+      },
+      {
+        "term": "recipe",
+        "lemma": "recipe",
+        "partOfSpeech": "noun",
+        "meaning": "instructions for cooking a dish",
+        "translation": "resept"
+      },
+      {
+        "term": "my dear",
+        "lemma": "my dear",
+        "partOfSpeech": "phrase",
+        "meaning": "a friendly way to talk to someone you love",
+        "translation": "əzizim"
+      },
+      {
+        "term": "In the end",
+        "lemma": "in the end",
+        "partOfSpeech": "phrase",
+        "meaning": "finally, after some time",
+        "translation": "sonda, axırda"
+      },
+      {
+        "term": "ingredient",
+        "lemma": "ingredient",
+        "partOfSpeech": "noun",
+        "meaning": "one of the foods you need to cook a dish",
+        "translation": "tərkib hissəsi, məhsul"
+      },
+      {
+        "term": "on the phone",
+        "lemma": "on the phone",
+        "partOfSpeech": "phrase",
+        "meaning": "using the telephone",
+        "translation": "telefonda"
+      },
+      {
+        "term": "wrote everything down",
+        "lemma": "write down",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "wrote something on paper so as not to forget it",
+        "translation": "hər şeyi yazdım"
+      },
+      {
+        "term": "a piece of advice",
+        "lemma": "a piece of advice",
+        "partOfSpeech": "phrase",
+        "meaning": "one helpful suggestion about what to do",
+        "translation": "bir məsləhət"
+      },
+      {
+        "term": "spicy",
+        "lemma": "spicy",
+        "partOfSpeech": "adjective",
+        "meaning": "having a hot taste from peppers or spices",
+        "translation": "acılı"
+      },
+      {
+        "term": "hot pepper",
+        "lemma": "hot pepper",
+        "partOfSpeech": "noun",
+        "meaning": "a small vegetable with a very hot taste",
+        "translation": "acı bibər"
+      },
+      {
+        "term": "market",
+        "lemma": "market",
+        "partOfSpeech": "noun",
+        "meaning": "a place where people buy and sell food and other things",
+        "translation": "bazar"
+      },
+      {
+        "term": "saffron",
+        "lemma": "saffron",
+        "partOfSpeech": "noun",
+        "meaning": "a yellow-orange spice that gives food color and flavor",
+        "translation": "zəfəran"
+      },
+      {
+        "term": "chestnuts",
+        "lemma": "chestnut",
+        "partOfSpeech": "noun",
+        "meaning": "brown nuts that you cook before you eat them",
+        "translation": "şabalıd"
+      },
+      {
+        "term": "dried fruit",
+        "lemma": "dried fruit",
+        "partOfSpeech": "noun",
+        "meaning": "fruit with the water taken out, like raisins",
+        "translation": "quru meyvə"
+      },
+      {
+        "term": "butter",
+        "lemma": "butter",
+        "partOfSpeech": "noun",
+        "meaning": "a soft yellow food made from milk",
+        "translation": "kərə yağı"
+      },
+      {
+        "term": "boiled",
+        "lemma": "boil",
+        "partOfSpeech": "verb",
+        "meaning": "cooked something in very hot water",
+        "translation": "qaynatdım"
+      },
+      {
+        "term": "salty",
+        "lemma": "salty",
+        "partOfSpeech": "adjective",
+        "meaning": "with salt in it",
+        "translation": "duzlu"
+      },
+      {
+        "term": "peeled",
+        "lemma": "peel",
+        "partOfSpeech": "verb",
+        "meaning": "took the skin off fruit or vegetables",
+        "translation": "təmizlədim, qabığını soydum"
+      },
+      {
+        "term": "sliced",
+        "lemma": "slice",
+        "partOfSpeech": "verb",
+        "meaning": "cut into thin, flat pieces",
+        "translation": "doğradım, dilimlədim"
+      },
+      {
+        "term": "fried",
+        "lemma": "fry",
+        "partOfSpeech": "verb",
+        "meaning": "cooked in hot oil or butter",
+        "translation": "qızartdım"
+      },
+      {
+        "term": "made a lot of mistakes",
+        "lemma": "make a mistake",
+        "partOfSpeech": "phrase",
+        "meaning": "did many things in the wrong way",
+        "translation": "çoxlu səhv etdim"
+      },
+      {
+        "term": "At first",
+        "lemma": "at first",
+        "partOfSpeech": "phrase",
+        "meaning": "at the beginning",
+        "translation": "əvvəlcə"
+      },
+      {
+        "term": "almost",
+        "lemma": "almost",
+        "partOfSpeech": "adverb",
+        "meaning": "nearly, but not completely",
+        "translation": "az qala, demək olar ki"
+      },
+      {
+        "term": "burned",
+        "lemma": "burn",
+        "partOfSpeech": "verb",
+        "meaning": "damaged food with too much heat",
+        "translation": "yandırdım"
+      },
+      {
+        "term": "stir",
+        "lemma": "stir",
+        "partOfSpeech": "verb",
+        "meaning": "to mix food by moving a spoon around",
+        "translation": "qarışdırmaq"
+      },
+      {
+        "term": "raw",
+        "lemma": "raw",
+        "partOfSpeech": "adjective",
+        "meaning": "not cooked",
+        "translation": "çiy"
+      },
+      {
+        "term": "bitter",
+        "lemma": "bitter",
+        "partOfSpeech": "adjective",
+        "meaning": "with a strong, sharp taste that is not sweet",
+        "translation": "acı"
+      },
+      {
+        "term": "pot",
+        "lemma": "pot",
+        "partOfSpeech": "noun",
+        "meaning": "a deep round container for cooking",
+        "translation": "qazan"
+      },
+      {
+        "term": "covered",
+        "lemma": "cover",
+        "partOfSpeech": "verb",
+        "meaning": "put something on top of something else",
+        "translation": "örtdüm"
+      },
+      {
+        "term": "lid",
+        "lemma": "lid",
+        "partOfSpeech": "noun",
+        "meaning": "the top of a pot or box that you can take off",
+        "translation": "qapaq"
+      },
+      {
+        "term": "Meanwhile",
+        "lemma": "meanwhile",
+        "partOfSpeech": "adverb",
+        "meaning": "at the same time",
+        "translation": "bu vaxt, bu arada"
+      },
+      {
+        "term": "baked",
+        "lemma": "bake",
+        "partOfSpeech": "verb",
+        "meaning": "cooked in an oven",
+        "translation": "(sobada) bişirdi"
+      },
+      {
+        "term": "oven",
+        "lemma": "oven",
+        "partOfSpeech": "noun",
+        "meaning": "a box-shaped part of a kitchen stove where you bake food",
+        "translation": "soba, duxovka"
+      },
+      {
+        "term": "smelled",
+        "lemma": "smell",
+        "partOfSpeech": "verb",
+        "meaning": "had a particular smell",
+        "translation": "ətir verdi, qoxudu"
+      },
+      {
+        "term": "sat down at the table",
+        "lemma": "sit down at the table",
+        "partOfSpeech": "phrase",
+        "meaning": "took seats at the table to eat",
+        "translation": "süfrə arxasına keçdi"
+      },
+      {
+        "term": "taste",
+        "lemma": "taste",
+        "partOfSpeech": "verb",
+        "meaning": "to try a little food to see what it is like",
+        "translation": "dadına baxmaq, dadmaq"
+      },
+      {
+        "term": "put down",
+        "lemma": "put down",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "to put something you are holding on a table or other surface",
+        "translation": "yerə qoymaq, kənara qoymaq"
+      },
+      {
+        "term": "tastes",
+        "lemma": "taste",
+        "partOfSpeech": "verb",
+        "meaning": "has a particular flavor",
+        "translation": "dadı ... -dır"
+      },
+      {
+        "term": "just like",
+        "lemma": "just like",
+        "partOfSpeech": "phrase",
+        "meaning": "exactly the same as",
+        "translation": "eynilə ... kimi"
+      },
+      {
+        "term": "flavor",
+        "lemma": "flavor",
+        "partOfSpeech": "noun",
+        "meaning": "the taste of food",
+        "translation": "dad, ləzzət"
+      },
+      {
+        "term": "asked for",
+        "lemma": "ask for",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "said that you want something",
+        "translation": "istədi"
+      },
+      {
+        "term": "portion",
+        "lemma": "portion",
+        "partOfSpeech": "noun",
+        "meaning": "the amount of food for one person",
+        "translation": "porsiya"
+      },
+      {
+        "term": "proud",
+        "lemma": "proud",
+        "partOfSpeech": "adjective",
+        "meaning": "happy because you did something well",
+        "translation": "qürurlu, fəxr edən"
+      },
+      {
+        "term": "for hours",
+        "lemma": "for hours",
+        "partOfSpeech": "phrase",
+        "meaning": "for a very long time",
+        "translation": "saatlarla"
+      },
+      {
+        "term": "left in the pot",
+        "lemma": "be left",
+        "partOfSpeech": "phrase",
+        "meaning": "still there after the rest was eaten",
+        "translation": "qazanda qalmışdı"
+      },
+      {
+        "term": "leftovers",
+        "lemma": "leftover",
+        "partOfSpeech": "noun",
+        "meaning": "food that was not eaten and is kept for later",
+        "translation": "artıq qalan yemək"
+      },
+      {
+        "term": "hugged",
+        "lemma": "hug",
+        "partOfSpeech": "verb",
+        "meaning": "put your arms around someone to show love",
+        "translation": "qucaqladı"
+      },
+      {
+        "term": "belongs to",
+        "lemma": "belong to",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "is the property of someone",
+        "translation": "...-ındır, ...-a məxsusdur"
+      },
+      {
+        "term": "notebook",
+        "lemma": "notebook",
+        "partOfSpeech": "noun",
+        "meaning": "a small book for writing notes",
+        "translation": "dəftər"
+      },
+      {
+        "term": "repeat",
+        "lemma": "repeat",
+        "partOfSpeech": "verb",
+        "meaning": "to do or say something again",
+        "translation": "təkrarlamaq"
+      }
+    ]
+  },
+  "grammar": {
+    "topic": "Past simple: regular and irregular verbs",
+    "topicTranslation": "Past simple: qaydalı və qaydasız feillər",
+    "explanation": "We use the past simple for finished actions in the past, often with time words like yesterday, last week or in 2020. Regular verbs add -ed (or only -d) in the past: cook - cooked, slice - sliced. Irregular verbs have their own past forms that you need to learn: go - went, buy - bought, eat - ate. In questions and negatives we use did / didn't + the base form for all verbs: Did you cook? I didn't cook.",
+    "explanationTranslation": "Past simple zamanını keçmişdə bitmiş hərəkətlər üçün, çox vaxt yesterday, last week, in 2020 kimi vaxt ifadələri ilə işlədirik. Qaydalı feillər keçmiş zamanda -ed (və ya yalnız -d) şəkilçisi qəbul edir: cook - cooked, slice - sliced. Qaydasız feillərin isə öyrənilməli olan xüsusi keçmiş formaları var: go - went, buy - bought, eat - ate. Sual və inkar cümlələrində bütün feillər üçün did / didn't + feilin əsas forması işlədilir: Did you cook? I didn't cook.",
+    "rules": [
+      {
+        "text": "Regular verbs: verb + -ed (wash → washed, boil → boiled); verbs ending in -e add only -d (slice → sliced).",
+        "translation": "Qaydalı feillər: feil + -ed (wash → washed, boil → boiled); -e ilə bitən feillərə yalnız -d artırılır (slice → sliced)."
+      },
+      {
+        "text": "Spelling: consonant + y becomes -ied (try → tried); short verbs ending in one vowel + one consonant double the consonant (stop → stopped, stir → stirred).",
+        "translation": "Yazılış: samit + y -ied olur (try → tried); bir sait + bir samitlə bitən qısa feillərdə son samit qoşalaşır (stop → stopped, stir → stirred)."
+      },
+      {
+        "text": "Irregular verbs have special forms: go → went, buy → bought, make → made, eat → ate.",
+        "translation": "Qaydasız feillərin xüsusi formaları var: go → went, buy → bought, make → made, eat → ate."
+      },
+      {
+        "text": "Questions and negatives: did / didn't + base form (Did she call? She didn't call.). Never say “didn't went”.",
+        "translation": "Sual və inkar: did / didn't + feilin əsas forması (Did she call? She didn't call.). Heç vaxt “didn't went” demək olmaz."
+      }
+    ],
+    "examples": [
+      {
+        "text": "I boiled the potatoes and sliced the tomatoes.",
+        "translation": "Kartofu qaynatdım və pomidorları doğradım."
+      },
+      {
+        "text": "We went to the market and bought fresh fish.",
+        "translation": "Bazara getdik və təzə balıq aldıq."
+      },
+      {
+        "text": "She tasted the soup and added some salt.",
+        "translation": "O, şorbanın dadına baxıb bir az duz əlavə etdi."
+      },
+      {
+        "text": "Did you follow the recipe?",
+        "translation": "Reseptə əməl etdin?"
+      },
+      {
+        "text": "He didn't eat breakfast this morning.",
+        "translation": "O, bu səhər səhər yeməyi yemədi."
+      }
+    ],
+    "exercise": {
+      "instructions": "Choose or write the correct past simple form.",
+      "instructionsTranslation": "Past simple zamanının düzgün formasını seçin və ya yazın.",
+      "questions": [
+        {
+          "type": "choice",
+          "prompt": "Yesterday I ___ a cake for my sister.",
+          "promptTranslation": "Dünən bacım üçün tort bişirdim.",
+          "options": [
+            "make",
+            "made",
+            "maked"
+          ],
+          "answer": "made",
+          "explanation": "“Make” is irregular: make → made.",
+          "explanationTranslation": "“Make” qaydasız feildir: make → made."
+        },
+        {
+          "type": "choice",
+          "prompt": "Last night we ___ the onions very thinly.",
+          "promptTranslation": "Dünən axşam soğanları çox nazik doğradıq.",
+          "options": [
+            "slice",
+            "sliced",
+            "slicing"
+          ],
+          "answer": "sliced",
+          "explanation": "“Slice” is regular and ends in -e, so we add only -d.",
+          "explanationTranslation": "“Slice” qaydalı feildir və -e ilə bitir, ona görə yalnız -d artırılır."
+        },
+        {
+          "type": "choice",
+          "prompt": "___ you buy all the ingredients yesterday?",
+          "promptTranslation": "Dünən bütün məhsulları aldın?",
+          "options": [
+            "Did",
+            "Were",
+            "Have"
+          ],
+          "answer": "Did",
+          "explanation": "Past simple questions use did + base form.",
+          "explanationTranslation": "Past simple sual cümlələrində did + feilin əsas forması işlədilir."
+        },
+        {
+          "type": "text",
+          "prompt": "She ___ (try) the soup and said it was perfect.",
+          "promptTranslation": "O, şorbanın dadına baxdı və onun əla olduğunu dedi.",
+          "answer": "tried",
+          "explanation": "Consonant + y becomes -ied: try → tried.",
+          "explanationTranslation": "Samit + y -ied olur: try → tried."
+        },
+        {
+          "type": "text",
+          "prompt": "I ___ (not / go) to the market last Saturday.",
+          "promptTranslation": "Keçən şənbə bazara getmədim.",
+          "answer": "did not go",
+          "acceptedAnswers": [
+            "didn't go"
+          ],
+          "explanation": "Negative: did not / didn't + base form (go, not went).",
+          "explanationTranslation": "İnkar: did not / didn't + feilin əsas forması (went yox, go)."
+        }
+      ]
+    }
+  }
+}

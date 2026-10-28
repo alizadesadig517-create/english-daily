@@ -1,0 +1,1002 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-06",
+  "level": "B1",
+  "translationLanguage": "az",
+  "words": [
+    {
+      "word": "injury",
+      "ipa": "/ˈɪndʒəri/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "zədə, xəsarət",
+          "definition": "physical harm to a part of the body, for example in an accident or while doing sport",
+          "synonyms": [
+            "wound",
+            "harm"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "He missed the match because of a knee injury.",
+              "translation": "O, diz zədəsinə görə matçda iştirak edə bilmədi."
+            },
+            {
+              "text": "Luckily, nobody suffered serious injuries in the accident.",
+              "translation": "Xoşbəxtlikdən, qəzada heç kim ciddi xəsarət almadı."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "recover",
+      "ipa": "/rɪˈkʌvər/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "sağalmaq, özünə gəlmək",
+          "definition": "to become healthy or strong again after an illness, an injury or a difficult time",
+          "synonyms": [
+            "get better",
+            "heal"
+          ],
+          "antonyms": [
+            "get worse"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "It took her two weeks to recover from the flu.",
+              "translation": "Qripdən sağalmaq ona iki həftə çəkdi."
+            },
+            {
+              "text": "He is recovering well after the operation.",
+              "translation": "O, əməliyyatdan sonra yaxşı sağalır."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "symptom",
+      "ipa": "/ˈsɪmptəm/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "simptom, əlamət",
+          "definition": "a sign that you have an illness, such as a high temperature or a cough",
+          "synonyms": [
+            "sign"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "A sore throat is a common symptom of a cold.",
+              "translation": "Boğaz ağrısı soyuqdəymənin geniş yayılmış əlamətidir."
+            },
+            {
+              "text": "Tell the doctor about all your symptoms.",
+              "translation": "Həkimə bütün simptomlarınız barədə danışın."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "prescription",
+      "ipa": "/prɪˈskrɪpʃən/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "resept",
+          "definition": "a paper from a doctor that says which medicine you need, so you can get it from a pharmacy",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The doctor gave me a prescription for some cough syrup.",
+              "translation": "Həkim mənə öskürək şərbəti üçün resept yazdı."
+            },
+            {
+              "text": "You can't buy this medicine without a prescription.",
+              "translation": "Bu dərmanı reseptsiz ala bilməzsən."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "ache",
+      "ipa": "/eɪk/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "ağrı, sızıltı",
+          "definition": "a pain that continues for a long time but is not very strong",
+          "synonyms": [
+            "pain",
+            "soreness"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "I have a dull ache in my back.",
+              "translation": "Belimdə küt bir ağrı var."
+            },
+            {
+              "text": "After the long walk, she felt an ache in her legs.",
+              "translation": "Uzun gəzintidən sonra ayaqlarında ağrı hiss etdi."
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "verb",
+          "translation": "ağrımaq, sızıldamaq",
+          "definition": "to feel a pain that continues for some time",
+          "synonyms": [
+            "hurt"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "My feet ache after a long day at work.",
+              "translation": "İşdə uzun bir gündən sonra ayaqlarım ağrıyır."
+            },
+            {
+              "text": "His whole body ached after the football match.",
+              "translation": "Futbol oyunundan sonra bütün bədəni ağrıyırdı."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "fever",
+      "ipa": "/ˈfivər/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "qızdırma, hərarət",
+          "definition": "a body temperature that is higher than normal because you are ill",
+          "synonyms": [
+            "high temperature"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The child has had a fever since yesterday.",
+              "translation": "Uşağın dünəndən bəri qızdırması var."
+            },
+            {
+              "text": "Drink a lot of water when you have a fever.",
+              "translation": "Qızdırman olanda çoxlu su iç."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "cough",
+      "ipa": "/kɔf/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "öskürək",
+          "definition": "the action or sound of pushing air out of your throat suddenly, often when you are ill",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "I have a bad cough and a sore throat.",
+              "translation": "Pis öskürəyim və boğaz ağrım var."
+            },
+            {
+              "text": "This syrup will help your cough.",
+              "translation": "Bu şərbət öskürəyinə kömək edəcək."
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "verb",
+          "translation": "öskürmək",
+          "definition": "to push air out of your throat suddenly with a loud sound",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "He coughed all night.",
+              "translation": "O, bütün gecə öskürdü."
+            },
+            {
+              "text": "Cover your mouth when you cough.",
+              "translation": "Öskürəndə ağzını ört."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sneeze",
+      "ipa": "/sniz/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "asqırmaq",
+          "definition": "to suddenly blow air out of your nose and mouth, for example when you have a cold",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Dust always makes me sneeze.",
+              "translation": "Toz məni həmişə asqırdır."
+            },
+            {
+              "text": "She sneezed three times in a row.",
+              "translation": "O, ardıcıl üç dəfə asqırdı."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bandage",
+      "ipa": "/ˈbændɪdʒ/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "sarğı, bint",
+          "definition": "a long piece of cloth that you put around an injured part of the body",
+          "synonyms": [
+            "dressing"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The nurse put a bandage on my arm.",
+              "translation": "Tibb bacısı qoluma sarğı qoydu."
+            },
+            {
+              "text": "You should change the bandage every day.",
+              "translation": "Sarğını hər gün dəyişməlisən."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "heal",
+      "ipa": "/hil/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "sağalmaq; sağaltmaq",
+          "definition": "to become healthy again, or to make a wound or an injury healthy again",
+          "synonyms": [
+            "get better",
+            "cure"
+          ],
+          "antonyms": [],
+          "homonyms": [
+            {
+              "word": "heel",
+              "meaning": "the back part of your foot (sounds the same as \"heal\")",
+              "translation": "daban"
+            }
+          ],
+          "examples": [
+            {
+              "text": "The cut on my finger healed in a week.",
+              "translation": "Barmağımdakı kəsik bir həftəyə sağaldı."
+            },
+            {
+              "text": "This cream helps the skin heal faster.",
+              "translation": "Bu krem dərinin daha tez sağalmasına kömək edir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "pharmacy",
+      "ipa": "/ˈfɑrməsi/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "aptek",
+          "definition": "a store where you can buy medicine",
+          "synonyms": [
+            "drugstore"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Is there a pharmacy near here?",
+              "translation": "Buralarda aptek var?"
+            },
+            {
+              "text": "I picked up my medicine at the pharmacy.",
+              "translation": "Dərmanımı aptekdən götürdüm."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "swollen",
+      "ipa": "/ˈswoʊlən/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "şişmiş, şiş",
+          "definition": "bigger than usual because of an injury or an illness",
+          "synonyms": [
+            "puffy"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "My ankle is still swollen.",
+              "translation": "Topuğum hələ də şişkindir."
+            },
+            {
+              "text": "Her eyes were red and swollen.",
+              "translation": "Onun gözləri qızarmış və şişmişdi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "dizzy",
+      "ipa": "/ˈdɪzi/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "başı gicəllənən",
+          "definition": "feeling that everything is turning around you and that you may fall",
+          "synonyms": [
+            "light-headed"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "I felt dizzy when I stood up too quickly.",
+              "translation": "Çox tez ayağa qalxanda başım gicəlləndi."
+            },
+            {
+              "text": "The heat made him dizzy.",
+              "translation": "İstidən onun başı gicəlləndi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "treatment",
+      "ipa": "/ˈtritmənt/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "müalicə",
+          "definition": "the care or medicine that a doctor gives to a sick or injured person",
+          "synonyms": [
+            "therapy",
+            "care"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The treatment for a sprained ankle is rest and ice.",
+              "translation": "Burxulmuş topuğun müalicəsi istirahət və buzdur."
+            },
+            {
+              "text": "She is getting treatment for her back.",
+              "translation": "O, beli üçün müalicə alır."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "allergic",
+      "ipa": "/əˈlɜrdʒɪk/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "allergiyası olan, allergik",
+          "definition": "having a bad reaction in your body to something, such as food, dust or animals",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "I'm allergic to cats.",
+              "translation": "Pişiklərə allergiyam var."
+            },
+            {
+              "text": "Are you allergic to any medicine?",
+              "translation": "Hansısa dərmana allergiyanız var?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "story": {
+    "title": "A Step at a Time",
+    "titleTranslation": "Addım-addım",
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "Kamran has run in many races, but he has never had a serious injury.",
+            "translation": "Kamran çoxlu yarışda qaçıb, amma heç vaxt ciddi zədə almayıb."
+          },
+          {
+            "text": "He has never even had a fever or a bad cough in the last five years.",
+            "translation": "Son beş ildə onun heç qızdırması, ya da pis öskürəyi də olmayıb."
+          },
+          {
+            "text": "Last Sunday, while he was running in the park, he stepped on a stone and twisted his ankle.",
+            "translation": "Keçən bazar günü parkda qaçarkən bir daşın üstünə basdı və topuğunu burxdu."
+          },
+          {
+            "text": "At first he felt only a small ache, so he kept going.",
+            "translation": "Əvvəlcə yalnız yüngül ağrı hiss etdi, ona görə də qaçmağa davam etdi."
+          },
+          {
+            "text": "By evening, his foot was swollen, and it hurt to walk.",
+            "translation": "Axşama yaxın ayağı şişmişdi və yerimək ağrılı idi."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The next morning he went to the clinic.",
+            "translation": "Səhəri gün klinikaya getdi."
+          },
+          {
+            "text": "In the waiting room, a little boy was coughing, and an old man was sneezing into his handkerchief.",
+            "translation": "Gözləmə otağında balaca bir oğlan öskürürdü, yaşlı bir kişi isə dəsmalına asqırırdı."
+          },
+          {
+            "text": "“Have you ever hurt this ankle before?” the doctor asked.",
+            "translation": "«Bu topuğunuzu əvvəllər heç zədələmisiniz?» – deyə həkim soruşdu."
+          },
+          {
+            "text": "“No, never,” Kamran answered, and he described his symptoms: pain, swelling and a feeling of heat.",
+            "translation": "«Xeyr, heç vaxt», – deyə Kamran cavab verdi və simptomlarını təsvir etdi: ağrı, şişkinlik və istilik hissi."
+          },
+          {
+            "text": "“Do you ever feel dizzy when you stand on it?” she asked.",
+            "translation": "«Ayağınızın üstündə duranda heç başınız gicəllənir?» – deyə həkim soruşdu."
+          },
+          {
+            "text": "“No, I've never felt dizzy,” he said.",
+            "translation": "«Xeyr, heç vaxt başım gicəllənməyib», – dedi."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The doctor said it was a sprain, not a break.",
+            "translation": "Həkim bunun sınıq yox, burxulma olduğunu dedi."
+          },
+          {
+            "text": "She put a tight bandage around his ankle and wrote him a prescription for a cream.",
+            "translation": "Topuğuna möhkəm sarğı qoydu və ona krem üçün resept yazdı."
+          },
+          {
+            "text": "“Are you allergic to any medicine?” she asked, and Kamran shook his head.",
+            "translation": "«Hansısa dərmana allergiyanız var?» – deyə soruşdu, Kamran isə başını buladı."
+          },
+          {
+            "text": "“The treatment is simple: rest, ice and this cream,” she explained.",
+            "translation": "«Müalicə sadədir: istirahət, buz və bu krem», – deyə həkim izah etdi."
+          },
+          {
+            "text": "“You will recover in about three weeks, but your ankle needs time to heal, so please don't run.”",
+            "translation": "«Təxminən üç həftəyə sağalacaqsınız, amma topuğunuzun tam sağalması üçün vaxt lazımdır, ona görə də, xahiş edirəm, qaçmayın»."
+          },
+          {
+            "text": "On the way home, Kamran stopped at the pharmacy and bought the cream.",
+            "translation": "Evə qayıdarkən Kamran aptekə dəydi və kremi aldı."
+          },
+          {
+            "text": "The pharmacist, a kind young woman, has helped many runners, and she gave him some useful advice.",
+            "translation": "Əczaçı – mehriban bir gənc qadın – çoxlu qaçışçıya kömək edib və ona bir neçə faydalı məsləhət verdi."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Now Kamran is resting at home with his foot on a pillow.",
+            "translation": "İndi Kamran ayağını yastığın üstünə qoyub evdə dincəlir."
+          },
+          {
+            "text": "It isn't easy, because he has never stayed still for so long.",
+            "translation": "Bu, asan deyil, çünki o, heç vaxt bu qədər uzun müddət tərpənmədən qalmayıb."
+          },
+          {
+            "text": "His back aches a little from lying in bed all day, but his ankle feels better every morning.",
+            "translation": "Bütün günü yataqda uzanmaqdan beli bir az ağrıyır, amma topuğu hər səhər daha yaxşı olur."
+          },
+          {
+            "text": "His friends from the running club have visited him twice and brought fruit and funny movies.",
+            "translation": "Qaçış klubundan olan dostları ona iki dəfə baş çəkib, meyvə və gülməli filmlər gətiriblər."
+          },
+          {
+            "text": "He has also discovered something new: he has never read so many books in his life!",
+            "translation": "O, həm də yeni bir şey kəşf edib: həyatında heç vaxt bu qədər çox kitab oxumayıb!"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "“Have you ever thought about writing about running?” his sister asked him yesterday.",
+            "translation": "«Heç qaçış haqqında yazmağı düşünmüsən?» – deyə bacısı dünən ondan soruşdu."
+          },
+          {
+            "text": "Kamran smiled, opened his laptop and started his first blog post: “What I Have Learned from My Injury.”",
+            "translation": "Kamran gülümsədi, noutbukunu açdı və ilk bloq yazısına başladı: «Zədəmdən nə öyrəndim»."
+          },
+          {
+            "text": "The first lesson, he wrote, is simple: listen to your body before it starts to shout.",
+            "translation": "O yazdı ki, birinci dərs sadədir: bədənin qışqırmağa başlamazdan əvvəl ona qulaq as."
+          }
+        ]
+      }
+    ],
+    "glossary": [
+      {
+        "term": "races",
+        "lemma": "race",
+        "partOfSpeech": "noun",
+        "meaning": "competitions to see who is the fastest",
+        "translation": "yarışlar"
+      },
+      {
+        "term": "never",
+        "lemma": "never",
+        "partOfSpeech": "adverb",
+        "meaning": "not at any time",
+        "translation": "heç vaxt"
+      },
+      {
+        "term": "injury",
+        "lemma": "injury",
+        "partOfSpeech": "noun",
+        "meaning": "harm to a part of the body",
+        "translation": "zədə"
+      },
+      {
+        "term": "fever",
+        "lemma": "fever",
+        "partOfSpeech": "noun",
+        "meaning": "a body temperature that is higher than normal",
+        "translation": "qızdırma"
+      },
+      {
+        "term": "cough",
+        "lemma": "cough",
+        "partOfSpeech": "noun",
+        "meaning": "the sound of air pushed suddenly out of the throat",
+        "translation": "öskürək"
+      },
+      {
+        "term": "stepped on",
+        "lemma": "step on",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "put his foot on something",
+        "translation": "üstünə basdı"
+      },
+      {
+        "term": "twisted his ankle",
+        "lemma": "twist your ankle",
+        "partOfSpeech": "phrase",
+        "meaning": "to hurt your ankle by turning it the wrong way",
+        "translation": "topuğunu burxmaq"
+      },
+      {
+        "term": "ache",
+        "lemma": "ache",
+        "partOfSpeech": "noun",
+        "meaning": "a pain that is not strong but continues",
+        "translation": "ağrı, sızıltı"
+      },
+      {
+        "term": "kept going",
+        "lemma": "keep going",
+        "partOfSpeech": "phrase",
+        "meaning": "continued doing something",
+        "translation": "davam etdi"
+      },
+      {
+        "term": "swollen",
+        "lemma": "swollen",
+        "partOfSpeech": "adjective",
+        "meaning": "bigger than usual because of an injury",
+        "translation": "şişmiş"
+      },
+      {
+        "term": "it hurt to walk",
+        "lemma": "it hurts to do something",
+        "partOfSpeech": "phrase",
+        "meaning": "walking was painful",
+        "translation": "yerimək ağrılı idi"
+      },
+      {
+        "term": "waiting room",
+        "lemma": "waiting room",
+        "partOfSpeech": "noun",
+        "meaning": "a room where people wait, for example to see a doctor",
+        "translation": "gözləmə otağı"
+      },
+      {
+        "term": "coughing",
+        "lemma": "cough",
+        "partOfSpeech": "verb",
+        "meaning": "pushing air out of the throat with a loud sound",
+        "translation": "öskürürdü"
+      },
+      {
+        "term": "sneezing",
+        "lemma": "sneeze",
+        "partOfSpeech": "verb",
+        "meaning": "suddenly blowing air out of the nose and mouth",
+        "translation": "asqırırdı"
+      },
+      {
+        "term": "handkerchief",
+        "lemma": "handkerchief",
+        "partOfSpeech": "noun",
+        "meaning": "a small piece of cloth for cleaning your nose",
+        "translation": "dəsmal"
+      },
+      {
+        "term": "Have you ever",
+        "lemma": "have you ever",
+        "partOfSpeech": "phrase",
+        "meaning": "a question about someone's life experience",
+        "translation": "heç ...-misiniz?"
+      },
+      {
+        "term": "hurt",
+        "lemma": "hurt",
+        "partOfSpeech": "verb",
+        "meaning": "injured a part of the body",
+        "translation": "zədələmək"
+      },
+      {
+        "term": "described",
+        "lemma": "describe",
+        "partOfSpeech": "verb",
+        "meaning": "said what something is like",
+        "translation": "təsvir etdi"
+      },
+      {
+        "term": "symptoms",
+        "lemma": "symptom",
+        "partOfSpeech": "noun",
+        "meaning": "signs of an illness or an injury",
+        "translation": "simptomlar, əlamətlər"
+      },
+      {
+        "term": "swelling",
+        "lemma": "swelling",
+        "partOfSpeech": "noun",
+        "meaning": "a part of the body that has become bigger because of an injury",
+        "translation": "şişkinlik"
+      },
+      {
+        "term": "dizzy",
+        "lemma": "dizzy",
+        "partOfSpeech": "adjective",
+        "meaning": "feeling that everything is turning around you",
+        "translation": "başı gicəllənən"
+      },
+      {
+        "term": "sprain",
+        "lemma": "sprain",
+        "partOfSpeech": "noun",
+        "meaning": "an injury when a joint, like an ankle, is turned too much",
+        "translation": "burxulma"
+      },
+      {
+        "term": "break",
+        "lemma": "break",
+        "partOfSpeech": "noun",
+        "meaning": "a place where a bone is broken",
+        "translation": "sınıq"
+      },
+      {
+        "term": "tight",
+        "lemma": "tight",
+        "partOfSpeech": "adjective",
+        "meaning": "fixed firmly, not loose",
+        "translation": "möhkəm, sıx"
+      },
+      {
+        "term": "bandage",
+        "lemma": "bandage",
+        "partOfSpeech": "noun",
+        "meaning": "a long piece of cloth put around an injury",
+        "translation": "sarğı"
+      },
+      {
+        "term": "prescription",
+        "lemma": "prescription",
+        "partOfSpeech": "noun",
+        "meaning": "a doctor's paper that says which medicine you need",
+        "translation": "resept"
+      },
+      {
+        "term": "allergic",
+        "lemma": "allergic",
+        "partOfSpeech": "adjective",
+        "meaning": "having a bad reaction to something, such as a medicine",
+        "translation": "allergiyası olan"
+      },
+      {
+        "term": "shook his head",
+        "lemma": "shake your head",
+        "partOfSpeech": "phrase",
+        "meaning": "moved his head from side to side to say no",
+        "translation": "başını buladı"
+      },
+      {
+        "term": "treatment",
+        "lemma": "treatment",
+        "partOfSpeech": "noun",
+        "meaning": "the care and medicine for an injury or an illness",
+        "translation": "müalicə"
+      },
+      {
+        "term": "explained",
+        "lemma": "explain",
+        "partOfSpeech": "verb",
+        "meaning": "said something in a clear way so that someone understands",
+        "translation": "izah etdi"
+      },
+      {
+        "term": "recover",
+        "lemma": "recover",
+        "partOfSpeech": "verb",
+        "meaning": "to become healthy again",
+        "translation": "sağalmaq"
+      },
+      {
+        "term": "heal",
+        "lemma": "heal",
+        "partOfSpeech": "verb",
+        "meaning": "to become healthy again after an injury",
+        "translation": "sağalmaq"
+      },
+      {
+        "term": "On the way home",
+        "lemma": "on the way home",
+        "partOfSpeech": "phrase",
+        "meaning": "while going home",
+        "translation": "evə qayıdarkən"
+      },
+      {
+        "term": "pharmacy",
+        "lemma": "pharmacy",
+        "partOfSpeech": "noun",
+        "meaning": "a store that sells medicine",
+        "translation": "aptek"
+      },
+      {
+        "term": "pharmacist",
+        "lemma": "pharmacist",
+        "partOfSpeech": "noun",
+        "meaning": "a person whose job is to prepare and sell medicine",
+        "translation": "əczaçı"
+      },
+      {
+        "term": "useful",
+        "lemma": "useful",
+        "partOfSpeech": "adjective",
+        "meaning": "helpful; good for doing something",
+        "translation": "faydalı"
+      },
+      {
+        "term": "advice",
+        "lemma": "advice",
+        "partOfSpeech": "noun",
+        "meaning": "an opinion about what someone should do",
+        "translation": "məsləhət"
+      },
+      {
+        "term": "aches",
+        "lemma": "ache",
+        "partOfSpeech": "verb",
+        "meaning": "feels a pain that continues for some time",
+        "translation": "ağrıyır"
+      },
+      {
+        "term": "lying",
+        "lemma": "lie",
+        "partOfSpeech": "verb",
+        "meaning": "being in a flat position, for example in bed",
+        "translation": "uzanmaq"
+      },
+      {
+        "term": "pillow",
+        "lemma": "pillow",
+        "partOfSpeech": "noun",
+        "meaning": "a soft thing that you put your head on in bed",
+        "translation": "yastıq"
+      },
+      {
+        "term": "stayed still",
+        "lemma": "stay still",
+        "partOfSpeech": "phrase",
+        "meaning": "did not move",
+        "translation": "tərpənmədən qaldı"
+      },
+      {
+        "term": "visited",
+        "lemma": "visit",
+        "partOfSpeech": "verb",
+        "meaning": "went to see someone",
+        "translation": "baş çəkib"
+      },
+      {
+        "term": "discovered",
+        "lemma": "discover",
+        "partOfSpeech": "verb",
+        "meaning": "found something new",
+        "translation": "kəşf edib"
+      },
+      {
+        "term": "in his life",
+        "lemma": "in your life",
+        "partOfSpeech": "phrase",
+        "meaning": "during all the time someone has lived",
+        "translation": "həyatında"
+      },
+      {
+        "term": "blog post",
+        "lemma": "blog post",
+        "partOfSpeech": "noun",
+        "meaning": "a short text that someone writes on a website",
+        "translation": "bloq yazısı"
+      },
+      {
+        "term": "listen to your body",
+        "lemma": "listen to your body",
+        "partOfSpeech": "idiom",
+        "meaning": "to pay attention to what your body feels and needs",
+        "translation": "bədəninə qulaq asmaq"
+      }
+    ]
+  },
+  "grammar": {
+    "topic": "Present perfect for experiences (ever, never)",
+    "topicTranslation": "Təcrübə bildirən present perfect (ever, never)",
+    "explanation": "We use the present perfect (have/has + past participle) to talk about experiences in our life up to now. We don't say when it happened, because the time is not important. We use ever in questions to mean “at any time in your life”, and never to mean “not at any time”. If we add a specific past time, we change to the past simple.",
+    "explanationTranslation": "Present perfect (have/has + feilin üçüncü forması) indiyə qədər həyatımızda olan təcrübələr haqqında danışmaq üçün işlədilir. Bunun nə vaxt baş verdiyini demirik, çünki vaxt vacib deyil. Ever sual cümlələrində “həyatında nə vaxtsa”, never isə “heç vaxt” mənasında işlədilir. Konkret keçmiş vaxtı əlavə etsək, past simple işlədirik.",
+    "rules": [
+      {
+        "text": "Form: have/has + past participle (I have seen, she has visited).",
+        "translation": "Quruluş: have/has + feilin üçüncü forması (I have seen, she has visited)."
+      },
+      {
+        "text": "Questions: Have/Has + subject + ever + past participle? (Have you ever broken a bone?)",
+        "translation": "Sual: Have/Has + mübtəda + ever + feilin üçüncü forması? (Have you ever broken a bone?)"
+      },
+      {
+        "text": "Never already has a negative meaning, so don't use not with it: say “I have never been there”, not “I haven't never been there”.",
+        "translation": "Never özü inkar mənası daşıyır, ona görə onunla not işlədilmir: “I haven't never been there” yox, “I have never been there” deyilir."
+      },
+      {
+        "text": "Ever and never go between have/has and the past participle.",
+        "translation": "Ever və never have/has ilə feilin üçüncü forması arasında gəlir."
+      }
+    ],
+    "examples": [
+      {
+        "text": "Have you ever had a serious injury?",
+        "translation": "Heç ciddi zədə almısan?"
+      },
+      {
+        "text": "I have never broken a bone.",
+        "translation": "Heç vaxt sümüyüm sınmayıb."
+      },
+      {
+        "text": "She has been in the hospital only once in her life.",
+        "translation": "O, həyatında yalnız bir dəfə xəstəxanada yatıb."
+      },
+      {
+        "text": "My grandfather has never needed a prescription for anything.",
+        "translation": "Babamın heç vaxt heç nə üçün reseptə ehtiyacı olmayıb."
+      },
+      {
+        "text": "Have you ever eaten Azerbaijani plov?",
+        "translation": "Heç Azərbaycan plovu yemisən?"
+      }
+    ],
+    "exercise": {
+      "instructions": "Choose or write the correct form of the verb.",
+      "instructionsTranslation": "Feilin düzgün formasını seçin və ya yazın.",
+      "questions": [
+        {
+          "type": "choice",
+          "prompt": "Have you ever ___ in a hospital?",
+          "promptTranslation": "Heç xəstəxanada qalmısan?",
+          "options": [
+            "stay",
+            "stayed",
+            "staying"
+          ],
+          "answer": "stayed",
+          "explanation": "After have + ever we use the past participle.",
+          "explanationTranslation": "Have + ever-dən sonra feilin üçüncü forması işlədilir."
+        },
+        {
+          "type": "choice",
+          "prompt": "I ___ broken my arm.",
+          "promptTranslation": "Mən heç vaxt qolumu sındırmamışam.",
+          "options": [
+            "have never",
+            "haven't never",
+            "never have"
+          ],
+          "answer": "have never",
+          "explanation": "Never already makes the sentence negative, and it goes after have.",
+          "explanationTranslation": "Never cümləni artıq inkar edir və have-dən sonra gəlir."
+        },
+        {
+          "type": "choice",
+          "prompt": "She ___ to Japan twice.",
+          "promptTranslation": "O, iki dəfə Yaponiyada olub.",
+          "options": [
+            "has been",
+            "have been",
+            "was been"
+          ],
+          "answer": "has been",
+          "explanation": "With she we use has + past participle.",
+          "explanationTranslation": "She ilə has + feilin üçüncü forması işlədilir."
+        },
+        {
+          "type": "text",
+          "prompt": "My brother has never ___ (see) a doctor about his back.",
+          "promptTranslation": "Qardaşım beli ilə bağlı heç vaxt həkimə müraciət etməyib.",
+          "answer": "seen",
+          "explanation": "See is irregular: see - saw - seen.",
+          "explanationTranslation": "See qaydasız feildir: see - saw - seen."
+        },
+        {
+          "type": "text",
+          "prompt": "Have you ever ___ (take) this medicine before?",
+          "promptTranslation": "Bu dərmanı əvvəllər heç qəbul etmisən?",
+          "answer": "taken",
+          "explanation": "Take is irregular: take - took - taken.",
+          "explanationTranslation": "Take qaydasız feildir: take - took - taken."
+        }
+      ]
+    }
+  }
+}

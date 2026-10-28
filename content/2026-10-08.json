@@ -1,0 +1,1031 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-08",
+  "level": "B1",
+  "translationLanguage": "az",
+  "words": [
+    {
+      "word": "anxious",
+      "ipa": "/ˈæŋkʃəs/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "narahat, həyəcanlı",
+          "definition": "worried and nervous about something that may happen",
+          "synonyms": [
+            "worried",
+            "nervous"
+          ],
+          "antonyms": [
+            "calm",
+            "relaxed"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "I always feel anxious before exams.",
+              "translation": "İmtahanlardan əvvəl həmişə narahat oluram."
+            },
+            {
+              "text": "She was anxious about her first day at work.",
+              "translation": "O, işdəki ilk günü ilə bağlı narahat idi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "relieved",
+      "ipa": "/rɪˈlivd/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "rahatlamış, ürəyi rahatlaşmış",
+          "definition": "happy because something bad did not happen or has ended",
+          "synonyms": [],
+          "antonyms": [
+            "worried"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "We were relieved to hear that everyone was safe.",
+              "translation": "Hamının salamat olduğunu eşidəndə ürəyimiz rahatladı."
+            },
+            {
+              "text": "He looked relieved when the exam was over.",
+              "translation": "İmtahan bitəndə o, rahatlamış görünürdü."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "grateful",
+      "ipa": "/ˈɡreɪtfəl/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "minnətdar",
+          "definition": "feeling or showing thanks to someone for something",
+          "synonyms": [
+            "thankful"
+          ],
+          "antonyms": [
+            "ungrateful"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "I'm really grateful for your help.",
+              "translation": "Köməyinə görə həqiqətən minnətdaram."
+            },
+            {
+              "text": "She was grateful to her teacher for his advice.",
+              "translation": "O, məsləhətinə görə müəlliminə minnətdar idi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "embarrassed",
+      "ipa": "/ɪmˈbɛrəst/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "utanmış, pərt olmuş",
+          "definition": "feeling shy and uncomfortable because of something silly you did, or because people are looking at you",
+          "synonyms": [
+            "uncomfortable",
+            "self-conscious"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "I was so embarrassed when I fell in front of everyone.",
+              "translation": "Hamının gözü qarşısında yıxılanda çox utandım."
+            },
+            {
+              "text": "He felt embarrassed about his mistake.",
+              "translation": "O, səhvinə görə pərt oldu."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "confident",
+      "ipa": "/ˈkɑnfɪdənt/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "özünə inamlı; əmin",
+          "definition": "sure that you can do something well, or sure that something will happen",
+          "synonyms": [
+            "self-assured",
+            "sure",
+            "certain"
+          ],
+          "antonyms": [
+            "insecure",
+            "unsure"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "After a lot of practice, she felt confident on stage.",
+              "translation": "Çoxlu məşqdən sonra o, səhnədə özünü inamlı hiss edirdi."
+            },
+            {
+              "text": "We are confident that we will win.",
+              "translation": "Qalib gələcəyimizə əminik."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "ashamed",
+      "ipa": "/əˈʃeɪmd/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "xəcalətli, utanan",
+          "definition": "feeling bad and guilty because you did something wrong",
+          "synonyms": [
+            "guilty"
+          ],
+          "antonyms": [
+            "proud"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "He was ashamed of his rude words.",
+              "translation": "O, kobud sözlərinə görə xəcalət çəkirdi."
+            },
+            {
+              "text": "You have nothing to be ashamed of.",
+              "translation": "Utanmalı heç nə yoxdur."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "delighted",
+      "ipa": "/dɪˈlaɪtɪd/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "çox şad, çox məmnun",
+          "definition": "very pleased and happy",
+          "synonyms": [
+            "thrilled",
+            "very happy"
+          ],
+          "antonyms": [
+            "disappointed"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "We were delighted to see you again.",
+              "translation": "Səni yenidən gördüyümüzə çox sevindik."
+            },
+            {
+              "text": "She was delighted with her birthday present.",
+              "translation": "O, ad günü hədiyyəsindən çox məmnun qaldı."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "frustrated",
+      "ipa": "/ˈfrʌstreɪtɪd/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "əsəbiləşmiş, hövsələsi daralmış",
+          "definition": "angry or upset because you cannot do or get what you want",
+          "synonyms": [
+            "annoyed"
+          ],
+          "antonyms": [
+            "satisfied"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "I get frustrated when my computer is slow.",
+              "translation": "Kompüterim yavaş işləyəndə əsəbiləşirəm."
+            },
+            {
+              "text": "The students were frustrated because the test was too hard.",
+              "translation": "Test çox çətin olduğu üçün tələbələr əsəbiləşmişdi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "jealous",
+      "ipa": "/ˈdʒɛləs/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "paxıl; qısqanc",
+          "definition": "unhappy because someone has something that you want, or afraid of losing someone's love",
+          "synonyms": [
+            "envious"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "My little brother is jealous of my new bike.",
+              "translation": "Kiçik qardaşım yeni velosipedimə paxıllıq edir."
+            },
+            {
+              "text": "He gets jealous when his girlfriend talks to other men.",
+              "translation": "Rəfiqəsi başqa kişilərlə danışanda o, qısqanır."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "upset",
+      "ipa": "/ʌpˈsɛt/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "pərişan, üzgün, əsəbi",
+          "definition": "unhappy or worried because something bad has happened",
+          "synonyms": [
+            "sad",
+            "unhappy",
+            "hurt"
+          ],
+          "antonyms": [
+            "pleased"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "She was upset because she lost her phone.",
+              "translation": "Telefonunu itirdiyi üçün pərişan idi."
+            },
+            {
+              "text": "Don't get upset – it was just a small mistake.",
+              "translation": "Əsəbiləşmə, bu, sadəcə kiçik bir səhv idi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "curious",
+      "ipa": "/ˈkjʊriəs/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "maraqlanan, maraqlı",
+          "definition": "wanting to know or learn about something",
+          "synonyms": [
+            "interested",
+            "inquisitive"
+          ],
+          "antonyms": [
+            "uninterested"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Children are curious about everything.",
+              "translation": "Uşaqlar hər şeylə maraqlanırlar."
+            },
+            {
+              "text": "I'm curious to know what happened next.",
+              "translation": "Sonra nə baş verdiyini bilmək mənə çox maraqlıdır."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "disappointed",
+      "ipa": "/ˌdɪsəˈpɔɪntɪd/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "məyus, ümidi qırılmış",
+          "definition": "sad because something was not as good as you hoped, or did not happen",
+          "synonyms": [
+            "let down"
+          ],
+          "antonyms": [
+            "pleased",
+            "satisfied"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "I was disappointed with the movie.",
+              "translation": "Filmdən məyus oldum."
+            },
+            {
+              "text": "Dad was disappointed that we couldn't come.",
+              "translation": "Gələ bilmədiyimiz üçün atam məyus oldu."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "lonely",
+      "ipa": "/ˈloʊnli/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "tənha, kimsəsiz",
+          "definition": "unhappy because you are alone or have no friends",
+          "synonyms": [
+            "isolated"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "She felt lonely when she first moved to the city.",
+              "translation": "Şəhərə ilk köçəndə özünü tənha hiss edirdi."
+            },
+            {
+              "text": "Old people often get lonely in winter.",
+              "translation": "Yaşlı insanlar qışda tez-tez tənhalıq hiss edirlər."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "proud",
+      "ipa": "/praʊd/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "fəxr edən, qürurlu",
+          "definition": "feeling pleased about something that you or someone close to you has done",
+          "synonyms": [
+            "pleased"
+          ],
+          "antonyms": [
+            "ashamed"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "My parents are proud of me.",
+              "translation": "Valideynlərim mənimlə fəxr edirlər."
+            },
+            {
+              "text": "He was proud to wear his team's shirt.",
+              "translation": "O, komandasının formasını geyinməkdən qürur duyurdu."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "calm",
+      "ipa": "/kɑm/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "sakit",
+          "definition": "relaxed and not worried, angry or excited",
+          "synonyms": [
+            "relaxed",
+            "peaceful"
+          ],
+          "antonyms": [
+            "nervous",
+            "upset"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Try to stay calm during the exam.",
+              "translation": "İmtahan zamanı sakit qalmağa çalış."
+            },
+            {
+              "text": "The sea was calm this morning.",
+              "translation": "Bu səhər dəniz sakit idi."
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "verb",
+          "translation": "sakitləşdirmək; sakitləşmək",
+          "definition": "to make someone feel less worried or angry, or to become less worried or angry",
+          "synonyms": [
+            "relax",
+            "settle"
+          ],
+          "antonyms": [
+            "upset"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "She calmed the baby with a song.",
+              "translation": "O, körpəni mahnı ilə sakitləşdirdi."
+            },
+            {
+              "text": "Take a deep breath and calm down.",
+              "translation": "Dərindən nəfəs al və sakitləş."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "story": {
+    "title": "The First Presentation",
+    "titleTranslation": "İlk təqdimat",
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "Murad has just started a new job at a travel company, and today he has to give his first presentation in front of the whole team.",
+            "translation": "Murad bir səyahət şirkətində yeni işə indicə başlayıb və bu gün bütün komandanın qarşısında ilk təqdimatını etməlidir."
+          },
+          {
+            "text": "He has already prepared his slides, but he hasn't practiced his speech yet.",
+            "translation": "O, slaydlarını artıq hazırlayıb, amma çıxışını hələ məşq etməyib."
+          },
+          {
+            "text": "He feels anxious, and his hands are cold.",
+            "translation": "O, narahatdır və əlləri soyuqdur."
+          },
+          {
+            "text": "He has never spoken to so many people at once, and his voice shakes a little when he practices alone in the meeting room.",
+            "translation": "O, heç vaxt eyni anda bu qədər çox adamın qarşısında danışmayıb və iclas otağında tək məşq edəndə səsi bir az titrəyir."
+          },
+          {
+            "text": "He also feels a little lonely, because he hasn't made any friends at work yet.",
+            "translation": "Özünü bir az da tənha hiss edir, çünki işdə hələ heç kimlə dostlaşmayıb."
+          },
+          {
+            "text": "Only one colleague, Nigar, has been friendly and curious about his ideas.",
+            "translation": "Yalnız bir iş yoldaşı, Nigar, ona qarşı mehriban olub və fikirləri ilə maraqlanıb."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "“Have you eaten breakfast yet?” Nigar asks.",
+            "translation": "«Səhər yeməyi yemisən?» – deyə Nigar soruşur."
+          },
+          {
+            "text": "“Not yet,” he answers, so she gives him a cup of tea and a sandwich.",
+            "translation": "«Hələ yox», – deyə cavab verir və Nigar ona bir fincan çay və sendviç verir."
+          },
+          {
+            "text": "“Stay calm and speak to one friendly face,” she tells him.",
+            "translation": "«Sakit ol və bir mehriban üzə baxıb danış», – deyə ona məsləhət görür."
+          },
+          {
+            "text": "Another colleague, Elnur, says nothing.",
+            "translation": "Başqa bir iş yoldaşı, Elnur, heç nə demir."
+          },
+          {
+            "text": "He wanted to give this presentation himself, so he is a little jealous of Murad.",
+            "translation": "O, bu təqdimatı özü etmək istəyirdi, ona görə də Murada bir az paxıllıq edir."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "At ten o'clock, Murad stands in front of fifteen people.",
+            "translation": "Saat onda Murad on beş nəfərin qarşısında dayanır."
+          },
+          {
+            "text": "In the first minute, he drops his notes on the floor, and everybody looks at him.",
+            "translation": "Birinci dəqiqədə qeydlərini yerə salır və hamı ona baxır."
+          },
+          {
+            "text": "He feels embarrassed, and his face turns red.",
+            "translation": "O, utanır və üzü qızarır."
+          },
+          {
+            "text": "Then the projector stops working, and he starts to feel frustrated.",
+            "translation": "Sonra proyektor işləməyi dayandırır və o, əsəbiləşməyə başlayır."
+          },
+          {
+            "text": "But he takes a deep breath, picks up his notes and starts again without the slides.",
+            "translation": "Amma dərindən nəfəs alır, qeydlərini yerdən götürür və slaydlar olmadan yenidən başlayır."
+          },
+          {
+            "text": "With every minute, he becomes more confident.",
+            "translation": "Hər dəqiqə keçdikcə özünə inamı artır."
+          },
+          {
+            "text": "He tells a funny story about a lost suitcase, and people start to laugh.",
+            "translation": "O, itmiş çamadan haqqında gülməli bir əhvalat danışır və insanlar gülməyə başlayır."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Now the presentation has just finished, and everyone is clapping.",
+            "translation": "İndi təqdimat elə indicə bitib və hamı əl çalır."
+          },
+          {
+            "text": "Murad feels relieved.",
+            "translation": "Muradın ürəyi rahatlayır."
+          },
+          {
+            "text": "His manager has already sent him a message: “Great job! I'm delighted with your ideas.”",
+            "translation": "Müdiri artıq ona mesaj göndərib: «Əla iş idi! Fikirlərindən çox məmnunam»."
+          },
+          {
+            "text": "Even Elnur comes over and shakes his hand.",
+            "translation": "Hətta Elnur da yaxınlaşıb onun əlini sıxır."
+          },
+          {
+            "text": "He looks a little ashamed and says, “Sorry I was upset this morning. You did really well.”",
+            "translation": "O, bir az xəcalətli görünür və deyir: «Bu səhər əsəbi olduğum üçün bağışla. Həqiqətən əla çıxış etdin»."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Murad is grateful to Nigar, so he has bought her a box of chocolates as a thank-you.",
+            "translation": "Murad Nigara minnətdardır, ona görə də təşəkkür əlaməti olaraq ona bir qutu şokolad alıb."
+          },
+          {
+            "text": "“Are you disappointed that the projector broke?” she asks with a smile.",
+            "translation": "«Proyektor xarab olduğu üçün məyussan?» – deyə Nigar gülümsəyərək soruşur."
+          },
+          {
+            "text": "“Not at all,” Murad says. “I've just learned that I don't need slides to do a good job.”",
+            "translation": "«Heç də yox», – deyir Murad. – «İndicə başa düşdüm ki, yaxşı iş görmək üçün mənə slaydlar lazım deyil»."
+          },
+          {
+            "text": "“For the first time since I started here, I'm proud of myself.”",
+            "translation": "«Burada işləməyə başlayandan bəri ilk dəfədir ki, özümlə fəxr edirəm»."
+          },
+          {
+            "text": "Nigar laughs. “Good. And you've already made two friends here – me and Elnur.”",
+            "translation": "Nigar gülür: «Yaxşı. Üstəlik, burada artıq iki dost qazanmısan – mən və Elnur»."
+          }
+        ]
+      }
+    ],
+    "glossary": [
+      {
+        "term": "just",
+        "lemma": "just",
+        "partOfSpeech": "adverb",
+        "meaning": "a very short time ago",
+        "translation": "indicə, təzəcə"
+      },
+      {
+        "term": "travel company",
+        "lemma": "travel company",
+        "partOfSpeech": "noun",
+        "meaning": "a company that plans trips and sells vacations",
+        "translation": "səyahət şirkəti"
+      },
+      {
+        "term": "give his first presentation",
+        "lemma": "give a presentation",
+        "partOfSpeech": "phrase",
+        "meaning": "to talk to a group about a topic, often with pictures on a screen",
+        "translation": "təqdimat etmək"
+      },
+      {
+        "term": "in front of",
+        "lemma": "in front of",
+        "partOfSpeech": "phrase",
+        "meaning": "before a person or a group, facing them",
+        "translation": "qarşısında"
+      },
+      {
+        "term": "already",
+        "lemma": "already",
+        "partOfSpeech": "adverb",
+        "meaning": "before now; earlier than expected",
+        "translation": "artıq"
+      },
+      {
+        "term": "slides",
+        "lemma": "slide",
+        "partOfSpeech": "noun",
+        "meaning": "pages of a presentation shown on a screen",
+        "translation": "slaydlar"
+      },
+      {
+        "term": "practiced",
+        "lemma": "practice",
+        "partOfSpeech": "verb",
+        "meaning": "did something many times to get better at it",
+        "translation": "məşq etdi"
+      },
+      {
+        "term": "speech",
+        "lemma": "speech",
+        "partOfSpeech": "noun",
+        "meaning": "a talk that you give to a group of people",
+        "translation": "çıxış"
+      },
+      {
+        "term": "yet",
+        "lemma": "yet",
+        "partOfSpeech": "adverb",
+        "meaning": "until now (in negative sentences and questions)",
+        "translation": "hələ"
+      },
+      {
+        "term": "anxious",
+        "lemma": "anxious",
+        "partOfSpeech": "adjective",
+        "meaning": "worried and nervous",
+        "translation": "narahat, həyəcanlı"
+      },
+      {
+        "term": "at once",
+        "lemma": "at once",
+        "partOfSpeech": "phrase",
+        "meaning": "at the same time",
+        "translation": "eyni anda"
+      },
+      {
+        "term": "shakes",
+        "lemma": "shake",
+        "partOfSpeech": "verb",
+        "meaning": "moves a little because of fear or cold",
+        "translation": "titrəyir"
+      },
+      {
+        "term": "meeting room",
+        "lemma": "meeting room",
+        "partOfSpeech": "noun",
+        "meaning": "a room at work where people have meetings",
+        "translation": "iclas otağı"
+      },
+      {
+        "term": "lonely",
+        "lemma": "lonely",
+        "partOfSpeech": "adjective",
+        "meaning": "unhappy because you are alone",
+        "translation": "tənha"
+      },
+      {
+        "term": "made any friends",
+        "lemma": "make friends",
+        "partOfSpeech": "phrase",
+        "meaning": "to start new friendships",
+        "translation": "dostlaşmaq"
+      },
+      {
+        "term": "colleague",
+        "lemma": "colleague",
+        "partOfSpeech": "noun",
+        "meaning": "a person you work with",
+        "translation": "iş yoldaşı"
+      },
+      {
+        "term": "friendly",
+        "lemma": "friendly",
+        "partOfSpeech": "adjective",
+        "meaning": "kind and pleasant to other people",
+        "translation": "mehriban"
+      },
+      {
+        "term": "curious",
+        "lemma": "curious",
+        "partOfSpeech": "adjective",
+        "meaning": "wanting to know more about something",
+        "translation": "maraqlanan"
+      },
+      {
+        "term": "Not yet",
+        "lemma": "not yet",
+        "partOfSpeech": "phrase",
+        "meaning": "no, but it will probably happen later",
+        "translation": "hələ yox"
+      },
+      {
+        "term": "calm",
+        "lemma": "calm",
+        "partOfSpeech": "adjective",
+        "meaning": "relaxed, not worried",
+        "translation": "sakit"
+      },
+      {
+        "term": "jealous",
+        "lemma": "jealous",
+        "partOfSpeech": "adjective",
+        "meaning": "unhappy because someone has something that you want",
+        "translation": "paxıl"
+      },
+      {
+        "term": "drops",
+        "lemma": "drop",
+        "partOfSpeech": "verb",
+        "meaning": "lets something fall by accident",
+        "translation": "yerə salır"
+      },
+      {
+        "term": "notes",
+        "lemma": "note",
+        "partOfSpeech": "noun",
+        "meaning": "short pieces of writing that help you remember",
+        "translation": "qeydlər"
+      },
+      {
+        "term": "embarrassed",
+        "lemma": "embarrassed",
+        "partOfSpeech": "adjective",
+        "meaning": "feeling shy and silly in front of other people",
+        "translation": "utanmış"
+      },
+      {
+        "term": "turns red",
+        "lemma": "turn red",
+        "partOfSpeech": "phrase",
+        "meaning": "becomes red in the face, often because of shame",
+        "translation": "qızarmaq"
+      },
+      {
+        "term": "projector",
+        "lemma": "projector",
+        "partOfSpeech": "noun",
+        "meaning": "a machine that shows pictures on a screen or a wall",
+        "translation": "proyektor"
+      },
+      {
+        "term": "frustrated",
+        "lemma": "frustrated",
+        "partOfSpeech": "adjective",
+        "meaning": "annoyed because something is not working",
+        "translation": "əsəbiləşmiş"
+      },
+      {
+        "term": "takes a deep breath",
+        "lemma": "take a deep breath",
+        "partOfSpeech": "phrase",
+        "meaning": "to breathe in a lot of air, often to feel calmer",
+        "translation": "dərindən nəfəs almaq"
+      },
+      {
+        "term": "picks up",
+        "lemma": "pick up",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "takes something up from the floor",
+        "translation": "yerdən götürür"
+      },
+      {
+        "term": "confident",
+        "lemma": "confident",
+        "partOfSpeech": "adjective",
+        "meaning": "sure that you can do something well",
+        "translation": "özünə inamlı"
+      },
+      {
+        "term": "suitcase",
+        "lemma": "suitcase",
+        "partOfSpeech": "noun",
+        "meaning": "a large bag with a handle that you use when you travel",
+        "translation": "çamadan"
+      },
+      {
+        "term": "clapping",
+        "lemma": "clap",
+        "partOfSpeech": "verb",
+        "meaning": "hitting your hands together to show that you liked something",
+        "translation": "əl çalır, alqışlayır"
+      },
+      {
+        "term": "relieved",
+        "lemma": "relieved",
+        "partOfSpeech": "adjective",
+        "meaning": "happy because a worry has ended",
+        "translation": "ürəyi rahatlamış"
+      },
+      {
+        "term": "manager",
+        "lemma": "manager",
+        "partOfSpeech": "noun",
+        "meaning": "the person who is in charge of a team",
+        "translation": "müdir"
+      },
+      {
+        "term": "delighted",
+        "lemma": "delighted",
+        "partOfSpeech": "adjective",
+        "meaning": "very pleased",
+        "translation": "çox məmnun"
+      },
+      {
+        "term": "comes over",
+        "lemma": "come over",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "moves toward someone",
+        "translation": "yaxınlaşır"
+      },
+      {
+        "term": "shakes his hand",
+        "lemma": "shake someone's hand",
+        "partOfSpeech": "phrase",
+        "meaning": "to hold someone's hand and move it up and down, for example to say well done",
+        "translation": "əlini sıxmaq"
+      },
+      {
+        "term": "ashamed",
+        "lemma": "ashamed",
+        "partOfSpeech": "adjective",
+        "meaning": "feeling bad about something wrong that you did",
+        "translation": "xəcalətli"
+      },
+      {
+        "term": "upset",
+        "lemma": "upset",
+        "partOfSpeech": "adjective",
+        "meaning": "unhappy and a little angry",
+        "translation": "əsəbi, pərişan"
+      },
+      {
+        "term": "grateful",
+        "lemma": "grateful",
+        "partOfSpeech": "adjective",
+        "meaning": "wanting to thank someone",
+        "translation": "minnətdar"
+      },
+      {
+        "term": "a box of chocolates",
+        "lemma": "a box of chocolates",
+        "partOfSpeech": "phrase",
+        "meaning": "a box with many small sweets made of chocolate",
+        "translation": "bir qutu şokolad"
+      },
+      {
+        "term": "as a thank-you",
+        "lemma": "as a thank-you",
+        "partOfSpeech": "phrase",
+        "meaning": "to show that you are grateful",
+        "translation": "təşəkkür əlaməti olaraq"
+      },
+      {
+        "term": "disappointed",
+        "lemma": "disappointed",
+        "partOfSpeech": "adjective",
+        "meaning": "sad because something was not as good as you hoped",
+        "translation": "məyus"
+      },
+      {
+        "term": "Not at all",
+        "lemma": "not at all",
+        "partOfSpeech": "phrase",
+        "meaning": "no, in no way",
+        "translation": "heç də yox"
+      },
+      {
+        "term": "For the first time",
+        "lemma": "for the first time",
+        "partOfSpeech": "phrase",
+        "meaning": "and never before",
+        "translation": "ilk dəfə"
+      },
+      {
+        "term": "proud",
+        "lemma": "proud",
+        "partOfSpeech": "adjective",
+        "meaning": "pleased about what you have done",
+        "translation": "fəxr edən"
+      }
+    ]
+  },
+  "grammar": {
+    "topic": "Present perfect with just, already and yet",
+    "topicTranslation": "Just, already və yet ilə present perfect",
+    "explanation": "We often use just, already and yet with the present perfect. Just means “a very short time ago”. Already means “before now” or “earlier than expected”, and we usually use it in positive sentences. Yet means “until now”; we use it in negative sentences and questions, usually at the end.",
+    "explanationTranslation": "Present perfect ilə tez-tez just, already və yet sözləri işlədilir. Just “indicə, təzəcə” deməkdir. Already “artıq, gözləniləndən tez” mənasını verir və adətən təsdiq cümlələrində işlədilir. Yet “hələ, indiyə qədər” mənasını verir; inkar və sual cümlələrində, adətən cümlənin sonunda işlədilir.",
+    "rules": [
+      {
+        "text": "Just and already go between have/has and the past participle: I have just eaten. She has already left.",
+        "translation": "Just və already have/has ilə feilin üçüncü forması arasında gəlir: I have just eaten. She has already left."
+      },
+      {
+        "text": "Yet goes at the end of negative sentences and questions: I haven't finished yet. Have you finished yet?",
+        "translation": "Yet inkar və sual cümlələrinin sonunda gəlir: I haven't finished yet. Have you finished yet?"
+      },
+      {
+        "text": "Use already in positive sentences, often when something happened sooner than expected.",
+        "translation": "Already təsdiq cümlələrində, çox vaxt hərəkət gözləniləndən tez baş verəndə işlədilir."
+      },
+      {
+        "text": "The short answer “Not yet” means that something has not happened, but we expect it to happen.",
+        "translation": "Qısa cavab “Not yet” hərəkətin hələ baş vermədiyini, amma baş verəcəyinin gözlənildiyini bildirir."
+      }
+    ],
+    "examples": [
+      {
+        "text": "I've just heard the good news, and I feel so relieved!",
+        "translation": "Xoş xəbəri indicə eşitdim və ürəyim çox rahatladı!"
+      },
+      {
+        "text": "She has already finished her homework.",
+        "translation": "O, ev tapşırığını artıq bitirib."
+      },
+      {
+        "text": "We haven't paid the bill yet.",
+        "translation": "Hesabı hələ ödəməmişik."
+      },
+      {
+        "text": "Have you called your grandmother yet?",
+        "translation": "Nənənə artıq zəng etmisən?"
+      },
+      {
+        "text": "The train has just left.",
+        "translation": "Qatar indicə yola düşüb."
+      }
+    ],
+    "exercise": {
+      "instructions": "Choose or write the correct form.",
+      "instructionsTranslation": "Düzgün formanı seçin və ya yazın.",
+      "questions": [
+        {
+          "type": "choice",
+          "prompt": "I can't come now. I ___ my work yet.",
+          "promptTranslation": "İndi gələ bilmərəm. İşimi hələ bitirməmişəm.",
+          "options": [
+            "have finished",
+            "haven't finished",
+            "have just finished"
+          ],
+          "answer": "haven't finished",
+          "explanation": "Yet is used in negative sentences, so we need haven't.",
+          "explanationTranslation": "Yet inkar cümlələrində işlədilir, ona görə haven't lazımdır."
+        },
+        {
+          "type": "choice",
+          "prompt": "Don't cook dinner. I ___ ordered pizza.",
+          "promptTranslation": "Şam yeməyi bişirmə. Mən artıq pizza sifariş etmişəm.",
+          "options": [
+            "have already",
+            "haven't already",
+            "have yet"
+          ],
+          "answer": "have already",
+          "explanation": "Already goes in positive sentences, between have and the past participle.",
+          "explanationTranslation": "Already təsdiq cümlələrində have ilə feilin üçüncü forması arasında gəlir."
+        },
+        {
+          "type": "choice",
+          "prompt": "Look! It ___ started to snow.",
+          "promptTranslation": "Bax! İndicə qar yağmağa başladı.",
+          "options": [
+            "has just",
+            "has yet",
+            "hasn't just"
+          ],
+          "answer": "has just",
+          "explanation": "Just means “a very short time ago”, and it goes after has.",
+          "explanationTranslation": "Just “indicə” deməkdir və has-dan sonra gəlir."
+        },
+        {
+          "type": "text",
+          "prompt": "She ___ (just / call) me with the good news.",
+          "promptTranslation": "O, indicə xoş xəbərlə mənə zəng etdi.",
+          "answer": "has just called",
+          "acceptedAnswers": [
+            "'s just called"
+          ],
+          "explanation": "Has + just + past participle.",
+          "explanationTranslation": "Has + just + feilin üçüncü forması."
+        },
+        {
+          "type": "text",
+          "prompt": "We ___ (not / decide) where to go on vacation yet.",
+          "promptTranslation": "Tətildə hara gedəcəyimizə hələ qərar verməmişik.",
+          "answer": "haven't decided",
+          "acceptedAnswers": [
+            "have not decided"
+          ],
+          "explanation": "A negative sentence with yet: haven't + past participle.",
+          "explanationTranslation": "Yet ilə inkar cümləsi: haven't + feilin üçüncü forması."
+        }
+      ]
+    }
+  }
+}

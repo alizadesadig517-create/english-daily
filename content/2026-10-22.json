@@ -1,0 +1,1058 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-22",
+  "level": "B1",
+  "translationLanguage": "az",
+  "words": [
+    {
+      "word": "perform",
+      "ipa": "/pɚˈfɔrm/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "çıxış etmək, ifa etmək; yerinə yetirmək",
+          "definition": "to sing, dance, act or play music for people to watch; also to do a piece of work or a task",
+          "synonyms": [
+            "play",
+            "act",
+            "carry out"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The band performed three new songs last night.",
+              "translation": "Qrup dünən axşam üç yeni mahnı ifa etdi."
+            },
+            {
+              "text": "She is nervous because she has to perform in front of the whole school.",
+              "translation": "O, həyəcanlıdır, çünki bütün məktəbin qarşısında çıxış etməlidir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "audience",
+      "ipa": "/ˈɔdiəns/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "tamaşaçılar, dinləyicilər",
+          "definition": "the group of people who watch or listen to a show, concert, film or talk",
+          "synonyms": [
+            "spectators",
+            "viewers",
+            "listeners",
+            "crowd"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The audience clapped for five minutes.",
+              "translation": "Tamaşaçılar beş dəqiqə alqışladılar."
+            },
+            {
+              "text": "The film was made for a young audience.",
+              "translation": "Film gənc tamaşaçılar üçün çəkilmişdi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "admire",
+      "ipa": "/ədˈmaɪɚ/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "heyran olmaq; (bir şeyə) zövqlə tamaşa etmək",
+          "definition": "to like and respect someone or something very much; also to look at something beautiful with pleasure",
+          "synonyms": [
+            "respect",
+            "look up to",
+            "appreciate"
+          ],
+          "antonyms": [
+            "despise",
+            "look down on"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "I really admire my grandmother's courage.",
+              "translation": "Nənəmin cəsarətinə həqiqətən heyranam."
+            },
+            {
+              "text": "We stopped on the bridge to admire the view.",
+              "translation": "Mənzərəyə tamaşa etmək üçün körpünün üstündə dayandıq."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "talent",
+      "ipa": "/ˈtælənt/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "istedad",
+          "definition": "a natural ability to do something well",
+          "synonyms": [
+            "gift",
+            "ability",
+            "flair"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "She has a real talent for music.",
+              "translation": "Onun musiqiyə əsl istedadı var."
+            },
+            {
+              "text": "The school helps children discover their talents.",
+              "translation": "Məktəb uşaqlara istedadlarını kəşf etməyə kömək edir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "impressive",
+      "ipa": "/ɪmˈprɛsɪv/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "təsiredici, heyranedici",
+          "definition": "so good, big or skillful that people admire it",
+          "synonyms": [
+            "amazing",
+            "remarkable",
+            "outstanding"
+          ],
+          "antonyms": [
+            "unimpressive",
+            "ordinary"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The view from the top of the tower was impressive.",
+              "translation": "Qüllənin başından görünən mənzərə təsiredici idi."
+            },
+            {
+              "text": "It's impressive that he finished a marathon at the age of seventy.",
+              "translation": "Onun yetmiş yaşında marafonu başa vurması heyranedicidir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "stage",
+      "ipa": "/steɪdʒ/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "səhnə; mərhələ",
+          "definition": "the raised floor in a theater or hall where people perform; also one part or step of a process",
+          "synonyms": [
+            "platform",
+            "phase",
+            "step"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The actors bowed and left the stage.",
+              "translation": "Aktyorlar baş əyib səhnədən çıxdılar."
+            },
+            {
+              "text": "At this stage of the project, we need more help.",
+              "translation": "Layihənin bu mərhələsində bizə daha çox kömək lazımdır."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "rehearsal",
+      "ipa": "/rɪˈhɝsəl/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "məşq (tamaşa və ya konsertdən əvvəl)",
+          "definition": "a time when you practice a play, concert or show before you do it for people",
+          "synonyms": [
+            "practice",
+            "run-through"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "We have a rehearsal every Tuesday evening.",
+              "translation": "Hər çərşənbə axşamı məşqimiz olur."
+            },
+            {
+              "text": "The final rehearsal went very well.",
+              "translation": "Son məşq çox yaxşı keçdi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "applause",
+      "ipa": "/əˈplɔz/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "alqış, alqışlar",
+          "definition": "the sound of people clapping their hands to show that they liked something",
+          "synonyms": [
+            "clapping",
+            "cheering",
+            "ovation"
+          ],
+          "antonyms": [
+            "booing"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The singer came back on stage to loud applause.",
+              "translation": "Müğənni gurultulu alqışlar altında yenidən səhnəyə çıxdı."
+            },
+            {
+              "text": "Let's give her a big round of applause!",
+              "translation": "Gəlin onu gurultulu alqışlarla salamlayaq!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "painting",
+      "ipa": "/ˈpeɪntɪŋ/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "rəsm əsəri, tablo; rəssamlıq",
+          "definition": "a picture made with paint; also the activity or skill of making such pictures",
+          "synonyms": [
+            "picture",
+            "artwork",
+            "canvas"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "There is a beautiful painting of the sea in our living room.",
+              "translation": "Qonaq otağımızda dənizi təsvir edən gözəl bir tablo var."
+            },
+            {
+              "text": "My aunt started painting after she retired.",
+              "translation": "Bibim təqaüdə çıxandan sonra rəssamlıqla məşğul olmağa başladı."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sculpture",
+      "ipa": "/ˈskʌlptʃɚ/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "heykəl; heykəltəraşlıq",
+          "definition": "a piece of art made by shaping stone, wood, metal or clay; also the art of making these",
+          "synonyms": [
+            "statue",
+            "figure"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "There is a huge metal sculpture in front of the museum.",
+              "translation": "Muzeyin qarşısında böyük bir metal heykəl var."
+            },
+            {
+              "text": "She studied sculpture at the art academy.",
+              "translation": "O, rəssamlıq akademiyasında heykəltəraşlıq təhsili alıb."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "creative",
+      "ipa": "/kriˈeɪtɪv/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "yaradıcı",
+          "definition": "good at thinking of new ideas or making new and interesting things",
+          "synonyms": [
+            "imaginative",
+            "inventive",
+            "original"
+          ],
+          "antonyms": [
+            "unimaginative"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Our teacher is very creative – her lessons are never boring.",
+              "translation": "Müəllimimiz çox yaradıcıdır – onun dərsləri heç vaxt darıxdırıcı olmur."
+            },
+            {
+              "text": "Children need time for creative play.",
+              "translation": "Uşaqların yaradıcı oyunlar üçün vaxta ehtiyacı var."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "entertain",
+      "ipa": "/ˌɛntɚˈteɪn/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "əyləndirmək",
+          "definition": "to do something that people enjoy watching or listening to, so that they have a good time",
+          "synonyms": [
+            "amuse",
+            "delight"
+          ],
+          "antonyms": [
+            "bore"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The clown entertained the children for an hour.",
+              "translation": "Təlxək bir saat ərzində uşaqları əyləndirdi."
+            },
+            {
+              "text": "His job is to entertain tourists at the hotel.",
+              "translation": "Onun işi oteldəki turistləri əyləndirməkdir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "concert",
+      "ipa": "/ˈkɑnsɚt/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "konsert",
+          "definition": "a show where musicians play or singers sing in front of people",
+          "synonyms": [
+            "show",
+            "performance",
+            "gig"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "We bought tickets for the concert on Saturday.",
+              "translation": "Şənbə günkü konsertə bilet aldıq."
+            },
+            {
+              "text": "The concert was canceled because of the rain.",
+              "translation": "Konsert yağışa görə ləğv edildi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "critic",
+      "ipa": "/ˈkrɪtɪk/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "tənqidçi",
+          "definition": "a person whose job is to give their opinion about books, films, art or music",
+          "synonyms": [
+            "reviewer"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The film critic gave the movie five stars.",
+              "translation": "Kino tənqidçisi filmə beş ulduz verdi."
+            },
+            {
+              "text": "Critics loved her first novel.",
+              "translation": "Tənqidçilər onun ilk romanını çox bəyəndilər."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "masterpiece",
+      "ipa": "/ˈmæstɚˌpis/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "şah əsər, şedevr",
+          "definition": "a work of art, music or writing that is extremely good, often the best that a person has made",
+          "synonyms": [
+            "classic",
+            "work of art",
+            "gem"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Many people think this film is a masterpiece.",
+              "translation": "Çoxları bu filmi şah əsər hesab edir."
+            },
+            {
+              "text": "The cake you made is a real masterpiece!",
+              "translation": "Bişirdiyin tort əsl şedevrdir!"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "story": {
+    "title": "The Quiet Girl's Song",
+    "titleTranslation": "Sakit qızın mahnısı",
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "Every spring, the school where Aysel teaches music organizes an art evening for parents.",
+            "translation": "Hər yaz Aysəlin musiqi dərsi dediyi məktəb valideynlər üçün incəsənət axşamı təşkil edir."
+          },
+          {
+            "text": "First, visitors walk around the hall and look at the paintings and sculptures that the students have made during the year.",
+            "translation": "Əvvəlcə qonaqlar zalı gəzir və şagirdlərin il ərzində hazırladıqları rəsm əsərlərinə və heykəllərə baxırlar."
+          },
+          {
+            "text": "Some of the works are so good that parents ask to buy them.",
+            "translation": "Bəzi əsərlər o qədər yaxşı olur ki, valideynlər onları almaq istəyirlər."
+          },
+          {
+            "text": "Then comes a short concert, and Aysel is the teacher who chooses the singers.",
+            "translation": "Sonra qısa bir konsert olur və müğənniləri seçən müəllim Aysəldir."
+          },
+          {
+            "text": "This year, she wanted to give a chance to Nigar, a shy girl who never spoke in class.",
+            "translation": "Bu il o, sinifdə heç vaxt danışmayan utancaq qız Nigara şans vermək istəyirdi."
+          },
+          {
+            "text": "Aysel had heard her sing once in an empty classroom, and she knew that the girl had a rare talent.",
+            "translation": "Aysəl bir dəfə onun boş sinif otağında oxuduğunu eşitmişdi və bu qızın nadir istedadı olduğunu bilirdi."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "At first, Nigar refused to perform.",
+            "translation": "Əvvəlcə Nigar çıxış etməkdən imtina etdi."
+          },
+          {
+            "text": "“I can't stand on a stage in front of an audience,” she whispered. “My hands start shaking.”",
+            "translation": "«Mən tamaşaçıların qarşısında səhnədə dura bilmərəm», – deyə pıçıldadı. «Əllərim əsməyə başlayır.»"
+          },
+          {
+            "text": "Aysel didn't push her.",
+            "translation": "Aysəl onu məcbur etmədi."
+          },
+          {
+            "text": "Instead, she suggested a song that Nigar's grandmother used to sing to her at home.",
+            "translation": "Əvəzində, Nigarın nənəsinin vaxtilə evdə ona oxuduğu bir mahnını təklif etdi."
+          },
+          {
+            "text": "They practiced it every day after school in the small room which was next to the library.",
+            "translation": "Onlar hər gün dərsdən sonra kitabxananın yanındakı kiçik otaqda həmin mahnını məşq etdilər."
+          },
+          {
+            "text": "At the last rehearsal, Nigar sang the whole song without stopping for the first time.",
+            "translation": "Son məşqdə Nigar ilk dəfə mahnını dayanmadan, sonuna qədər oxudu."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "On the night of the concert, the hall was full of parents, teachers and even a local critic who wrote for the city newspaper.",
+            "translation": "Konsert axşamı zal valideynlər, müəllimlər, hətta şəhər qəzetinə yazan yerli bir tənqidçi ilə dolu idi."
+          },
+          {
+            "text": "People were still talking about the colorful paintings and the clay sculpture of a horse which stood near the door.",
+            "translation": "İnsanlar hələ də rəngarəng rəsm əsərlərindən və qapının yanında duran gil at heykəlindən danışırdılar."
+          },
+          {
+            "text": "The first performers were creative and funny, and they entertained the audience with a short play about a talking cat.",
+            "translation": "İlk çıxış edənlər yaradıcı və şən idilər; onlar danışan pişik haqqında qısa bir tamaşa ilə tamaşaçıları əyləndirdilər."
+          },
+          {
+            "text": "Then Nigar walked onto the stage, closed her eyes and began to sing.",
+            "translation": "Sonra Nigar səhnəyə çıxdı, gözlərini yumdu və oxumağa başladı."
+          },
+          {
+            "text": "The room became very quiet.",
+            "translation": "Zalda tam sakitlik yarandı."
+          },
+          {
+            "text": "Her voice was soft at first, but it grew stronger with every line.",
+            "translation": "Əvvəlcə onun səsi zəif idi, amma hər misra ilə daha da güclənirdi."
+          },
+          {
+            "text": "When she finished, there was a moment of silence, and then the applause filled the room.",
+            "translation": "O, mahnını bitirəndə bir anlıq sükut çökdü, sonra isə alqış səsləri zalı bürüdü."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "After the concert, the critic came over to Aysel.",
+            "translation": "Konsertdən sonra tənqidçi Aysəlin yanına gəldi."
+          },
+          {
+            "text": "“That was really impressive,” he said. “I have heard many famous singers, but that song was a small masterpiece.”",
+            "translation": "«Bu, həqiqətən təsiredici idi», – dedi. «Çox məşhur müğənnilər dinləmişəm, amma o mahnı kiçik bir şah əsər idi.»"
+          },
+          {
+            "text": "Nigar's parents were sitting in the front row with tears in their eyes.",
+            "translation": "Nigarın valideynləri ön cərgədə oturmuşdular, gözləri yaşarmışdı."
+          },
+          {
+            "text": "Later, Nigar hugged Aysel and said, “Thank you. You're the person who believed in me first.”",
+            "translation": "Sonra Nigar Aysəli qucaqladı və dedi: «Sağ olun. Mənə ilk inanan insan sizsiniz.»"
+          },
+          {
+            "text": "Aysel smiled; she had always admired people who face their fears, and tonight her quietest student was one of them.",
+            "translation": "Aysəl gülümsədi: o, həmişə qorxuları ilə üz-üzə gələn insanlara heyran olmuşdu, bu axşam isə ən sakit şagirdi də onlardan biri idi."
+          }
+        ]
+      }
+    ],
+    "glossary": [
+      {
+        "term": "organizes",
+        "lemma": "organize",
+        "partOfSpeech": "verb",
+        "meaning": "plans and arranges an event",
+        "translation": "təşkil edir"
+      },
+      {
+        "term": "art evening",
+        "lemma": "art evening",
+        "partOfSpeech": "noun",
+        "meaning": "an evening event where people can see art and listen to music",
+        "translation": "incəsənət axşamı"
+      },
+      {
+        "term": "visitors",
+        "lemma": "visitor",
+        "partOfSpeech": "noun",
+        "meaning": "people who come to see a place or an event",
+        "translation": "qonaqlar, ziyarətçilər"
+      },
+      {
+        "term": "walk around",
+        "lemma": "walk around",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "to walk to different parts of a place",
+        "translation": "gəzmək, dolaşmaq"
+      },
+      {
+        "term": "hall",
+        "lemma": "hall",
+        "partOfSpeech": "noun",
+        "meaning": "a large room for concerts, meetings or shows",
+        "translation": "zal"
+      },
+      {
+        "term": "paintings",
+        "lemma": "painting",
+        "partOfSpeech": "noun",
+        "meaning": "pictures made with paint",
+        "translation": "rəsm əsərləri, tablolar"
+      },
+      {
+        "term": "sculptures",
+        "lemma": "sculpture",
+        "partOfSpeech": "noun",
+        "meaning": "pieces of art made from stone, wood, metal or clay",
+        "translation": "heykəllər"
+      },
+      {
+        "term": "during",
+        "lemma": "during",
+        "partOfSpeech": "preposition",
+        "meaning": "from the beginning to the end of a period of time",
+        "translation": "ərzində, müddətində"
+      },
+      {
+        "term": "concert",
+        "lemma": "concert",
+        "partOfSpeech": "noun",
+        "meaning": "a show where people sing or play music",
+        "translation": "konsert"
+      },
+      {
+        "term": "give a chance to",
+        "lemma": "give a chance to",
+        "partOfSpeech": "phrase",
+        "meaning": "to let someone try to do something",
+        "translation": "(kiməsə) şans vermək"
+      },
+      {
+        "term": "shy",
+        "lemma": "shy",
+        "partOfSpeech": "adjective",
+        "meaning": "nervous and uncomfortable when talking to other people",
+        "translation": "utancaq"
+      },
+      {
+        "term": "rare",
+        "lemma": "rare",
+        "partOfSpeech": "adjective",
+        "meaning": "not common; not often found",
+        "translation": "nadir"
+      },
+      {
+        "term": "talent",
+        "lemma": "talent",
+        "partOfSpeech": "noun",
+        "meaning": "a natural ability to do something well",
+        "translation": "istedad"
+      },
+      {
+        "term": "At first",
+        "lemma": "at first",
+        "partOfSpeech": "phrase",
+        "meaning": "at the beginning",
+        "translation": "əvvəlcə"
+      },
+      {
+        "term": "refused",
+        "lemma": "refuse",
+        "partOfSpeech": "verb",
+        "meaning": "said that she would not do something",
+        "translation": "imtina etdi"
+      },
+      {
+        "term": "perform",
+        "lemma": "perform",
+        "partOfSpeech": "verb",
+        "meaning": "to sing, act or play music for people",
+        "translation": "çıxış etmək"
+      },
+      {
+        "term": "stage",
+        "lemma": "stage",
+        "partOfSpeech": "noun",
+        "meaning": "the raised floor where people perform",
+        "translation": "səhnə"
+      },
+      {
+        "term": "in front of",
+        "lemma": "in front of",
+        "partOfSpeech": "phrase",
+        "meaning": "facing someone, where they can see you",
+        "translation": "qarşısında"
+      },
+      {
+        "term": "audience",
+        "lemma": "audience",
+        "partOfSpeech": "noun",
+        "meaning": "the people who watch or listen to a show",
+        "translation": "tamaşaçılar"
+      },
+      {
+        "term": "whispered",
+        "lemma": "whisper",
+        "partOfSpeech": "verb",
+        "meaning": "said something very quietly",
+        "translation": "pıçıldadı"
+      },
+      {
+        "term": "shaking",
+        "lemma": "shake",
+        "partOfSpeech": "verb",
+        "meaning": "moving quickly from side to side, for example because of fear",
+        "translation": "əsmək, titrəmək"
+      },
+      {
+        "term": "push",
+        "lemma": "push",
+        "partOfSpeech": "verb",
+        "meaning": "to try to make someone do something they do not want to do",
+        "translation": "məcbur etmək, sıxışdırmaq"
+      },
+      {
+        "term": "Instead",
+        "lemma": "instead",
+        "partOfSpeech": "adverb",
+        "meaning": "in place of that; as a different choice",
+        "translation": "əvəzində"
+      },
+      {
+        "term": "suggested",
+        "lemma": "suggest",
+        "partOfSpeech": "verb",
+        "meaning": "offered an idea or a plan",
+        "translation": "təklif etdi"
+      },
+      {
+        "term": "used to",
+        "lemma": "used to",
+        "partOfSpeech": "phrase",
+        "meaning": "did something regularly in the past but not now",
+        "translation": "vaxtilə ...ardı/ərdi"
+      },
+      {
+        "term": "practiced",
+        "lemma": "practice",
+        "partOfSpeech": "verb",
+        "meaning": "did something many times to get better at it",
+        "translation": "məşq etdilər"
+      },
+      {
+        "term": "rehearsal",
+        "lemma": "rehearsal",
+        "partOfSpeech": "noun",
+        "meaning": "a practice of a song or show before the real performance",
+        "translation": "məşq"
+      },
+      {
+        "term": "whole",
+        "lemma": "whole",
+        "partOfSpeech": "adjective",
+        "meaning": "all of something; complete",
+        "translation": "bütün, tam"
+      },
+      {
+        "term": "without stopping",
+        "lemma": "without stopping",
+        "partOfSpeech": "phrase",
+        "meaning": "from start to end without a break",
+        "translation": "dayanmadan"
+      },
+      {
+        "term": "local",
+        "lemma": "local",
+        "partOfSpeech": "adjective",
+        "meaning": "from the town or area where you live",
+        "translation": "yerli"
+      },
+      {
+        "term": "critic",
+        "lemma": "critic",
+        "partOfSpeech": "noun",
+        "meaning": "a person whose job is to write opinions about art, music or films",
+        "translation": "tənqidçi"
+      },
+      {
+        "term": "colorful",
+        "lemma": "colorful",
+        "partOfSpeech": "adjective",
+        "meaning": "having many bright colors",
+        "translation": "rəngarəng"
+      },
+      {
+        "term": "clay",
+        "lemma": "clay",
+        "partOfSpeech": "noun",
+        "meaning": "soft earth that becomes hard when it is dry, used to make pots and art",
+        "translation": "gil"
+      },
+      {
+        "term": "sculpture",
+        "lemma": "sculpture",
+        "partOfSpeech": "noun",
+        "meaning": "a piece of art made from stone, wood, metal or clay",
+        "translation": "heykəl"
+      },
+      {
+        "term": "performers",
+        "lemma": "performer",
+        "partOfSpeech": "noun",
+        "meaning": "people who sing, act or play music for an audience",
+        "translation": "çıxış edənlər, ifaçılar"
+      },
+      {
+        "term": "creative",
+        "lemma": "creative",
+        "partOfSpeech": "adjective",
+        "meaning": "good at making new and interesting things",
+        "translation": "yaradıcı"
+      },
+      {
+        "term": "entertained",
+        "lemma": "entertain",
+        "partOfSpeech": "verb",
+        "meaning": "did something that people enjoyed watching",
+        "translation": "əyləndirdilər"
+      },
+      {
+        "term": "play",
+        "lemma": "play",
+        "partOfSpeech": "noun",
+        "meaning": "a story that actors perform in a theater or on a stage",
+        "translation": "tamaşa, pyes"
+      },
+      {
+        "term": "soft",
+        "lemma": "soft",
+        "partOfSpeech": "adjective",
+        "meaning": "quiet and gentle, not loud",
+        "translation": "zəif, yumşaq"
+      },
+      {
+        "term": "grew stronger",
+        "lemma": "grow stronger",
+        "partOfSpeech": "phrase",
+        "meaning": "became stronger little by little",
+        "translation": "gücləndi"
+      },
+      {
+        "term": "line",
+        "lemma": "line",
+        "partOfSpeech": "noun",
+        "meaning": "one row of words in a song or poem",
+        "translation": "misra, sətir"
+      },
+      {
+        "term": "silence",
+        "lemma": "silence",
+        "partOfSpeech": "noun",
+        "meaning": "a time when there is no sound",
+        "translation": "sükut"
+      },
+      {
+        "term": "applause",
+        "lemma": "applause",
+        "partOfSpeech": "noun",
+        "meaning": "the sound of people clapping to show they liked something",
+        "translation": "alqış"
+      },
+      {
+        "term": "filled",
+        "lemma": "fill",
+        "partOfSpeech": "verb",
+        "meaning": "made a place full",
+        "translation": "bürüdü, doldurdu"
+      },
+      {
+        "term": "came over to",
+        "lemma": "come over to",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "walked to the place where someone was",
+        "translation": "(kiminsə) yanına gəldi"
+      },
+      {
+        "term": "impressive",
+        "lemma": "impressive",
+        "partOfSpeech": "adjective",
+        "meaning": "very good, so that people admire it",
+        "translation": "təsiredici"
+      },
+      {
+        "term": "famous",
+        "lemma": "famous",
+        "partOfSpeech": "adjective",
+        "meaning": "known by many people",
+        "translation": "məşhur"
+      },
+      {
+        "term": "masterpiece",
+        "lemma": "masterpiece",
+        "partOfSpeech": "noun",
+        "meaning": "an extremely good work of art",
+        "translation": "şah əsər, şedevr"
+      },
+      {
+        "term": "works",
+        "lemma": "work",
+        "partOfSpeech": "noun",
+        "meaning": "things that artists make, like paintings or sculptures",
+        "translation": "əsərlər"
+      },
+      {
+        "term": "front row",
+        "lemma": "front row",
+        "partOfSpeech": "noun",
+        "meaning": "the first line of seats, nearest to the stage",
+        "translation": "ön cərgə"
+      },
+      {
+        "term": "tears",
+        "lemma": "tear",
+        "partOfSpeech": "noun",
+        "meaning": "drops of water that come from your eyes when you cry",
+        "translation": "göz yaşları"
+      },
+      {
+        "term": "hugged",
+        "lemma": "hug",
+        "partOfSpeech": "verb",
+        "meaning": "put her arms around someone to show love or thanks",
+        "translation": "qucaqladı"
+      },
+      {
+        "term": "believed in",
+        "lemma": "believe in",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "felt sure that someone could do something well",
+        "translation": "inandı"
+      },
+      {
+        "term": "admired",
+        "lemma": "admire",
+        "partOfSpeech": "verb",
+        "meaning": "liked and respected very much",
+        "translation": "heyran olmuşdu"
+      },
+      {
+        "term": "article",
+        "lemma": "article",
+        "partOfSpeech": "noun",
+        "meaning": "a piece of writing in a newspaper or magazine",
+        "translation": "məqalə"
+      },
+      {
+        "term": "face their fears",
+        "lemma": "face your fears",
+        "partOfSpeech": "idiom",
+        "meaning": "to deal with the things that frighten you instead of running away",
+        "translation": "qorxuları ilə üz-üzə gəlmək"
+      }
+    ]
+  },
+  "grammar": {
+    "topic": "Defining relative clauses: who, which, that, where",
+    "topicTranslation": "Təyinedici budaq cümlələri: who, which, that, where",
+    "explanation": "A defining relative clause gives important information about a noun. It tells us exactly which person, thing or place we mean. We use who for people, which for things, and that for both people and things. We use where for places. We do not put commas around a defining relative clause.",
+    "explanationTranslation": "Təyinedici budaq cümləsi isim haqqında vacib məlumat verir. O, konkret olaraq hansı insanı, əşyanı və ya yeri nəzərdə tutduğumuzu göstərir. İnsanlar üçün who, əşyalar üçün which, həm insanlar, həm də əşyalar üçün that işlədilir. Yerlər üçün where işlədilir. Təyinedici budaq cümləsi vergüllə ayrılmır.",
+    "rules": [
+      {
+        "text": "Use who or that for people: The woman who (that) lives next door is a doctor.",
+        "translation": "İnsanlar üçün who və ya that işlədilir: The woman who (that) lives next door is a doctor."
+      },
+      {
+        "text": "Use which or that for things and animals: The book which (that) I bought is great.",
+        "translation": "Əşyalar və heyvanlar üçün which və ya that işlədilir: The book which (that) I bought is great."
+      },
+      {
+        "text": "Use where for places: This is the café where we first met.",
+        "translation": "Yerlər üçün where işlədilir: This is the café where we first met."
+      },
+      {
+        "text": "When who, which or that is the object of the clause, you can leave it out: The song (that) she sang was beautiful.",
+        "translation": "who, which və ya that budaq cümləsində tamamlıq olduqda onu buraxmaq olar: The song (that) she sang was beautiful."
+      }
+    ],
+    "examples": [
+      {
+        "text": "Nigar is the girl who sang at the concert.",
+        "translation": "Nigar konsertdə oxuyan qızdır."
+      },
+      {
+        "text": "I admire people who work hard.",
+        "translation": "Çox çalışan insanlara heyranam."
+      },
+      {
+        "text": "That's the theater where my uncle performs every weekend.",
+        "translation": "Bura əmimin hər həftəsonu çıxış etdiyi teatrdır."
+      },
+      {
+        "text": "The phone which I bought last week has an impressive camera.",
+        "translation": "Keçən həftə aldığım telefonun təsiredici kamerası var."
+      },
+      {
+        "text": "The painting that won the prize is by a young artist.",
+        "translation": "Mükafat qazanan rəsm əsəri gənc bir rəssama məxsusdur."
+      }
+    ],
+    "exercise": {
+      "instructions": "Complete the sentences with who, which, that or where.",
+      "instructionsTranslation": "Cümlələri who, which, that və ya where ilə tamamlayın.",
+      "questions": [
+        {
+          "type": "choice",
+          "prompt": "The man ___ lives next door is a pianist.",
+          "promptTranslation": "Qonşuluqda yaşayan kişi pianoçudur.",
+          "options": [
+            "who",
+            "which",
+            "where"
+          ],
+          "answer": "who",
+          "explanation": "Use who for people.",
+          "explanationTranslation": "İnsanlar üçün who işlədilir."
+        },
+        {
+          "type": "choice",
+          "prompt": "This is the café ___ we first met.",
+          "promptTranslation": "Bu, ilk dəfə tanış olduğumuz kafedir.",
+          "options": [
+            "which",
+            "where",
+            "who"
+          ],
+          "answer": "where",
+          "explanation": "Use where for places.",
+          "explanationTranslation": "Yerlər üçün where işlədilir."
+        },
+        {
+          "type": "text",
+          "prompt": "I have a friend ___ (who / which) can speak five languages.",
+          "promptTranslation": "Beş dildə danışa bilən bir dostum var.",
+          "answer": "who",
+          "acceptedAnswers": [
+            "that"
+          ],
+          "explanation": "A friend is a person, so we use who (that is also correct).",
+          "explanationTranslation": "Dost insandır, ona görə who işlədilir (that də düzgündür)."
+        },
+        {
+          "type": "choice",
+          "prompt": "Is this the bag ___ you lost?",
+          "promptTranslation": "İtirdiyin çanta budur?",
+          "options": [
+            "where",
+            "who",
+            "that"
+          ],
+          "answer": "that",
+          "explanation": "A bag is a thing, so we use that (or which).",
+          "explanationTranslation": "Çanta əşyadır, ona görə that (və ya which) işlədilir."
+        },
+        {
+          "type": "text",
+          "prompt": "Baku is the city ___ (where / which) I was born.",
+          "promptTranslation": "Bakı mənim doğulduğum şəhərdir.",
+          "answer": "where",
+          "explanation": "A city is a place, and the clause means “in the city”, so we use where.",
+          "explanationTranslation": "Şəhər yerdir və budaq cümlə “şəhərdə” mənasını verir, ona görə where işlədilir."
+        }
+      ]
+    }
+  }
+}

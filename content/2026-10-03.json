@@ -1,0 +1,1077 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-03",
+  "level": "B1",
+  "translationLanguage": "az",
+  "words": [
+    {
+      "word": "journey",
+      "ipa": "/ˈdʒɝːni/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "səyahət, yol, səfər",
+          "definition": "a trip from one place to another, especially a long one",
+          "synonyms": [
+            "trip",
+            "voyage"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The journey from Baku to Sheki takes about five hours.",
+              "translation": "Bakıdan Şəkiyə yol təxminən beş saat çəkir."
+            },
+            {
+              "text": "Have a safe journey!",
+              "translation": "Yolunuz açıq olsun!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "luggage",
+      "ipa": "/ˈlʌɡɪdʒ/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "baqaj, yük (çamadanlar)",
+          "definition": "the bags and suitcases that you take with you when you travel",
+          "synonyms": [
+            "baggage",
+            "bags"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "How much luggage are you taking?",
+              "translation": "Özünlə nə qədər yük götürürsən?"
+            },
+            {
+              "text": "Our luggage arrived two hours after us.",
+              "translation": "Baqajımız bizdən iki saat sonra gəldi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "abroad",
+      "ipa": "/əˈbrɔːd/",
+      "senses": [
+        {
+          "partOfSpeech": "adverb",
+          "translation": "xaricdə, xaricə",
+          "definition": "in or to a foreign country",
+          "synonyms": [
+            "overseas"
+          ],
+          "antonyms": [
+            "at home"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "My brother lives and works abroad.",
+              "translation": "Qardaşım xaricdə yaşayır və işləyir."
+            },
+            {
+              "text": "She went abroad to study medicine.",
+              "translation": "O, tibb təhsili almaq üçün xaricə getdi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "destination",
+      "ipa": "/ˌdɛstəˈneɪʃən/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "təyinat yeri, gediləcək yer; məkan",
+          "definition": "the place where someone or something is going",
+          "synonyms": [],
+          "antonyms": [
+            "starting point"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Paris is a popular tourist destination.",
+              "translation": "Paris məşhur turizm məkanıdır."
+            },
+            {
+              "text": "We reached our destination late at night.",
+              "translation": "Gedəcəyimiz yerə gecə gec çatdıq."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "explore",
+      "ipa": "/ɪkˈsplɔːr/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "gəzib tanış olmaq, kəşf etmək; araşdırmaq",
+          "definition": "to travel around a place to learn about it; also, to think about or study something carefully",
+          "synonyms": [
+            "discover",
+            "investigate",
+            "look around"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "We spent the afternoon exploring the old city.",
+              "translation": "Günortadan sonranı köhnə şəhəri gəzib tanış olmaqla keçirdik."
+            },
+            {
+              "text": "The company is exploring new ways to save energy.",
+              "translation": "Şirkət enerjiyə qənaət etməyin yeni yollarını araşdırır."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "passport",
+      "ipa": "/ˈpæspɔːrt/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "pasport",
+          "definition": "an official document with your photo that you need to travel to other countries",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Don't forget your passport!",
+              "translation": "Pasportunu unutma!"
+            },
+            {
+              "text": "My passport expires next year.",
+              "translation": "Pasportumun müddəti gələn il bitir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "souvenir",
+      "ipa": "/ˌsuːvəˈnɪr/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "suvenir, xatirə hədiyyəsi",
+          "definition": "something you buy or keep to remember a place or a vacation",
+          "synonyms": [
+            "keepsake",
+            "memento"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "We bought some souvenirs for our friends.",
+              "translation": "Dostlarımız üçün bir neçə suvenir aldıq."
+            },
+            {
+              "text": "This cup is a souvenir from my trip to Italy.",
+              "translation": "Bu fincan İtaliya səfərimdən xatirədir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sightseeing",
+      "ipa": "/ˈsaɪtˌsiːɪŋ/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "görməli yerləri gəzmək, ekskursiya",
+          "definition": "visiting famous or interesting places as a tourist",
+          "synonyms": [
+            "touring"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "We spent the whole day sightseeing in Rome.",
+              "translation": "Bütün günü Romada görməli yerləri gəzməklə keçirdik."
+            },
+            {
+              "text": "Do you want to go sightseeing tomorrow?",
+              "translation": "Sabah görməli yerləri gəzməyə getmək istəyirsən?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "guide",
+      "ipa": "/ɡaɪd/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "bələdçi; bələdçi kitabı",
+          "definition": "a person who shows tourists around a place; also, a book with information about a place",
+          "synonyms": [
+            "tour guide",
+            "guidebook"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Our guide told us the history of the castle.",
+              "translation": "Bələdçimiz bizə qalanın tarixini danışdı."
+            },
+            {
+              "text": "I bought a travel guide to Portugal.",
+              "translation": "Portuqaliya haqqında səyahət bələdçisi kitabı aldım."
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "verb",
+          "translation": "yol göstərmək, bələdçilik etmək",
+          "definition": "to show someone the way or help them go somewhere",
+          "synonyms": [
+            "lead",
+            "direct",
+            "show"
+          ],
+          "antonyms": [
+            "mislead"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "A local boy guided us to the old bridge.",
+              "translation": "Yerli bir oğlan bizi köhnə körpüyə qədər apardı."
+            },
+            {
+              "text": "The teacher guided the students through the museum.",
+              "translation": "Müəllim tələbələri muzeydə gəzdirdi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "accommodation",
+      "ipa": "/əˌkɑːməˈdeɪʃən/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "qalmaq üçün yer, yaşayış yeri",
+          "definition": "a place to live or stay, for example a hotel room or an apartment",
+          "synonyms": [
+            "lodging",
+            "housing"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The price includes flights and accommodation.",
+              "translation": "Qiymətə uçuşlar və qalmaq üçün yer daxildir."
+            },
+            {
+              "text": "It's hard to find cheap accommodation in summer.",
+              "translation": "Yayda ucuz qalacaq yer tapmaq çətindir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "landscape",
+      "ipa": "/ˈlændskeɪp/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "mənzərə, landşaft",
+          "definition": "everything you can see when you look across a large area of land",
+          "synonyms": [
+            "scenery",
+            "view"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The landscape in the north of Azerbaijan is green and beautiful.",
+              "translation": "Azərbaycanın şimalında mənzərə yaşıl və gözəldir."
+            },
+            {
+              "text": "He loves painting mountain landscapes.",
+              "translation": "O, dağ mənzərələri çəkməyi çox sevir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "wander",
+      "ipa": "/ˈwɑːndɚ/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "gəzib dolaşmaq, məqsədsiz gəzmək",
+          "definition": "to walk slowly around a place without a clear plan or direction",
+          "synonyms": [
+            "stroll",
+            "roam"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "We wandered through the old streets for hours.",
+              "translation": "Saatlarla köhnə küçələri gəzib dolaşdıq."
+            },
+            {
+              "text": "Don't let the children wander too far.",
+              "translation": "Qoyma uşaqlar çox uzağa getsinlər."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "foreign",
+      "ipa": "/ˈfɔːrən/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "xarici, yad",
+          "definition": "from or connected with a country that is not your own",
+          "synonyms": [
+            "overseas",
+            "international"
+          ],
+          "antonyms": [
+            "domestic",
+            "local",
+            "native"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Do you speak any foreign languages?",
+              "translation": "Hər hansı xarici dil bilirsən?"
+            },
+            {
+              "text": "Many foreign tourists visit Baku every year.",
+              "translation": "Hər il çoxlu xarici turist Bakıya gəlir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "route",
+      "ipa": "/ruːt/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "marşrut, yol",
+          "definition": "the way you go from one place to another",
+          "synonyms": [
+            "way",
+            "path"
+          ],
+          "antonyms": [],
+          "homonyms": [
+            {
+              "word": "root",
+              "meaning": "the part of a plant that grows under the ground (sounds the same as \"route\")",
+              "translation": "kök"
+            }
+          ],
+          "examples": [
+            {
+              "text": "What's the fastest route to the airport?",
+              "translation": "Hava limanına ən tez gedən yol hansıdır?"
+            },
+            {
+              "text": "This bus route goes through the city center.",
+              "translation": "Bu avtobus marşrutu şəhərin mərkəzindən keçir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unforgettable",
+      "ipa": "/ˌʌnfɚˈɡɛtəbəl/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "unudulmaz",
+          "definition": "so special or beautiful that you will always remember it",
+          "synonyms": [
+            "memorable"
+          ],
+          "antonyms": [
+            "forgettable",
+            "ordinary"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Our trip to the mountains was unforgettable.",
+              "translation": "Dağlara səfərimiz unudulmaz idi."
+            },
+            {
+              "text": "Thank you for an unforgettable evening!",
+              "translation": "Unudulmaz axşam üçün təşəkkür edirəm!"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "story": {
+    "title": "The Lost Suitcase",
+    "titleTranslation": "İtmiş çamadan",
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "Last spring, Aysel traveled abroad for the first time.",
+            "translation": "Keçən yaz Aysel ilk dəfə xaricə səyahət etdi."
+          },
+          {
+            "text": "Her destination was Lisbon, a city she always wanted to see.",
+            "translation": "Getdiyi yer həmişə görmək istədiyi şəhər – Lissabon idi."
+          },
+          {
+            "text": "She planned the trip for months: she booked cheap accommodation near the old town, read a travel guide and studied the route from the airport to her hotel.",
+            "translation": "O, səfəri aylarla planlaşdırdı: köhnə şəhərin yaxınlığında ucuz qalacaq yer sifariş etdi, səyahət bələdçisi kitabı oxudu və hava limanından otelə gedən marşrutu öyrəndi."
+          },
+          {
+            "text": "On the plane, she was holding her new passport and smiling like a child.",
+            "translation": "Təyyarədə o, yeni pasportunu əlində tutub uşaq kimi gülümsəyirdi."
+          },
+          {
+            "text": "The journey was long, and she was feeling tired but happy.",
+            "translation": "Yol uzun idi, o, yorğun, amma xoşbəxt idi."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "After the plane landed, she waited and waited for her luggage, but her red suitcase never came.",
+            "translation": "Təyyarə yerə enəndən sonra o, baqajını uzun müddət gözlədi, amma qırmızı çamadanı heç gəlmədi."
+          },
+          {
+            "text": "At eight o'clock in the evening, Aysel was standing at the information desk and trying not to cry.",
+            "translation": "Axşam saat səkkizdə Aysel məlumat masasının qarşısında dayanıb ağlamamağa çalışırdı."
+          },
+          {
+            "text": "She had only a small backpack with her phone, her wallet and a book.",
+            "translation": "Yanında yalnız telefonu, pul kisəsi və bir kitabı olan kiçik bel çantası var idi."
+          },
+          {
+            "text": "All around her, people were speaking a foreign language that she didn't understand.",
+            "translation": "Ətrafında hamı onun başa düşmədiyi xarici dildə danışırdı."
+          },
+          {
+            "text": "Luckily, a kind woman was working at the desk that night.",
+            "translation": "Xoşbəxtlikdən, həmin axşam masada mehriban bir qadın işləyirdi."
+          },
+          {
+            "text": "“Don't worry,” she said. “Your luggage is probably still in Istanbul. We'll bring it to your hotel tomorrow.”",
+            "translation": "«Narahat olmayın», – dedi. «Baqajınız yəqin ki, hələ İstanbuldadır. Sabah onu otelinizə gətirəcəyik.»"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The next morning, Aysel had no clean clothes, but she decided to go out and explore the city anyway.",
+            "translation": "Ertəsi səhər Ayselin təmiz paltarı yox idi, amma o, buna baxmayaraq çölə çıxıb şəhəri kəşf etməyə qərar verdi."
+          },
+          {
+            "text": "The sun was shining, people were drinking coffee in small cafes, and an old man was playing the guitar in the square.",
+            "translation": "Günəş parlayırdı, insanlar kiçik kafelərdə qəhvə içirdi, meydanda isə yaşlı bir kişi gitara çalırdı."
+          },
+          {
+            "text": "She forgot about her plans and her map and just wandered through the narrow streets.",
+            "translation": "O, planlarını və xəritəsini unudub sadəcə dar küçələrdə gəzib dolaşdı."
+          },
+          {
+            "text": "Around noon, she joined a free walking tour, and a young guide told the group funny stories about the city's history.",
+            "translation": "Günorta radələrində o, pulsuz piyada turuna qoşuldu, gənc bələdçi isə qrupa şəhərin tarixi haqqında gülməli hekayələr danışdı."
+          },
+          {
+            "text": "Sightseeing in Lisbon was hard work because of all the hills, but the views were amazing.",
+            "translation": "Təpələrin çoxluğu üzündən Lissabonda görməli yerləri gəzmək yorucu idi, amma mənzərələr möhtəşəm idi."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Later that afternoon, she took a tram to the coast.",
+            "translation": "Həmin gün günortadan sonra o, tramvayla sahilə getdi."
+          },
+          {
+            "text": "She was sitting by the window and watching the landscape change from busy streets to quiet beaches and the blue ocean.",
+            "translation": "O, pəncərənin yanında oturub mənzərənin səs-küylü küçələrdən sakit çimərliklərə və mavi okeana necə dəyişdiyini seyr edirdi."
+          },
+          {
+            "text": "She bought a T-shirt for herself and a small painted tile as a souvenir for her mother.",
+            "translation": "O, özünə bir futbolka, anasına isə suvenir olaraq kiçik naxışlı kaşı aldı."
+          },
+          {
+            "text": "By the evening, her feet were hurting, but her heart was full.",
+            "translation": "Axşama qədər ayaqları ağrıyırdı, amma ürəyi sevinclə dolu idi."
+          },
+          {
+            "text": "When she came back to the hotel, her suitcase was waiting for her at the front desk.",
+            "translation": "Otelə qayıdanda çamadanı qəbul masasında onu gözləyirdi."
+          },
+          {
+            "text": "Back home, she told her friends that her first trip abroad was unforgettable and that, strangely, losing her luggage was the best part of it.",
+            "translation": "Evə qayıdandan sonra o, dostlarına danışdı ki, xaricə ilk səfəri unudulmaz idi və qəribədir ki, baqajını itirmək bu səfərin ən yaxşı hissəsi oldu."
+          }
+        ]
+      }
+    ],
+    "glossary": [
+      {
+        "term": "traveled",
+        "lemma": "travel",
+        "partOfSpeech": "verb",
+        "meaning": "went on a trip to another place",
+        "translation": "səyahət etdi"
+      },
+      {
+        "term": "abroad",
+        "lemma": "abroad",
+        "partOfSpeech": "adverb",
+        "meaning": "to or in another country",
+        "translation": "xaricə, xaricdə"
+      },
+      {
+        "term": "for the first time",
+        "lemma": "for the first time",
+        "partOfSpeech": "phrase",
+        "meaning": "when something happens and it has never happened before",
+        "translation": "ilk dəfə"
+      },
+      {
+        "term": "destination",
+        "lemma": "destination",
+        "partOfSpeech": "noun",
+        "meaning": "the place where you are going",
+        "translation": "gediləcək yer, təyinat yeri"
+      },
+      {
+        "term": "for months",
+        "lemma": "for months",
+        "partOfSpeech": "phrase",
+        "meaning": "during several months",
+        "translation": "aylarla"
+      },
+      {
+        "term": "booked",
+        "lemma": "book",
+        "partOfSpeech": "verb",
+        "meaning": "arranged to have a room, seat or ticket in advance",
+        "translation": "sifariş etdi, bron etdi"
+      },
+      {
+        "term": "accommodation",
+        "lemma": "accommodation",
+        "partOfSpeech": "noun",
+        "meaning": "a place to stay, like a hotel room",
+        "translation": "qalmaq üçün yer"
+      },
+      {
+        "term": "old town",
+        "lemma": "old town",
+        "partOfSpeech": "noun",
+        "meaning": "the oldest, historic part of a city",
+        "translation": "köhnə şəhər"
+      },
+      {
+        "term": "travel guide",
+        "lemma": "travel guide",
+        "partOfSpeech": "noun",
+        "meaning": "a book with information for tourists about a place",
+        "translation": "səyahət bələdçisi (kitab)"
+      },
+      {
+        "term": "route",
+        "lemma": "route",
+        "partOfSpeech": "noun",
+        "meaning": "the way from one place to another",
+        "translation": "marşrut, yol"
+      },
+      {
+        "term": "holding",
+        "lemma": "hold",
+        "partOfSpeech": "verb",
+        "meaning": "having something in your hand",
+        "translation": "əlində tutaraq"
+      },
+      {
+        "term": "passport",
+        "lemma": "passport",
+        "partOfSpeech": "noun",
+        "meaning": "an official document you need to travel to other countries",
+        "translation": "pasport"
+      },
+      {
+        "term": "like a child",
+        "lemma": "like a child",
+        "partOfSpeech": "phrase",
+        "meaning": "in the way a child does",
+        "translation": "uşaq kimi"
+      },
+      {
+        "term": "journey",
+        "lemma": "journey",
+        "partOfSpeech": "noun",
+        "meaning": "a long trip from one place to another",
+        "translation": "yol, səfər"
+      },
+      {
+        "term": "landed",
+        "lemma": "land",
+        "partOfSpeech": "verb",
+        "meaning": "came down to the ground after flying",
+        "translation": "yerə endi"
+      },
+      {
+        "term": "waited and waited",
+        "lemma": "wait",
+        "partOfSpeech": "phrase",
+        "meaning": "waited for a very long time",
+        "translation": "uzun müddət gözlədi"
+      },
+      {
+        "term": "luggage",
+        "lemma": "luggage",
+        "partOfSpeech": "noun",
+        "meaning": "the bags and suitcases you take on a trip",
+        "translation": "baqaj"
+      },
+      {
+        "term": "suitcase",
+        "lemma": "suitcase",
+        "partOfSpeech": "noun",
+        "meaning": "a large bag with a handle for carrying clothes when you travel",
+        "translation": "çamadan"
+      },
+      {
+        "term": "information desk",
+        "lemma": "information desk",
+        "partOfSpeech": "noun",
+        "meaning": "a desk where people answer questions and help visitors",
+        "translation": "məlumat masası"
+      },
+      {
+        "term": "trying not to",
+        "lemma": "try not to",
+        "partOfSpeech": "phrase",
+        "meaning": "making an effort not to do something",
+        "translation": "...-mamağa çalışırdı"
+      },
+      {
+        "term": "backpack",
+        "lemma": "backpack",
+        "partOfSpeech": "noun",
+        "meaning": "a bag that you carry on your back",
+        "translation": "bel çantası"
+      },
+      {
+        "term": "wallet",
+        "lemma": "wallet",
+        "partOfSpeech": "noun",
+        "meaning": "a small flat case for money and cards",
+        "translation": "pul kisəsi"
+      },
+      {
+        "term": "All around her",
+        "lemma": "all around",
+        "partOfSpeech": "phrase",
+        "meaning": "everywhere near her",
+        "translation": "ətrafında"
+      },
+      {
+        "term": "foreign",
+        "lemma": "foreign",
+        "partOfSpeech": "adjective",
+        "meaning": "from another country",
+        "translation": "xarici"
+      },
+      {
+        "term": "Luckily",
+        "lemma": "luckily",
+        "partOfSpeech": "adverb",
+        "meaning": "because of good luck",
+        "translation": "xoşbəxtlikdən"
+      },
+      {
+        "term": "Don't worry",
+        "lemma": "don't worry",
+        "partOfSpeech": "phrase",
+        "meaning": "words you say to help someone feel calm",
+        "translation": "narahat olmayın"
+      },
+      {
+        "term": "probably",
+        "lemma": "probably",
+        "partOfSpeech": "adverb",
+        "meaning": "almost certainly",
+        "translation": "yəqin ki"
+      },
+      {
+        "term": "go out",
+        "lemma": "go out",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "to leave your house or hotel to go somewhere",
+        "translation": "çölə çıxmaq"
+      },
+      {
+        "term": "explore",
+        "lemma": "explore",
+        "partOfSpeech": "verb",
+        "meaning": "to walk around a new place to learn about it",
+        "translation": "gəzib tanış olmaq, kəşf etmək"
+      },
+      {
+        "term": "anyway",
+        "lemma": "anyway",
+        "partOfSpeech": "adverb",
+        "meaning": "in spite of a problem",
+        "translation": "buna baxmayaraq, hər halda"
+      },
+      {
+        "term": "shining",
+        "lemma": "shine",
+        "partOfSpeech": "verb",
+        "meaning": "giving out bright light",
+        "translation": "parlayırdı"
+      },
+      {
+        "term": "square",
+        "lemma": "square",
+        "partOfSpeech": "noun",
+        "meaning": "an open place in a town with buildings around it",
+        "translation": "meydan"
+      },
+      {
+        "term": "forgot about",
+        "lemma": "forget about",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "stopped thinking about something",
+        "translation": "unutdu"
+      },
+      {
+        "term": "map",
+        "lemma": "map",
+        "partOfSpeech": "noun",
+        "meaning": "a drawing of an area that shows streets, roads and places",
+        "translation": "xəritə"
+      },
+      {
+        "term": "wandered",
+        "lemma": "wander",
+        "partOfSpeech": "verb",
+        "meaning": "walked around slowly without a plan",
+        "translation": "gəzib dolaşdı"
+      },
+      {
+        "term": "narrow",
+        "lemma": "narrow",
+        "partOfSpeech": "adjective",
+        "meaning": "not wide",
+        "translation": "dar"
+      },
+      {
+        "term": "Around noon",
+        "lemma": "around noon",
+        "partOfSpeech": "phrase",
+        "meaning": "at about twelve o'clock in the day",
+        "translation": "günorta radələrində"
+      },
+      {
+        "term": "joined",
+        "lemma": "join",
+        "partOfSpeech": "verb",
+        "meaning": "became part of a group",
+        "translation": "qoşuldu"
+      },
+      {
+        "term": "walking tour",
+        "lemma": "walking tour",
+        "partOfSpeech": "noun",
+        "meaning": "a trip on foot around a place with a guide",
+        "translation": "piyada tur"
+      },
+      {
+        "term": "guide",
+        "lemma": "guide",
+        "partOfSpeech": "noun",
+        "meaning": "a person who shows tourists around a place",
+        "translation": "bələdçi"
+      },
+      {
+        "term": "Sightseeing",
+        "lemma": "sightseeing",
+        "partOfSpeech": "noun",
+        "meaning": "visiting interesting places as a tourist",
+        "translation": "görməli yerləri gəzmək"
+      },
+      {
+        "term": "hard work",
+        "lemma": "hard work",
+        "partOfSpeech": "phrase",
+        "meaning": "something that needs a lot of effort",
+        "translation": "yorucu iş, zəhmət"
+      },
+      {
+        "term": "hills",
+        "lemma": "hill",
+        "partOfSpeech": "noun",
+        "meaning": "areas of high land, smaller than mountains",
+        "translation": "təpələr"
+      },
+      {
+        "term": "views",
+        "lemma": "view",
+        "partOfSpeech": "noun",
+        "meaning": "the things you can see from a place",
+        "translation": "mənzərələr"
+      },
+      {
+        "term": "tram",
+        "lemma": "tram",
+        "partOfSpeech": "noun",
+        "meaning": "an electric vehicle that runs on rails in a city street",
+        "translation": "tramvay"
+      },
+      {
+        "term": "coast",
+        "lemma": "coast",
+        "partOfSpeech": "noun",
+        "meaning": "the land next to the sea or ocean",
+        "translation": "sahil"
+      },
+      {
+        "term": "landscape",
+        "lemma": "landscape",
+        "partOfSpeech": "noun",
+        "meaning": "everything you can see across an area of land",
+        "translation": "mənzərə"
+      },
+      {
+        "term": "painted tile",
+        "lemma": "painted tile",
+        "partOfSpeech": "noun",
+        "meaning": "a flat square piece of baked clay with a colorful picture on it",
+        "translation": "naxışlı kaşı"
+      },
+      {
+        "term": "souvenir",
+        "lemma": "souvenir",
+        "partOfSpeech": "noun",
+        "meaning": "something you buy to remember a place",
+        "translation": "suvenir, xatirə hədiyyəsi"
+      },
+      {
+        "term": "By the evening",
+        "lemma": "by the evening",
+        "partOfSpeech": "phrase",
+        "meaning": "not later than the evening",
+        "translation": "axşama qədər"
+      },
+      {
+        "term": "hurting",
+        "lemma": "hurt",
+        "partOfSpeech": "verb",
+        "meaning": "feeling pain",
+        "translation": "ağrıyırdı"
+      },
+      {
+        "term": "her heart was full",
+        "lemma": "your heart is full",
+        "partOfSpeech": "idiom",
+        "meaning": "she felt very happy and thankful",
+        "translation": "ürəyi sevinclə dolu idi"
+      },
+      {
+        "term": "came back",
+        "lemma": "come back",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "returned",
+        "translation": "qayıtdı"
+      },
+      {
+        "term": "front desk",
+        "lemma": "front desk",
+        "partOfSpeech": "noun",
+        "meaning": "the desk in a hotel where guests get help and keys",
+        "translation": "qəbul masası"
+      },
+      {
+        "term": "Back home",
+        "lemma": "back home",
+        "partOfSpeech": "phrase",
+        "meaning": "after returning to your own home or country",
+        "translation": "evə qayıdandan sonra"
+      },
+      {
+        "term": "unforgettable",
+        "lemma": "unforgettable",
+        "partOfSpeech": "adjective",
+        "meaning": "so special that you will always remember it",
+        "translation": "unudulmaz"
+      },
+      {
+        "term": "strangely",
+        "lemma": "strangely",
+        "partOfSpeech": "adverb",
+        "meaning": "in a way that is surprising",
+        "translation": "qəribədir ki"
+      },
+      {
+        "term": "the best part",
+        "lemma": "the best part",
+        "partOfSpeech": "phrase",
+        "meaning": "the most enjoyable piece of an experience",
+        "translation": "ən yaxşı hissəsi"
+      }
+    ]
+  },
+  "grammar": {
+    "topic": "Past continuous",
+    "topicTranslation": "Davamedici keçmiş zaman (past continuous)",
+    "explanation": "We use the past continuous (was/were + verb-ing) to talk about an action that was in progress at a particular time in the past. It often describes the background of a story: what was happening around the main events. We also use it for two longer actions that were happening at the same time. For short, finished actions we use the past simple.",
+    "explanationTranslation": "Past continuous zamanını (was/were + feil-ing) keçmişdə müəyyən bir vaxtda davam edən hərəkət haqqında danışmaq üçün işlədirik. O, çox vaxt hekayənin fonunu, yəni əsas hadisələr zamanı ətrafda nələrin baş verdiyini təsvir edir. Bu zamanı eyni vaxtda davam edən iki uzun hərəkət üçün də işlədirik. Qısa, bitmiş hərəkətlər üçün isə past simple işlədilir.",
+    "rules": [
+      {
+        "text": "Form: I/he/she/it was + verb-ing; you/we/they were + verb-ing.",
+        "translation": "Forma: I/he/she/it was + feil-ing; you/we/they were + feil-ing."
+      },
+      {
+        "text": "Negatives and questions: wasn't/weren't + verb-ing; Was she working? Were they sleeping?",
+        "translation": "İnkar və sual: wasn't/weren't + feil-ing; Was she working? Were they sleeping?"
+      },
+      {
+        "text": "Use it for an action in progress at a specific time in the past: At eight o'clock I was having dinner.",
+        "translation": "Keçmişdə müəyyən vaxtda davam edən hərəkət üçün işlədilir: At eight o'clock I was having dinner."
+      },
+      {
+        "text": "Use it to describe the background in a story: The sun was shining and people were drinking coffee.",
+        "translation": "Hekayədə fonu təsvir etmək üçün işlədilir: The sun was shining and people were drinking coffee."
+      }
+    ],
+    "examples": [
+      {
+        "text": "At nine o'clock last night, I was packing my luggage.",
+        "translation": "Dünən axşam saat doqquzda çamadanımı yığırdım."
+      },
+      {
+        "text": "We were exploring the old town all afternoon.",
+        "translation": "Bütün günortadan sonra köhnə şəhəri gəzirdik."
+      },
+      {
+        "text": "Were you living abroad in 2020?",
+        "translation": "2020-ci ildə xaricdə yaşayırdın?"
+      },
+      {
+        "text": "The guide was speaking very fast, so I didn't understand everything.",
+        "translation": "Bələdçi çox tez danışırdı, ona görə də hər şeyi başa düşmədim."
+      },
+      {
+        "text": "The children weren't sleeping; they were watching cartoons.",
+        "translation": "Uşaqlar yatmırdı, cizgi filmlərinə baxırdılar."
+      }
+    ],
+    "exercise": {
+      "instructions": "Choose or write the correct past continuous form.",
+      "instructionsTranslation": "Past continuous zamanının düzgün formasını seçin və ya yazın.",
+      "questions": [
+        {
+          "type": "choice",
+          "prompt": "At 7 a.m. yesterday, I ___ breakfast.",
+          "promptTranslation": "Dünən səhər saat yeddidə səhər yeməyi yeyirdim.",
+          "options": [
+            "was having",
+            "were having",
+            "am having"
+          ],
+          "answer": "was having",
+          "explanation": "With “I” we use was + verb-ing for an action in progress in the past.",
+          "explanationTranslation": "“I” ilə keçmişdə davam edən hərəkət üçün was + feil-ing işlədilir."
+        },
+        {
+          "type": "choice",
+          "prompt": "What ___ you doing at midnight?",
+          "promptTranslation": "Gecə yarısı nə edirdin?",
+          "options": [
+            "was",
+            "were",
+            "did"
+          ],
+          "answer": "were",
+          "explanation": "With “you” we use were + verb-ing.",
+          "explanationTranslation": "“You” ilə were + feil-ing işlədilir."
+        },
+        {
+          "type": "choice",
+          "prompt": "The sun ___ and everyone was happy.",
+          "promptTranslation": "Günəş parlayırdı və hamı xoşbəxt idi.",
+          "options": [
+            "was shining",
+            "were shining",
+            "shining"
+          ],
+          "answer": "was shining",
+          "explanation": "“The sun” is singular, so we use was + verb-ing.",
+          "explanationTranslation": "“The sun” təkdədir, ona görə was + feil-ing işlədilir."
+        },
+        {
+          "type": "text",
+          "prompt": "At this time last year, we ___ (travel) around Spain.",
+          "promptTranslation": "Keçən il bu vaxt biz İspaniyanı gəzirdik.",
+          "answer": "were traveling",
+          "acceptedAnswers": [
+            "were travelling"
+          ],
+          "explanation": "“At this time last year” is a moment in the past, and the action was in progress: we + were + verb-ing.",
+          "explanationTranslation": "“At this time last year” keçmişdə müəyyən bir andır və hərəkət o vaxt davam edirdi: we + were + feil-ing."
+        },
+        {
+          "type": "text",
+          "prompt": "At ten o'clock, Kamran ___ (not / sleep); he was reading a book.",
+          "promptTranslation": "Saat onda Kamran yatmırdı, kitab oxuyurdu.",
+          "answer": "was not sleeping",
+          "acceptedAnswers": [
+            "wasn't sleeping"
+          ],
+          "explanation": "Negative past continuous: was not / wasn't + verb-ing.",
+          "explanationTranslation": "Past continuous zamanının inkarı: was not / wasn't + feil-ing."
+        }
+      ]
+    }
+  }
+}

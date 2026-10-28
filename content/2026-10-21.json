@@ -1,0 +1,1114 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-21",
+  "level": "B1",
+  "translationLanguage": "az",
+  "words": [
+    {
+      "word": "complain",
+      "ipa": "/kəmˈpleɪn/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "şikayət etmək, şikayətlənmək",
+          "definition": "to say that you are not happy or not satisfied with something",
+          "synonyms": [
+            "grumble",
+            "protest",
+            "moan"
+          ],
+          "antonyms": [
+            "praise"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "My neighbors complained about the noise.",
+              "translation": "Qonşularım səs-küydən şikayət etdilər."
+            },
+            {
+              "text": "She never complains, even when she is tired.",
+              "translation": "O, yorğun olanda belə heç vaxt şikayətlənmir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "solve",
+      "ipa": "/sɑlv/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "həll etmək",
+          "definition": "to find an answer to a problem or a way to end a difficulty",
+          "synonyms": [
+            "fix",
+            "work out",
+            "figure out"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "We solved the problem together.",
+              "translation": "Problemi birlikdə həll etdik."
+            },
+            {
+              "text": "Can you solve this puzzle?",
+              "translation": "Bu tapmacanı həll edə bilərsən?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "issue",
+      "ipa": "/ˈɪʃu/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "problem, məsələ",
+          "definition": "a problem or an important subject that people talk or worry about",
+          "synonyms": [
+            "problem",
+            "matter",
+            "question"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "If you have any issues with the app, please call us.",
+              "translation": "Proqramla bağlı hər hansı probleminiz olsa, xahiş edirik, bizə zəng edin."
+            },
+            {
+              "text": "Climate change is an important issue.",
+              "translation": "İqlim dəyişikliyi vacib məsələdir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "manage",
+      "ipa": "/ˈmænɪdʒ/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "idarə etmək; bacarmaq, öhdəsindən gəlmək",
+          "definition": "to be in charge of a business or a group of people; also, to succeed in doing something difficult",
+          "synonyms": [
+            "run",
+            "lead",
+            "cope",
+            "succeed"
+          ],
+          "antonyms": [
+            "fail"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "She manages a small hotel in Sheki.",
+              "translation": "O, Şəkidə kiçik bir oteli idarə edir."
+            },
+            {
+              "text": "Did you manage to find a parking space?",
+              "translation": "Maşını saxlamağa yer tapa bildin?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "responsible",
+      "ipa": "/rɪˈspɑnsəbəl/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "cavabdeh, məsul; məsuliyyətli",
+          "definition": "having the job of taking care of something; also, sensible and able to be trusted",
+          "synonyms": [
+            "in charge",
+            "sensible",
+            "dependable"
+          ],
+          "antonyms": [
+            "irresponsible",
+            "careless"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Who is responsible for cleaning the kitchen?",
+              "translation": "Mətbəxin təmizlənməsinə kim cavabdehdir?"
+            },
+            {
+              "text": "Ali is a very responsible young man.",
+              "translation": "Əli çox məsuliyyətli gəncdir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "deal with",
+      "ipa": "/ˈdil wɪð/",
+      "senses": [
+        {
+          "partOfSpeech": "phrasal verb",
+          "translation": "məşğul olmaq; həll etmək, öhdəsindən gəlmək",
+          "definition": "to take action to solve a problem or to do a job",
+          "synonyms": [
+            "handle",
+            "manage",
+            "cope with"
+          ],
+          "antonyms": [
+            "ignore"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "I'll deal with the problem tomorrow.",
+              "translation": "Problemlə sabah məşğul olacağam."
+            },
+            {
+              "text": "She deals with angry customers every day.",
+              "translation": "O, hər gün əsəbi müştərilərlə işləyir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "handle",
+      "ipa": "/ˈhændəl/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "öhdəsindən gəlmək, idarə etmək",
+          "definition": "to take care of a situation, a problem or a person",
+          "synonyms": [
+            "deal with",
+            "manage",
+            "cope with"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "He handled the situation very calmly.",
+              "translation": "O, vəziyyətin öhdəsindən çox sakit gəldi."
+            },
+            {
+              "text": "Can you handle all this work alone?",
+              "translation": "Bütün bu işin öhdəsindən tək gələ bilərsən?"
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "noun",
+          "translation": "dəstək, tutacaq",
+          "definition": "the part of a door, cup or bag that you hold in your hand",
+          "synonyms": [
+            "knob",
+            "grip"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The handle of my cup is broken.",
+              "translation": "Fincanımın dəstəyi sınıb."
+            },
+            {
+              "text": "Turn the handle to open the door.",
+              "translation": "Qapını açmaq üçün dəstəyi çevir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "fault",
+      "ipa": "/fɔlt/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "günah, təqsir",
+          "definition": "the responsibility for a mistake or for something bad that happened",
+          "synonyms": [
+            "blame",
+            "mistake"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "It's not your fault – the bus was late.",
+              "translation": "Sənin günahın deyil – avtobus gecikdi."
+            },
+            {
+              "text": "Whose fault was it?",
+              "translation": "Bu kimin günahı idi?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "blame",
+      "ipa": "/bleɪm/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "günahlandırmaq, təqsirləndirmək",
+          "definition": "to say or think that someone is responsible for something bad",
+          "synonyms": [
+            "accuse"
+          ],
+          "antonyms": [
+            "praise"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Don't blame me – I wasn't there!",
+              "translation": "Məni günahlandırma – mən orada deyildim!"
+            },
+            {
+              "text": "He blamed the weather for his bad mood.",
+              "translation": "O, pis əhvalına görə havanı günahlandırdı."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "conflict",
+      "ipa": "/ˈkɑnflɪkt/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "münaqişə, ixtilaf, mübahisə",
+          "definition": "a serious disagreement between people or groups",
+          "synonyms": [
+            "disagreement",
+            "argument",
+            "dispute"
+          ],
+          "antonyms": [
+            "agreement",
+            "harmony"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "There is a conflict between the two teams.",
+              "translation": "İki komanda arasında münaqişə var."
+            },
+            {
+              "text": "She tries to avoid conflict at work.",
+              "translation": "O, işdə münaqişədən qaçmağa çalışır."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "negotiate",
+      "ipa": "/nɪˈɡoʊʃiˌeɪt/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "danışıqlar aparmaq, danışıb razılaşmaq",
+          "definition": "to talk with someone to try to reach an agreement",
+          "synonyms": [
+            "discuss",
+            "bargain"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "We negotiated a better price for the car.",
+              "translation": "Danışıb maşın üçün daha yaxşı qiymətə razılaşdıq."
+            },
+            {
+              "text": "The workers are negotiating with the company about their pay.",
+              "translation": "İşçilər maaşları barədə şirkətlə danışıqlar aparırlar."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "supervisor",
+      "ipa": "/ˈsupərˌvaɪzər/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "rəhbər, nəzarətçi",
+          "definition": "a person who is in charge of a group of workers and checks their work",
+          "synonyms": [
+            "manager",
+            "boss"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Ask your supervisor if you can leave early.",
+              "translation": "Rəhbərindən soruş, tez çıxa bilərsənmi."
+            },
+            {
+              "text": "My supervisor checks my work every Friday.",
+              "translation": "Rəhbərim hər cümə işimi yoxlayır."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "efficient",
+      "ipa": "/ɪˈfɪʃənt/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "səmərəli, effektiv",
+          "definition": "working well and quickly without wasting time, money or energy",
+          "synonyms": [
+            "effective",
+            "productive"
+          ],
+          "antonyms": [
+            "inefficient",
+            "wasteful"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The new system is much more efficient.",
+              "translation": "Yeni sistem xeyli daha səmərəlidir."
+            },
+            {
+              "text": "She is a fast and efficient worker.",
+              "translation": "O, cəld və səmərəli işləyən bir işçidir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "cooperate",
+      "ipa": "/koʊˈɑpəˌreɪt/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "əməkdaşlıq etmək, birgə işləmək",
+          "definition": "to work together with other people to do something",
+          "synonyms": [
+            "work together",
+            "collaborate"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "If we cooperate, we'll finish faster.",
+              "translation": "Əməkdaşlıq etsək, daha tez qurtararıq."
+            },
+            {
+              "text": "The two schools cooperated on the project.",
+              "translation": "İki məktəb layihə üzərində birgə işlədi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "crisis",
+      "ipa": "/ˈkraɪsɪs/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "böhran",
+          "definition": "a time of great difficulty, danger or worry",
+          "synonyms": [
+            "emergency",
+            "disaster"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Many families had money problems during the crisis.",
+              "translation": "Böhran zamanı bir çox ailənin maddi problemləri oldu."
+            },
+            {
+              "text": "The water crisis in the village lasted for a week.",
+              "translation": "Kənddəki su böhranı bir həftə davam etdi."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "story": {
+    "title": "The Broken Elevator",
+    "titleTranslation": "Xarab lift",
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "The elevator in our nine-story building was built in 1985.",
+            "translation": "Doqquzmərtəbəli binamızdakı lift 1985-ci ildə quraşdırılıb."
+          },
+          {
+            "text": "It is checked only once a year, and it breaks down almost every month.",
+            "translation": "O, ildə cəmi bir dəfə yoxlanılır və demək olar ki, hər ay xarab olur."
+          },
+          {
+            "text": "Last winter, it stopped between the fifth and sixth floors, and for the people upstairs it was a real crisis.",
+            "translation": "Keçən qış lift beşinci və altıncı mərtəbələr arasında dayandı və yuxarı mərtəbələrdə yaşayanlar üçün bu, əsl böhran idi."
+          },
+          {
+            "text": "Mrs. Aliyeva from the eighth floor had to carry her baby and her shopping up the stairs, and two elderly neighbors couldn't leave their apartments for days.",
+            "translation": "Səkkizinci mərtəbədən Əliyeva xanım körpəsini və bazarlığını pilləkənlə yuxarı daşımalı oldu, iki yaşlı qonşu isə günlərlə mənzillərindən çıxa bilmədi."
+          },
+          {
+            "text": "Everyone started to complain.",
+            "translation": "Hamı şikayət etməyə başladı."
+          },
+          {
+            "text": "“Who is responsible for this?” asked Mr. Hasanov from the ninth floor. “I can't climb all those stairs every day!”",
+            "translation": "«Buna kim cavabdehdir?» – deyə doqquzuncu mərtəbədən Həsənov müəllim soruşdu. «Hər gün bu qədər pilləkən qalxa bilmərəm!»"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "At the first building meeting, the neighbors only blamed each other.",
+            "translation": "Binanın ilk iclasında qonşular ancaq bir-birini günahlandırdılar."
+          },
+          {
+            "text": "“It's the young people's fault – they use the elevator too much,” someone said.",
+            "translation": "«Gənclərin günahıdır – lifti həddindən artıq çox işlədirlər», – deyə kimsə dedi."
+          },
+          {
+            "text": "“No, it's the company's fault – they never send anyone!” another man shouted.",
+            "translation": "«Yox, şirkətin günahıdır – heç vaxt heç kimi göndərmirlər!» – deyə başqa bir kişi qışqırdı."
+          },
+          {
+            "text": "Soon the meeting turned into a loud conflict, and nothing was decided.",
+            "translation": "Tezliklə iclas səs-küylü mübahisəyə çevrildi və heç nə qərara alınmadı."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Then my neighbor Narmin stood up.",
+            "translation": "Sonra qonşum Nərmin ayağa qalxdı."
+          },
+          {
+            "text": "She is a nurse, so she knows how to stay calm in difficult moments.",
+            "translation": "O, tibb bacısıdır, ona görə də çətin anlarda sakit qalmağı bacarır."
+          },
+          {
+            "text": "“Shouting won't solve the issue,” she said calmly. “If we cooperate, we can deal with this together.”",
+            "translation": "«Qışqırmaqla bu problemi həll etmək olmaz», – o, sakitcə dedi. «Əməkdaşlıq etsək, bunun öhdəsindən birlikdə gələ bilərik.»"
+          },
+          {
+            "text": "She wrote a letter to the company that manages our building, and it was signed by thirty families.",
+            "translation": "O, binamızı idarə edən şirkətə məktub yazdı və məktub otuz ailə tərəfindən imzalandı."
+          },
+          {
+            "text": "At first, nobody answered.",
+            "translation": "Əvvəlcə heç kim cavab vermədi."
+          },
+          {
+            "text": "Her emails were ignored, and her calls were not returned.",
+            "translation": "Onun e-məktublarına məhəl qoyulmadı, zənglərinə də cavab verilmədi."
+          },
+          {
+            "text": "Some neighbors said it was a waste of time, but Narmin didn't give up.",
+            "translation": "Bəzi qonşular bunun vaxt itkisi olduğunu dedilər, amma Nərmin təslim olmadı."
+          },
+          {
+            "text": "So Narmin called the office and asked to speak to a supervisor.",
+            "translation": "Ona görə də Nərmin ofisə zəng edib rəhbərlə danışmaq istədiyini bildirdi."
+          },
+          {
+            "text": "She handled the conversation politely but firmly.",
+            "translation": "O, söhbəti nəzakətlə, amma qətiyyətlə apardı."
+          },
+          {
+            "text": "For two weeks, she negotiated with the company, and in the end they agreed to pay half of the cost.",
+            "translation": "İki həftə ərzində o, şirkətlə danışıqlar apardı və sonda şirkət xərclərin yarısını ödəməyə razı oldu."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "A new motor was delivered on Monday, and the elevator was repaired in just one day.",
+            "translation": "Bazar ertəsi yeni mühərrik gətirildi və lift cəmi bir günə təmir olundu."
+          },
+          {
+            "text": "The workers were fast and efficient, and the problem was finally solved.",
+            "translation": "Ustalar cəld və səmərəli işlədilər və problem nəhayət həll olundu."
+          },
+          {
+            "text": "The company even promised to pay for a new elevator in five years.",
+            "translation": "Şirkət hətta beş ildən sonra yeni lift üçün pul ödəyəcəyinə söz verdi."
+          },
+          {
+            "text": "Now the elevator is checked every month, and Mr. Hasanov smiles at everyone in the hallway.",
+            "translation": "İndi lift hər ay yoxlanılır və Həsənov müəllim dəhlizdə hamıya gülümsəyir."
+          },
+          {
+            "text": "Once a month, the neighbors meet for tea, and problems are discussed calmly.",
+            "translation": "Qonşular ayda bir dəfə çay süfrəsi arxasında toplaşır və problemlər sakit şəkildə müzakirə olunur."
+          },
+          {
+            "text": "“You managed to do the impossible,” he tells Narmin. “Next time we have a problem, you're in charge!”",
+            "translation": "«Sən qeyri-mümkün olanı bacardın», – o, Nərminə deyir. «Növbəti dəfə problemimiz olsa, işi sən idarə edəcəksən!»"
+          }
+        ]
+      }
+    ],
+    "glossary": [
+      {
+        "term": "elevator",
+        "lemma": "elevator",
+        "partOfSpeech": "noun",
+        "meaning": "a machine that carries people up and down in a building",
+        "translation": "lift"
+      },
+      {
+        "term": "nine-story",
+        "lemma": "nine-story",
+        "partOfSpeech": "adjective",
+        "meaning": "with nine floors",
+        "translation": "doqquzmərtəbəli"
+      },
+      {
+        "term": "was built",
+        "lemma": "build",
+        "partOfSpeech": "verb",
+        "meaning": "was made or put in (passive)",
+        "translation": "quraşdırılıb, tikilib"
+      },
+      {
+        "term": "is checked",
+        "lemma": "check",
+        "partOfSpeech": "verb",
+        "meaning": "is looked at to see that it works well (passive)",
+        "translation": "yoxlanılır"
+      },
+      {
+        "term": "once a year",
+        "lemma": "once a year",
+        "partOfSpeech": "phrase",
+        "meaning": "one time every year",
+        "translation": "ildə bir dəfə"
+      },
+      {
+        "term": "breaks down",
+        "lemma": "break down",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "stops working",
+        "translation": "xarab olur"
+      },
+      {
+        "term": "almost",
+        "lemma": "almost",
+        "partOfSpeech": "adverb",
+        "meaning": "nearly, not quite",
+        "translation": "demək olar ki"
+      },
+      {
+        "term": "floors",
+        "lemma": "floor",
+        "partOfSpeech": "noun",
+        "meaning": "levels of a building",
+        "translation": "mərtəbələr"
+      },
+      {
+        "term": "upstairs",
+        "lemma": "upstairs",
+        "partOfSpeech": "adverb",
+        "meaning": "on a higher floor",
+        "translation": "yuxarı mərtəbədə"
+      },
+      {
+        "term": "crisis",
+        "lemma": "crisis",
+        "partOfSpeech": "noun",
+        "meaning": "a time of great difficulty",
+        "translation": "böhran"
+      },
+      {
+        "term": "had to",
+        "lemma": "have to",
+        "partOfSpeech": "phrase",
+        "meaning": "needed to do something because there was no other way",
+        "translation": "məcbur oldu, -malı oldu"
+      },
+      {
+        "term": "shopping",
+        "lemma": "shopping",
+        "partOfSpeech": "noun",
+        "meaning": "the things that you have bought in shops",
+        "translation": "bazarlıq"
+      },
+      {
+        "term": "elderly",
+        "lemma": "elderly",
+        "partOfSpeech": "adjective",
+        "meaning": "old (a polite word)",
+        "translation": "yaşlı"
+      },
+      {
+        "term": "for days",
+        "lemma": "for days",
+        "partOfSpeech": "phrase",
+        "meaning": "for several days",
+        "translation": "günlərlə"
+      },
+      {
+        "term": "complain",
+        "lemma": "complain",
+        "partOfSpeech": "verb",
+        "meaning": "to say that you are not happy about something",
+        "translation": "şikayət etmək"
+      },
+      {
+        "term": "responsible",
+        "lemma": "responsible",
+        "partOfSpeech": "adjective",
+        "meaning": "having the job of taking care of something and answering for it",
+        "translation": "cavabdeh, məsul"
+      },
+      {
+        "term": "climb",
+        "lemma": "climb",
+        "partOfSpeech": "verb",
+        "meaning": "to go up something, like stairs",
+        "translation": "qalxmaq, dırmaşmaq"
+      },
+      {
+        "term": "stairs",
+        "lemma": "stairs",
+        "partOfSpeech": "noun",
+        "meaning": "steps that go from one floor to another",
+        "translation": "pilləkən"
+      },
+      {
+        "term": "blamed",
+        "lemma": "blame",
+        "partOfSpeech": "verb",
+        "meaning": "said that someone else was responsible for something bad",
+        "translation": "günahlandırdılar"
+      },
+      {
+        "term": "each other",
+        "lemma": "each other",
+        "partOfSpeech": "pronoun",
+        "meaning": "one another (about two or more people)",
+        "translation": "bir-birini"
+      },
+      {
+        "term": "fault",
+        "lemma": "fault",
+        "partOfSpeech": "noun",
+        "meaning": "the responsibility for something bad",
+        "translation": "günah"
+      },
+      {
+        "term": "shouted",
+        "lemma": "shout",
+        "partOfSpeech": "verb",
+        "meaning": "said something very loudly",
+        "translation": "qışqırdı"
+      },
+      {
+        "term": "turned into",
+        "lemma": "turn into",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "became something different",
+        "translation": "çevrildi"
+      },
+      {
+        "term": "loud",
+        "lemma": "loud",
+        "partOfSpeech": "adjective",
+        "meaning": "making a lot of noise",
+        "translation": "səs-küylü, bərk"
+      },
+      {
+        "term": "conflict",
+        "lemma": "conflict",
+        "partOfSpeech": "noun",
+        "meaning": "a serious disagreement",
+        "translation": "mübahisə, münaqişə"
+      },
+      {
+        "term": "was decided",
+        "lemma": "decide",
+        "partOfSpeech": "verb",
+        "meaning": "was chosen or agreed (passive)",
+        "translation": "qərara alındı"
+      },
+      {
+        "term": "stood up",
+        "lemma": "stand up",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "got up on her feet",
+        "translation": "ayağa qalxdı"
+      },
+      {
+        "term": "nurse",
+        "lemma": "nurse",
+        "partOfSpeech": "noun",
+        "meaning": "a person who takes care of sick people in a hospital",
+        "translation": "tibb bacısı"
+      },
+      {
+        "term": "stay calm",
+        "lemma": "stay calm",
+        "partOfSpeech": "phrase",
+        "meaning": "to not become angry or nervous",
+        "translation": "sakit qalmaq"
+      },
+      {
+        "term": "shouting",
+        "lemma": "shout",
+        "partOfSpeech": "verb",
+        "meaning": "speaking very loudly, often in anger",
+        "translation": "qışqırmaq"
+      },
+      {
+        "term": "solve",
+        "lemma": "solve",
+        "partOfSpeech": "verb",
+        "meaning": "to find an answer to a problem",
+        "translation": "həll etmək"
+      },
+      {
+        "term": "issue",
+        "lemma": "issue",
+        "partOfSpeech": "noun",
+        "meaning": "a problem",
+        "translation": "problem, məsələ"
+      },
+      {
+        "term": "calmly",
+        "lemma": "calmly",
+        "partOfSpeech": "adverb",
+        "meaning": "in a quiet way, without getting angry",
+        "translation": "sakitcə"
+      },
+      {
+        "term": "cooperate",
+        "lemma": "cooperate",
+        "partOfSpeech": "verb",
+        "meaning": "to work together",
+        "translation": "əməkdaşlıq etmək"
+      },
+      {
+        "term": "deal with",
+        "lemma": "deal with",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "to take action to solve a problem",
+        "translation": "öhdəsindən gəlmək, həll etmək"
+      },
+      {
+        "term": "manages",
+        "lemma": "manage",
+        "partOfSpeech": "verb",
+        "meaning": "is in charge of and takes care of",
+        "translation": "idarə edir"
+      },
+      {
+        "term": "was signed",
+        "lemma": "sign",
+        "partOfSpeech": "verb",
+        "meaning": "had names written on it (passive)",
+        "translation": "imzalandı"
+      },
+      {
+        "term": "at first",
+        "lemma": "at first",
+        "partOfSpeech": "phrase",
+        "meaning": "in the beginning",
+        "translation": "əvvəlcə"
+      },
+      {
+        "term": "were ignored",
+        "lemma": "ignore",
+        "partOfSpeech": "verb",
+        "meaning": "got no attention or answer (passive)",
+        "translation": "məhəl qoyulmadı"
+      },
+      {
+        "term": "were not returned",
+        "lemma": "return a call",
+        "partOfSpeech": "phrase",
+        "meaning": "nobody called back (passive)",
+        "translation": "cavab verilmədi"
+      },
+      {
+        "term": "a waste of time",
+        "lemma": "a waste of time",
+        "partOfSpeech": "phrase",
+        "meaning": "something that is not useful and uses time for nothing",
+        "translation": "vaxt itkisi"
+      },
+      {
+        "term": "didn't give up",
+        "lemma": "give up",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "did not stop trying",
+        "translation": "təslim olmadı"
+      },
+      {
+        "term": "supervisor",
+        "lemma": "supervisor",
+        "partOfSpeech": "noun",
+        "meaning": "a person who is in charge of other workers",
+        "translation": "rəhbər"
+      },
+      {
+        "term": "handled",
+        "lemma": "handle",
+        "partOfSpeech": "verb",
+        "meaning": "dealt with something in a certain way",
+        "translation": "apardı, öhdəsindən gəldi"
+      },
+      {
+        "term": "politely",
+        "lemma": "politely",
+        "partOfSpeech": "adverb",
+        "meaning": "in a nice way that shows respect",
+        "translation": "nəzakətlə"
+      },
+      {
+        "term": "firmly",
+        "lemma": "firmly",
+        "partOfSpeech": "adverb",
+        "meaning": "in a strong way that shows you will not change your mind",
+        "translation": "qətiyyətlə"
+      },
+      {
+        "term": "negotiated",
+        "lemma": "negotiate",
+        "partOfSpeech": "verb",
+        "meaning": "talked to reach an agreement",
+        "translation": "danışıqlar apardı"
+      },
+      {
+        "term": "agreed",
+        "lemma": "agree",
+        "partOfSpeech": "verb",
+        "meaning": "said yes to something",
+        "translation": "razı oldular"
+      },
+      {
+        "term": "cost",
+        "lemma": "cost",
+        "partOfSpeech": "noun",
+        "meaning": "the money you need to pay for something",
+        "translation": "xərc, dəyər"
+      },
+      {
+        "term": "motor",
+        "lemma": "motor",
+        "partOfSpeech": "noun",
+        "meaning": "the part of a machine that makes it move",
+        "translation": "mühərrik"
+      },
+      {
+        "term": "was delivered",
+        "lemma": "deliver",
+        "partOfSpeech": "verb",
+        "meaning": "was brought to the place (passive)",
+        "translation": "gətirildi, çatdırıldı"
+      },
+      {
+        "term": "was repaired",
+        "lemma": "repair",
+        "partOfSpeech": "verb",
+        "meaning": "was fixed (passive)",
+        "translation": "təmir olundu"
+      },
+      {
+        "term": "efficient",
+        "lemma": "efficient",
+        "partOfSpeech": "adjective",
+        "meaning": "working well and quickly",
+        "translation": "səmərəli"
+      },
+      {
+        "term": "solved",
+        "lemma": "solve",
+        "partOfSpeech": "verb",
+        "meaning": "found an answer to (here: passive, was solved)",
+        "translation": "həll olundu"
+      },
+      {
+        "term": "promised",
+        "lemma": "promise",
+        "partOfSpeech": "verb",
+        "meaning": "said that they would certainly do something",
+        "translation": "söz verdi"
+      },
+      {
+        "term": "hallway",
+        "lemma": "hallway",
+        "partOfSpeech": "noun",
+        "meaning": "a long, narrow space inside a building with doors to rooms",
+        "translation": "dəhliz"
+      },
+      {
+        "term": "are discussed",
+        "lemma": "discuss",
+        "partOfSpeech": "verb",
+        "meaning": "are talked about (passive)",
+        "translation": "müzakirə olunur"
+      },
+      {
+        "term": "managed to",
+        "lemma": "manage",
+        "partOfSpeech": "verb",
+        "meaning": "succeeded in doing something difficult",
+        "translation": "bacardın"
+      },
+      {
+        "term": "the impossible",
+        "lemma": "the impossible",
+        "partOfSpeech": "phrase",
+        "meaning": "something that seems impossible to do",
+        "translation": "qeyri-mümkün olan"
+      },
+      {
+        "term": "in charge",
+        "lemma": "in charge",
+        "partOfSpeech": "phrase",
+        "meaning": "the person who controls and decides",
+        "translation": "məsul, rəhbər"
+      }
+    ]
+  },
+  "grammar": {
+    "topic": "Passive voice: present simple and past simple",
+    "topicTranslation": "Məchul növ: present simple və past simple",
+    "explanation": "We use the passive when the action is more important than the person who does it, or when we don't know who does it. The present simple passive is am / is / are + past participle. The past simple passive is was / were + past participle. If we want to say who did the action, we use by.",
+    "explanationTranslation": "Hərəkət onu icra edən şəxsdən daha vacib olanda və ya hərəkəti kimin etdiyini bilmədikdə məchul növ işlədilir. Present simple-da məchul növ am / is / are + feilin üçüncü forması (past participle) ilə düzəlir. Past simple-da məchul növ was / were + past participle ilə düzəlir. Hərəkəti kimin etdiyini demək istəyəndə by sözündən istifadə edirik.",
+    "rules": [
+      {
+        "text": "Present simple passive: am / is / are + past participle. (The office is cleaned every day.)",
+        "translation": "Present simple-da məchul növ: am / is / are + past participle. (The office is cleaned every day – Ofis hər gün təmizlənir.)"
+      },
+      {
+        "text": "Past simple passive: was / were + past participle. (The letter was signed by thirty families.)",
+        "translation": "Past simple-da məchul növ: was / were + past participle. (The letter was signed by thirty families – Məktub otuz ailə tərəfindən imzalandı.)"
+      },
+      {
+        "text": "Use by + person only when it is important to say who did the action.",
+        "translation": "By + şəxs yalnız hərəkəti kimin etdiyini demək vacib olanda işlədilir."
+      },
+      {
+        "text": "Negatives and questions use the verb be: The room isn't cleaned on Sundays. Was the problem solved?",
+        "translation": "İnkar və sual cümlələri be feili ilə düzəlir: The room isn't cleaned on Sundays. Was the problem solved?"
+      }
+    ],
+    "examples": [
+      {
+        "text": "English is spoken in many countries.",
+        "translation": "İngilis dilində bir çox ölkədə danışılır."
+      },
+      {
+        "text": "The issue was solved in one day.",
+        "translation": "Problem bir günə həll olundu."
+      },
+      {
+        "text": "These cars are made in Korea.",
+        "translation": "Bu maşınlar Koreyada istehsal olunur."
+      },
+      {
+        "text": "The new bridge was opened last year.",
+        "translation": "Yeni körpü keçən il açıldı."
+      },
+      {
+        "text": "Complaints are answered within 24 hours.",
+        "translation": "Şikayətlərə 24 saat ərzində cavab verilir."
+      }
+    ],
+    "exercise": {
+      "instructions": "Choose or write the correct passive form.",
+      "instructionsTranslation": "Məchul növün düzgün formasını seçin və ya yazın.",
+      "questions": [
+        {
+          "type": "choice",
+          "prompt": "This bread ___ fresh every morning.",
+          "promptTranslation": "Bu çörək hər səhər təzə bişirilir.",
+          "options": [
+            "is baked",
+            "bakes",
+            "was baking"
+          ],
+          "answer": "is baked",
+          "explanation": "It happens every day, so we use the present simple passive: is + past participle.",
+          "explanationTranslation": "Bu, hər gün baş verir, ona görə present simple-da məchul növ işlədilir: is + past participle."
+        },
+        {
+          "type": "text",
+          "prompt": "The window ___ (break) by the wind last night.",
+          "promptTranslation": "Dünən gecə pəncərəni külək sındırdı.",
+          "answer": "was broken",
+          "explanation": "Last night is in the past, so we use was + past participle (broken).",
+          "explanationTranslation": "Last night keçmiş zamandır, ona görə was + past participle (broken) işlədilir."
+        },
+        {
+          "type": "choice",
+          "prompt": "These shoes ___ in Italy.",
+          "promptTranslation": "Bu ayaqqabılar İtaliyada istehsal olunur.",
+          "options": [
+            "is made",
+            "are made",
+            "made"
+          ],
+          "answer": "are made",
+          "explanation": "Shoes is plural, so we use are + past participle.",
+          "explanationTranslation": "Shoes cəm haldadır, ona görə are + past participle işlədilir."
+        },
+        {
+          "type": "text",
+          "prompt": "The letters ___ (send) yesterday.",
+          "promptTranslation": "Məktublar dünən göndərildi.",
+          "answer": "were sent",
+          "explanation": "Letters is plural and yesterday is past, so we use were + past participle.",
+          "explanationTranslation": "Letters cəm haldadır, yesterday isə keçmiş zamandır, ona görə were + past participle işlədilir."
+        },
+        {
+          "type": "choice",
+          "prompt": "Was the problem ___ by the supervisor?",
+          "promptTranslation": "Problem rəhbər tərəfindən həll olundumu?",
+          "options": [
+            "solved",
+            "solve",
+            "solving"
+          ],
+          "answer": "solved",
+          "explanation": "In passive questions we use was + subject + past participle.",
+          "explanationTranslation": "Məchul növdə sual cümlələri was + mübtəda + past participle ilə qurulur."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,1065 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-20",
+  "level": "B1",
+  "translationLanguage": "az",
+  "words": [
+    {
+      "word": "punctual",
+      "ipa": "/ˈpʌŋktʃuəl/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "dəqiq, vaxtında gələn, gecikməyən",
+          "definition": "arriving or doing things at the right time, not late",
+          "synonyms": [
+            "on time",
+            "prompt"
+          ],
+          "antonyms": [
+            "late"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Our teacher is always punctual.",
+              "translation": "Müəllimimiz həmişə vaxtında gəlir."
+            },
+            {
+              "text": "Trains in Japan are famous for being punctual.",
+              "translation": "Yaponiyada qatarlar dəqiqliyi ilə məşhurdur."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "postpone",
+      "ipa": "/poʊstˈpoʊn/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "təxirə salmaq",
+          "definition": "to move an event or a plan to a later time",
+          "synonyms": [
+            "put off",
+            "delay",
+            "reschedule"
+          ],
+          "antonyms": [
+            "bring forward"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The match was postponed because of the rain.",
+              "translation": "Oyun yağışa görə təxirə salındı."
+            },
+            {
+              "text": "Can we postpone our meeting until Friday?",
+              "translation": "Görüşümüzü cümə gününə qədər təxirə sala bilərikmi?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "spare",
+      "ipa": "/spɛr/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "boş (vaxt); ehtiyat",
+          "definition": "extra and not being used, or kept in case you need it; (about time) free",
+          "synonyms": [
+            "extra",
+            "free"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "What do you do in your spare time?",
+              "translation": "Boş vaxtında nə edirsən?"
+            },
+            {
+              "text": "We always keep a spare key under the flowerpot.",
+              "translation": "Biz həmişə ehtiyat açarı gül dibçəyinin altında saxlayırıq."
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "verb",
+          "translation": "ayırmaq (vaxt, pul)",
+          "definition": "to give some of your time or money to someone because you have enough",
+          "synonyms": [
+            "give",
+            "afford"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Can you spare a few minutes to help me?",
+              "translation": "Mənə kömək etmək üçün bir neçə dəqiqə ayıra bilərsən?"
+            },
+            {
+              "text": "I can't spare any money this month.",
+              "translation": "Bu ay heç bir pul ayıra bilmərəm."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "routine",
+      "ipa": "/ruˈtin/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "gündəlik rejim, adi qayda",
+          "definition": "the usual things that you do every day, often in the same order",
+          "synonyms": [
+            "habit",
+            "schedule"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "My morning routine starts with a cup of tea.",
+              "translation": "Səhər rejimim bir fincan çayla başlayır."
+            },
+            {
+              "text": "Exercise is part of my daily routine.",
+              "translation": "İdman gündəlik rejimimin bir hissəsidir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "occasionally",
+      "ipa": "/əˈkeɪʒənəli/",
+      "senses": [
+        {
+          "partOfSpeech": "adverb",
+          "translation": "arabir, hərdənbir",
+          "definition": "sometimes, but not often",
+          "synonyms": [
+            "sometimes",
+            "now and then",
+            "from time to time"
+          ],
+          "antonyms": [
+            "often",
+            "regularly"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "We occasionally go to the movies on Sundays.",
+              "translation": "Bazar günləri hərdənbir kinoya gedirik."
+            },
+            {
+              "text": "My brother calls me occasionally, usually on holidays.",
+              "translation": "Qardaşım arabir, adətən bayramlarda mənə zəng edir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "duration",
+      "ipa": "/dʊˈreɪʃən/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "müddət, davametmə müddəti",
+          "definition": "the length of time that something lasts",
+          "synonyms": [
+            "length",
+            "period"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The duration of the flight is three hours.",
+              "translation": "Uçuşun müddəti üç saatdır."
+            },
+            {
+              "text": "Please stay in your seats for the duration of the show.",
+              "translation": "Xahiş edirik, tamaşa boyu yerlərinizdə oturun."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "frequently",
+      "ipa": "/ˈfrikwəntli/",
+      "senses": [
+        {
+          "partOfSpeech": "adverb",
+          "translation": "tez-tez",
+          "definition": "many times, often",
+          "synonyms": [
+            "often",
+            "regularly"
+          ],
+          "antonyms": [
+            "rarely",
+            "seldom"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "This bus runs frequently, every ten minutes.",
+              "translation": "Bu avtobus tez-tez, hər on dəqiqədən bir gəlir."
+            },
+            {
+              "text": "Do you frequently work late?",
+              "translation": "Tez-tez işdə gec qalırsan?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "rarely",
+      "ipa": "/ˈrɛrli/",
+      "senses": [
+        {
+          "partOfSpeech": "adverb",
+          "translation": "nadir hallarda, çox az",
+          "definition": "not often, almost never",
+          "synonyms": [
+            "seldom",
+            "hardly ever"
+          ],
+          "antonyms": [
+            "often",
+            "frequently"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "My grandfather rarely watches TV.",
+              "translation": "Babam çox nadir hallarda televizora baxır."
+            },
+            {
+              "text": "It rarely snows in Baku.",
+              "translation": "Bakıda nadir hallarda qar yağır."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "temporary",
+      "ipa": "/ˈtɛmpəˌrɛri/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "müvəqqəti",
+          "definition": "lasting or used only for a short time",
+          "synonyms": [
+            "short-term"
+          ],
+          "antonyms": [
+            "permanent"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "She found a temporary job for the summer.",
+              "translation": "O, yay üçün müvəqqəti iş tapdı."
+            },
+            {
+              "text": "The road is closed, but it's only temporary.",
+              "translation": "Yol bağlıdır, amma bu, sadəcə müvəqqətidir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "permanent",
+      "ipa": "/ˈpɝmənənt/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "daimi",
+          "definition": "lasting for a very long time or forever",
+          "synonyms": [
+            "lasting",
+            "long-term"
+          ],
+          "antonyms": [
+            "temporary"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "After a year, they gave him a permanent contract.",
+              "translation": "Bir ildən sonra ona daimi müqavilə verdilər."
+            },
+            {
+              "text": "Is this your permanent address?",
+              "translation": "Bu, sizin daimi ünvanınızdır?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "meanwhile",
+      "ipa": "/ˈminˌwaɪl/",
+      "senses": [
+        {
+          "partOfSpeech": "adverb",
+          "translation": "bu arada, həmin vaxt",
+          "definition": "at the same time as something else is happening, or in the time before something happens",
+          "synonyms": [
+            "in the meantime",
+            "at the same time"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Dinner will be ready soon. Meanwhile, you can set the table.",
+              "translation": "Şam yeməyi tezliklə hazır olacaq. Bu arada sən süfrəni aça bilərsən."
+            },
+            {
+              "text": "Ali was cooking; meanwhile, his wife was cleaning the house.",
+              "translation": "Əli yemək bişirirdi, bu arada həyat yoldaşı evi təmizləyirdi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "eventually",
+      "ipa": "/ɪˈvɛntʃuəli/",
+      "senses": [
+        {
+          "partOfSpeech": "adverb",
+          "translation": "nəhayət, sonda",
+          "definition": "in the end, after a long time or after many problems",
+          "synonyms": [
+            "finally",
+            "in the end"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "We waited for an hour, and eventually the bus came.",
+              "translation": "Bir saat gözlədik və nəhayət avtobus gəldi."
+            },
+            {
+              "text": "Don't worry – you'll eventually get used to the new job.",
+              "translation": "Narahat olma, axırda yeni işə öyrəşəcəksən."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "immediately",
+      "ipa": "/ɪˈmidiətli/",
+      "senses": [
+        {
+          "partOfSpeech": "adverb",
+          "translation": "dərhal, o saat",
+          "definition": "now or at once, without waiting",
+          "synonyms": [
+            "at once",
+            "right away",
+            "instantly"
+          ],
+          "antonyms": [
+            "later"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Call me immediately if anything happens.",
+              "translation": "Nəsə olsa, dərhal mənə zəng et."
+            },
+            {
+              "text": "She recognized him immediately.",
+              "translation": "O, onu dərhal tanıdı."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "recently",
+      "ipa": "/ˈrisəntli/",
+      "senses": [
+        {
+          "partOfSpeech": "adverb",
+          "translation": "bu yaxınlarda, son vaxtlar",
+          "definition": "a short time ago, not long ago",
+          "synonyms": [
+            "lately",
+            "not long ago"
+          ],
+          "antonyms": [
+            "long ago"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "I recently started a new job.",
+              "translation": "Bu yaxınlarda yeni işə başladım."
+            },
+            {
+              "text": "Have you seen any good movies recently?",
+              "translation": "Son vaxtlar yaxşı film izləmisən?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "period",
+      "ipa": "/ˈpɪriəd/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "dövr, müddət",
+          "definition": "a length of time",
+          "synonyms": [
+            "time",
+            "stage"
+          ],
+          "antonyms": [],
+          "homonyms": [
+            {
+              "word": "period",
+              "meaning": "the dot (.) at the end of a sentence (American English)",
+              "translation": "nöqtə (durğu işarəsi)"
+            }
+          ],
+          "examples": [
+            {
+              "text": "It was a difficult period in my life.",
+              "translation": "Bu, həyatımda çətin bir dövr idi."
+            },
+            {
+              "text": "The museum is closed for a short period.",
+              "translation": "Muzey qısa müddətə bağlıdır."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "story": {
+    "title": "The Late Bus",
+    "titleTranslation": "Gecikən avtobus",
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "Elvin is the most punctual person in his office.",
+            "translation": "Elvin ofisdəki ən dəqiq insandır."
+          },
+          {
+            "text": "His morning routine never changes: he wakes up at half past six, drinks a glass of water and makes coffee.",
+            "translation": "Onun səhər rejimi heç vaxt dəyişmir: yeddinin yarısında oyanır, bir stəkan su içir və qəhvə hazırlayır."
+          },
+          {
+            "text": "“If I leave the house at 7:40, I catch the 7:45 bus,” he explains. “If I catch that bus, I get to work at exactly eight.”",
+            "translation": "«Evdən saat yeddi qırxda çıxsam, yeddi qırx beşin avtobusuna çatıram», – deyə izah edir. «O avtobusa çatsam, işə düz saat səkkizdə gəlirəm.»"
+          },
+          {
+            "text": "He rarely takes a day off, and he never postpones his plans.",
+            "translation": "O, nadir hallarda istirahət günü götürür və planlarını heç vaxt təxirə salmır."
+          },
+          {
+            "text": "Occasionally his colleagues laugh at him, but Elvin doesn't mind.",
+            "translation": "Hərdənbir iş yoldaşları ona gülürlər, amma Elvin buna fikir vermir."
+          },
+          {
+            "text": "They call him “the human clock,” because you can check the time when he walks in.",
+            "translation": "Ona «canlı saat» deyirlər, çünki o, içəri girəndə saatını yoxlaya bilərsən."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Recently, however, the city started repairing the road near his home.",
+            "translation": "Lakin bu yaxınlarda şəhər onun evinin yaxınlığındakı yolu təmir etməyə başladı."
+          },
+          {
+            "text": "A sign at the bus stop said: “Temporary changes to the bus schedule. Duration of the work: two months.”",
+            "translation": "Dayanacaqdakı lövhədə yazılmışdı: «Avtobus cədvəlində müvəqqəti dəyişikliklər. İşlərin müddəti: iki ay.»"
+          },
+          {
+            "text": "For a while, the buses would come only every twenty minutes.",
+            "translation": "Bir müddət avtobuslar yalnız iyirmi dəqiqədən bir gələcəkdi."
+          },
+          {
+            "text": "Elvin frowned. For him, two months was a very long period.",
+            "translation": "Elvin qaşqabağını tökdü. Onun üçün iki ay çox uzun müddət idi."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "On the first rainy Monday, the 7:45 bus didn't come.",
+            "translation": "İlk yağışlı bazar ertəsi yeddi qırx beşin avtobusu gəlmədi."
+          },
+          {
+            "text": "Elvin looked at his watch again and again.",
+            "translation": "Elvin dəfələrlə saatına baxdı."
+          },
+          {
+            "text": "An old woman with a heavy bag was standing next to him.",
+            "translation": "Onun yanında ağır çantalı yaşlı bir qadın dayanmışdı."
+          },
+          {
+            "text": "“When it rains, the buses are always late,” she said kindly. “And if you worry, time goes more slowly.”",
+            "translation": "«Yağış yağanda avtobuslar həmişə gecikir», – deyə o, mehribanlıqla dedi. «Narahat olanda isə vaxt daha yavaş keçir.»"
+          },
+          {
+            "text": "Meanwhile, the rain got heavier, so they stood together under her big umbrella.",
+            "translation": "Bu arada yağış gücləndi, ona görə də onlar qadının böyük çətirinin altında birlikdə dayandılar."
+          },
+          {
+            "text": "She told him about her grandchildren, and he told her about his job.",
+            "translation": "Qadın ona nəvələrindən danışdı, o da qadına öz işindən danışdı."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Eventually, the bus arrived, and Elvin immediately offered to carry her bag.",
+            "translation": "Nəhayət, avtobus gəldi və Elvin dərhal onun çantasını daşımağı təklif etdi."
+          },
+          {
+            "text": "They talked all the way to the city center.",
+            "translation": "Onlar şəhər mərkəzinə qədər bütün yol boyu söhbət etdilər."
+          },
+          {
+            "text": "Her name was Zarifa, and she taught piano in her spare time.",
+            "translation": "Onun adı Zərifə idi və boş vaxtlarında piano dərsi verirdi."
+          },
+          {
+            "text": "Elvin was twenty minutes late for work, but for once he didn't feel stressed.",
+            "translation": "Elvin işə iyirmi dəqiqə gecikdi, amma bu dəfə özünü heç də gərgin hiss etmədi."
+          },
+          {
+            "text": "His boss was surprised, but she just smiled and said, “Even punctual people are late occasionally.”",
+            "translation": "Müdiri təəccübləndi, amma sadəcə gülümsəyib dedi: «Hətta dəqiq insanlar da hərdənbir gecikir.»"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The road work was temporary, but the change in Elvin was permanent.",
+            "translation": "Yol işləri müvəqqəti idi, amma Elvindəki dəyişiklik daimi oldu."
+          },
+          {
+            "text": "He still loves his routine, but if something unexpected happens, he smiles instead of looking at his watch.",
+            "translation": "O, hələ də öz rejimini sevir, amma gözlənilməz bir şey olanda saatına baxmaq əvəzinə gülümsəyir."
+          },
+          {
+            "text": "Now he frequently leaves home ten minutes early, just to chat with Zarifa at the bus stop.",
+            "translation": "İndi o, sadəcə dayanacaqda Zərifə ilə söhbət etmək üçün tez-tez evdən on dəqiqə tez çıxır."
+          },
+          {
+            "text": "And one evening, he did something unusual: he postponed his usual walk and signed up for her piano lessons.",
+            "translation": "Bir axşam isə o, qeyri-adi bir iş gördü: adi gəzintisini təxirə saldı və onun piano dərslərinə yazıldı."
+          }
+        ]
+      }
+    ],
+    "glossary": [
+      {
+        "term": "punctual",
+        "lemma": "punctual",
+        "partOfSpeech": "adjective",
+        "meaning": "always arriving at the right time",
+        "translation": "dəqiq, vaxtında gələn"
+      },
+      {
+        "term": "routine",
+        "lemma": "routine",
+        "partOfSpeech": "noun",
+        "meaning": "the things you usually do every day in the same order",
+        "translation": "rejim, gündəlik qayda"
+      },
+      {
+        "term": "wakes up",
+        "lemma": "wake up",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "stops sleeping",
+        "translation": "oyanır"
+      },
+      {
+        "term": "half past six",
+        "lemma": "half past six",
+        "partOfSpeech": "phrase",
+        "meaning": "6:30",
+        "translation": "yeddinin yarısı"
+      },
+      {
+        "term": "catch",
+        "lemma": "catch",
+        "partOfSpeech": "verb",
+        "meaning": "to get on a bus or train before it leaves",
+        "translation": "çatmaq, minmək"
+      },
+      {
+        "term": "explains",
+        "lemma": "explain",
+        "partOfSpeech": "verb",
+        "meaning": "tells someone about something so they understand it",
+        "translation": "izah edir"
+      },
+      {
+        "term": "get to work",
+        "lemma": "get to work",
+        "partOfSpeech": "phrase",
+        "meaning": "to arrive at your workplace",
+        "translation": "işə çatmaq, işə gəlmək"
+      },
+      {
+        "term": "exactly",
+        "lemma": "exactly",
+        "partOfSpeech": "adverb",
+        "meaning": "not more and not less",
+        "translation": "düz, tam"
+      },
+      {
+        "term": "rarely",
+        "lemma": "rarely",
+        "partOfSpeech": "adverb",
+        "meaning": "not often",
+        "translation": "nadir hallarda"
+      },
+      {
+        "term": "takes a day off",
+        "lemma": "take a day off",
+        "partOfSpeech": "phrase",
+        "meaning": "does not go to work for one day",
+        "translation": "istirahət günü götürür"
+      },
+      {
+        "term": "postpones",
+        "lemma": "postpone",
+        "partOfSpeech": "verb",
+        "meaning": "moves something to a later time",
+        "translation": "təxirə salır"
+      },
+      {
+        "term": "occasionally",
+        "lemma": "occasionally",
+        "partOfSpeech": "adverb",
+        "meaning": "sometimes, but not often",
+        "translation": "hərdənbir"
+      },
+      {
+        "term": "colleagues",
+        "lemma": "colleague",
+        "partOfSpeech": "noun",
+        "meaning": "people you work with",
+        "translation": "iş yoldaşları"
+      },
+      {
+        "term": "doesn't mind",
+        "lemma": "not mind",
+        "partOfSpeech": "phrase",
+        "meaning": "is not upset or worried about something",
+        "translation": "fikir vermir, etiraz etmir"
+      },
+      {
+        "term": "walks in",
+        "lemma": "walk in",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "enters a room or a building",
+        "translation": "içəri girir"
+      },
+      {
+        "term": "recently",
+        "lemma": "recently",
+        "partOfSpeech": "adverb",
+        "meaning": "not long ago",
+        "translation": "bu yaxınlarda"
+      },
+      {
+        "term": "however",
+        "lemma": "however",
+        "partOfSpeech": "adverb",
+        "meaning": "but (used to show a contrast)",
+        "translation": "lakin, ancaq"
+      },
+      {
+        "term": "repairing",
+        "lemma": "repair",
+        "partOfSpeech": "verb",
+        "meaning": "fixing something that is broken or old",
+        "translation": "təmir etmək"
+      },
+      {
+        "term": "sign",
+        "lemma": "sign",
+        "partOfSpeech": "noun",
+        "meaning": "a board with information on it",
+        "translation": "lövhə"
+      },
+      {
+        "term": "temporary",
+        "lemma": "temporary",
+        "partOfSpeech": "adjective",
+        "meaning": "only for a short time",
+        "translation": "müvəqqəti"
+      },
+      {
+        "term": "schedule",
+        "lemma": "schedule",
+        "partOfSpeech": "noun",
+        "meaning": "a list of times when buses or trains leave and arrive",
+        "translation": "cədvəl, hərəkət cədvəli"
+      },
+      {
+        "term": "duration",
+        "lemma": "duration",
+        "partOfSpeech": "noun",
+        "meaning": "how long something lasts",
+        "translation": "müddət"
+      },
+      {
+        "term": "for a while",
+        "lemma": "for a while",
+        "partOfSpeech": "phrase",
+        "meaning": "for some time",
+        "translation": "bir müddət"
+      },
+      {
+        "term": "frowned",
+        "lemma": "frown",
+        "partOfSpeech": "verb",
+        "meaning": "made an unhappy face",
+        "translation": "qaşqabağını tökdü"
+      },
+      {
+        "term": "period",
+        "lemma": "period",
+        "partOfSpeech": "noun",
+        "meaning": "a length of time",
+        "translation": "müddət"
+      },
+      {
+        "term": "rainy",
+        "lemma": "rainy",
+        "partOfSpeech": "adjective",
+        "meaning": "with a lot of rain",
+        "translation": "yağışlı"
+      },
+      {
+        "term": "again and again",
+        "lemma": "again and again",
+        "partOfSpeech": "phrase",
+        "meaning": "many times",
+        "translation": "dəfələrlə"
+      },
+      {
+        "term": "heavy",
+        "lemma": "heavy",
+        "partOfSpeech": "adjective",
+        "meaning": "weighing a lot",
+        "translation": "ağır"
+      },
+      {
+        "term": "kindly",
+        "lemma": "kindly",
+        "partOfSpeech": "adverb",
+        "meaning": "in a friendly and nice way",
+        "translation": "mehribanlıqla"
+      },
+      {
+        "term": "meanwhile",
+        "lemma": "meanwhile",
+        "partOfSpeech": "adverb",
+        "meaning": "at the same time",
+        "translation": "bu arada"
+      },
+      {
+        "term": "got heavier",
+        "lemma": "get heavy",
+        "partOfSpeech": "phrase",
+        "meaning": "became stronger (about rain)",
+        "translation": "gücləndi"
+      },
+      {
+        "term": "grandchildren",
+        "lemma": "grandchild",
+        "partOfSpeech": "noun",
+        "meaning": "the children of your son or daughter",
+        "translation": "nəvələr"
+      },
+      {
+        "term": "eventually",
+        "lemma": "eventually",
+        "partOfSpeech": "adverb",
+        "meaning": "in the end, after a long time",
+        "translation": "nəhayət"
+      },
+      {
+        "term": "immediately",
+        "lemma": "immediately",
+        "partOfSpeech": "adverb",
+        "meaning": "at once, without waiting",
+        "translation": "dərhal"
+      },
+      {
+        "term": "offered",
+        "lemma": "offer",
+        "partOfSpeech": "verb",
+        "meaning": "said that he was ready to do something for someone",
+        "translation": "təklif etdi"
+      },
+      {
+        "term": "all the way",
+        "lemma": "all the way",
+        "partOfSpeech": "phrase",
+        "meaning": "during the whole trip",
+        "translation": "bütün yol boyu"
+      },
+      {
+        "term": "in her spare time",
+        "lemma": "in your spare time",
+        "partOfSpeech": "phrase",
+        "meaning": "when she was not working",
+        "translation": "boş vaxtlarında"
+      },
+      {
+        "term": "spare",
+        "lemma": "spare",
+        "partOfSpeech": "adjective",
+        "meaning": "free, not used for work",
+        "translation": "boş"
+      },
+      {
+        "term": "late for work",
+        "lemma": "late for work",
+        "partOfSpeech": "phrase",
+        "meaning": "arriving at work after the right time",
+        "translation": "işə gecikmiş"
+      },
+      {
+        "term": "for once",
+        "lemma": "for once",
+        "partOfSpeech": "phrase",
+        "meaning": "this time, although it does not usually happen",
+        "translation": "bu dəfə (nəhayət)"
+      },
+      {
+        "term": "stressed",
+        "lemma": "stressed",
+        "partOfSpeech": "adjective",
+        "meaning": "worried and nervous",
+        "translation": "gərgin, stresli"
+      },
+      {
+        "term": "boss",
+        "lemma": "boss",
+        "partOfSpeech": "noun",
+        "meaning": "the person who is in charge of you at work",
+        "translation": "müdir"
+      },
+      {
+        "term": "surprised",
+        "lemma": "surprised",
+        "partOfSpeech": "adjective",
+        "meaning": "feeling that something is not expected",
+        "translation": "təəccüblənmiş"
+      },
+      {
+        "term": "permanent",
+        "lemma": "permanent",
+        "partOfSpeech": "adjective",
+        "meaning": "lasting for a long time or forever",
+        "translation": "daimi"
+      },
+      {
+        "term": "still",
+        "lemma": "still",
+        "partOfSpeech": "adverb",
+        "meaning": "even now, as before",
+        "translation": "hələ də"
+      },
+      {
+        "term": "unexpected",
+        "lemma": "unexpected",
+        "partOfSpeech": "adjective",
+        "meaning": "that you did not think would happen",
+        "translation": "gözlənilməz"
+      },
+      {
+        "term": "instead of",
+        "lemma": "instead of",
+        "partOfSpeech": "phrase",
+        "meaning": "in the place of something else",
+        "translation": "... əvəzinə"
+      },
+      {
+        "term": "frequently",
+        "lemma": "frequently",
+        "partOfSpeech": "adverb",
+        "meaning": "often",
+        "translation": "tez-tez"
+      },
+      {
+        "term": "chat",
+        "lemma": "chat",
+        "partOfSpeech": "verb",
+        "meaning": "to talk in a friendly, informal way",
+        "translation": "söhbət etmək, laqqırtı vurmaq"
+      },
+      {
+        "term": "unusual",
+        "lemma": "unusual",
+        "partOfSpeech": "adjective",
+        "meaning": "different from what usually happens",
+        "translation": "qeyri-adi"
+      },
+      {
+        "term": "postponed",
+        "lemma": "postpone",
+        "partOfSpeech": "verb",
+        "meaning": "moved to a later time",
+        "translation": "təxirə saldı"
+      },
+      {
+        "term": "signed up for",
+        "lemma": "sign up for",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "put his name on a list to take part in something",
+        "translation": "yazıldı"
+      }
+    ]
+  },
+  "grammar": {
+    "topic": "Zero conditional",
+    "topicTranslation": "Sıfırıncı tip şərt cümlələri",
+    "explanation": "We use the zero conditional to talk about things that are always or generally true: facts, rules and habits. Both parts of the sentence use the present simple. Here if means the same as when or every time. The if-part can come first (with a comma) or second.",
+    "explanationTranslation": "Sıfırıncı tip şərt cümlələri həmişə və ya ümumiyyətlə doğru olan şeylər – faktlar, qaydalar və vərdişlər haqqında danışmaq üçün işlədilir. Cümlənin hər iki hissəsində present simple işlədilir. Burada if “when” (…-anda) və ya “every time” (hər dəfə) mənasını verir. If hissəsi əvvəldə (vergüllə) və ya sonda gələ bilər.",
+    "rules": [
+      {
+        "text": "Form: If + present simple, present simple. (If you heat ice, it melts.)",
+        "translation": "Quruluş: If + present simple, present simple. (If you heat ice, it melts.)"
+      },
+      {
+        "text": "In the zero conditional, we can use when instead of if without changing the meaning: When it rains, the buses are late.",
+        "translation": "Sıfırıncı tip şərt cümlələrində mənanı dəyişmədən if əvəzinə when işlətmək olar: When it rains, the buses are late."
+      },
+      {
+        "text": "Use it for facts and habits, not for one particular future situation – for that, use the first conditional.",
+        "translation": "Bu quruluş faktlar və vərdişlər üçün işlədilir, gələcəkdəki konkret bir vəziyyət üçün yox – onun üçün birinci tip şərt cümləsi işlədilir."
+      },
+      {
+        "text": "For instructions, you can use an imperative in the main part: If you feel tired, take a break.",
+        "translation": "Göstəriş vermək üçün əsas hissədə əmr formasını işlətmək olar: If you feel tired, take a break."
+      }
+    ],
+    "examples": [
+      {
+        "text": "If you heat water to 100 degrees, it boils.",
+        "translation": "Suyu 100 dərəcəyə qədər qızdırsan, qaynayır."
+      },
+      {
+        "text": "If I drink coffee in the evening, I can't sleep.",
+        "translation": "Axşam qəhvə içəndə yata bilmirəm."
+      },
+      {
+        "text": "When it snows, schools sometimes postpone their exams.",
+        "translation": "Qar yağanda məktəblər bəzən imtahanları təxirə salır."
+      },
+      {
+        "text": "If you are punctual, people trust you more.",
+        "translation": "Dəqiq olanda insanlar sənə daha çox güvənir."
+      },
+      {
+        "text": "If you have some spare time, call your grandmother.",
+        "translation": "Bir az boş vaxtın olsa, nənənə zəng et."
+      }
+    ],
+    "exercise": {
+      "instructions": "Choose or write the correct form.",
+      "instructionsTranslation": "Düzgün formanı seçin və ya yazın.",
+      "questions": [
+        {
+          "type": "choice",
+          "prompt": "If you mix red and blue, you ___ purple.",
+          "promptTranslation": "Qırmızı ilə mavini qarışdıranda bənövşəyi alınır.",
+          "options": [
+            "get",
+            "got",
+            "getting"
+          ],
+          "answer": "get",
+          "explanation": "This is a general fact, so both parts use the present simple.",
+          "explanationTranslation": "Bu, ümumi faktdır, ona görə hər iki hissədə present simple işlədilir."
+        },
+        {
+          "type": "text",
+          "prompt": "If plants ___ (not / get) water, they die.",
+          "promptTranslation": "Bitkilər su almayanda quruyub ölür.",
+          "answer": "don't get",
+          "acceptedAnswers": [
+            "do not get"
+          ],
+          "explanation": "Present simple negative with they: don't + verb.",
+          "explanationTranslation": "They ilə present simple-ın inkar forması: don't + feil."
+        },
+        {
+          "type": "choice",
+          "prompt": "Ice ___ if you leave it in the sun.",
+          "promptTranslation": "Buzu günəşdə qoysan, əriyir.",
+          "options": [
+            "melts",
+            "melted",
+            "melting"
+          ],
+          "answer": "melts",
+          "explanation": "Use the present simple for facts: ice melts.",
+          "explanationTranslation": "Faktlar üçün present simple işlədilir: ice melts."
+        },
+        {
+          "type": "text",
+          "prompt": "If my sister ___ (feel) tired, she goes to bed early.",
+          "promptTranslation": "Bacım yorğun olanda tez yatır.",
+          "answer": "feels",
+          "explanation": "Present simple with she: verb + -s.",
+          "explanationTranslation": "She ilə present simple: feil + -s."
+        },
+        {
+          "type": "choice",
+          "prompt": "If the bus ___ late, I take a taxi.",
+          "promptTranslation": "Avtobus gecikəndə taksiyə minirəm.",
+          "options": [
+            "is",
+            "will be",
+            "was"
+          ],
+          "answer": "is",
+          "explanation": "Both parts of the zero conditional use the present simple, so we don't use will in the if-part.",
+          "explanationTranslation": "Sıfırıncı tip şərt cümləsinin hər iki hissəsində present simple işlədilir, ona görə if hissəsində will işlədilmir."
+        }
+      ]
+    }
+  }
+}

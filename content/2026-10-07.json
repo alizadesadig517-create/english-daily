@@ -1,0 +1,1045 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-07",
+  "level": "B1",
+  "translationLanguage": "az",
+  "words": [
+    {
+      "word": "afford",
+      "ipa": "/əˈfɔrd/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "(pulu, imkanı) çatmaq",
+          "definition": "to have enough money or time to buy or do something",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "We can't afford a new car this year.",
+              "translation": "Bu il yeni maşın almağa imkanımız yoxdur."
+            },
+            {
+              "text": "I couldn't afford to go on vacation last summer.",
+              "translation": "Keçən yay istirahətə getməyə pulum çatmadı."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "budget",
+      "ipa": "/ˈbʌdʒɪt/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "büdcə",
+          "definition": "a plan of how much money you can spend, or the amount of money you have for something",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Our monthly budget for food is three hundred manats.",
+              "translation": "Ərzaq üçün aylıq büdcəmiz üç yüz manatdır."
+            },
+            {
+              "text": "The project went over budget.",
+              "translation": "Layihə büdcəni aşdı."
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "verb",
+          "translation": "büdcə planlaşdırmaq, pulu hesabla xərcləmək",
+          "definition": "to plan carefully how much money you will spend",
+          "synonyms": [
+            "plan"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Students have to budget carefully.",
+              "translation": "Tələbələr pullarını diqqətlə planlaşdırmalıdırlar."
+            },
+            {
+              "text": "We budgeted two thousand dollars for the trip.",
+              "translation": "Səfər üçün iki min dollar ayırdıq."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "discount",
+      "ipa": "/ˈdɪskaʊnt/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "endirim",
+          "definition": "an amount of money taken off the usual price",
+          "synonyms": [
+            "reduction"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Students get a ten percent discount at this movie theater.",
+              "translation": "Tələbələr bu kinoteatrda on faiz endirim alırlar."
+            },
+            {
+              "text": "I bought these shoes at a big discount.",
+              "translation": "Bu ayaqqabıları böyük endirimlə aldım."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "receipt",
+      "ipa": "/rɪˈsit/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "çek, qəbz",
+          "definition": "a piece of paper that shows you have paid for something",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Keep the receipt in case you want to return the jacket.",
+              "translation": "Gödəkçəni qaytarmaq istəsən deyə çeki saxla."
+            },
+            {
+              "text": "Can I have a receipt, please?",
+              "translation": "Mənə çek verə bilərsiniz, zəhmət olmasa?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "waste",
+      "ipa": "/weɪst/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "boş yerə xərcləmək, israf etmək",
+          "definition": "to use more money, time or things than you need, or to use them badly",
+          "synonyms": [
+            "throw away"
+          ],
+          "antonyms": [
+            "save"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Don't waste your money on things you don't need.",
+              "translation": "Pulunu lazım olmayan şeylərə boş yerə xərcləmə."
+            },
+            {
+              "text": "We wasted two hours in traffic.",
+              "translation": "Tıxacda iki saat itirdik."
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "noun",
+          "translation": "israf, itki; tullantı",
+          "definition": "a bad use of money, time or things; also, things that people throw away",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [
+            {
+              "word": "waist",
+              "meaning": "the middle part of your body, above your hips (sounds the same as \"waste\")",
+              "translation": "bel"
+            }
+          ],
+          "examples": [
+            {
+              "text": "This meeting is a waste of time.",
+              "translation": "Bu iclas vaxt itkisidir."
+            },
+            {
+              "text": "The factory produces a lot of waste.",
+              "translation": "Fabrik çoxlu tullantı əmələ gətirir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "expense",
+      "ipa": "/ɪkˈspɛns/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "xərc",
+          "definition": "money that you spend on something",
+          "synonyms": [
+            "cost",
+            "spending"
+          ],
+          "antonyms": [
+            "income"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Rent is our biggest expense.",
+              "translation": "Kirayə haqqı bizim ən böyük xərcimizdir."
+            },
+            {
+              "text": "We need to cut our expenses this month.",
+              "translation": "Bu ay xərclərimizi azaltmalıyıq."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "loan",
+      "ipa": "/loʊn/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "kredit, borc",
+          "definition": "money that a bank or a person lends you and that you must pay back",
+          "synonyms": [
+            "credit"
+          ],
+          "antonyms": [],
+          "homonyms": [
+            {
+              "word": "lone",
+              "meaning": "alone; the only one (sounds the same as \"loan\")",
+              "translation": "tək, yeganə"
+            }
+          ],
+          "examples": [
+            {
+              "text": "They took a loan from the bank to buy a house.",
+              "translation": "Ev almaq üçün bankdan kredit götürdülər."
+            },
+            {
+              "text": "I have finally paid back my student loan.",
+              "translation": "Nəhayət, tələbə kreditimi qaytarmışam."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "debt",
+      "ipa": "/dɛt/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "borc",
+          "definition": "money that you owe to someone",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "He has been in debt since he lost his job.",
+              "translation": "İşini itirəndən bəri borc içindədir."
+            },
+            {
+              "text": "We finally paid off all our debts.",
+              "translation": "Nəhayət, bütün borclarımızı ödədik."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "invest",
+      "ipa": "/ɪnˈvɛst/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "sərmayə qoymaq, yatırmaq",
+          "definition": "to put money into something, such as a business, so that you get more money later",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "My uncle invested his savings in a small café.",
+              "translation": "Əmim yığdığı pulu kiçik bir kafeyə yatırdı."
+            },
+            {
+              "text": "It's a good idea to invest time in learning new skills.",
+              "translation": "Yeni bacarıqlar öyrənməyə vaxt sərf etmək yaxşı fikirdir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "earn",
+      "ipa": "/ɜrn/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "qazanmaq",
+          "definition": "to get money for the work that you do",
+          "synonyms": [
+            "make"
+          ],
+          "antonyms": [
+            "spend"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "She earns about two thousand manats a month.",
+              "translation": "O, ayda təxminən iki min manat qazanır."
+            },
+            {
+              "text": "He earned some extra money by teaching guitar.",
+              "translation": "O, gitara dərsi verərək bir az əlavə pul qazandı."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "wealthy",
+      "ipa": "/ˈwɛlθi/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "varlı, zəngin",
+          "definition": "having a lot of money",
+          "synonyms": [
+            "rich"
+          ],
+          "antonyms": [
+            "poor"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Her family is very wealthy.",
+              "translation": "Onun ailəsi çox varlıdır."
+            },
+            {
+              "text": "He became wealthy after he sold his company.",
+              "translation": "Şirkətini satandan sonra varlandı."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "cash",
+      "ipa": "/kæʃ/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "nağd pul",
+          "definition": "money in the form of coins and paper notes",
+          "synonyms": [
+            "money"
+          ],
+          "antonyms": [],
+          "homonyms": [
+            {
+              "word": "cache",
+              "meaning": "a hidden store of things; also, saved data on a computer (sounds the same as \"cash\")",
+              "translation": "gizli ehtiyat; keş"
+            }
+          ],
+          "examples": [
+            {
+              "text": "Do you want to pay by card or in cash?",
+              "translation": "Kartla, yoxsa nağd ödəmək istəyirsiniz?"
+            },
+            {
+              "text": "I never carry much cash with me.",
+              "translation": "Heç vaxt üstümdə çox nağd pul gəzdirmirəm."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "purchase",
+      "ipa": "/ˈpɜrtʃəs/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "alış, alınmış əşya",
+          "definition": "something that you buy, or the act of buying it",
+          "synonyms": [
+            "buy"
+          ],
+          "antonyms": [
+            "sale"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "This sofa was our best purchase this year.",
+              "translation": "Bu divan bu il etdiyimiz ən yaxşı alış idi."
+            },
+            {
+              "text": "Please keep your receipt as proof of purchase.",
+              "translation": "Zəhmət olmasa, alışı təsdiq etmək üçün çeki saxlayın."
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "verb",
+          "translation": "satın almaq",
+          "definition": "to buy something (a more formal word)",
+          "synonyms": [
+            "buy"
+          ],
+          "antonyms": [
+            "sell"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "You can purchase tickets online.",
+              "translation": "Biletləri onlayn ala bilərsiniz."
+            },
+            {
+              "text": "They purchased a new car last month.",
+              "translation": "Keçən ay yeni maşın aldılar."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bill",
+      "ipa": "/bɪl/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "hesab, ödəniş qəbzi",
+          "definition": "a piece of paper that shows how much money you must pay for something",
+          "synonyms": [
+            "invoice"
+          ],
+          "antonyms": [],
+          "homonyms": [
+            {
+              "word": "bill (of a bird)",
+              "meaning": "the hard, pointed mouth of a bird",
+              "translation": "dimdik"
+            }
+          ],
+          "examples": [
+            {
+              "text": "We have to pay the electricity bill by Friday.",
+              "translation": "Elektrik pulunu cümə gününə qədər ödəməliyik."
+            },
+            {
+              "text": "Can we have the bill, please?",
+              "translation": "Hesabı gətirə bilərsiniz, zəhmət olmasa?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "savings",
+      "ipa": "/ˈseɪvɪŋz/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "yığım, yığılmış pul, əmanət",
+          "definition": "money that you have kept and not spent, often in a bank",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "She used her savings to pay for the course.",
+              "translation": "Kursun pulunu ödəmək üçün yığdığı puldan istifadə etdi."
+            },
+            {
+              "text": "We keep our savings in a bank account.",
+              "translation": "Yığdığımız pulu bank hesabında saxlayırıq."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "story": {
+    "title": "The Blue Box",
+    "titleTranslation": "Mavi qutu",
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "Aysel and her husband Tural have lived in their small apartment in Baku for four years.",
+            "translation": "Aysel və əri Tural dörd ildir ki, Bakıdakı kiçik mənzillərində yaşayırlar."
+          },
+          {
+            "text": "Tural is a teacher and Aysel works at a bank, but they don't earn a lot.",
+            "translation": "Tural müəllimdir, Aysel isə bankda işləyir, amma onlar çox qazanmırlar."
+          },
+          {
+            "text": "Since last spring, they have wanted to buy a new washing machine, because the old one is very loud and often breaks.",
+            "translation": "Keçən yazdan bəri yeni paltaryuyan maşın almaq istəyirlər, çünki köhnəsi çox səs salır və tez-tez xarab olur."
+          },
+          {
+            "text": "But every month they asked the same question: “Can we afford it?”",
+            "translation": "Amma hər ay eyni sualı verirdilər: «Buna pulumuz çatar?»"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "They didn't want to take a loan, because they have been in debt before and didn't like that feeling.",
+            "translation": "Kredit götürmək istəmirdilər, çünki əvvəllər də borclu olublar və bu hissi sevməyiblər."
+          },
+          {
+            "text": "So in January, Aysel bought a small notebook and made a family budget.",
+            "translation": "Ona görə də yanvarda Aysel kiçik bir dəftər aldı və ailə büdcəsi tərtib etdi."
+          },
+          {
+            "text": "They decided to spend no more than fifty manats a week on food.",
+            "translation": "Ərzağa həftədə əlli manatdan çox xərcləməməyə qərar verdilər."
+          },
+          {
+            "text": "Since then, she has kept every receipt and written down every expense, even the smallest purchase.",
+            "translation": "O vaxtdan bəri hər çeki saxlayır və hər xərci, hətta ən kiçik alışı belə qeyd edir."
+          },
+          {
+            "text": "Soon they saw where their money went: they wasted a lot on taxis and snacks that they didn't really need.",
+            "translation": "Tezliklə pullarının hara getdiyini gördülər: taksiyə və əslində ehtiyac duymadıqları qəlyanaltılara çoxlu pulu boş yerə xərcləyirdilər."
+          },
+          {
+            "text": "Their electricity bill was also too high, so they started to turn off the lights in empty rooms.",
+            "translation": "Elektrik pulu da çox yüksək idi, ona görə də boş otaqlarda işıqları söndürməyə başladılar."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Tural has walked to work for three months now, and he has never felt better.",
+            "translation": "Tural artıq üç aydır ki, işə piyada gedir və özünü heç vaxt bu qədər yaxşı hiss etməyib."
+          },
+          {
+            "text": "He has saved almost forty manats on transport since he stopped taking taxis.",
+            "translation": "Taksiyə minməyi dayandırandan bəri nəqliyyatdan az qala qırx manat qənaət edib."
+          },
+          {
+            "text": "Every Friday, they put the cash they have saved into a blue box on the kitchen shelf.",
+            "translation": "Hər cümə günü yığdıqları nağd pulu mətbəx rəfindəki mavi qutuya qoyurlar."
+          },
+          {
+            "text": "Tural's brother, who is quite wealthy, laughed when he saw the box.",
+            "translation": "Turalın kifayət qədər varlı olan qardaşı qutunu görəndə güldü."
+          },
+          {
+            "text": "“You should invest your money, not hide it in a box!” he said.",
+            "translation": "«Pulunuzu qutuda gizlətməyin, onu bir işə yatırın!» – dedi."
+          },
+          {
+            "text": "“Maybe one day,” Aysel answered with a smile, “but first we need a washing machine.”",
+            "translation": "«Bəlkə nə vaxtsa», – deyə Aysel gülümsəyərək cavab verdi, – «amma əvvəlcə bizə paltaryuyan maşın lazımdır»."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Last Saturday they finally went to the store with their savings.",
+            "translation": "Keçən şənbə onlar nəhayət yığdıqları pulla mağazaya getdilər."
+          },
+          {
+            "text": "To their surprise, there was a twenty percent discount on washing machines that weekend.",
+            "translation": "Gözləmədikləri halda, həmin həftəsonu paltaryuyan maşınlara iyirmi faiz endirim var idi."
+          },
+          {
+            "text": "They paid less than they expected and even had some money left over for a nice dinner.",
+            "translation": "Gözlədiklərindən az ödədilər və hətta gözəl bir şam yeməyi üçün bir az pulları da artıq qaldı."
+          },
+          {
+            "text": "At the restaurant, Tural looked at the menu and joked, “Let's not spend our whole budget on dessert!”",
+            "translation": "Restoranda Tural menyuya baxıb zarafatla dedi: «Gəl bütün büdcəmizi şirniyyata xərcləməyək!»"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The new machine has worked perfectly since Monday.",
+            "translation": "Yeni maşın bazar ertəsindən bəri əla işləyir."
+          },
+          {
+            "text": "Aysel has put its receipt in the notebook, on the very first page.",
+            "translation": "Aysel onun çekini dəftərin lap birinci səhifəsinə qoyub."
+          },
+          {
+            "text": "And the blue box is already waiting for their next dream: a short trip to the mountains.",
+            "translation": "Mavi qutu isə artıq onların növbəti arzusunu gözləyir: dağlara qısa bir səfər."
+          },
+          {
+            "text": "“We have dreamed about the mountains for years,” Aysel says. “Now we know how to get there.”",
+            "translation": "«İllərdir dağlar haqqında xəyal edirik», – deyir Aysel. – «İndi ora necə çatacağımızı bilirik»."
+          }
+        ]
+      }
+    ],
+    "glossary": [
+      {
+        "term": "for four years",
+        "lemma": "for + period of time",
+        "partOfSpeech": "phrase",
+        "meaning": "during a period of four years, until now",
+        "translation": "dörd ildir (ki)"
+      },
+      {
+        "term": "apartment",
+        "lemma": "apartment",
+        "partOfSpeech": "noun",
+        "meaning": "a set of rooms to live in, inside a bigger building",
+        "translation": "mənzil"
+      },
+      {
+        "term": "earn",
+        "lemma": "earn",
+        "partOfSpeech": "verb",
+        "meaning": "to get money for your work",
+        "translation": "qazanmaq"
+      },
+      {
+        "term": "Since last spring",
+        "lemma": "since + point in time",
+        "partOfSpeech": "phrase",
+        "meaning": "from last spring until now",
+        "translation": "keçən yazdan bəri"
+      },
+      {
+        "term": "washing machine",
+        "lemma": "washing machine",
+        "partOfSpeech": "noun",
+        "meaning": "a machine that washes clothes",
+        "translation": "paltaryuyan maşın"
+      },
+      {
+        "term": "loud",
+        "lemma": "loud",
+        "partOfSpeech": "adjective",
+        "meaning": "making a lot of noise",
+        "translation": "səs-küylü"
+      },
+      {
+        "term": "breaks",
+        "lemma": "break",
+        "partOfSpeech": "verb",
+        "meaning": "stops working",
+        "translation": "xarab olur"
+      },
+      {
+        "term": "afford",
+        "lemma": "afford",
+        "partOfSpeech": "verb",
+        "meaning": "to have enough money for something",
+        "translation": "pulu çatmaq"
+      },
+      {
+        "term": "take a loan",
+        "lemma": "take a loan",
+        "partOfSpeech": "phrase",
+        "meaning": "to borrow money from a bank",
+        "translation": "kredit götürmək"
+      },
+      {
+        "term": "loan",
+        "lemma": "loan",
+        "partOfSpeech": "noun",
+        "meaning": "money that you borrow and must pay back",
+        "translation": "kredit"
+      },
+      {
+        "term": "in debt",
+        "lemma": "in debt",
+        "partOfSpeech": "phrase",
+        "meaning": "owing money to someone",
+        "translation": "borclu, borc içində"
+      },
+      {
+        "term": "debt",
+        "lemma": "debt",
+        "partOfSpeech": "noun",
+        "meaning": "money that you owe",
+        "translation": "borc"
+      },
+      {
+        "term": "notebook",
+        "lemma": "notebook",
+        "partOfSpeech": "noun",
+        "meaning": "a small book for writing in",
+        "translation": "dəftər"
+      },
+      {
+        "term": "budget",
+        "lemma": "budget",
+        "partOfSpeech": "noun",
+        "meaning": "a plan for how to spend money",
+        "translation": "büdcə"
+      },
+      {
+        "term": "no more than",
+        "lemma": "no more than",
+        "partOfSpeech": "phrase",
+        "meaning": "not more than; this amount or less",
+        "translation": "...-dan çox olmayaraq"
+      },
+      {
+        "term": "Since then",
+        "lemma": "since then",
+        "partOfSpeech": "phrase",
+        "meaning": "from that time until now",
+        "translation": "o vaxtdan bəri"
+      },
+      {
+        "term": "kept",
+        "lemma": "keep",
+        "partOfSpeech": "verb",
+        "meaning": "did not throw something away",
+        "translation": "saxlayıb"
+      },
+      {
+        "term": "receipt",
+        "lemma": "receipt",
+        "partOfSpeech": "noun",
+        "meaning": "a paper that shows you have paid",
+        "translation": "çek, qəbz"
+      },
+      {
+        "term": "written down",
+        "lemma": "write down",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "written on paper so that you remember",
+        "translation": "qeyd edib"
+      },
+      {
+        "term": "expense",
+        "lemma": "expense",
+        "partOfSpeech": "noun",
+        "meaning": "money spent on something",
+        "translation": "xərc"
+      },
+      {
+        "term": "purchase",
+        "lemma": "purchase",
+        "partOfSpeech": "noun",
+        "meaning": "something that you buy",
+        "translation": "alış"
+      },
+      {
+        "term": "wasted",
+        "lemma": "waste",
+        "partOfSpeech": "verb",
+        "meaning": "spent money badly, on things that they didn't need",
+        "translation": "boş yerə xərclədilər"
+      },
+      {
+        "term": "snacks",
+        "lemma": "snack",
+        "partOfSpeech": "noun",
+        "meaning": "small amounts of food eaten between meals",
+        "translation": "qəlyanaltılar"
+      },
+      {
+        "term": "bill",
+        "lemma": "bill",
+        "partOfSpeech": "noun",
+        "meaning": "a paper that shows how much money you must pay",
+        "translation": "ödəniş hesabı"
+      },
+      {
+        "term": "turn off",
+        "lemma": "turn off",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "to stop a light or a machine from working",
+        "translation": "söndürmək"
+      },
+      {
+        "term": "for three months",
+        "lemma": "for + period of time",
+        "partOfSpeech": "phrase",
+        "meaning": "during the last three months, until now",
+        "translation": "üç aydır"
+      },
+      {
+        "term": "transport",
+        "lemma": "transport",
+        "partOfSpeech": "noun",
+        "meaning": "buses, taxis, trains and other ways of traveling",
+        "translation": "nəqliyyat"
+      },
+      {
+        "term": "cash",
+        "lemma": "cash",
+        "partOfSpeech": "noun",
+        "meaning": "money in coins and paper notes",
+        "translation": "nağd pul"
+      },
+      {
+        "term": "shelf",
+        "lemma": "shelf",
+        "partOfSpeech": "noun",
+        "meaning": "a flat board on a wall for putting things on",
+        "translation": "rəf"
+      },
+      {
+        "term": "wealthy",
+        "lemma": "wealthy",
+        "partOfSpeech": "adjective",
+        "meaning": "rich",
+        "translation": "varlı"
+      },
+      {
+        "term": "invest",
+        "lemma": "invest",
+        "partOfSpeech": "verb",
+        "meaning": "to put money into something to get more money later",
+        "translation": "yatırmaq, sərmayə qoymaq"
+      },
+      {
+        "term": "hide",
+        "lemma": "hide",
+        "partOfSpeech": "verb",
+        "meaning": "to put something where people cannot see it",
+        "translation": "gizlətmək"
+      },
+      {
+        "term": "finally",
+        "lemma": "finally",
+        "partOfSpeech": "adverb",
+        "meaning": "after a long time",
+        "translation": "nəhayət"
+      },
+      {
+        "term": "savings",
+        "lemma": "savings",
+        "partOfSpeech": "noun",
+        "meaning": "money that you have kept and not spent",
+        "translation": "yığılmış pul"
+      },
+      {
+        "term": "To their surprise",
+        "lemma": "to someone's surprise",
+        "partOfSpeech": "idiom",
+        "meaning": "in a way that surprised them",
+        "translation": "gözləmədikləri halda"
+      },
+      {
+        "term": "discount",
+        "lemma": "discount",
+        "partOfSpeech": "noun",
+        "meaning": "money taken off the usual price",
+        "translation": "endirim"
+      },
+      {
+        "term": "percent",
+        "lemma": "percent",
+        "partOfSpeech": "noun",
+        "meaning": "one part in every hundred",
+        "translation": "faiz"
+      },
+      {
+        "term": "expected",
+        "lemma": "expect",
+        "partOfSpeech": "verb",
+        "meaning": "thought that something would happen",
+        "translation": "gözlədilər"
+      },
+      {
+        "term": "left over",
+        "lemma": "left over",
+        "partOfSpeech": "phrase",
+        "meaning": "not used or spent; remaining",
+        "translation": "artıq qalan"
+      },
+      {
+        "term": "joked",
+        "lemma": "joke",
+        "partOfSpeech": "verb",
+        "meaning": "said something funny",
+        "translation": "zarafat etdi"
+      },
+      {
+        "term": "dessert",
+        "lemma": "dessert",
+        "partOfSpeech": "noun",
+        "meaning": "sweet food eaten at the end of a meal",
+        "translation": "şirniyyat, desert"
+      },
+      {
+        "term": "since Monday",
+        "lemma": "since + point in time",
+        "partOfSpeech": "phrase",
+        "meaning": "from Monday until now",
+        "translation": "bazar ertəsindən bəri"
+      },
+      {
+        "term": "dreamed about",
+        "lemma": "dream about",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "thought about something that you really want",
+        "translation": "xəyal edib"
+      },
+      {
+        "term": "for years",
+        "lemma": "for + period of time",
+        "partOfSpeech": "phrase",
+        "meaning": "during many years, until now",
+        "translation": "illərdir"
+      },
+      {
+        "term": "get there",
+        "lemma": "get there",
+        "partOfSpeech": "phrase",
+        "meaning": "to arrive at a place; also, to reach a goal",
+        "translation": "ora çatmaq"
+      },
+      {
+        "term": "perfectly",
+        "lemma": "perfectly",
+        "partOfSpeech": "adverb",
+        "meaning": "very well, with no problems",
+        "translation": "əla"
+      },
+      {
+        "term": "the very first page",
+        "lemma": "the very first page",
+        "partOfSpeech": "phrase",
+        "meaning": "exactly the first page",
+        "translation": "lap birinci səhifə"
+      }
+    ]
+  },
+  "grammar": {
+    "topic": "Present perfect with for and since",
+    "topicTranslation": "For və since ilə present perfect",
+    "explanation": "We use the present perfect with for and since to talk about something that started in the past and continues now. Use for with a period of time (for two hours, for ten years). Use since with the point when the action started (since Monday, since 2020, since I was a child). To ask about the length of time, we say “How long have you...?”",
+    "explanationTranslation": "Keçmişdə başlayıb indi də davam edən hərəkət və vəziyyətlər haqqında danışmaq üçün present perfect for və since ilə işlədilir. For müddət bildirir (for two hours, for ten years). Since isə hərəkətin başladığı anı bildirir (since Monday, since 2020, since I was a child). Müddəti soruşmaq üçün “How long have you...?” deyilir.",
+    "rules": [
+      {
+        "text": "Form: have/has + past participle + for/since (I have worked here for two years).",
+        "translation": "Quruluş: have/has + feilin üçüncü forması + for/since (I have worked here for two years)."
+      },
+      {
+        "text": "For + a period of time: for three days, for a week, for a long time.",
+        "translation": "For + müddət: for three days, for a week, for a long time."
+      },
+      {
+        "text": "Since + a starting point: since 9 o'clock, since June, since last year.",
+        "translation": "Since + başlanğıc an: since 9 o'clock, since June, since last year."
+      },
+      {
+        "text": "Don't use the present simple here: say “I have known her for years”, not “I know her for years”.",
+        "translation": "Burada present simple işlədilmir: “I know her for years” yox, “I have known her for years” deyilir. (Azərbaycan dilində isə adətən indiki zaman işlənir: “Onu illərdir tanıyıram”.)"
+      }
+    ],
+    "examples": [
+      {
+        "text": "We have lived in this apartment for six years.",
+        "translation": "Altı ildir bu mənzildə yaşayırıq."
+      },
+      {
+        "text": "She has worked at the bank since 2021.",
+        "translation": "O, 2021-ci ildən bəri bankda işləyir."
+      },
+      {
+        "text": "I haven't bought new clothes since the summer.",
+        "translation": "Yaydan bəri yeni paltar almamışam."
+      },
+      {
+        "text": "They have kept a family budget for a year.",
+        "translation": "Bir ildir ki, ailə büdcəsi aparırlar."
+      },
+      {
+        "text": "How long have you had this car?",
+        "translation": "Bu maşın nə qədər vaxtdır səndədir?"
+      }
+    ],
+    "exercise": {
+      "instructions": "Choose or write the correct answer.",
+      "instructionsTranslation": "Düzgün cavabı seçin və ya yazın.",
+      "questions": [
+        {
+          "type": "choice",
+          "prompt": "I have known Leyla ___ ten years.",
+          "promptTranslation": "Leylanı on ildir tanıyıram.",
+          "options": [
+            "for",
+            "since"
+          ],
+          "answer": "for",
+          "explanation": "Ten years is a period of time, so we use for.",
+          "explanationTranslation": "Ten years müddətdir, ona görə for işlədilir."
+        },
+        {
+          "type": "choice",
+          "prompt": "He has worked here ___ March.",
+          "promptTranslation": "O, martdan bəri burada işləyir.",
+          "options": [
+            "for",
+            "since"
+          ],
+          "answer": "since",
+          "explanation": "March is the starting point, so we use since.",
+          "explanationTranslation": "March başlanğıc andır, ona görə since işlədilir."
+        },
+        {
+          "type": "choice",
+          "prompt": "We ___ in Ganja since 2018.",
+          "promptTranslation": "2018-ci ildən bəri Gəncədə yaşayırıq.",
+          "options": [
+            "live",
+            "have lived",
+            "are living"
+          ],
+          "answer": "have lived",
+          "explanation": "An action that started in the past and continues now needs the present perfect.",
+          "explanationTranslation": "Keçmişdə başlayıb indi də davam edən hərəkət üçün present perfect lazımdır."
+        },
+        {
+          "type": "text",
+          "prompt": "She ___ (have) this phone for three years.",
+          "promptTranslation": "Bu telefon üç ildir ondadır.",
+          "answer": "has had",
+          "acceptedAnswers": [
+            "'s had"
+          ],
+          "explanation": "She + has + had (the past participle of have).",
+          "explanationTranslation": "She ilə has + had (have feilinin üçüncü forması) işlədilir."
+        },
+        {
+          "type": "text",
+          "prompt": "I ___ (not / see) my best friend since last summer.",
+          "promptTranslation": "Keçən yaydan bəri ən yaxın dostumu görməmişəm.",
+          "answer": "haven't seen",
+          "acceptedAnswers": [
+            "have not seen"
+          ],
+          "explanation": "Negative present perfect: haven't + past participle (see - saw - seen).",
+          "explanationTranslation": "Present perfect-in inkarı: haven't + feilin üçüncü forması (see - saw - seen)."
+        }
+      ]
+    }
+  }
+}

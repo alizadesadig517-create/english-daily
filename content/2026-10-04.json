@@ -1,0 +1,1140 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-04",
+  "level": "B1",
+  "translationLanguage": "az",
+  "words": [
+    {
+      "word": "employee",
+      "ipa": "/ɪmˈplɔɪiː/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "işçi, əməkdaş",
+          "definition": "a person who works for a company or another person and gets paid",
+          "synonyms": [
+            "worker",
+            "staff member"
+          ],
+          "antonyms": [
+            "employer"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The company has over two hundred employees.",
+              "translation": "Şirkətin iki yüzdən çox işçisi var."
+            },
+            {
+              "text": "She is a hard-working and friendly employee.",
+              "translation": "O, çalışqan və mehriban əməkdaşdır."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "salary",
+      "ipa": "/ˈsæləri/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "maaş, əmək haqqı",
+          "definition": "the money that you get, usually every month, for your job",
+          "synonyms": [
+            "pay",
+            "wage",
+            "income"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "He earns a good salary as an engineer.",
+              "translation": "O, mühəndis kimi yaxşı maaş alır."
+            },
+            {
+              "text": "Teachers' salaries went up this year.",
+              "translation": "Bu il müəllimlərin maaşları artdı."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "deadline",
+      "ipa": "/ˈdɛdlaɪn/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "son müddət, son tarix",
+          "definition": "a date or time by which you must finish something",
+          "synonyms": [
+            "time limit",
+            "due date"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The deadline for the report is Friday.",
+              "translation": "Hesabatın təhvil verilməsi üçün son tarix cümədir."
+            },
+            {
+              "text": "I worked all night to meet the deadline.",
+              "translation": "İşi vaxtında çatdırmaq üçün bütün gecə işlədim."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "apply",
+      "ipa": "/əˈplaɪ/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "müraciət etmək",
+          "definition": "to ask formally for something, such as a job or a place at a university, usually in writing",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "She applied for a job at a bank.",
+              "translation": "O, bankda işə düzəlmək üçün müraciət etdi."
+            },
+            {
+              "text": "You can apply online until the end of the month.",
+              "translation": "Ayın sonuna qədər onlayn müraciət edə bilərsiniz."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "experience",
+      "ipa": "/ɪkˈspɪriəns/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "təcrübə; yaşantı, hadisə",
+          "definition": "knowledge and skill you get from doing something for a long time; also, something that happens to you",
+          "synonyms": [
+            "knowledge",
+            "know-how"
+          ],
+          "antonyms": [
+            "inexperience"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Do you have any experience with children?",
+              "translation": "Uşaqlarla işləmək təcrübən var?"
+            },
+            {
+              "text": "Traveling alone was an amazing experience.",
+              "translation": "Tək səyahət etmək möhtəşəm bir təcrübə idi."
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "verb",
+          "translation": "yaşamaq, keçirmək, üzləşmək",
+          "definition": "to have something happen to you, or to feel something",
+          "synonyms": [
+            "go through",
+            "feel"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Many companies experienced problems last year.",
+              "translation": "Keçən il bir çox şirkət problemlərlə üzləşdi."
+            },
+            {
+              "text": "She experienced a lot of stress before the exam.",
+              "translation": "İmtahandan əvvəl o, çox stres keçirdi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "colleague",
+      "ipa": "/ˈkɑːliːɡ/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "həmkar, iş yoldaşı",
+          "definition": "a person you work with",
+          "synonyms": [
+            "coworker"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "I'm having lunch with a colleague today.",
+              "translation": "Bu gün bir həmkarımla nahar edirəm."
+            },
+            {
+              "text": "Her colleagues gave her flowers on her birthday.",
+              "translation": "Ad günündə həmkarları ona gül bağışladılar."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "promotion",
+      "ipa": "/prəˈmoʊʃən/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "vəzifədə irəli çəkilmə; aksiya, reklam",
+          "definition": "a move to a higher and more important job in the same company; also, activities that help to sell a product",
+          "synonyms": [
+            "advancement"
+          ],
+          "antonyms": [
+            "demotion"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "She got a promotion after only one year.",
+              "translation": "O, cəmi bir ildən sonra vəzifədə irəli çəkildi."
+            },
+            {
+              "text": "The shop is running a special promotion this week.",
+              "translation": "Mağazada bu həftə xüsusi aksiya keçirilir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "interview",
+      "ipa": "/ˈɪntɚvjuː/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "müsahibə",
+          "definition": "a meeting where someone asks you questions, for example to see if you are right for a job",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "I have a job interview tomorrow morning.",
+              "translation": "Sabah səhər iş müsahibəm var."
+            },
+            {
+              "text": "The singer gave an interview to a local newspaper.",
+              "translation": "Müğənni yerli qəzetə müsahibə verdi."
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "verb",
+          "translation": "müsahibə götürmək, müsahibə aparmaq",
+          "definition": "to ask someone questions, for a job or for a newspaper, radio or TV",
+          "synonyms": [
+            "question"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "They interviewed five people for the position.",
+              "translation": "Onlar bu vəzifə üçün beş nəfərlə müsahibə apardılar."
+            },
+            {
+              "text": "The journalist interviewed the winner after the race.",
+              "translation": "Jurnalist yarışdan sonra qalibdən müsahibə götürdü."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hire",
+      "ipa": "/haɪɚ/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "işə götürmək; (xidmət üçün) tutmaq",
+          "definition": "to give someone a job, or to pay someone to do a piece of work for you",
+          "synonyms": [
+            "employ",
+            "take on"
+          ],
+          "antonyms": [
+            "fire",
+            "dismiss"
+          ],
+          "homonyms": [
+            {
+              "word": "higher",
+              "meaning": "more high (sounds the same as \"hire\")",
+              "translation": "daha yüksək"
+            }
+          ],
+          "examples": [
+            {
+              "text": "The company is hiring new staff.",
+              "translation": "Şirkət yeni işçilər işə götürür."
+            },
+            {
+              "text": "We hired a photographer for the wedding.",
+              "translation": "Toy üçün fotoqraf tutduq."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "resign",
+      "ipa": "/rɪˈzaɪn/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "istefa vermək, işdən çıxmaq",
+          "definition": "to officially leave your job because you decide to",
+          "synonyms": [
+            "quit",
+            "step down",
+            "leave"
+          ],
+          "antonyms": [],
+          "homonyms": [
+            {
+              "word": "re-sign",
+              "meaning": "to sign a document or contract again",
+              "translation": "yenidən imzalamaq"
+            }
+          ],
+          "examples": [
+            {
+              "text": "He resigned from his job to start his own business.",
+              "translation": "O, öz biznesini qurmaq üçün işindən istefa verdi."
+            },
+            {
+              "text": "Two managers resigned last month.",
+              "translation": "Keçən ay iki menecer istefa verdi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "qualification",
+      "ipa": "/ˌkwɑːləfəˈkeɪʃən/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "ixtisas, kvalifikasiya; diplom, sertifikat",
+          "definition": "an exam you have passed or a course you have finished; also, a skill that makes you right for a job",
+          "synonyms": [
+            "certificate",
+            "degree"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "You need a teaching qualification to work at this school.",
+              "translation": "Bu məktəbdə işləmək üçün müəllimlik diplomun olmalıdır."
+            },
+            {
+              "text": "What qualifications do you have?",
+              "translation": "Hansı diplom və sertifikatlarınız var?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "skill",
+      "ipa": "/skɪl/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "bacarıq, vərdiş",
+          "definition": "the ability to do something well because you have learned and practiced it",
+          "synonyms": [
+            "ability",
+            "talent"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Good communication skills are important in every job.",
+              "translation": "Yaxşı ünsiyyət bacarıqları hər işdə vacibdir."
+            },
+            {
+              "text": "Cooking is a useful skill.",
+              "translation": "Yemək bişirmək faydalı bacarıqdır."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "task",
+      "ipa": "/tæsk/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "tapşırıq, iş",
+          "definition": "a piece of work that you must do",
+          "synonyms": [
+            "job",
+            "duty",
+            "assignment"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "My first task every morning is to check my email.",
+              "translation": "Hər səhər ilk işim e-poçtumu yoxlamaqdır."
+            },
+            {
+              "text": "Cleaning the house is not my favorite task.",
+              "translation": "Evi təmizləmək ən sevdiyim iş deyil."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "career",
+      "ipa": "/kəˈrɪr/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "karyera, peşə yolu",
+          "definition": "the jobs you do during your working life, usually in one area",
+          "synonyms": [
+            "profession",
+            "occupation"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "She started her career as a nurse.",
+              "translation": "O, karyerasına tibb bacısı kimi başladı."
+            },
+            {
+              "text": "He wants a career in music.",
+              "translation": "O, musiqi sahəsində karyera qurmaq istəyir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unemployed",
+      "ipa": "/ˌʌnɪmˈplɔɪd/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "işsiz",
+          "definition": "without a job, but wanting one",
+          "synonyms": [
+            "jobless",
+            "out of work"
+          ],
+          "antonyms": [
+            "employed",
+            "working"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "My cousin was unemployed for six months.",
+              "translation": "Əmim oğlu altı ay işsiz idi."
+            },
+            {
+              "text": "The program helps unemployed young people find work.",
+              "translation": "Proqram işsiz gənclərə iş tapmağa kömək edir."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "story": {
+    "title": "The Night the Lights Went Out",
+    "titleTranslation": "İşıqların söndüyü gecə",
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "Last year, Rauf was working as a junior designer at a small printing company.",
+            "translation": "Keçən il Rauf kiçik bir mətbəədə köməkçi dizayner kimi işləyirdi."
+          },
+          {
+            "text": "He liked his colleagues, but his salary was low, and his tasks were the same every day.",
+            "translation": "O, həmkarlarını sevirdi, amma maaşı az idi və hər gün eyni tapşırıqları yerinə yetirirdi."
+          },
+          {
+            "text": "There was no chance of a promotion, and he wanted more experience in real design.",
+            "translation": "Vəzifədə irəli çəkilmək şansı yox idi, o isə əsl dizayn sahəsində daha çox təcrübə qazanmaq istəyirdi."
+          },
+          {
+            "text": "His friend Elvin was unemployed at that time, so Rauf was afraid to resign without a new job.",
+            "translation": "Dostu Elvin o vaxt işsiz idi, ona görə də Rauf yeni iş tapmadan istefa verməyə qorxurdu."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "One evening, while he was reading the news online, he saw an advertisement: a big design studio wanted to hire a designer.",
+            "translation": "Bir axşam o, internetdə xəbərləri oxuyarkən bir elan gördü: böyük bir dizayn studiyası dizayner işə götürmək istəyirdi."
+          },
+          {
+            "text": "The studio asked for a university qualification, good computer skills and at least two years of experience.",
+            "translation": "Studiya universitet diplomu, yaxşı kompüter bacarıqları və ən azı iki illik iş təcrübəsi tələb edirdi."
+          },
+          {
+            "text": "The deadline to apply was midnight, so he started writing his application immediately.",
+            "translation": "Müraciət üçün son müddət gecə yarısı idi, ona görə də o, dərhal ərizəsini yazmağa başladı."
+          },
+          {
+            "text": "While he was typing his cover letter, the electricity suddenly went off in the whole building.",
+            "translation": "O, motivasiya məktubunu yazarkən birdən bütün binada işıq söndü."
+          },
+          {
+            "text": "For a moment, he was sitting in the dark and thinking, “That's it. I'll never make it.”",
+            "translation": "Bir anlıq o, qaranlıqda oturub düşünürdü: «Vəssalam. Heç vaxt çatdıra bilməyəcəyəm.»"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Then Rauf grabbed his laptop and ran to a cafe near his house.",
+            "translation": "Sonra Rauf noutbukunu götürüb evinin yaxınlığındakı kafeyə qaçdı."
+          },
+          {
+            "text": "Outside it was raining, but inside it was warm and noisy.",
+            "translation": "Çöldə yağış yağırdı, içəridə isə isti və səs-küylü idi."
+          },
+          {
+            "text": "The cafe was full of students, but a kind waiter found him a table next to a power outlet.",
+            "translation": "Kafe tələbələrlə dolu idi, amma mehriban bir ofisiant ona elektrik rozetkasının yanında masa tapdı."
+          },
+          {
+            "text": "While Rauf was finishing his letter, the waiter was bringing him cups of tea, one after another.",
+            "translation": "Rauf məktubunu bitirərkən ofisiant ona bir-birinin ardınca çay gətirirdi."
+          },
+          {
+            "text": "When he finally sent the application, it was 11:58.",
+            "translation": "Nəhayət, ərizəni göndərəndə saat on ikiyə iki dəqiqə qalırdı."
+          },
+          {
+            "text": "He was so tired that he fell asleep as soon as he got home.",
+            "translation": "O qədər yorulmuşdu ki, evə çatan kimi yuxuya getdi."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "A week later, Rauf was shopping for groceries when his phone rang.",
+            "translation": "Bir həftə sonra Rauf ərzaq alarkən telefonu zəng çaldı."
+          },
+          {
+            "text": "It was the manager of the studio. “We really liked your work,” she said. “Can you come for an interview tomorrow?”",
+            "translation": "Zəng edən studiyanın meneceri idi. «İşiniz çox xoşumuza gəldi», – dedi. «Sabah müsahibəyə gələ bilərsiniz?»"
+          },
+          {
+            "text": "Rauf was so surprised that he almost dropped the eggs.",
+            "translation": "Rauf o qədər təəccübləndi ki, az qala yumurtaları yerə salacaqdı."
+          },
+          {
+            "text": "The interview went well, and two weeks later Rauf became a new employee of the studio.",
+            "translation": "Müsahibə yaxşı keçdi və iki həftə sonra Rauf studiyanın yeni əməkdaşı oldu."
+          },
+          {
+            "text": "His old boss was sad when he heard the news, but he wished Rauf luck in his new career.",
+            "translation": "Köhnə müdiri xəbəri eşidəndə kədərləndi, amma Raufa yeni karyerasında uğurlar arzuladı."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Even better, a few months later the studio needed another designer, and Rauf recommended Elvin.",
+            "translation": "Daha yaxşısı odur ki, bir neçə ay sonra studiyaya daha bir dizayner lazım oldu və Rauf Elvini tövsiyə etdi."
+          },
+          {
+            "text": "Today the two friends work side by side.",
+            "translation": "Bu gün iki dost yan-yana işləyir."
+          },
+          {
+            "text": "And whenever someone says it's too late to try, Rauf tells them about the night the lights went out.",
+            "translation": "Kimsə cəhd etmək üçün artıq gec olduğunu deyəndə isə Rauf ona işıqların söndüyü həmin gecədən danışır."
+          }
+        ]
+      }
+    ],
+    "glossary": [
+      {
+        "term": "was working as",
+        "lemma": "work as",
+        "partOfSpeech": "phrase",
+        "meaning": "had the job of",
+        "translation": "...kimi işləyirdi"
+      },
+      {
+        "term": "junior",
+        "lemma": "junior",
+        "partOfSpeech": "adjective",
+        "meaning": "having a low position in a company, often because you are young or new",
+        "translation": "köməkçi, kiçik (vəzifədə)"
+      },
+      {
+        "term": "printing company",
+        "lemma": "printing company",
+        "partOfSpeech": "noun",
+        "meaning": "a business that prints books, posters and other things",
+        "translation": "mətbəə"
+      },
+      {
+        "term": "colleagues",
+        "lemma": "colleague",
+        "partOfSpeech": "noun",
+        "meaning": "people you work with",
+        "translation": "həmkarlar"
+      },
+      {
+        "term": "salary",
+        "lemma": "salary",
+        "partOfSpeech": "noun",
+        "meaning": "the money you get for your job every month",
+        "translation": "maaş"
+      },
+      {
+        "term": "tasks",
+        "lemma": "task",
+        "partOfSpeech": "noun",
+        "meaning": "pieces of work that you must do",
+        "translation": "tapşırıqlar"
+      },
+      {
+        "term": "chance",
+        "lemma": "chance",
+        "partOfSpeech": "noun",
+        "meaning": "a possibility that something will happen",
+        "translation": "şans, imkan"
+      },
+      {
+        "term": "promotion",
+        "lemma": "promotion",
+        "partOfSpeech": "noun",
+        "meaning": "a move to a higher position at work",
+        "translation": "vəzifədə irəli çəkilmə"
+      },
+      {
+        "term": "experience",
+        "lemma": "experience",
+        "partOfSpeech": "noun",
+        "meaning": "knowledge and skill you get by doing something",
+        "translation": "təcrübə"
+      },
+      {
+        "term": "unemployed",
+        "lemma": "unemployed",
+        "partOfSpeech": "adjective",
+        "meaning": "without a job",
+        "translation": "işsiz"
+      },
+      {
+        "term": "at that time",
+        "lemma": "at that time",
+        "partOfSpeech": "phrase",
+        "meaning": "then; in that period in the past",
+        "translation": "o vaxt"
+      },
+      {
+        "term": "was afraid to",
+        "lemma": "be afraid to",
+        "partOfSpeech": "phrase",
+        "meaning": "did not want to do something because he felt fear",
+        "translation": "...-məyə qorxurdu"
+      },
+      {
+        "term": "resign",
+        "lemma": "resign",
+        "partOfSpeech": "verb",
+        "meaning": "to leave your job because you decide to",
+        "translation": "istefa vermək"
+      },
+      {
+        "term": "while",
+        "lemma": "while",
+        "partOfSpeech": "conjunction",
+        "meaning": "during the time that",
+        "translation": "...-arkən, ...-dığı vaxt"
+      },
+      {
+        "term": "online",
+        "lemma": "online",
+        "partOfSpeech": "adverb",
+        "meaning": "on the internet",
+        "translation": "internetdə, onlayn"
+      },
+      {
+        "term": "advertisement",
+        "lemma": "advertisement",
+        "partOfSpeech": "noun",
+        "meaning": "a public notice, for example about a job or a product",
+        "translation": "elan, reklam"
+      },
+      {
+        "term": "studio",
+        "lemma": "studio",
+        "partOfSpeech": "noun",
+        "meaning": "a place where designers, artists or photographers work",
+        "translation": "studiya"
+      },
+      {
+        "term": "hire",
+        "lemma": "hire",
+        "partOfSpeech": "verb",
+        "meaning": "to give someone a job",
+        "translation": "işə götürmək"
+      },
+      {
+        "term": "asked for",
+        "lemma": "ask for",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "said that it wanted or needed something",
+        "translation": "tələb edirdi"
+      },
+      {
+        "term": "qualification",
+        "lemma": "qualification",
+        "partOfSpeech": "noun",
+        "meaning": "a diploma or certificate that shows what you studied",
+        "translation": "diplom, ixtisas"
+      },
+      {
+        "term": "skills",
+        "lemma": "skill",
+        "partOfSpeech": "noun",
+        "meaning": "abilities to do something well",
+        "translation": "bacarıqlar"
+      },
+      {
+        "term": "at least",
+        "lemma": "at least",
+        "partOfSpeech": "phrase",
+        "meaning": "not less than",
+        "translation": "ən azı"
+      },
+      {
+        "term": "deadline",
+        "lemma": "deadline",
+        "partOfSpeech": "noun",
+        "meaning": "the latest time by which you must do something",
+        "translation": "son müddət"
+      },
+      {
+        "term": "apply",
+        "lemma": "apply",
+        "partOfSpeech": "verb",
+        "meaning": "to formally ask for a job",
+        "translation": "müraciət etmək"
+      },
+      {
+        "term": "midnight",
+        "lemma": "midnight",
+        "partOfSpeech": "noun",
+        "meaning": "twelve o'clock at night",
+        "translation": "gecə yarısı"
+      },
+      {
+        "term": "application",
+        "lemma": "application",
+        "partOfSpeech": "noun",
+        "meaning": "a formal written request, for example for a job",
+        "translation": "ərizə, müraciət"
+      },
+      {
+        "term": "immediately",
+        "lemma": "immediately",
+        "partOfSpeech": "adverb",
+        "meaning": "right now, without waiting",
+        "translation": "dərhal"
+      },
+      {
+        "term": "typing",
+        "lemma": "type",
+        "partOfSpeech": "verb",
+        "meaning": "writing with a keyboard",
+        "translation": "yazırdı (klaviatura ilə)"
+      },
+      {
+        "term": "cover letter",
+        "lemma": "cover letter",
+        "partOfSpeech": "noun",
+        "meaning": "a letter you send with a job application to explain why you want the job",
+        "translation": "motivasiya məktubu"
+      },
+      {
+        "term": "electricity",
+        "lemma": "electricity",
+        "partOfSpeech": "noun",
+        "meaning": "the power that makes lights and machines work",
+        "translation": "elektrik, işıq"
+      },
+      {
+        "term": "suddenly",
+        "lemma": "suddenly",
+        "partOfSpeech": "adverb",
+        "meaning": "quickly and unexpectedly",
+        "translation": "birdən"
+      },
+      {
+        "term": "went off",
+        "lemma": "go off",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "(about electricity or a machine) stopped working",
+        "translation": "söndü, kəsildi"
+      },
+      {
+        "term": "For a moment",
+        "lemma": "for a moment",
+        "partOfSpeech": "phrase",
+        "meaning": "for a very short time",
+        "translation": "bir anlıq"
+      },
+      {
+        "term": "in the dark",
+        "lemma": "in the dark",
+        "partOfSpeech": "phrase",
+        "meaning": "in a place with no light",
+        "translation": "qaranlıqda"
+      },
+      {
+        "term": "That's it",
+        "lemma": "that's it",
+        "partOfSpeech": "phrase",
+        "meaning": "it is finished; there is no hope",
+        "translation": "vəssalam, bitdi"
+      },
+      {
+        "term": "make it",
+        "lemma": "make it",
+        "partOfSpeech": "idiom",
+        "meaning": "to succeed in doing something in time",
+        "translation": "çatdırmaq, bacarmaq"
+      },
+      {
+        "term": "grabbed",
+        "lemma": "grab",
+        "partOfSpeech": "verb",
+        "meaning": "took something quickly",
+        "translation": "götürdü, qamarladı"
+      },
+      {
+        "term": "laptop",
+        "lemma": "laptop",
+        "partOfSpeech": "noun",
+        "meaning": "a small computer you can carry",
+        "translation": "noutbuk"
+      },
+      {
+        "term": "noisy",
+        "lemma": "noisy",
+        "partOfSpeech": "adjective",
+        "meaning": "full of loud sounds",
+        "translation": "səs-küylü"
+      },
+      {
+        "term": "full of",
+        "lemma": "full of",
+        "partOfSpeech": "phrase",
+        "meaning": "with a lot of people or things inside",
+        "translation": "...ilə dolu"
+      },
+      {
+        "term": "waiter",
+        "lemma": "waiter",
+        "partOfSpeech": "noun",
+        "meaning": "a person who brings food and drinks in a cafe or restaurant",
+        "translation": "ofisiant"
+      },
+      {
+        "term": "power outlet",
+        "lemma": "power outlet",
+        "partOfSpeech": "noun",
+        "meaning": "a place in the wall where you connect electrical things",
+        "translation": "elektrik rozetkası"
+      },
+      {
+        "term": "one after another",
+        "lemma": "one after another",
+        "partOfSpeech": "phrase",
+        "meaning": "first one, then the next, then the next",
+        "translation": "bir-birinin ardınca"
+      },
+      {
+        "term": "finally",
+        "lemma": "finally",
+        "partOfSpeech": "adverb",
+        "meaning": "after a long time",
+        "translation": "nəhayət"
+      },
+      {
+        "term": "so tired that",
+        "lemma": "so ... that",
+        "partOfSpeech": "phrase",
+        "meaning": "very tired, and because of this something happened",
+        "translation": "o qədər yorğun idi ki"
+      },
+      {
+        "term": "fell asleep",
+        "lemma": "fall asleep",
+        "partOfSpeech": "phrase",
+        "meaning": "started sleeping",
+        "translation": "yuxuya getdi"
+      },
+      {
+        "term": "as soon as",
+        "lemma": "as soon as",
+        "partOfSpeech": "phrase",
+        "meaning": "immediately after",
+        "translation": "...-an kimi"
+      },
+      {
+        "term": "shopping for groceries",
+        "lemma": "shop for groceries",
+        "partOfSpeech": "phrase",
+        "meaning": "buying food and things for the home",
+        "translation": "ərzaq alırdı"
+      },
+      {
+        "term": "rang",
+        "lemma": "ring",
+        "partOfSpeech": "verb",
+        "meaning": "made a sound because someone was calling",
+        "translation": "zəng çaldı"
+      },
+      {
+        "term": "interview",
+        "lemma": "interview",
+        "partOfSpeech": "noun",
+        "meaning": "a meeting where someone asks you questions to see if you are right for a job",
+        "translation": "müsahibə"
+      },
+      {
+        "term": "so surprised that",
+        "lemma": "so ... that",
+        "partOfSpeech": "phrase",
+        "meaning": "very surprised, and because of this something happened",
+        "translation": "o qədər təəccübləndi ki"
+      },
+      {
+        "term": "dropped",
+        "lemma": "drop",
+        "partOfSpeech": "verb",
+        "meaning": "let something fall",
+        "translation": "yerə saldı"
+      },
+      {
+        "term": "went well",
+        "lemma": "go well",
+        "partOfSpeech": "phrase",
+        "meaning": "happened in a good and successful way",
+        "translation": "yaxşı keçdi"
+      },
+      {
+        "term": "employee",
+        "lemma": "employee",
+        "partOfSpeech": "noun",
+        "meaning": "a person who works for a company",
+        "translation": "əməkdaş, işçi"
+      },
+      {
+        "term": "boss",
+        "lemma": "boss",
+        "partOfSpeech": "noun",
+        "meaning": "the person who is in charge of you at work",
+        "translation": "müdir, rəis"
+      },
+      {
+        "term": "wished Rauf luck",
+        "lemma": "wish someone luck",
+        "partOfSpeech": "phrase",
+        "meaning": "said that he hoped good things would happen to Rauf",
+        "translation": "Raufa uğurlar arzuladı"
+      },
+      {
+        "term": "career",
+        "lemma": "career",
+        "partOfSpeech": "noun",
+        "meaning": "the jobs you do in your working life",
+        "translation": "karyera"
+      },
+      {
+        "term": "Even better",
+        "lemma": "even better",
+        "partOfSpeech": "phrase",
+        "meaning": "something that makes a good situation better",
+        "translation": "daha yaxşısı"
+      },
+      {
+        "term": "recommended",
+        "lemma": "recommend",
+        "partOfSpeech": "verb",
+        "meaning": "said that someone is good for a job",
+        "translation": "tövsiyə etdi"
+      },
+      {
+        "term": "side by side",
+        "lemma": "side by side",
+        "partOfSpeech": "phrase",
+        "meaning": "next to each other; together",
+        "translation": "yan-yana"
+      },
+      {
+        "term": "whenever",
+        "lemma": "whenever",
+        "partOfSpeech": "conjunction",
+        "meaning": "every time that",
+        "translation": "hər dəfə ... -anda"
+      },
+      {
+        "term": "too late",
+        "lemma": "too late",
+        "partOfSpeech": "phrase",
+        "meaning": "after the right time",
+        "translation": "artıq gec"
+      },
+      {
+        "term": "went out",
+        "lemma": "go out",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "(about lights) stopped shining",
+        "translation": "söndü"
+      }
+    ]
+  },
+  "grammar": {
+    "topic": "Past continuous vs past simple (when and while)",
+    "topicTranslation": "Past continuous və past simple (when və while ilə)",
+    "explanation": "We often use the past continuous and the past simple together. The past continuous describes a longer action that was in progress; the past simple describes a short action that happened in the middle of it and often interrupted it. We usually use when before the short action (past simple) and while before the longer action (past continuous). We can also use while for two longer actions that were happening at the same time. If the sentence starts with the when or while part, we put a comma after it.",
+    "explanationTranslation": "Past continuous və past simple zamanlarını çox vaxt birlikdə işlədirik. Past continuous davam edən daha uzun hərəkəti, past simple isə onun ortasında baş verən və çox vaxt onu kəsən qısa hərəkəti bildirir. Adətən when sözü qısa hərəkətdən (past simple), while sözü isə uzun hərəkətdən (past continuous) əvvəl gəlir. While sözünü eyni vaxtda davam edən iki uzun hərəkət üçün də işlədə bilərik. Cümlə when və ya while hissəsi ilə başlayırsa, ondan sonra vergül qoyulur.",
+    "rules": [
+      {
+        "text": "Longer action in progress = past continuous; short action that interrupts it = past simple.",
+        "translation": "Davam edən uzun hərəkət = past continuous; onu kəsən qısa hərəkət = past simple."
+      },
+      {
+        "text": "when + past simple: I was cooking when the phone rang.",
+        "translation": "when + past simple: I was cooking when the phone rang."
+      },
+      {
+        "text": "while + past continuous: While I was cooking, the phone rang.",
+        "translation": "while + past continuous: While I was cooking, the phone rang."
+      },
+      {
+        "text": "Two longer actions at the same time: past continuous in both parts, often with while: While I was working, my sister was watching TV.",
+        "translation": "Eyni vaxtda davam edən iki uzun hərəkət: hər iki hissədə past continuous, çox vaxt while ilə: While I was working, my sister was watching TV."
+      }
+    ],
+    "examples": [
+      {
+        "text": "I was writing an email when my boss called me.",
+        "translation": "Müdirim mənə zəng edəndə mən e-məktub yazırdım."
+      },
+      {
+        "text": "While she was applying for the job, her computer stopped working.",
+        "translation": "O, işə müraciət edərkən kompüteri işləməyi dayandırdı."
+      },
+      {
+        "text": "The employees were having lunch when the manager came in.",
+        "translation": "Menecer içəri girəndə işçilər nahar edirdilər."
+      },
+      {
+        "text": "While I was studying, my brother was playing video games.",
+        "translation": "Mən dərs oxuyarkən qardaşım video oyunları oynayırdı."
+      },
+      {
+        "text": "When the lights went out, we were watching a movie.",
+        "translation": "İşıqlar sönəndə biz filmə baxırdıq."
+      }
+    ],
+    "exercise": {
+      "instructions": "Choose or write the correct form of the verb.",
+      "instructionsTranslation": "Feilin düzgün formasını seçin və ya yazın.",
+      "questions": [
+        {
+          "type": "choice",
+          "prompt": "I was in the bathroom. I ___ a shower when the doorbell rang.",
+          "promptTranslation": "Hamamda idim. Qapının zəngi çalınanda duş qəbul edirdim.",
+          "options": [
+            "took",
+            "was taking",
+            "am taking"
+          ],
+          "answer": "was taking",
+          "explanation": "The shower was the longer action in progress; the doorbell interrupted it.",
+          "explanationTranslation": "Duş qəbul etmək davam edən uzun hərəkət idi; qapı zəngi onu kəsdi."
+        },
+        {
+          "type": "choice",
+          "prompt": "We were walking in the park ___ it started to rain.",
+          "promptTranslation": "Yağış yağmağa başlayanda biz parkda gəzirdik.",
+          "options": [
+            "while",
+            "when"
+          ],
+          "answer": "when",
+          "explanation": "“It started to rain” is a short action in the past simple, so we use when.",
+          "explanationTranslation": "“It started to rain” past simple zamanında qısa hərəkətdir, ona görə when işlədilir."
+        },
+        {
+          "type": "choice",
+          "prompt": "While Leyla ___ dinner, her husband was setting the table.",
+          "promptTranslation": "Leyla şam yeməyi hazırlayarkən əri süfrə açırdı.",
+          "options": [
+            "cooked",
+            "was cooking",
+            "cooks"
+          ],
+          "answer": "was cooking",
+          "explanation": "Two longer actions were happening at the same time, so both are in the past continuous.",
+          "explanationTranslation": "Eyni vaxtda iki uzun hərəkət davam edirdi, ona görə hər ikisi past continuous zamanındadır."
+        },
+        {
+          "type": "text",
+          "prompt": "He ___ (break) his leg while he was skiing.",
+          "promptTranslation": "O, xizək sürərkən ayağını sındırdı.",
+          "answer": "broke",
+          "explanation": "Breaking a leg is a short action, so we use the past simple: break → broke.",
+          "explanationTranslation": "Ayağı sındırmaq qısa hərəkətdir, ona görə past simple işlədilir: break → broke."
+        },
+        {
+          "type": "text",
+          "prompt": "When I called you, what ___ (you / do)?",
+          "promptTranslation": "Sənə zəng edəndə nə edirdin?",
+          "answer": "were you doing",
+          "explanation": "We ask about the longer action in progress at the moment of the call: were + you + verb-ing.",
+          "explanationTranslation": "Zəng anında davam edən uzun hərəkət haqqında soruşuruq: were + you + feil-ing."
+        }
+      ]
+    }
+  }
+}

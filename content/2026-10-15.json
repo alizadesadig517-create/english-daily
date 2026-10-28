@@ -1,0 +1,1054 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-15",
+  "level": "B1",
+  "translationLanguage": "az",
+  "words": [
+    {
+      "word": "bargain",
+      "ipa": "/ˈbɑrɡən/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "sərfəli alış, ucuz alınmış şey",
+          "definition": "something that you buy for a lower price than usual",
+          "synonyms": [
+            "good deal",
+            "deal"
+          ],
+          "antonyms": [
+            "rip-off"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "This jacket was a real bargain – only twenty manat.",
+              "translation": "Bu gödəkçə əsl sərfəli alış idi – cəmi iyirmi manat."
+            },
+            {
+              "text": "You can find great bargains at the market on Sundays.",
+              "translation": "Bazar günləri bazarda çox sərfəli mallar tapa bilərsən."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "refund",
+      "ipa": "/ˈriˌfʌnd/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "pulun geri qaytarılması",
+          "definition": "money that is given back to you, for example when you return something to a shop",
+          "synonyms": [
+            "repayment"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "I took the shoes back and asked for a refund.",
+              "translation": "Ayaqqabıları geri apardım və pulumu qaytarmalarını istədim."
+            },
+            {
+              "text": "The airline gave us a full refund.",
+              "translation": "Aviaşirkət pulumuzun hamısını geri qaytardı."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "queue",
+      "ipa": "/kju/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "növbə",
+          "definition": "a line of people or cars that are waiting for something",
+          "synonyms": [
+            "line"
+          ],
+          "antonyms": [],
+          "homonyms": [
+            {
+              "word": "cue",
+              "meaning": "a word or action that tells someone it is time to start doing something",
+              "translation": "işarə, siqnal"
+            }
+          ],
+          "examples": [
+            {
+              "text": "There was a long queue outside the bank.",
+              "translation": "Bankın qarşısında uzun növbə var idi."
+            },
+            {
+              "text": "We waited in the queue for almost an hour.",
+              "translation": "Növbədə təxminən bir saat gözlədik."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "brand",
+      "ipa": "/brænd/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "marka, brend",
+          "definition": "the name of a product that a particular company makes",
+          "synonyms": [
+            "make",
+            "label"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "What brand of phone do you have?",
+              "translation": "Telefonun hansı markadır?"
+            },
+            {
+              "text": "Famous brands are often more expensive.",
+              "translation": "Məşhur markalar çox vaxt daha baha olur."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "compare",
+      "ipa": "/kəmˈpɛr/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "müqayisə etmək",
+          "definition": "to look at two or more things to see how they are the same or different",
+          "synonyms": [
+            "contrast"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Always compare prices before you buy something online.",
+              "translation": "Onlayn nəsə almazdan əvvəl həmişə qiymətləri müqayisə et."
+            },
+            {
+              "text": "Don't compare yourself with other people.",
+              "translation": "Özünü başqa insanlarla müqayisə etmə."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "customer",
+      "ipa": "/ˈkʌstəmər/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "müştəri",
+          "definition": "a person who buys things from a shop or a company",
+          "synonyms": [
+            "client",
+            "buyer",
+            "shopper"
+          ],
+          "antonyms": [
+            "seller"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The shop was full of customers before the holiday.",
+              "translation": "Bayramdan əvvəl mağaza müştərilərlə dolu idi."
+            },
+            {
+              "text": "The waiter was very polite to every customer.",
+              "translation": "Ofisiant hər müştəriyə qarşı çox nəzakətli idi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "cashier",
+      "ipa": "/kæˈʃɪr/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "kassir",
+          "definition": "a person whose job is to take money and give change in a shop or bank",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The cashier gave me the wrong change.",
+              "translation": "Kassir mənə qalığı səhv verdi."
+            },
+            {
+              "text": "She works as a cashier at a supermarket.",
+              "translation": "O, supermarketdə kassir işləyir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "guarantee",
+      "ipa": "/ˌɡærənˈti/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "zəmanət",
+          "definition": "a written promise from a company that it will repair or replace a product if it breaks",
+          "synonyms": [
+            "warranty"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The TV comes with a two-year guarantee.",
+              "translation": "Televizorun iki illik zəmanəti var."
+            },
+            {
+              "text": "Is the phone still under guarantee?",
+              "translation": "Telefonun zəmanət müddəti hələ bitməyib?"
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "verb",
+          "translation": "zəmanət vermək; təmin etmək",
+          "definition": "to promise that something will happen or is true",
+          "synonyms": [
+            "promise",
+            "ensure"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "I can't guarantee that we will win.",
+              "translation": "Qalib gələcəyimizə zəmanət verə bilmərəm."
+            },
+            {
+              "text": "The hotel guarantees a clean and quiet room.",
+              "translation": "Otel təmiz və sakit otağa zəmanət verir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "worth",
+      "ipa": "/wɜrθ/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "dəyərində; (nəyəsə) dəyər",
+          "definition": "having a particular value, or good or useful enough to spend time or money on",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "This old ring is worth a lot of money.",
+              "translation": "Bu köhnə üzük çox pul dəyər."
+            },
+            {
+              "text": "The museum is really worth a visit.",
+              "translation": "Bu muzeyə mütləq baş çəkməyə dəyər."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "exchange",
+      "ipa": "/ɪksˈtʃeɪndʒ/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "dəyişdirmək, dəyişmək",
+          "definition": "to give something and get something else back, for example to return an item to a shop for another one",
+          "synonyms": [
+            "swap",
+            "trade",
+            "change"
+          ],
+          "antonyms": [
+            "keep"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Can I exchange these shoes for a bigger size?",
+              "translation": "Bu ayaqqabıları daha böyük ölçüyə dəyişə bilərəm?"
+            },
+            {
+              "text": "We exchanged phone numbers after the meeting.",
+              "translation": "Görüşdən sonra telefon nömrələrimizi bir-birimizə verdik."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "quality",
+      "ipa": "/ˈkwɑləti/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "keyfiyyət",
+          "definition": "how good or bad something is",
+          "synonyms": [
+            "standard",
+            "grade"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "These shoes are expensive, but the quality is excellent.",
+              "translation": "Bu ayaqqabılar bahadır, amma keyfiyyəti əladır."
+            },
+            {
+              "text": "The quality of the photos is very poor.",
+              "translation": "Şəkillərin keyfiyyəti çox aşağıdır."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "checkout",
+      "ipa": "/ˈtʃɛkˌaʊt/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "kassa",
+          "definition": "the place in a shop where you pay for the things you buy",
+          "synonyms": [
+            "cash register"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Please pay at the checkout.",
+              "translation": "Zəhmət olmasa, kassada ödəyin."
+            },
+            {
+              "text": "The line at the checkout was very long.",
+              "translation": "Kassanın qarşısındakı növbə çox uzun idi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "packaging",
+      "ipa": "/ˈpækɪdʒɪŋ/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "qablaşdırma",
+          "definition": "the boxes, bags and paper that are used to wrap and protect products",
+          "synonyms": [
+            "wrapping",
+            "packing"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Too much plastic packaging is bad for the environment.",
+              "translation": "Həddən artıq plastik qablaşdırma ətraf mühit üçün zərərlidir."
+            },
+            {
+              "text": "The packaging was beautiful, but the gift was small.",
+              "translation": "Qablaşdırma gözəl idi, amma hədiyyə kiçik idi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "overpriced",
+      "ipa": "/ˌoʊvərˈpraɪst/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "həddən artıq baha, qiyməti şişirdilmiş",
+          "definition": "costing more than it is really worth",
+          "synonyms": [
+            "too expensive",
+            "pricey"
+          ],
+          "antonyms": [
+            "cheap",
+            "reasonable"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The food at the airport is always overpriced.",
+              "translation": "Hava limanında yemək həmişə həddən artıq baha olur."
+            },
+            {
+              "text": "I didn't buy the jacket because it was overpriced.",
+              "translation": "Gödəkçəni almadım, çünki qiyməti çox şişirdilmişdi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "browse",
+      "ipa": "/braʊz/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "(almadan) mallara baxmaq; (internetdə) gəzişmək",
+          "definition": "to look at things in a shop or on the internet without looking for anything special",
+          "synonyms": [
+            "look around",
+            "window-shop"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "I'm not buying anything – I'm just browsing.",
+              "translation": "Heç nə almıram – sadəcə baxıram."
+            },
+            {
+              "text": "She spent an hour browsing online stores.",
+              "translation": "O, bir saat onlayn mağazalarda gəzişdi."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "story": {
+    "title": "The Winter Coat",
+    "titleTranslation": "Qış paltosu",
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "Aysel needed a new winter coat, but she didn't want to spend too much money.",
+            "translation": "Ayselə yeni qış paltosu lazım idi, amma o, çox pul xərcləmək istəmirdi."
+          },
+          {
+            "text": "Her sister Lala said, “You don't have to buy a famous brand. A cheaper coat can be just as warm.”",
+            "translation": "Bacısı Lalə dedi: «Məşhur marka almaq məcburiyyətində deyilsən. Daha ucuz palto da elə o qədər isti ola bilər.»"
+          },
+          {
+            "text": "Lala knew a lot about shopping because she had worked in a clothing store for three years.",
+            "translation": "Lalə alış-veriş haqqında çox şey bilirdi, çünki üç il geyim mağazasında işləmişdi."
+          },
+          {
+            "text": "So on Saturday, Aysel went to the shopping mall to browse.",
+            "translation": "Ona görə də şənbə günü Aysel mallara baxmaq üçün ticarət mərkəzinə getdi."
+          },
+          {
+            "text": "In the first shop, the coats were overpriced: one of them cost more than her monthly salary!",
+            "translation": "Birinci mağazada paltolar həddən artıq baha idi: onlardan biri onun aylıq maaşından da baha idi!"
+          },
+          {
+            "text": "She visited two more shops and carefully compared the prices and the quality.",
+            "translation": "O, daha iki mağazaya baş çəkdi və qiymətləri və keyfiyyəti diqqətlə müqayisə etdi."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "In the last shop, she found a dark blue coat at half price – a real bargain!",
+            "translation": "Sonuncu mağazada o, yarı qiymətinə tünd göy rəngli bir palto tapdı – əsl sərfəli alış!"
+          },
+          {
+            "text": "It was simple but well made, and she thought it was worth every manat.",
+            "translation": "Palto sadə, amma keyfiyyətli tikilmişdi və Aysel onun hər manatına dəydiyini düşündü."
+          },
+          {
+            "text": "There was a long queue at the checkout, so she had to wait for twenty minutes.",
+            "translation": "Kassanın qarşısında uzun növbə var idi, ona görə də o, iyirmi dəqiqə gözləməli oldu."
+          },
+          {
+            "text": "In front of her, an old woman was buying a lot of small things, and she slowly counted every coin.",
+            "translation": "Onun qabağında yaşlı bir qadın çoxlu xırda şey alırdı və hər qəpiyi yavaş-yavaş sayırdı."
+          },
+          {
+            "text": "The cashier, a friendly young man, put the coat in a paper bag instead of plastic packaging.",
+            "translation": "Mehriban bir gənc olan kassir paltonu plastik qablaşdırma əvəzinə kağız torbaya qoydu."
+          },
+          {
+            "text": "“This coat has a one-year guarantee,” he said, “but you must keep the receipt if you want to return or exchange anything.”",
+            "translation": "«Bu paltonun bir illik zəmanəti var», – dedi, – «amma nəyisə qaytarmaq və ya dəyişdirmək istəsəniz, çeki saxlamalısınız.»"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "At home, Aysel tried the coat on again and noticed that the zipper was broken.",
+            "translation": "Evdə Aysel paltonu yenidən geyinib baxdı və fermuarın xarab olduğunu gördü."
+          },
+          {
+            "text": "She was upset, but the next day she took the coat back to the shop with her receipt.",
+            "translation": "O, əsəbiləşdi, amma ertəsi gün paltonu çeklə birlikdə mağazaya geri apardı."
+          },
+          {
+            "text": "There were a lot of customers, and she was afraid that she would have to argue with someone.",
+            "translation": "Mağazada çoxlu müştəri var idi və o, kiminləsə mübahisə etməli olacağından qorxurdu."
+          },
+          {
+            "text": "She felt nervous as she walked to the customer service desk.",
+            "translation": "Müştəri xidməti masasına doğru gedərkən o, həyəcanlı idi."
+          },
+          {
+            "text": "But the manager looked at the zipper and apologized at once.",
+            "translation": "Amma menecer fermuara baxdı və dərhal üzr istədi."
+          },
+          {
+            "text": "“You don't have to explain anything,” he said. “You can exchange it for another coat, or we can give you a refund.”",
+            "translation": "«Heç nəyi izah etməyinizə ehtiyac yoxdur», – dedi. «Onu başqa paltoya dəyişə bilərsiniz, ya da pulunuzu geri qaytara bilərik.»"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Aysel chose a new coat of the same kind, and this time she checked the zipper before she left.",
+            "translation": "Aysel eyni modeldən yeni palto seçdi və bu dəfə çıxmazdan əvvəl fermuarı yoxladı."
+          },
+          {
+            "text": "That evening, she told Lala the whole story.",
+            "translation": "Həmin axşam o, Laləyə hər şeyi danışdı."
+          },
+          {
+            "text": "Lala listened and smiled, because the same thing had happened to her once.",
+            "translation": "Lalə qulaq asıb gülümsədi, çünki bir dəfə onun da başına eyni şey gəlmişdi."
+          },
+          {
+            "text": "“You were right,” she laughed. “Good shopping isn't about the brand. You have to be patient, and you must always check everything before you pay!”",
+            "translation": "«Haqlı idin», – deyə o, güldü. «Yaxşı alış-veriş markadan asılı deyil. Səbirli olmalısan və ödəməzdən əvvəl həmişə hər şeyi yoxlamalısan!»"
+          }
+        ]
+      }
+    ],
+    "glossary": [
+      {
+        "term": "spend",
+        "lemma": "spend",
+        "partOfSpeech": "verb",
+        "meaning": "to use money to buy things",
+        "translation": "xərcləmək"
+      },
+      {
+        "term": "too much",
+        "lemma": "too much",
+        "partOfSpeech": "phrase",
+        "meaning": "more than you want or need",
+        "translation": "həddən artıq çox"
+      },
+      {
+        "term": "don't have to",
+        "lemma": "have to",
+        "partOfSpeech": "phrase",
+        "meaning": "it is not necessary to",
+        "translation": "məcbur deyilsən, ehtiyac yoxdur"
+      },
+      {
+        "term": "famous",
+        "lemma": "famous",
+        "partOfSpeech": "adjective",
+        "meaning": "known by many people",
+        "translation": "məşhur"
+      },
+      {
+        "term": "brand",
+        "lemma": "brand",
+        "partOfSpeech": "noun",
+        "meaning": "the name of a product made by a company",
+        "translation": "marka, brend"
+      },
+      {
+        "term": "just as warm",
+        "lemma": "just as ... as",
+        "partOfSpeech": "phrase",
+        "meaning": "equally warm",
+        "translation": "elə o qədər isti"
+      },
+      {
+        "term": "clothing store",
+        "lemma": "clothing store",
+        "partOfSpeech": "noun",
+        "meaning": "a shop that sells clothes",
+        "translation": "geyim mağazası"
+      },
+      {
+        "term": "shopping mall",
+        "lemma": "shopping mall",
+        "partOfSpeech": "noun",
+        "meaning": "a large building with many shops",
+        "translation": "ticarət mərkəzi"
+      },
+      {
+        "term": "browse",
+        "lemma": "browse",
+        "partOfSpeech": "verb",
+        "meaning": "to look at things in shops without a plan to buy",
+        "translation": "mallara baxmaq"
+      },
+      {
+        "term": "overpriced",
+        "lemma": "overpriced",
+        "partOfSpeech": "adjective",
+        "meaning": "too expensive for what it is",
+        "translation": "həddən artıq baha"
+      },
+      {
+        "term": "cost",
+        "lemma": "cost",
+        "partOfSpeech": "verb",
+        "meaning": "had a price of",
+        "translation": "dəyərində idi, qiyməti idi"
+      },
+      {
+        "term": "monthly salary",
+        "lemma": "monthly salary",
+        "partOfSpeech": "noun",
+        "meaning": "the money you get for your work every month",
+        "translation": "aylıq maaş"
+      },
+      {
+        "term": "carefully",
+        "lemma": "carefully",
+        "partOfSpeech": "adverb",
+        "meaning": "with a lot of attention",
+        "translation": "diqqətlə"
+      },
+      {
+        "term": "compared",
+        "lemma": "compare",
+        "partOfSpeech": "verb",
+        "meaning": "looked at things to see how they are different",
+        "translation": "müqayisə etdi"
+      },
+      {
+        "term": "quality",
+        "lemma": "quality",
+        "partOfSpeech": "noun",
+        "meaning": "how good or bad something is",
+        "translation": "keyfiyyət"
+      },
+      {
+        "term": "dark blue",
+        "lemma": "dark blue",
+        "partOfSpeech": "adjective",
+        "meaning": "a deep blue color",
+        "translation": "tünd göy"
+      },
+      {
+        "term": "at half price",
+        "lemma": "at half price",
+        "partOfSpeech": "phrase",
+        "meaning": "for 50% of the usual price",
+        "translation": "yarı qiymətinə"
+      },
+      {
+        "term": "bargain",
+        "lemma": "bargain",
+        "partOfSpeech": "noun",
+        "meaning": "something you buy cheaply",
+        "translation": "sərfəli alış"
+      },
+      {
+        "term": "well made",
+        "lemma": "well made",
+        "partOfSpeech": "adjective",
+        "meaning": "made carefully and with good materials",
+        "translation": "keyfiyyətli tikilmiş"
+      },
+      {
+        "term": "worth",
+        "lemma": "worth",
+        "partOfSpeech": "adjective",
+        "meaning": "having enough value for the money you pay",
+        "translation": "dəyər"
+      },
+      {
+        "term": "queue",
+        "lemma": "queue",
+        "partOfSpeech": "noun",
+        "meaning": "a line of people waiting",
+        "translation": "növbə"
+      },
+      {
+        "term": "checkout",
+        "lemma": "checkout",
+        "partOfSpeech": "noun",
+        "meaning": "the place in a shop where you pay",
+        "translation": "kassa"
+      },
+      {
+        "term": "had to",
+        "lemma": "have to",
+        "partOfSpeech": "phrase",
+        "meaning": "it was necessary to",
+        "translation": "məcbur oldu, -malı oldu"
+      },
+      {
+        "term": "In front of",
+        "lemma": "in front of",
+        "partOfSpeech": "preposition",
+        "meaning": "just before someone in a line",
+        "translation": "qabağında, önündə"
+      },
+      {
+        "term": "counted",
+        "lemma": "count",
+        "partOfSpeech": "verb",
+        "meaning": "found the total number of something",
+        "translation": "sayırdı"
+      },
+      {
+        "term": "coin",
+        "lemma": "coin",
+        "partOfSpeech": "noun",
+        "meaning": "a small, round piece of metal money",
+        "translation": "qəpik, metal pul"
+      },
+      {
+        "term": "cashier",
+        "lemma": "cashier",
+        "partOfSpeech": "noun",
+        "meaning": "a person who takes your money in a shop",
+        "translation": "kassir"
+      },
+      {
+        "term": "instead of",
+        "lemma": "instead of",
+        "partOfSpeech": "preposition",
+        "meaning": "in the place of",
+        "translation": "əvəzinə"
+      },
+      {
+        "term": "packaging",
+        "lemma": "packaging",
+        "partOfSpeech": "noun",
+        "meaning": "the bags or boxes that products come in",
+        "translation": "qablaşdırma"
+      },
+      {
+        "term": "guarantee",
+        "lemma": "guarantee",
+        "partOfSpeech": "noun",
+        "meaning": "a promise to repair or change a product if it breaks",
+        "translation": "zəmanət"
+      },
+      {
+        "term": "must",
+        "lemma": "must",
+        "partOfSpeech": "verb",
+        "meaning": "it is necessary to",
+        "translation": "-malı, -məli"
+      },
+      {
+        "term": "receipt",
+        "lemma": "receipt",
+        "partOfSpeech": "noun",
+        "meaning": "a piece of paper that shows what you paid",
+        "translation": "çek, qəbz"
+      },
+      {
+        "term": "return",
+        "lemma": "return",
+        "partOfSpeech": "verb",
+        "meaning": "to take something back to a shop",
+        "translation": "qaytarmaq"
+      },
+      {
+        "term": "exchange",
+        "lemma": "exchange",
+        "partOfSpeech": "verb",
+        "meaning": "to give something back and get another thing",
+        "translation": "dəyişdirmək"
+      },
+      {
+        "term": "tried the coat on",
+        "lemma": "try on",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "put on the coat to see how it looked",
+        "translation": "paltonu geyinib baxdı"
+      },
+      {
+        "term": "noticed",
+        "lemma": "notice",
+        "partOfSpeech": "verb",
+        "meaning": "saw something",
+        "translation": "gördü, fərqinə vardı"
+      },
+      {
+        "term": "zipper",
+        "lemma": "zipper",
+        "partOfSpeech": "noun",
+        "meaning": "a metal or plastic thing that closes a coat or bag",
+        "translation": "fermuar, zəncirbənd"
+      },
+      {
+        "term": "broken",
+        "lemma": "broken",
+        "partOfSpeech": "adjective",
+        "meaning": "not working",
+        "translation": "xarab, sınıq"
+      },
+      {
+        "term": "upset",
+        "lemma": "upset",
+        "partOfSpeech": "adjective",
+        "meaning": "unhappy and worried",
+        "translation": "əsəbi, pərt"
+      },
+      {
+        "term": "took the coat back",
+        "lemma": "take back",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "returned the coat to the shop",
+        "translation": "paltonu geri apardı"
+      },
+      {
+        "term": "customers",
+        "lemma": "customer",
+        "partOfSpeech": "noun",
+        "meaning": "people who buy things in a shop",
+        "translation": "müştərilər"
+      },
+      {
+        "term": "afraid",
+        "lemma": "afraid",
+        "partOfSpeech": "adjective",
+        "meaning": "feeling fear or worry",
+        "translation": "qorxan"
+      },
+      {
+        "term": "argue",
+        "lemma": "argue",
+        "partOfSpeech": "verb",
+        "meaning": "to speak angrily to someone because you do not agree",
+        "translation": "mübahisə etmək"
+      },
+      {
+        "term": "nervous",
+        "lemma": "nervous",
+        "partOfSpeech": "adjective",
+        "meaning": "a little worried or afraid",
+        "translation": "həyəcanlı"
+      },
+      {
+        "term": "customer service desk",
+        "lemma": "customer service desk",
+        "partOfSpeech": "noun",
+        "meaning": "the place in a shop where staff help customers with problems",
+        "translation": "müştəri xidməti masası"
+      },
+      {
+        "term": "manager",
+        "lemma": "manager",
+        "partOfSpeech": "noun",
+        "meaning": "a person who is in charge of a shop",
+        "translation": "menecer, müdir"
+      },
+      {
+        "term": "apologized",
+        "lemma": "apologize",
+        "partOfSpeech": "verb",
+        "meaning": "said sorry",
+        "translation": "üzr istədi"
+      },
+      {
+        "term": "at once",
+        "lemma": "at once",
+        "partOfSpeech": "phrase",
+        "meaning": "immediately",
+        "translation": "dərhal"
+      },
+      {
+        "term": "explain",
+        "lemma": "explain",
+        "partOfSpeech": "verb",
+        "meaning": "to give reasons or details",
+        "translation": "izah etmək"
+      },
+      {
+        "term": "refund",
+        "lemma": "refund",
+        "partOfSpeech": "noun",
+        "meaning": "money that a shop gives back to you",
+        "translation": "pulun geri qaytarılması"
+      },
+      {
+        "term": "this time",
+        "lemma": "this time",
+        "partOfSpeech": "phrase",
+        "meaning": "on this occasion",
+        "translation": "bu dəfə"
+      },
+      {
+        "term": "the whole story",
+        "lemma": "the whole story",
+        "partOfSpeech": "phrase",
+        "meaning": "everything that happened",
+        "translation": "hər şeyi, bütün əhvalatı"
+      },
+      {
+        "term": "happened to her",
+        "lemma": "happen to",
+        "partOfSpeech": "phrase",
+        "meaning": "took place in her life",
+        "translation": "onun başına gəlmişdi"
+      },
+      {
+        "term": "You were right",
+        "lemma": "be right",
+        "partOfSpeech": "phrase",
+        "meaning": "what you said was true",
+        "translation": "haqlı idin"
+      },
+      {
+        "term": "isn't about",
+        "lemma": "be about",
+        "partOfSpeech": "phrase",
+        "meaning": "does not depend on; is not mainly",
+        "translation": "... asılı deyil"
+      },
+      {
+        "term": "patient",
+        "lemma": "patient",
+        "partOfSpeech": "adjective",
+        "meaning": "able to wait calmly",
+        "translation": "səbirli"
+      }
+    ]
+  },
+  "grammar": {
+    "topic": "Obligation: must, have to, don't have to",
+    "topicTranslation": "Məcburiyyət: must, have to, don't have to",
+    "explanation": "We use must and have to to say that something is necessary. Must often shows the speaker's own opinion or a rule, and have to often shows a rule or a situation from outside. Must has no past form, so for the past we use had to. Don't have to means that something is not necessary – you can choose. Be careful: mustn't is different and means that something is not allowed.",
+    "explanationTranslation": "Bir şeyin vacib olduğunu bildirmək üçün must və have to işlədilir. Must çox vaxt danışanın öz fikrini və ya qaydanı göstərir, have to isə çox vaxt kənardan gələn qaydanı və ya vəziyyəti bildirir. Must-un keçmiş forması yoxdur, ona görə keçmişdə had to işlədilir. Don't have to bir şeyin vacib olmadığını bildirir – seçim sizindir. Diqqətli olun: mustn't fərqli mənadadır və bir şeyin qadağan olduğunu göstərir.",
+    "rules": [
+      {
+        "text": "must + base verb is the same for all persons: You must keep the receipt.",
+        "translation": "must + feilin əsas forması bütün şəxslərdə eynidir: You must keep the receipt."
+      },
+      {
+        "text": "have to / has to + base verb; in the past we use had to: She has to work on Saturday. We had to wait in a queue.",
+        "translation": "have to / has to + feilin əsas forması; keçmişdə had to işlədilir: She has to work on Saturday. We had to wait in a queue."
+      },
+      {
+        "text": "don't / doesn't have to = it is not necessary, you can choose: You don't have to pay now.",
+        "translation": "don't / doesn't have to = vacib deyil, seçim sizindir: You don't have to pay now."
+      },
+      {
+        "text": "mustn't = it is not allowed: You mustn't park here.",
+        "translation": "mustn't = olmaz, qadağandır: You mustn't park here."
+      }
+    ],
+    "examples": [
+      {
+        "text": "You must show your receipt if you want a refund.",
+        "translation": "Pulunuzu geri almaq istəyirsinizsə, çeki göstərməlisiniz."
+      },
+      {
+        "text": "I have to get up at six every day.",
+        "translation": "Mən hər gün saat altıda durmalıyam."
+      },
+      {
+        "text": "We had to queue for an hour to buy the tickets.",
+        "translation": "Biletləri almaq üçün bir saat növbədə durmalı olduq."
+      },
+      {
+        "text": "You don't have to buy an expensive brand – this one is fine.",
+        "translation": "Bahalı marka almaq məcburiyyətində deyilsən – bu da yaxşıdır."
+      },
+      {
+        "text": "Customers mustn't smoke in the shop.",
+        "translation": "Müştərilərin mağazada siqaret çəkməsi qadağandır."
+      }
+    ],
+    "exercise": {
+      "instructions": "Choose or write the correct form.",
+      "instructionsTranslation": "Düzgün formanı seçin və ya yazın.",
+      "questions": [
+        {
+          "type": "choice",
+          "prompt": "Tomorrow is a holiday, so we ___ go to work.",
+          "promptTranslation": "Sabah bayramdır, ona görə də işə getməli deyilik.",
+          "options": [
+            "must",
+            "don't have to",
+            "mustn't"
+          ],
+          "answer": "don't have to",
+          "explanation": "It is not necessary to go to work, so we use don't have to.",
+          "explanationTranslation": "İşə getmək vacib deyil, ona görə don't have to işlədilir."
+        },
+        {
+          "type": "choice",
+          "prompt": "Yesterday I ___ wait in a long queue at the bank.",
+          "promptTranslation": "Dünən bankda uzun növbədə gözləməli oldum.",
+          "options": [
+            "must",
+            "had to",
+            "have to"
+          ],
+          "answer": "had to",
+          "explanation": "Must has no past form. For the past we use had to.",
+          "explanationTranslation": "Must-un keçmiş forması yoxdur. Keçmiş üçün had to işlədilir."
+        },
+        {
+          "type": "text",
+          "prompt": "She ___ (have to) wear a uniform at work.",
+          "promptTranslation": "O, işdə forma geyinməlidir.",
+          "answer": "has to",
+          "explanation": "With he, she and it we use has to.",
+          "explanationTranslation": "He, she və it ilə has to işlədilir."
+        },
+        {
+          "type": "text",
+          "prompt": "You ___ (must / not) touch the oven – it's very hot!",
+          "promptTranslation": "Sobaya toxunmamalısan – çox istidir!",
+          "answer": "mustn't",
+          "acceptedAnswers": [
+            "must not"
+          ],
+          "explanation": "It is not allowed or dangerous, so we use mustn't.",
+          "explanationTranslation": "Bu, qadağandır və ya təhlükəlidir, ona görə mustn't işlədilir."
+        },
+        {
+          "type": "choice",
+          "prompt": "___ you have to compare prices before you buy?",
+          "promptTranslation": "Almazdan əvvəl qiymətləri müqayisə etməlisən?",
+          "options": [
+            "Do",
+            "Must",
+            "Are"
+          ],
+          "answer": "Do",
+          "explanation": "Questions with have to use do or does.",
+          "explanationTranslation": "Have to ilə suallar do və ya does ilə qurulur."
+        }
+      ]
+    }
+  }
+}

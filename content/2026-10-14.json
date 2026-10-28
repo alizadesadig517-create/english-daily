@@ -1,0 +1,1029 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-14",
+  "level": "B1",
+  "translationLanguage": "az",
+  "words": [
+    {
+      "word": "traffic",
+      "ipa": "/ˈtræfɪk/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "nəqliyyat hərəkəti; tıxac",
+          "definition": "the cars, buses and other vehicles that are moving on the roads",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The traffic was terrible this morning.",
+              "translation": "Bu səhər yollarda tıxac dəhşətli idi."
+            },
+            {
+              "text": "There is less traffic on Sundays.",
+              "translation": "Bazar günləri yollarda maşın az olur."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "crowded",
+      "ipa": "/ˈkraʊdɪd/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "adamla dolu, sıx, izdihamlı",
+          "definition": "full of people",
+          "synonyms": [
+            "packed",
+            "busy",
+            "full"
+          ],
+          "antonyms": [
+            "empty",
+            "deserted"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The bus was so crowded that I had to stand.",
+              "translation": "Avtobus o qədər dolu idi ki, ayaq üstə durmalı oldum."
+            },
+            {
+              "text": "We avoided the crowded beaches and found a quiet place.",
+              "translation": "Adamla dolu çimərliklərdən uzaq durduq və sakit bir yer tapdıq."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "pedestrian",
+      "ipa": "/pəˈdɛstriən/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "piyada",
+          "definition": "a person who is walking in a street, not driving a car or riding a bike",
+          "synonyms": [
+            "walker"
+          ],
+          "antonyms": [
+            "driver"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Drivers must stop for pedestrians at the crossing.",
+              "translation": "Sürücülər keçiddə piyadalar üçün dayanmalıdırlar."
+            },
+            {
+              "text": "This street is only for pedestrians.",
+              "translation": "Bu küçə yalnız piyadalar üçündür."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "avoid",
+      "ipa": "/əˈvɔɪd/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "uzaq durmaq, yayınmaq; çəkinmək",
+          "definition": "to stay away from someone or something, or to try not to do something",
+          "synonyms": [
+            "stay away from",
+            "keep away from",
+            "dodge"
+          ],
+          "antonyms": [
+            "face"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "She avoids eating sugar.",
+              "translation": "O, şəkər yeməkdən çəkinir."
+            },
+            {
+              "text": "He left early to avoid the traffic.",
+              "translation": "O, tıxaca düşməmək üçün tez çıxdı."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "convenient",
+      "ipa": "/kənˈvinjənt/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "rahat, əlverişli, münasib",
+          "definition": "easy to use or suitable for your plans, so it saves you time or trouble",
+          "synonyms": [
+            "handy",
+            "suitable",
+            "practical"
+          ],
+          "antonyms": [
+            "inconvenient"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Is three o'clock convenient for you?",
+              "translation": "Saat üç sənin üçün münasibdirmi?"
+            },
+            {
+              "text": "The hotel is in a convenient location near the metro.",
+              "translation": "Otel metroya yaxın, əlverişli bir yerdədir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "commute",
+      "ipa": "/kəˈmjut/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "işə gediş-gəliş (yolu)",
+          "definition": "the trip that you make regularly between your home and your workplace",
+          "synonyms": [
+            "journey",
+            "trip"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "My commute takes about forty minutes.",
+              "translation": "İşə gediş yolum təxminən qırx dəqiqə çəkir."
+            },
+            {
+              "text": "Reading makes my long commute more pleasant.",
+              "translation": "Kitab oxumaq uzun yolumu daha xoş edir."
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "verb",
+          "translation": "(hər gün) işə gedib-gəlmək",
+          "definition": "to travel regularly between your home and your workplace",
+          "synonyms": [
+            "travel"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "She commutes to the city by train.",
+              "translation": "O, şəhərə qatarla gedib-gəlir."
+            },
+            {
+              "text": "Many people commute for more than an hour each way.",
+              "translation": "Bir çox insan hər istiqamətdə bir saatdan çox yol gedir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "suburb",
+      "ipa": "/ˈsʌbɜrb/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "şəhərətrafı qəsəbə, şəhərətrafı ərazi",
+          "definition": "an area where people live, outside the center of a city",
+          "synonyms": [
+            "outskirts"
+          ],
+          "antonyms": [
+            "city center",
+            "downtown"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "They moved to a house in a quiet suburb.",
+              "translation": "Onlar sakit bir şəhərətrafı qəsəbədəki evə köçdülər."
+            },
+            {
+              "text": "Many families live in the suburbs and work downtown.",
+              "translation": "Bir çox ailə şəhərətrafında yaşayır, şəhər mərkəzində isə işləyir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "intersection",
+      "ipa": "/ˈɪntərˌsɛkʃən/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "yol kəsişməsi, yolayrıcı",
+          "definition": "a place where two or more roads meet and cross",
+          "synonyms": [
+            "crossroads",
+            "junction"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Turn right at the next intersection.",
+              "translation": "Növbəti kəsişmədə sağa dön."
+            },
+            {
+              "text": "There was an accident at the intersection this morning.",
+              "translation": "Bu səhər kəsişmədə qəza baş verdi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sidewalk",
+      "ipa": "/ˈsaɪdˌwɔk/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "səki",
+          "definition": "a path at the side of a street where people walk",
+          "synonyms": [
+            "pavement"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Please don't park your car on the sidewalk.",
+              "translation": "Zəhmət olmasa, maşınınızı səkidə saxlamayın."
+            },
+            {
+              "text": "The children were drawing pictures on the sidewalk.",
+              "translation": "Uşaqlar səkidə şəkil çəkirdilər."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "noisy",
+      "ipa": "/ˈnɔɪzi/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "səs-küylü",
+          "definition": "making a lot of loud sounds, or full of loud sounds",
+          "synonyms": [
+            "loud"
+          ],
+          "antonyms": [
+            "quiet",
+            "silent"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Our neighbors are very noisy at night.",
+              "translation": "Qonşularımız gecələr çox səs-küy salırlar."
+            },
+            {
+              "text": "It was a noisy restaurant, so we couldn't talk.",
+              "translation": "Restoran səs-küylü idi, ona görə danışa bilmədik."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "district",
+      "ipa": "/ˈdɪstrɪkt/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "rayon, məhəllə, ərazi",
+          "definition": "a part of a city or a country",
+          "synonyms": [
+            "area",
+            "neighborhood",
+            "region"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "We live in a busy shopping district.",
+              "translation": "Biz mağazaların çox olduğu canlı bir məhəllədə yaşayırıq."
+            },
+            {
+              "text": "The school is in the old district of the city.",
+              "translation": "Məktəb şəhərin köhnə məhəlləsindədir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "vehicle",
+      "ipa": "/ˈviəkəl/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "nəqliyyat vasitəsi, maşın",
+          "definition": "something such as a car, bus or truck that carries people or things from place to place",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Vehicles are not allowed in the park.",
+              "translation": "Parka nəqliyyat vasitələrinin girməsi qadağandır."
+            },
+            {
+              "text": "The police stopped every vehicle on the road.",
+              "translation": "Polis yoldakı hər maşını saxladı."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "construction",
+      "ipa": "/kənˈstrʌkʃən/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "tikinti, inşaat",
+          "definition": "the work of building houses, roads, bridges and other structures",
+          "synonyms": [
+            "building"
+          ],
+          "antonyms": [
+            "demolition"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "There is construction on our street, so it's very dusty.",
+              "translation": "Küçəmizdə tikinti gedir, ona görə də çox tozludur."
+            },
+            {
+              "text": "My uncle works in construction.",
+              "translation": "Əmim inşaat sahəsində işləyir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "resident",
+      "ipa": "/ˈrɛzɪdənt/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "sakin",
+          "definition": "a person who lives in a particular place",
+          "synonyms": [
+            "inhabitant",
+            "local"
+          ],
+          "antonyms": [
+            "visitor",
+            "tourist"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Local residents are unhappy about the new road.",
+              "translation": "Yerli sakinlər yeni yoldan narazıdırlar."
+            },
+            {
+              "text": "All residents of the building have a parking space.",
+              "translation": "Binanın bütün sakinlərinin maşın üçün dayanacaq yeri var."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "transportation",
+      "ipa": "/ˌtrænspərˈteɪʃən/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "nəqliyyat; daşınma",
+          "definition": "a way of moving people or things from one place to another, such as buses and trains",
+          "synonyms": [
+            "transport",
+            "transit"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Public transportation in this city is cheap.",
+              "translation": "Bu şəhərdə ictimai nəqliyyat ucuzdur."
+            },
+            {
+              "text": "The price includes transportation to the hotel.",
+              "translation": "Qiymətə otelə qədər daşınma da daxildir."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "story": {
+    "title": "A Better Way to Work",
+    "titleTranslation": "İşə gedən daha yaxşı yol",
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "Tural lives in a quiet suburb about fifteen kilometers from the city center.",
+            "translation": "Tural şəhər mərkəzindən təxminən on beş kilometr aralıda, sakit bir şəhərətrafı qəsəbədə yaşayır."
+          },
+          {
+            "text": "For years, his daily commute was the worst part of his day.",
+            "translation": "İllərlə işə gündəlik gediş-gəlişi onun gününün ən pis hissəsi idi."
+          },
+          {
+            "text": "He drove to work every morning, and every morning he got stuck in traffic at the same big intersection.",
+            "translation": "O, hər səhər maşınla işə gedirdi və hər səhər eyni böyük kəsişmədə tıxaca düşürdü."
+          },
+          {
+            "text": "There was construction on the main road, the streets were noisy, and drivers kept honking their horns.",
+            "translation": "Əsas yolda tikinti gedirdi, küçələr səs-küylü idi, sürücülər də durmadan siqnal verirdilər."
+          },
+          {
+            "text": "By the time he reached the office, he had very little patience left.",
+            "translation": "Ofisə çatanda onun səbrindən demək olar ki, heç nə qalmırdı."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "One day, his colleague Nigar told him about the new train line.",
+            "translation": "Bir gün iş yoldaşı Nigar ona yeni qatar xətti haqqında danışdı."
+          },
+          {
+            "text": "“The station is only a few minutes from your house,” she said. “It's much more convenient than driving, and you don't have to look for a parking space.”",
+            "translation": "«Stansiya evinizdən cəmi bir neçə dəqiqəlik yoldadır», – dedi. «Bu, maşın sürməkdən qat-qat rahatdır, həm də dayanacaq yeri axtarmağa ehtiyac qalmır.»"
+          },
+          {
+            "text": "Tural wasn't sure, but he decided to try public transportation for a week.",
+            "translation": "Tural əmin deyildi, amma bir həftə ictimai nəqliyyatdan istifadə etməyi sınamağa qərar verdi."
+          },
+          {
+            "text": "On the first morning, the train was crowded, and he had to stand all the way.",
+            "translation": "İlk səhər qatar adamla dolu idi və o, bütün yolu ayaq üstə getməli oldu."
+          },
+          {
+            "text": "But the trip took only twenty-five minutes, and he even had time to read a little.",
+            "translation": "Amma yol cəmi iyirmi beş dəqiqə çəkdi və o, hətta bir az kitab oxumağa da vaxt tapdı."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "From the station, he walked through an old district with narrow streets and a few small cafés.",
+            "translation": "Stansiyadan o, dar küçələri və bir neçə kiçik kafesi olan köhnə bir məhəllədən keçirdi."
+          },
+          {
+            "text": "Vehicles weren't allowed there, so the sidewalks were full of pedestrians: parents with children, students and old men walking their dogs.",
+            "translation": "Ora nəqliyyat vasitələrinin girməsinə icazə verilmirdi, ona görə də səkilər piyadalarla dolu idi: uşaqlı valideynlər, tələbələr və itlərini gəzdirən yaşlı kişilər."
+          },
+          {
+            "text": "Few residents there owned a car, and the air felt much cleaner.",
+            "translation": "Oranın sakinlərindən çox azının maşını var idi və hava xeyli təmiz görünürdü."
+          },
+          {
+            "text": "Tural chose this route on purpose, because it helped him avoid the busy main roads.",
+            "translation": "Tural bu yolu qəsdən seçmişdi, çünki bu, ona sıx əsas yollardan uzaq durmağa kömək edirdi."
+          },
+          {
+            "text": "Some mornings he stopped at a bakery and bought a warm sesame bagel for breakfast.",
+            "translation": "Bəzi səhərlər o, bir çörəkxanada dayanıb səhər yeməyi üçün isti küncütlü bublik alırdı."
+          },
+          {
+            "text": "On sunny days, he even took a longer way through the park.",
+            "translation": "Günəşli günlərdə o, hətta park boyunca daha uzun yolla gedirdi."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "After a month, Tural noticed a few changes.",
+            "translation": "Bir aydan sonra Tural bir neçə dəyişiklik hiss etdi."
+          },
+          {
+            "text": "He slept better, he spent little money on gas, and he arrived at work in a good mood.",
+            "translation": "O, daha yaxşı yatırdı, benzinə az pul xərcləyirdi və işə yaxşı əhval-ruhiyyədə gəlirdi."
+          },
+          {
+            "text": "Of course, the train isn't perfect – on some days there are delays, and he has to wait a little longer.",
+            "translation": "Əlbəttə, qatar mükəmməl deyil – bəzi günlər gecikmələr olur və o, bir az çox gözləməli olur."
+          },
+          {
+            "text": "But now, when he sees the long lines of cars from the train window, he just smiles and opens his book.",
+            "translation": "Amma indi qatarın pəncərəsindən uzun maşın cərgələrini görəndə sadəcə gülümsəyir və kitabını açır."
+          },
+          {
+            "text": "Last week, Nigar asked him if he missed his car.",
+            "translation": "Keçən həftə Nigar ondan maşını üçün darıxıb-darıxmadığını soruşdu."
+          },
+          {
+            "text": "“A little,” Tural laughed. “But I don't miss the traffic at all. Taking the train was the best decision I made this year.”",
+            "translation": "«Bir az», – deyə Tural güldü. «Amma tıxac üçün heç darıxmıram. Qatarla getmək bu il verdiyim ən yaxşı qərar oldu.»"
+          }
+        ]
+      }
+    ],
+    "glossary": [
+      {
+        "term": "suburb",
+        "lemma": "suburb",
+        "partOfSpeech": "noun",
+        "meaning": "an area where people live outside the center of a city",
+        "translation": "şəhərətrafı qəsəbə"
+      },
+      {
+        "term": "city center",
+        "lemma": "city center",
+        "partOfSpeech": "noun",
+        "meaning": "the main part in the middle of a city",
+        "translation": "şəhər mərkəzi"
+      },
+      {
+        "term": "daily",
+        "lemma": "daily",
+        "partOfSpeech": "adjective",
+        "meaning": "happening every day",
+        "translation": "gündəlik"
+      },
+      {
+        "term": "commute",
+        "lemma": "commute",
+        "partOfSpeech": "noun",
+        "meaning": "the trip between home and work",
+        "translation": "işə gediş-gəliş"
+      },
+      {
+        "term": "the worst part",
+        "lemma": "worst",
+        "partOfSpeech": "phrase",
+        "meaning": "the most unpleasant part",
+        "translation": "ən pis hissəsi"
+      },
+      {
+        "term": "drove to work",
+        "lemma": "drive to work",
+        "partOfSpeech": "phrase",
+        "meaning": "went to work by car",
+        "translation": "maşınla işə gedirdi"
+      },
+      {
+        "term": "got stuck in traffic",
+        "lemma": "get stuck in traffic",
+        "partOfSpeech": "idiom",
+        "meaning": "could not move because there were too many cars",
+        "translation": "tıxaca düşürdü"
+      },
+      {
+        "term": "traffic",
+        "lemma": "traffic",
+        "partOfSpeech": "noun",
+        "meaning": "the cars and other vehicles on the road",
+        "translation": "nəqliyyat hərəkəti, tıxac"
+      },
+      {
+        "term": "intersection",
+        "lemma": "intersection",
+        "partOfSpeech": "noun",
+        "meaning": "a place where roads cross",
+        "translation": "yol kəsişməsi"
+      },
+      {
+        "term": "construction",
+        "lemma": "construction",
+        "partOfSpeech": "noun",
+        "meaning": "the work of building something",
+        "translation": "tikinti"
+      },
+      {
+        "term": "main road",
+        "lemma": "main road",
+        "partOfSpeech": "noun",
+        "meaning": "a large, important road",
+        "translation": "əsas yol"
+      },
+      {
+        "term": "noisy",
+        "lemma": "noisy",
+        "partOfSpeech": "adjective",
+        "meaning": "full of loud sounds",
+        "translation": "səs-küylü"
+      },
+      {
+        "term": "kept honking their horns",
+        "lemma": "keep honking",
+        "partOfSpeech": "phrase",
+        "meaning": "made loud car sounds again and again",
+        "translation": "durmadan siqnal verirdilər"
+      },
+      {
+        "term": "By the time",
+        "lemma": "by the time",
+        "partOfSpeech": "conjunction",
+        "meaning": "when; not later than the moment that",
+        "translation": "... çatanda, ... vaxta qədər"
+      },
+      {
+        "term": "reached",
+        "lemma": "reach",
+        "partOfSpeech": "verb",
+        "meaning": "arrived at a place",
+        "translation": "çatdı"
+      },
+      {
+        "term": "very little",
+        "lemma": "very little",
+        "partOfSpeech": "determiner",
+        "meaning": "almost none (with uncountable nouns)",
+        "translation": "çox az"
+      },
+      {
+        "term": "patience",
+        "lemma": "patience",
+        "partOfSpeech": "noun",
+        "meaning": "the ability to stay calm and wait",
+        "translation": "səbir"
+      },
+      {
+        "term": "colleague",
+        "lemma": "colleague",
+        "partOfSpeech": "noun",
+        "meaning": "a person you work with",
+        "translation": "iş yoldaşı"
+      },
+      {
+        "term": "train line",
+        "lemma": "train line",
+        "partOfSpeech": "noun",
+        "meaning": "a route that trains travel on",
+        "translation": "qatar xətti"
+      },
+      {
+        "term": "a few",
+        "lemma": "a few",
+        "partOfSpeech": "determiner",
+        "meaning": "a small number of (with plural nouns)",
+        "translation": "bir neçə"
+      },
+      {
+        "term": "convenient",
+        "lemma": "convenient",
+        "partOfSpeech": "adjective",
+        "meaning": "easy and suitable, saving time or trouble",
+        "translation": "rahat, əlverişli"
+      },
+      {
+        "term": "don't have to",
+        "lemma": "have to",
+        "partOfSpeech": "phrase",
+        "meaning": "it is not necessary to",
+        "translation": "ehtiyac yoxdur, məcbur deyilsən"
+      },
+      {
+        "term": "parking space",
+        "lemma": "parking space",
+        "partOfSpeech": "noun",
+        "meaning": "a place where you can leave your car",
+        "translation": "dayanacaq yeri"
+      },
+      {
+        "term": "public transportation",
+        "lemma": "public transportation",
+        "partOfSpeech": "noun",
+        "meaning": "buses, trains and metros that everyone can use",
+        "translation": "ictimai nəqliyyat"
+      },
+      {
+        "term": "transportation",
+        "lemma": "transportation",
+        "partOfSpeech": "noun",
+        "meaning": "ways of moving people from place to place",
+        "translation": "nəqliyyat"
+      },
+      {
+        "term": "crowded",
+        "lemma": "crowded",
+        "partOfSpeech": "adjective",
+        "meaning": "full of people",
+        "translation": "adamla dolu"
+      },
+      {
+        "term": "all the way",
+        "lemma": "all the way",
+        "partOfSpeech": "phrase",
+        "meaning": "during the whole trip",
+        "translation": "bütün yol boyu"
+      },
+      {
+        "term": "a little",
+        "lemma": "a little",
+        "partOfSpeech": "adverb",
+        "meaning": "a small amount",
+        "translation": "bir az"
+      },
+      {
+        "term": "district",
+        "lemma": "district",
+        "partOfSpeech": "noun",
+        "meaning": "a part of a city",
+        "translation": "məhəllə, rayon"
+      },
+      {
+        "term": "narrow",
+        "lemma": "narrow",
+        "partOfSpeech": "adjective",
+        "meaning": "not wide",
+        "translation": "dar"
+      },
+      {
+        "term": "Vehicles",
+        "lemma": "vehicle",
+        "partOfSpeech": "noun",
+        "meaning": "cars, buses, trucks and similar things",
+        "translation": "nəqliyyat vasitələri"
+      },
+      {
+        "term": "weren't allowed",
+        "lemma": "be allowed",
+        "partOfSpeech": "phrase",
+        "meaning": "were not permitted",
+        "translation": "icazə verilmirdi"
+      },
+      {
+        "term": "sidewalks",
+        "lemma": "sidewalk",
+        "partOfSpeech": "noun",
+        "meaning": "paths at the side of a street for walking",
+        "translation": "səkilər"
+      },
+      {
+        "term": "full of",
+        "lemma": "full of",
+        "partOfSpeech": "phrase",
+        "meaning": "containing a lot of something",
+        "translation": "... ilə dolu"
+      },
+      {
+        "term": "pedestrians",
+        "lemma": "pedestrian",
+        "partOfSpeech": "noun",
+        "meaning": "people who are walking in the street",
+        "translation": "piyadalar"
+      },
+      {
+        "term": "walking their dogs",
+        "lemma": "walk a dog",
+        "partOfSpeech": "phrase",
+        "meaning": "taking their dogs outside for a walk",
+        "translation": "itlərini gəzdirən"
+      },
+      {
+        "term": "Few",
+        "lemma": "few",
+        "partOfSpeech": "determiner",
+        "meaning": "not many; almost none",
+        "translation": "çox az"
+      },
+      {
+        "term": "residents",
+        "lemma": "resident",
+        "partOfSpeech": "noun",
+        "meaning": "people who live in a place",
+        "translation": "sakinlər"
+      },
+      {
+        "term": "owned",
+        "lemma": "own",
+        "partOfSpeech": "verb",
+        "meaning": "had something that belonged to them",
+        "translation": "sahib idi"
+      },
+      {
+        "term": "route",
+        "lemma": "route",
+        "partOfSpeech": "noun",
+        "meaning": "the way you go from one place to another",
+        "translation": "yol, marşrut"
+      },
+      {
+        "term": "on purpose",
+        "lemma": "on purpose",
+        "partOfSpeech": "phrase",
+        "meaning": "because you wanted to, not by accident",
+        "translation": "qəsdən, bilərəkdən"
+      },
+      {
+        "term": "avoid",
+        "lemma": "avoid",
+        "partOfSpeech": "verb",
+        "meaning": "to stay away from something",
+        "translation": "uzaq durmaq, yayınmaq"
+      },
+      {
+        "term": "sesame bagel",
+        "lemma": "sesame bagel",
+        "partOfSpeech": "noun",
+        "meaning": "a round bread with a hole, covered with small seeds",
+        "translation": "küncütlü bublik"
+      },
+      {
+        "term": "noticed",
+        "lemma": "notice",
+        "partOfSpeech": "verb",
+        "meaning": "saw or became aware of something",
+        "translation": "hiss etdi, fərqinə vardı"
+      },
+      {
+        "term": "little",
+        "lemma": "little",
+        "partOfSpeech": "determiner",
+        "meaning": "not much (with uncountable nouns)",
+        "translation": "az"
+      },
+      {
+        "term": "gas",
+        "lemma": "gas",
+        "partOfSpeech": "noun",
+        "meaning": "fuel for a car (American English)",
+        "translation": "benzin"
+      },
+      {
+        "term": "in a good mood",
+        "lemma": "in a good mood",
+        "partOfSpeech": "idiom",
+        "meaning": "feeling happy",
+        "translation": "yaxşı əhval-ruhiyyədə"
+      },
+      {
+        "term": "delays",
+        "lemma": "delay",
+        "partOfSpeech": "noun",
+        "meaning": "times when something is late",
+        "translation": "gecikmələr"
+      },
+      {
+        "term": "missed",
+        "lemma": "miss",
+        "partOfSpeech": "verb",
+        "meaning": "felt sad because he did not have something any more",
+        "translation": "darıxdı"
+      },
+      {
+        "term": "at all",
+        "lemma": "at all",
+        "partOfSpeech": "phrase",
+        "meaning": "in any way (used to make a negative stronger)",
+        "translation": "heç, qətiyyən"
+      },
+      {
+        "term": "decision",
+        "lemma": "decision",
+        "partOfSpeech": "noun",
+        "meaning": "a choice that you make",
+        "translation": "qərar"
+      },
+      {
+        "term": "lines of cars",
+        "lemma": "line",
+        "partOfSpeech": "phrase",
+        "meaning": "rows of cars waiting one behind another",
+        "translation": "maşın cərgələri"
+      }
+    ]
+  },
+  "grammar": {
+    "topic": "Quantifiers: a few, a little, few, little",
+    "topicTranslation": "Miqdar bildirən sözlər: a few, a little, few, little",
+    "explanation": "We use a few and a little to talk about small amounts. A few goes with plural countable nouns (a few friends), and a little goes with uncountable nouns (a little money). A few and a little have a positive meaning: “some, enough”. Few and little without a have a negative meaning: “not many, not much, not enough”.",
+    "explanationTranslation": "Az miqdar haqqında danışmaq üçün a few və a little işlədilir. A few cəmdə olan sayılan isimlərlə (a few friends), a little isə sayılmayan isimlərlə (a little money) işlədilir. A few və a little müsbət məna daşıyır: “bir az, bir neçə, kifayət qədər”. A-sız few və little isə mənfi məna verir: “çox az, kifayət qədər deyil”.",
+    "rules": [
+      {
+        "text": "a few + plural countable noun = some, a small number: a few days, a few friends.",
+        "translation": "a few + cəmdə olan sayılan isim = bir neçə: a few days, a few friends."
+      },
+      {
+        "text": "a little + uncountable noun = some, a small amount: a little sugar, a little time.",
+        "translation": "a little + sayılmayan isim = bir az: a little sugar, a little time."
+      },
+      {
+        "text": "few and little without a mean “not many / not much, not enough”; the meaning is negative: Few people came.",
+        "translation": "a-sız few və little “çox az, kifayət qədər deyil” mənasını verir; məna mənfidir: Few people came."
+      },
+      {
+        "text": "very few and very little make the meaning stronger: There is very little traffic today.",
+        "translation": "very few və very little mənanı daha da gücləndirir: There is very little traffic today."
+      }
+    ],
+    "examples": [
+      {
+        "text": "I have a few friends in this city, so I'm not lonely.",
+        "translation": "Bu şəhərdə bir neçə dostum var, ona görə tənha deyiləm."
+      },
+      {
+        "text": "Could I have a little milk in my coffee, please?",
+        "translation": "Zəhmət olmasa, qəhvəmə bir az süd əlavə edə bilərsiniz?"
+      },
+      {
+        "text": "Few pedestrians use this bridge because it is far from the center.",
+        "translation": "Bu körpüdən çox az piyada istifadə edir, çünki mərkəzdən uzaqdır."
+      },
+      {
+        "text": "There is very little traffic early on Sunday morning.",
+        "translation": "Bazar səhəri tezdən yollarda maşın çox az olur."
+      },
+      {
+        "text": "We had little time, so we took a taxi.",
+        "translation": "Vaxtımız az idi, ona görə taksi tutduq."
+      }
+    ],
+    "exercise": {
+      "instructions": "Choose or write the correct word.",
+      "instructionsTranslation": "Düzgün sözü seçin və ya yazın.",
+      "questions": [
+        {
+          "type": "choice",
+          "prompt": "Can you wait ___ minutes? I'm almost ready.",
+          "promptTranslation": "Bir neçə dəqiqə gözləyə bilərsən? Az qala hazıram.",
+          "options": [
+            "a few",
+            "a little",
+            "little"
+          ],
+          "answer": "a few",
+          "explanation": "Minutes is a plural countable noun, and the meaning is positive, so we use a few.",
+          "explanationTranslation": "Minutes cəmdə olan sayılan isimdir və məna müsbətdir, ona görə a few işlədilir."
+        },
+        {
+          "type": "choice",
+          "prompt": "Add ___ salt to the soup.",
+          "promptTranslation": "Şorbaya bir az duz əlavə et.",
+          "options": [
+            "a few",
+            "a little",
+            "few"
+          ],
+          "answer": "a little",
+          "explanation": "Salt is uncountable, so we use a little.",
+          "explanationTranslation": "Salt sayılmayan isimdir, ona görə a little işlədilir."
+        },
+        {
+          "type": "text",
+          "prompt": "The museum was almost empty – very ___ (few / little) people came.",
+          "promptTranslation": "Muzey demək olar ki, boş idi – çox az adam gəldi.",
+          "answer": "few",
+          "explanation": "People is a plural countable noun, and the meaning is negative, so we use few.",
+          "explanationTranslation": "People cəmdə olan sayılan isimdir və məna mənfidir, ona görə few işlədilir."
+        },
+        {
+          "type": "text",
+          "prompt": "Hurry up! We have very ___ (few / little) time.",
+          "promptTranslation": "Tələs! Vaxtımız çox azdır.",
+          "answer": "little",
+          "explanation": "Time is uncountable, so we use little.",
+          "explanationTranslation": "Time sayılmayan isimdir, ona görə little işlədilir."
+        },
+        {
+          "type": "choice",
+          "prompt": "The town is very quiet at night – there are ___ cars on the streets.",
+          "promptTranslation": "Gecələr qəsəbə çox sakit olur – küçələrdə maşın çox az olur.",
+          "options": [
+            "few",
+            "a little",
+            "much"
+          ],
+          "answer": "few",
+          "explanation": "Cars is plural and countable, and the meaning is “almost none”, so we use few.",
+          "explanationTranslation": "Cars cəmdə olan sayılan isimdir və məna “demək olar ki, heç”dir, ona görə few işlədilir."
+        }
+      ]
+    }
+  }
+}

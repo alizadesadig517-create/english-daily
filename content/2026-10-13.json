@@ -1,0 +1,1003 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-13",
+  "level": "B1",
+  "translationLanguage": "az",
+  "words": [
+    {
+      "word": "knowledge",
+      "ipa": "/ˈnɑlɪdʒ/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "bilik",
+          "definition": "information and understanding that you get from learning or experience",
+          "synonyms": [
+            "understanding",
+            "information",
+            "learning"
+          ],
+          "antonyms": [
+            "ignorance"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Knowledge is more important than money.",
+              "translation": "Bilik puldan daha vacibdir."
+            },
+            {
+              "text": "He shared his knowledge of computers with the whole team.",
+              "translation": "O, kompüterlər haqqında biliklərini bütün komanda ilə bölüşdü."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "improve",
+      "ipa": "/ɪmˈpruv/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "yaxşılaşdırmaq; yaxşılaşmaq, inkişaf etmək",
+          "definition": "to make something better, or to become better",
+          "synonyms": [
+            "get better",
+            "develop"
+          ],
+          "antonyms": [
+            "get worse",
+            "worsen"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "I want to improve my English this year.",
+              "translation": "Bu il ingilis dilimi yaxşılaşdırmaq istəyirəm."
+            },
+            {
+              "text": "The weather improved in the afternoon.",
+              "translation": "Günortadan sonra hava yaxşılaşdı."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "mistake",
+      "ipa": "/mɪˈsteɪk/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "səhv, xəta",
+          "definition": "something that is not correct, or an action that you later wish you had not done",
+          "synonyms": [
+            "error",
+            "slip"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Taking that job was a big mistake.",
+              "translation": "O işi qəbul etmək böyük səhv idi."
+            },
+            {
+              "text": "Sorry, I called you by mistake.",
+              "translation": "Bağışla, sənə səhvən zəng etdim."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "require",
+      "ipa": "/rɪˈkwaɪər/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "tələb etmək; ehtiyacı olmaq",
+          "definition": "to need something, or to say officially that people must do something",
+          "synonyms": [
+            "need",
+            "demand"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "This job requires good computer skills.",
+              "translation": "Bu iş yaxşı kompüter bacarıqları tələb edir."
+            },
+            {
+              "text": "All visitors are required to show an ID card.",
+              "translation": "Bütün ziyarətçilərdən şəxsiyyət vəsiqəsi göstərmək tələb olunur."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "attend",
+      "ipa": "/əˈtɛnd/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "iştirak etmək; (məktəbə, dərsə) getmək",
+          "definition": "to go to an event, class or meeting, or to go regularly to a school",
+          "synonyms": [
+            "go to",
+            "be present at"
+          ],
+          "antonyms": [
+            "miss",
+            "skip"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "More than two hundred people attended the wedding.",
+              "translation": "Toya iki yüzdən çox adam gəlmişdi."
+            },
+            {
+              "text": "My son attends a school near our house.",
+              "translation": "Oğlum evimizə yaxın bir məktəbə gedir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "degree",
+      "ipa": "/dɪˈɡri/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "(ali təhsil) diplomu, dərəcə; dərəcə (temperatur)",
+          "definition": "a qualification you get after you finish a university course; also a unit for measuring temperature",
+          "synonyms": [
+            "qualification",
+            "diploma"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "She has a degree in medicine.",
+              "translation": "Onun tibb üzrə ali təhsil diplomu var."
+            },
+            {
+              "text": "It's thirty degrees outside today.",
+              "translation": "Bu gün çöldə otuz dərəcədir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "graduate",
+      "ipa": "/ˈɡrædʒuˌeɪt/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "(universiteti, məktəbi) bitirmək, məzun olmaq",
+          "definition": "to finish your studies at a university or school and get a degree or diploma",
+          "synonyms": [],
+          "antonyms": [
+            "drop out"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "He graduated from Baku State University in 2020.",
+              "translation": "O, 2020-ci ildə Bakı Dövlət Universitetini bitirdi."
+            },
+            {
+              "text": "What do you want to do after you graduate?",
+              "translation": "Məzun olduqdan sonra nə etmək istəyirsən?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "lecture",
+      "ipa": "/ˈlɛktʃər/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "mühazirə",
+          "definition": "a talk to a group of people, especially students, about a subject",
+          "synonyms": [
+            "talk",
+            "speech",
+            "lesson"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "I have a history lecture at nine o'clock.",
+              "translation": "Saat doqquzda tarix mühazirəm var."
+            },
+            {
+              "text": "Hundreds of students came to the lecture.",
+              "translation": "Mühazirəyə yüzlərlə tələbə gəldi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "assignment",
+      "ipa": "/əˈsaɪnmənt/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "tapşırıq",
+          "definition": "a piece of work that a student or worker is given to do",
+          "synonyms": [
+            "task",
+            "homework",
+            "project"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "I need to finish my math assignment by Monday.",
+              "translation": "Riyaziyyat tapşırığımı bazar ertəsinə qədər bitirməliyəm."
+            },
+            {
+              "text": "The teacher gave us a difficult assignment.",
+              "translation": "Müəllim bizə çətin bir tapşırıq verdi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "revise",
+      "ipa": "/rɪˈvaɪz/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "yenidən işləmək, düzəliş etmək; yenidən baxmaq",
+          "definition": "to change a piece of writing or a plan to make it better or more correct",
+          "synonyms": [
+            "edit",
+            "correct",
+            "change",
+            "update"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Please revise your essay and send it to me again.",
+              "translation": "Zəhmət olmasa, inşanı yenidən işlə və mənə təkrar göndər."
+            },
+            {
+              "text": "The company revised its prices last month.",
+              "translation": "Şirkət keçən ay qiymətlərinə yenidən baxdı."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "scholarship",
+      "ipa": "/ˈskɑlərˌʃɪp/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "təqaüd",
+          "definition": "money that a school or organization gives to a good student to help pay for their studies",
+          "synonyms": [
+            "grant"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "She won a scholarship to study in Germany.",
+              "translation": "O, Almaniyada oxumaq üçün təqaüd qazandı."
+            },
+            {
+              "text": "Without a scholarship, I couldn't pay for college.",
+              "translation": "Təqaüd olmasaydı, kollecin pulunu ödəyə bilməzdim."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "fluent",
+      "ipa": "/ˈfluənt/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "sərbəst, axıcı (danışan)",
+          "definition": "able to speak a language easily and well, or spoken easily and well",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "He is fluent in three languages.",
+              "translation": "O, üç dildə sərbəst danışır."
+            },
+            {
+              "text": "She speaks fluent English.",
+              "translation": "O, ingiliscə sərbəst danışır."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "memorize",
+      "ipa": "/ˈmɛməˌraɪz/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "əzbərləmək, yadda saxlamaq",
+          "definition": "to learn something so well that you can remember it exactly",
+          "synonyms": [
+            "learn by heart",
+            "remember"
+          ],
+          "antonyms": [
+            "forget"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "I memorized the poem in one evening.",
+              "translation": "Şeiri bir axşama əzbərlədim."
+            },
+            {
+              "text": "It's hard to memorize all these phone numbers.",
+              "translation": "Bütün bu telefon nömrələrini yadda saxlamaq çətindir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "curriculum",
+      "ipa": "/kəˈrɪkjələm/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "tədris proqramı",
+          "definition": "all the subjects that are taught in a school, college or course",
+          "synonyms": [
+            "program",
+            "syllabus"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Computer science is now part of the school curriculum.",
+              "translation": "İnformatika indi məktəb proqramının bir hissəsidir."
+            },
+            {
+              "text": "The university changed its curriculum this year.",
+              "translation": "Universitet bu il tədris proqramını dəyişdi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "absent",
+      "ipa": "/ˈæbsənt/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "olmayan, iştirak etməyən; (dərsdə, işdə) yox",
+          "definition": "not at a place, such as school or work, where you should be",
+          "synonyms": [
+            "away",
+            "missing"
+          ],
+          "antonyms": [
+            "present"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Three students were absent today because of the flu.",
+              "translation": "Bu gün qrip səbəbindən üç tələbə dərsdə yox idi."
+            },
+            {
+              "text": "He was absent from work for a week.",
+              "translation": "O, bir həftə işə gəlmədi."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "story": {
+    "title": "The Scholarship",
+    "titleTranslation": "Təqaüd",
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "Leyla graduated from university in Baku five years ago with a degree in economics.",
+            "translation": "Leyla beş il əvvəl Bakıda universiteti iqtisadiyyat ixtisası üzrə bitirdi."
+          },
+          {
+            "text": "Now she works at a bank, but she dreams of studying abroad.",
+            "translation": "İndi o, bankda işləyir, amma xaricdə oxumağı arzulayır."
+          },
+          {
+            "text": "Last spring she found a scholarship for a master's program in Canada, but it required a high level of English.",
+            "translation": "Keçən yaz o, Kanadada magistratura proqramı üçün təqaüd tapdı, amma bunun üçün yüksək səviyyədə ingilis dili tələb olunurdu."
+          },
+          {
+            "text": "She had tried to study alone with an app, but she always gave up after a few days.",
+            "translation": "O, bir proqramla tək oxumağa çalışmışdı, amma hər dəfə bir neçə gündən sonra vaz keçirdi."
+          },
+          {
+            "text": "Her English wasn't bad, but she wasn't fluent, and she didn't have much time to study.",
+            "translation": "Onun ingilis dili pis deyildi, amma o, sərbəst danışa bilmirdi və oxumağa çox vaxtı yox idi."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "So in September she started to attend an evening course three times a week.",
+            "translation": "Ona görə də sentyabrda o, həftədə üç dəfə axşam kursuna getməyə başladı."
+          },
+          {
+            "text": "The curriculum was hard: there were many lectures, a lot of reading and a new writing assignment every Friday.",
+            "translation": "Tədris proqramı çətin idi: çoxlu mühazirə, xeyli oxu materialı və hər cümə yeni yazı tapşırığı var idi."
+          },
+          {
+            "text": "Each lecture lasted two hours, and the teacher gave them a lot of homework.",
+            "translation": "Hər mühazirə iki saat çəkirdi və müəllim onlara çoxlu ev tapşırığı verirdi."
+          },
+          {
+            "text": "Leyla was never absent, even when she felt tired after work.",
+            "translation": "İşdən sonra yorğun olanda belə, Leyla heç vaxt dərsi buraxmırdı."
+          },
+          {
+            "text": "At first, she made a lot of mistakes in her essays, and she tried to memorize long lists of words every night.",
+            "translation": "Əvvəlcə o, inşalarında çoxlu səhv edirdi və hər gecə uzun söz siyahılarını əzbərləməyə çalışırdı."
+          },
+          {
+            "text": "“How many words are enough?” she asked her teacher, Mr. Huseynov, one evening.",
+            "translation": "«Neçə söz kifayətdir?» – o, bir axşam müəllimi Hüseynov müəllimdən soruşdu."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Mr. Huseynov smiled and said, “Not many – but use them every day. Knowledge isn't a list; it's something you practice.”",
+            "translation": "Hüseynov müəllim gülümsəyib dedi: «Çox yox – amma onları hər gün işlət. Bilik siyahı deyil, onu daim işlətmək lazımdır.»"
+          },
+          {
+            "text": "He also told her not to worry about mistakes: “Every mistake shows you what to improve.”",
+            "translation": "O, həmçinin dedi ki, səhvlərdən narahat olmasın: «Hər səhv sənə nəyi yaxşılaşdırmalı olduğunu göstərir.»"
+          },
+          {
+            "text": "After that, Leyla read his comments carefully and revised every essay before she sent it again.",
+            "translation": "Bundan sonra Leyla müəlliminin qeydlərini diqqətlə oxuyur və hər inşanı yenidən göndərməzdən əvvəl düzəldirdi."
+          },
+          {
+            "text": "She also watched a lot of films in English and spent many evenings talking with her classmates.",
+            "translation": "O, həmçinin ingiliscə çoxlu film izləyir və bir çox axşamını qrup yoldaşları ilə söhbət edərək keçirirdi."
+          },
+          {
+            "text": "Her classmates came from different jobs and were of different ages, and they helped each other a lot.",
+            "translation": "Onun qrup yoldaşları müxtəlif peşələrdən və müxtəlif yaşlarda idilər və bir-birlərinə çox kömək edirdilər."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Slowly, things began to change.",
+            "translation": "Yavaş-yavaş vəziyyət dəyişməyə başladı."
+          },
+          {
+            "text": "By March, she could understand most of the lectures without much effort and write an essay in less than an hour.",
+            "translation": "Mart ayına qədər o, mühazirələrin çoxunu elə də çətinlik çəkmədən başa düşür və bir saatdan az müddətdə inşa yaza bilirdi."
+          },
+          {
+            "text": "In May, she got an email with good news: she had won the scholarship!",
+            "translation": "May ayında o, xoş xəbərlə bir e-poçt aldı: təqaüdü qazanmışdı!"
+          },
+          {
+            "text": "She read the email three times because she couldn't believe it.",
+            "translation": "O, e-poçtu üç dəfə oxudu, çünki buna inana bilmirdi."
+          },
+          {
+            "text": "Then she called Mr. Huseynov to thank him for his help and advice.",
+            "translation": "Sonra o, Hüseynov müəllimə zəng edib köməyinə və məsləhətlərinə görə təşəkkür etdi."
+          },
+          {
+            "text": "In August, she packed two suitcases and flew to Toronto.",
+            "translation": "Avqustda o, iki çamadan yığdı və Torontoya uçdu."
+          },
+          {
+            "text": "Now, when her friends ask how she did it, Leyla says, “You don't need much money or a lot of free time – you just need to start and keep going.”",
+            "translation": "İndi dostları bunu necə bacardığını soruşanda Leyla deyir: «Nə çox pul, nə də çoxlu boş vaxt lazımdır – sadəcə başlamaq və davam etmək lazımdır.»"
+          }
+        ]
+      }
+    ],
+    "glossary": [
+      {
+        "term": "graduated",
+        "lemma": "graduate",
+        "partOfSpeech": "verb",
+        "meaning": "finished studying at a university and got a degree",
+        "translation": "bitirdi, məzun oldu"
+      },
+      {
+        "term": "degree",
+        "lemma": "degree",
+        "partOfSpeech": "noun",
+        "meaning": "a qualification you get when you finish university",
+        "translation": "diplom, ali təhsil dərəcəsi"
+      },
+      {
+        "term": "economics",
+        "lemma": "economics",
+        "partOfSpeech": "noun",
+        "meaning": "the study of money, trade and business",
+        "translation": "iqtisadiyyat"
+      },
+      {
+        "term": "dreams of",
+        "lemma": "dream of",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "wants something very much for the future",
+        "translation": "arzulayır"
+      },
+      {
+        "term": "abroad",
+        "lemma": "abroad",
+        "partOfSpeech": "adverb",
+        "meaning": "in or to another country",
+        "translation": "xaricdə, xaricə"
+      },
+      {
+        "term": "scholarship",
+        "lemma": "scholarship",
+        "partOfSpeech": "noun",
+        "meaning": "money given to a good student to pay for studies",
+        "translation": "təqaüd"
+      },
+      {
+        "term": "master's program",
+        "lemma": "master's program",
+        "partOfSpeech": "noun",
+        "meaning": "a university course you take after your first degree",
+        "translation": "magistratura proqramı"
+      },
+      {
+        "term": "required",
+        "lemma": "require",
+        "partOfSpeech": "verb",
+        "meaning": "needed; said that something was necessary",
+        "translation": "tələb edirdi"
+      },
+      {
+        "term": "gave up",
+        "lemma": "give up",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "stopped trying to do something",
+        "translation": "vaz keçdi"
+      },
+      {
+        "term": "a few",
+        "lemma": "a few",
+        "partOfSpeech": "determiner",
+        "meaning": "a small number of",
+        "translation": "bir neçə"
+      },
+      {
+        "term": "level",
+        "lemma": "level",
+        "partOfSpeech": "noun",
+        "meaning": "how good someone is at something",
+        "translation": "səviyyə"
+      },
+      {
+        "term": "fluent",
+        "lemma": "fluent",
+        "partOfSpeech": "adjective",
+        "meaning": "able to speak a language easily and well",
+        "translation": "sərbəst danışan"
+      },
+      {
+        "term": "much",
+        "lemma": "much",
+        "partOfSpeech": "determiner",
+        "meaning": "a large amount of (with uncountable nouns)",
+        "translation": "çox"
+      },
+      {
+        "term": "attend",
+        "lemma": "attend",
+        "partOfSpeech": "verb",
+        "meaning": "to go regularly to a class or course",
+        "translation": "getmək, iştirak etmək"
+      },
+      {
+        "term": "three times a week",
+        "lemma": "three times a week",
+        "partOfSpeech": "phrase",
+        "meaning": "on three days every week",
+        "translation": "həftədə üç dəfə"
+      },
+      {
+        "term": "curriculum",
+        "lemma": "curriculum",
+        "partOfSpeech": "noun",
+        "meaning": "all the subjects and work in a course",
+        "translation": "tədris proqramı"
+      },
+      {
+        "term": "many",
+        "lemma": "many",
+        "partOfSpeech": "determiner",
+        "meaning": "a large number of (with plural nouns)",
+        "translation": "çox, çoxlu"
+      },
+      {
+        "term": "lectures",
+        "lemma": "lecture",
+        "partOfSpeech": "noun",
+        "meaning": "talks given to students about a subject",
+        "translation": "mühazirələr"
+      },
+      {
+        "term": "a lot of",
+        "lemma": "a lot of",
+        "partOfSpeech": "determiner",
+        "meaning": "a large amount or number of",
+        "translation": "çoxlu, xeyli"
+      },
+      {
+        "term": "assignment",
+        "lemma": "assignment",
+        "partOfSpeech": "noun",
+        "meaning": "a piece of work a student must do",
+        "translation": "tapşırıq"
+      },
+      {
+        "term": "absent",
+        "lemma": "absent",
+        "partOfSpeech": "adjective",
+        "meaning": "not at a class or place where you should be",
+        "translation": "dərsdə olmayan, iştirak etməyən"
+      },
+      {
+        "term": "even when",
+        "lemma": "even when",
+        "partOfSpeech": "conjunction",
+        "meaning": "also at times when you would not expect it",
+        "translation": "hətta ... olanda belə"
+      },
+      {
+        "term": "lasted",
+        "lemma": "last",
+        "partOfSpeech": "verb",
+        "meaning": "continued for a period of time",
+        "translation": "davam edirdi, çəkirdi"
+      },
+      {
+        "term": "homework",
+        "lemma": "homework",
+        "partOfSpeech": "noun",
+        "meaning": "work that a teacher gives you to do at home",
+        "translation": "ev tapşırığı"
+      },
+      {
+        "term": "At first",
+        "lemma": "at first",
+        "partOfSpeech": "phrase",
+        "meaning": "at the beginning",
+        "translation": "əvvəlcə"
+      },
+      {
+        "term": "made a lot of mistakes",
+        "lemma": "make a mistake",
+        "partOfSpeech": "phrase",
+        "meaning": "did many things that were not correct",
+        "translation": "çoxlu səhv etdi"
+      },
+      {
+        "term": "mistakes",
+        "lemma": "mistake",
+        "partOfSpeech": "noun",
+        "meaning": "things that are not correct",
+        "translation": "səhvlər"
+      },
+      {
+        "term": "essays",
+        "lemma": "essay",
+        "partOfSpeech": "noun",
+        "meaning": "short pieces of writing on one subject",
+        "translation": "inşalar"
+      },
+      {
+        "term": "memorize",
+        "lemma": "memorize",
+        "partOfSpeech": "verb",
+        "meaning": "to learn something so that you remember it exactly",
+        "translation": "əzbərləmək"
+      },
+      {
+        "term": "enough",
+        "lemma": "enough",
+        "partOfSpeech": "adjective",
+        "meaning": "as many or as much as you need",
+        "translation": "kifayət qədər"
+      },
+      {
+        "term": "Knowledge",
+        "lemma": "knowledge",
+        "partOfSpeech": "noun",
+        "meaning": "what you know and understand",
+        "translation": "bilik"
+      },
+      {
+        "term": "practice",
+        "lemma": "practice",
+        "partOfSpeech": "verb",
+        "meaning": "to do something again and again to get better at it",
+        "translation": "məşq etmək, təcrübədə işlətmək"
+      },
+      {
+        "term": "mistake",
+        "lemma": "mistake",
+        "partOfSpeech": "noun",
+        "meaning": "something that is not correct",
+        "translation": "səhv"
+      },
+      {
+        "term": "improve",
+        "lemma": "improve",
+        "partOfSpeech": "verb",
+        "meaning": "to make something better",
+        "translation": "yaxşılaşdırmaq"
+      },
+      {
+        "term": "comments",
+        "lemma": "comment",
+        "partOfSpeech": "noun",
+        "meaning": "notes that give an opinion about someone's work",
+        "translation": "qeydlər, şərhlər"
+      },
+      {
+        "term": "carefully",
+        "lemma": "carefully",
+        "partOfSpeech": "adverb",
+        "meaning": "with a lot of attention",
+        "translation": "diqqətlə"
+      },
+      {
+        "term": "revised",
+        "lemma": "revise",
+        "partOfSpeech": "verb",
+        "meaning": "changed a piece of writing to make it better",
+        "translation": "yenidən işlədi, düzəltdi"
+      },
+      {
+        "term": "spent many evenings",
+        "lemma": "spend time",
+        "partOfSpeech": "phrase",
+        "meaning": "used many evenings for doing something",
+        "translation": "bir çox axşamını keçirdi"
+      },
+      {
+        "term": "classmates",
+        "lemma": "classmate",
+        "partOfSpeech": "noun",
+        "meaning": "people who are in the same class as you",
+        "translation": "qrup yoldaşları, sinif yoldaşları"
+      },
+      {
+        "term": "each other",
+        "lemma": "each other",
+        "partOfSpeech": "pronoun",
+        "meaning": "used to show that each person helps or does something to the other",
+        "translation": "bir-birinə"
+      },
+      {
+        "term": "By March",
+        "lemma": "by",
+        "partOfSpeech": "preposition",
+        "meaning": "not later than March",
+        "translation": "mart ayına qədər"
+      },
+      {
+        "term": "most of",
+        "lemma": "most of",
+        "partOfSpeech": "phrase",
+        "meaning": "almost all of",
+        "translation": "çoxu, əksəriyyəti"
+      },
+      {
+        "term": "effort",
+        "lemma": "effort",
+        "partOfSpeech": "noun",
+        "meaning": "hard work that you need to do something",
+        "translation": "zəhmət, səy"
+      },
+      {
+        "term": "won",
+        "lemma": "win",
+        "partOfSpeech": "verb",
+        "meaning": "got something because she was the best",
+        "translation": "qazandı"
+      },
+      {
+        "term": "believe",
+        "lemma": "believe",
+        "partOfSpeech": "verb",
+        "meaning": "to think that something is true",
+        "translation": "inanmaq"
+      },
+      {
+        "term": "thank",
+        "lemma": "thank",
+        "partOfSpeech": "verb",
+        "meaning": "to say that you are grateful",
+        "translation": "təşəkkür etmək"
+      },
+      {
+        "term": "advice",
+        "lemma": "advice",
+        "partOfSpeech": "noun",
+        "meaning": "an opinion about what someone should do",
+        "translation": "məsləhət"
+      },
+      {
+        "term": "packed",
+        "lemma": "pack",
+        "partOfSpeech": "verb",
+        "meaning": "put clothes and things into a bag for a trip",
+        "translation": "yığdı"
+      },
+      {
+        "term": "suitcases",
+        "lemma": "suitcase",
+        "partOfSpeech": "noun",
+        "meaning": "large bags with a handle for carrying clothes when you travel",
+        "translation": "çamadanlar"
+      },
+      {
+        "term": "free time",
+        "lemma": "free time",
+        "partOfSpeech": "noun",
+        "meaning": "time when you are not working or studying",
+        "translation": "boş vaxt"
+      },
+      {
+        "term": "keep going",
+        "lemma": "keep going",
+        "partOfSpeech": "phrase",
+        "meaning": "to continue and not stop",
+        "translation": "davam etmək"
+      }
+    ]
+  },
+  "grammar": {
+    "topic": "Countable and uncountable nouns: much, many, a lot of",
+    "topicTranslation": "Sayılan və sayılmayan isimlər: much, many, a lot of",
+    "explanation": "Countable nouns are things we can count: one apple, two apples. Uncountable nouns are things we cannot count, like water, money or knowledge, and they have no plural form. We use many with plural countable nouns and much with uncountable nouns, mostly in questions and negative sentences. A lot of works with both kinds of nouns and is very common in positive sentences.",
+    "explanationTranslation": "Sayılan isimlər saya biləcəyimiz şeylərdir: one apple, two apples. Sayılmayan isimlər isə su, pul və ya bilik kimi saya bilmədiyimiz şeylərdir və onların cəm forması yoxdur. Many cəmdə olan sayılan isimlərlə, much isə sayılmayan isimlərlə, əsasən sual və inkar cümlələrində işlədilir. A lot of hər iki növ isimlə işlənir və təsdiq cümlələrində çox geniş yayılıb.",
+    "rules": [
+      {
+        "text": "Countable nouns have a singular and a plural form: one mistake – two mistakes.",
+        "translation": "Sayılan isimlərin tək və cəm forması var: one mistake – two mistakes."
+      },
+      {
+        "text": "Uncountable nouns (water, money, advice, information, knowledge) have no plural form and do not take a/an.",
+        "translation": "Sayılmayan isimlərin (water, money, advice, information, knowledge) cəm forması yoxdur və onlarla a/an işlədilmir."
+      },
+      {
+        "text": "Use many with plural countable nouns and much with uncountable nouns, especially in questions and negative sentences: How many books? I don't have much time.",
+        "translation": "Many cəmdə olan sayılan isimlərlə, much isə sayılmayan isimlərlə, xüsusən sual və inkar cümlələrində işlədilir: How many books? I don't have much time."
+      },
+      {
+        "text": "Use a lot of with both kinds of nouns, especially in positive sentences: a lot of friends, a lot of money.",
+        "translation": "A lot of hər iki növ isimlə, xüsusən təsdiq cümlələrində işlədilir: a lot of friends, a lot of money."
+      }
+    ],
+    "examples": [
+      {
+        "text": "How many lectures do you attend every week?",
+        "translation": "Hər həftə neçə mühazirəyə gedirsən?"
+      },
+      {
+        "text": "I don't have much knowledge about computers.",
+        "translation": "Kompüterlər haqqında çox biliyim yoxdur."
+      },
+      {
+        "text": "She made a lot of mistakes in her first assignment.",
+        "translation": "O, ilk tapşırığında çoxlu səhv etdi."
+      },
+      {
+        "text": "This job requires a lot of patience.",
+        "translation": "Bu iş çox səbir tələb edir."
+      },
+      {
+        "text": "There isn't much milk in the fridge, but there are many eggs.",
+        "translation": "Soyuducuda çox süd yoxdur, amma çoxlu yumurta var."
+      }
+    ],
+    "exercise": {
+      "instructions": "Choose or write the correct word.",
+      "instructionsTranslation": "Düzgün sözü seçin və ya yazın.",
+      "questions": [
+        {
+          "type": "choice",
+          "prompt": "How ___ students attend this class?",
+          "promptTranslation": "Bu dərsə neçə tələbə gəlir?",
+          "options": [
+            "much",
+            "many"
+          ],
+          "answer": "many",
+          "explanation": "Students is a plural countable noun, so we use many.",
+          "explanationTranslation": "Students cəmdə olan sayılan isimdir, ona görə many işlədilir."
+        },
+        {
+          "type": "choice",
+          "prompt": "We don't have ___ time, so please hurry.",
+          "promptTranslation": "Çox vaxtımız yoxdur, ona görə də, zəhmət olmasa, tələs.",
+          "options": [
+            "many",
+            "much"
+          ],
+          "answer": "much",
+          "explanation": "Time is uncountable, and this is a negative sentence, so we use much.",
+          "explanationTranslation": "Time sayılmayan isimdir və cümlə inkardır, ona görə much işlədilir."
+        },
+        {
+          "type": "text",
+          "prompt": "How ___ (much / many) money do you need for the trip?",
+          "promptTranslation": "Səyahət üçün sənə nə qədər pul lazımdır?",
+          "answer": "much",
+          "explanation": "Money is uncountable, so we ask How much.",
+          "explanationTranslation": "Money sayılmayan isimdir, ona görə How much ilə soruşulur."
+        },
+        {
+          "type": "text",
+          "prompt": "I made ___ (a lot of / much) mistakes in my homework.",
+          "promptTranslation": "Ev tapşırığımda çoxlu səhv etdim.",
+          "answer": "a lot of",
+          "explanation": "This is a positive sentence with a plural noun, so a lot of is natural. Much is not used with countable nouns.",
+          "explanationTranslation": "Bu, cəmdə olan isimlə təsdiq cümləsidir, ona görə a lot of təbiidir. Much sayılan isimlərlə işlədilmir."
+        },
+        {
+          "type": "choice",
+          "prompt": "Can you give me some ___? I want to improve my English.",
+          "promptTranslation": "Mənə bir az məsləhət verə bilərsən? İngilis dilimi yaxşılaşdırmaq istəyirəm.",
+          "options": [
+            "advice",
+            "advices",
+            "an advice"
+          ],
+          "answer": "advice",
+          "explanation": "Advice is uncountable: it has no plural and does not take an.",
+          "explanationTranslation": "Advice sayılmayan isimdir: onun cəm forması yoxdur və onunla an işlədilmir."
+        }
+      ]
+    }
+  }
+}

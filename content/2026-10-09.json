@@ -1,0 +1,1048 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-09",
+  "level": "B1",
+  "translationLanguage": "az",
+  "words": [
+    {
+      "word": "support",
+      "ipa": "/səˈpɔrt/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "dəstəkləmək, kömək etmək",
+          "definition": "to help and encourage someone, especially in a difficult time, or to agree with an idea or plan",
+          "synonyms": [
+            "help",
+            "encourage",
+            "back"
+          ],
+          "antonyms": [
+            "oppose"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "My parents always support me when I make difficult decisions.",
+              "translation": "Çətin qərarlar verəndə valideynlərim məni həmişə dəstəkləyir."
+            },
+            {
+              "text": "Many people supported the idea of a new park.",
+              "translation": "Çox adam yeni park ideyasını dəstəklədi."
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "noun",
+          "translation": "dəstək, kömək",
+          "definition": "help and kind words that you give to someone, especially in a difficult time",
+          "synonyms": [
+            "help",
+            "encouragement"
+          ],
+          "antonyms": [
+            "opposition"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Thank you for your support during my exams.",
+              "translation": "İmtahanlarım zamanı göstərdiyin dəstəyə görə təşəkkür edirəm."
+            },
+            {
+              "text": "After the accident, she got a lot of support from her friends.",
+              "translation": "Qəzadan sonra o, dostlarından çox dəstək gördü."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "argue",
+      "ipa": "/ˈɑrɡju/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "mübahisə etmək",
+          "definition": "to speak angrily with someone because you do not agree with them",
+          "synonyms": [
+            "quarrel",
+            "disagree",
+            "fight"
+          ],
+          "antonyms": [
+            "agree"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "My brother and I often argue about who will use the computer.",
+              "translation": "Qardaşımla tez-tez kompüterdən kimin istifadə edəcəyi barədə mübahisə edirik."
+            },
+            {
+              "text": "They argued all evening and didn't speak the next day.",
+              "translation": "Onlar bütün axşam mübahisə etdilər və ertəsi gün danışmadılar."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "apologize",
+      "ipa": "/əˈpɑləˌdʒaɪz/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "üzr istəmək",
+          "definition": "to say that you are sorry for something you did wrong",
+          "synonyms": [
+            "say sorry"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "I want to apologize for being late.",
+              "translation": "Gecikdiyim üçün üzr istəmək istəyirəm."
+            },
+            {
+              "text": "He apologized to his neighbor for the noise.",
+              "translation": "O, səs-küyə görə qonşusundan üzr istədi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "forgive",
+      "ipa": "/fərˈɡɪv/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "bağışlamaq, əfv etmək",
+          "definition": "to stop being angry with someone who has done something wrong",
+          "synonyms": [
+            "excuse",
+            "pardon"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Please forgive me – I didn't mean to hurt you.",
+              "translation": "Xahiş edirəm, məni bağışla – səni incitmək istəmirdim."
+            },
+            {
+              "text": "I will never forgive myself if I miss her wedding.",
+              "translation": "Onun toyunu qaçırsam, özümü heç vaxt bağışlamaram."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "loyal",
+      "ipa": "/ˈlɔɪəl/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "sadiq, vəfalı",
+          "definition": "always supporting and caring about a person, group or idea, even in difficult times",
+          "synonyms": [
+            "faithful",
+            "devoted",
+            "true"
+          ],
+          "antonyms": [
+            "disloyal",
+            "unfaithful"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Our dog is very loyal and follows me everywhere.",
+              "translation": "İtimiz çox sadiqdir və hər yerdə arxamca gəzir."
+            },
+            {
+              "text": "She has been a loyal customer of this shop for ten years.",
+              "translation": "O, on ildir bu mağazanın daimi müştərisidir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "quarrel",
+      "ipa": "/ˈkwɔrəl/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "mübahisə, dava",
+          "definition": "an angry argument between people, usually people who know each other well",
+          "synonyms": [
+            "argument",
+            "fight",
+            "disagreement"
+          ],
+          "antonyms": [
+            "agreement"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "We had a quarrel about money, but now we're friends again.",
+              "translation": "Pul üstündə mübahisə etdik, amma indi yenə dostuq."
+            },
+            {
+              "text": "The children's quarrel ended when their mother came in.",
+              "translation": "Anaları içəri girəndə uşaqların davası bitdi."
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "verb",
+          "translation": "mübahisə etmək, dalaşmaq",
+          "definition": "to argue angrily with someone",
+          "synonyms": [
+            "argue",
+            "fight"
+          ],
+          "antonyms": [
+            "agree",
+            "make up"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The neighbors often quarrel about parking.",
+              "translation": "Qonşular tez-tez maşın saxlamaq üstündə mübahisə edirlər."
+            },
+            {
+              "text": "She quarreled with her sister and left the room.",
+              "translation": "O, bacısı ilə dalaşdı və otaqdan çıxdı."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "betray",
+      "ipa": "/bɪˈtreɪ/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "xəyanət etmək",
+          "definition": "to hurt someone who trusts you by not being loyal to them, for example by telling their secrets",
+          "synonyms": [
+            "let down",
+            "deceive"
+          ],
+          "antonyms": [
+            "stand by"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "He betrayed his best friend by telling everyone his secret.",
+              "translation": "O, ən yaxın dostunun sirrini hamıya danışaraq ona xəyanət etdi."
+            },
+            {
+              "text": "I would never betray your trust.",
+              "translation": "Sənin etibarına heç vaxt xəyanət etmərəm."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "mutual",
+      "ipa": "/ˈmjutʃuəl/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "qarşılıqlı, ortaq",
+          "definition": "felt or done by two or more people toward each other; also, shared by two or more people",
+          "synonyms": [
+            "shared",
+            "common"
+          ],
+          "antonyms": [
+            "one-sided"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Their friendship is based on mutual respect.",
+              "translation": "Onların dostluğu qarşılıqlı hörmətə əsaslanır."
+            },
+            {
+              "text": "We met through a mutual friend.",
+              "translation": "Biz ortaq dostumuz vasitəsilə tanış olduq."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sincere",
+      "ipa": "/sɪnˈsɪr/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "səmimi",
+          "definition": "honest and really meaning what you say or feel",
+          "synonyms": [
+            "honest",
+            "genuine",
+            "real"
+          ],
+          "antonyms": [
+            "insincere",
+            "false"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Please accept my sincere apologies.",
+              "translation": "Xahiş edirəm, səmimi üzrxahlığımı qəbul edin."
+            },
+            {
+              "text": "She is a sincere person who always tells you what she thinks.",
+              "translation": "O, səmimi insandır, düşündüyünü həmişə üzünə deyir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "gossip",
+      "ipa": "/ˈɡɑsɪp/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "dedi-qodu",
+          "definition": "talk about other people's private lives, which is often unkind or not true",
+          "synonyms": [
+            "rumor",
+            "chatter"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Don't believe everything you hear – it's just gossip.",
+              "translation": "Eşitdiyin hər şeyə inanma – bu, sadəcə dedi-qodudur."
+            },
+            {
+              "text": "The office is full of gossip about the new manager.",
+              "translation": "Ofisdə yeni menecer haqqında dedi-qodu çoxdur."
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "verb",
+          "translation": "dedi-qodu etmək",
+          "definition": "to talk about other people's private lives, often in an unkind way",
+          "synonyms": [
+            "chatter"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "They were gossiping about their neighbors all afternoon.",
+              "translation": "Onlar bütün günortadan sonra qonşuları haqqında dedi-qodu edirdilər."
+            },
+            {
+              "text": "I don't like people who gossip behind my back.",
+              "translation": "Arxamca dedi-qodu edən adamları xoşlamıram."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "appreciate",
+      "ipa": "/əˈpriʃiˌeɪt/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "minnətdar olmaq, qədrini bilmək, yüksək qiymətləndirmək",
+          "definition": "to be thankful for something, or to understand how good or important something is",
+          "synonyms": [
+            "value",
+            "be grateful for"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "I really appreciate your help.",
+              "translation": "Köməyin üçün çox minnətdaram."
+            },
+            {
+              "text": "You will appreciate your parents more when you are older.",
+              "translation": "Böyüyəndə valideynlərinin qədrini daha çox biləcəksən."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "rely",
+      "ipa": "/rɪˈlaɪ/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "arxalanmaq, güvənmək",
+          "definition": "to need someone or something, or to believe that they will help you (used with \"on\")",
+          "synonyms": [
+            "depend",
+            "count on",
+            "trust"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "You can always rely on me.",
+              "translation": "Həmişə mənə arxalana bilərsən."
+            },
+            {
+              "text": "Many people rely on their phones to find their way.",
+              "translation": "Çox insan yolu tapmaq üçün telefonuna güvənir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "share",
+      "ipa": "/ʃɛr/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "bölüşmək, paylaşmaq",
+          "definition": "to have or use something together with other people, or to tell others about your things or thoughts",
+          "synonyms": [
+            "divide",
+            "split"
+          ],
+          "antonyms": [
+            "keep"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "I share an apartment with two friends.",
+              "translation": "Bir mənzili iki dostumla bölüşürəm."
+            },
+            {
+              "text": "She shared her photos with the whole family.",
+              "translation": "O, şəkillərini bütün ailə ilə paylaşdı."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "companion",
+      "ipa": "/kəmˈpænjən/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "yoldaş, həmdəm",
+          "definition": "a person or animal that you spend a lot of time with or travel with",
+          "synonyms": [
+            "friend",
+            "partner"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "My dog has been my faithful companion for ten years.",
+              "translation": "İtim on ildir mənim sadiq yoldaşımdır."
+            },
+            {
+              "text": "He was a good traveling companion – always calm and funny.",
+              "translation": "O, yaxşı yol yoldaşı idi – həmişə sakit və zarafatcıl."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "misunderstanding",
+      "ipa": "/ˌmɪsʌndərˈstændɪŋ/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "anlaşılmazlıq",
+          "definition": "a situation when someone understands something in the wrong way, which can cause a small argument",
+          "synonyms": [
+            "confusion",
+            "mix-up"
+          ],
+          "antonyms": [
+            "agreement"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "There was a misunderstanding about the time of the meeting.",
+              "translation": "Görüşün vaxtı ilə bağlı anlaşılmazlıq oldu."
+            },
+            {
+              "text": "Let's talk openly to avoid any misunderstandings.",
+              "translation": "Heç bir anlaşılmazlıq olmasın deyə açıq danışaq."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "story": {
+    "title": "The Missed Concert",
+    "titleTranslation": "Qaçırılmış konsert",
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "Nigar and Aysel have been best friends since school.",
+            "translation": "Nigar və Aysel məktəb illərindən ən yaxın rəfiqədirlər."
+          },
+          {
+            "text": "They share everything: books, secrets, clothes and even their lunch.",
+            "translation": "Onlar hər şeyi bölüşürlər: kitabları, sirləri, paltarları, hətta naharlarını da."
+          },
+          {
+            "text": "Nigar often says that Aysel is not only her friend but also her favorite companion on every trip.",
+            "translation": "Nigar tez-tez deyir ki, Aysel təkcə rəfiqəsi deyil, həm də hər səfərdə ən sevimli yol yoldaşıdır."
+          },
+          {
+            "text": "They have traveled together, studied together and helped each other through many difficult times.",
+            "translation": "Onlar birlikdə səyahət edib, birlikdə oxuyub və bir çox çətin günlərdə bir-birlərinə kömək ediblər."
+          },
+          {
+            "text": "They know they can rely on each other, and their respect is mutual.",
+            "translation": "Onlar bilirlər ki, bir-birlərinə arxalana bilərlər, hörmətləri də qarşılıqlıdır."
+          },
+          {
+            "text": "But last Friday the two friends had their first real quarrel in years.",
+            "translation": "Amma keçən cümə iki rəfiqə illər sonra ilk dəfə ciddi mübahisə etdi."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Aysel had promised to come to Nigar's first piano concert, but she forgot about it and went to the movies with her cousin instead.",
+            "translation": "Aysel Nigarın ilk fortepiano konsertinə gələcəyinə söz vermişdi, amma bunu unudub əvəzində xalası qızı ilə kinoya getdi."
+          },
+          {
+            "text": "Nigar was hurt, and when they spoke on the phone that evening, they argued for almost an hour.",
+            "translation": "Nigar incimişdi və həmin axşam telefonda danışanda, təxminən bir saat mübahisə etdilər."
+          },
+          {
+            "text": "She had practiced for months, and she had looked for her friend's face in the audience all evening.",
+            "translation": "O, aylarla məşq etmişdi və bütün axşam tamaşaçıların arasında rəfiqəsinin üzünü axtarmışdı."
+          },
+          {
+            "text": "“A loyal friend doesn't forget things like that,” Nigar said.",
+            "translation": "«Sadiq dost belə şeyləri unutmur», – Nigar dedi."
+          },
+          {
+            "text": "“I feel like you betrayed me.”",
+            "translation": "«Mənə elə gəlir ki, sən mənə xəyanət etdin.»"
+          },
+          {
+            "text": "Then someone from their group of friends started to gossip about it, and soon everyone knew about the quarrel.",
+            "translation": "Sonra dostlarından biri bu barədə dedi-qodu yaymağa başladı və tezliklə hamı mübahisədən xəbər tutdu."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The next morning Aysel felt terrible.",
+            "translation": "Ertəsi səhər Aysel özünü çox pis hiss edirdi."
+          },
+          {
+            "text": "She couldn't believe that she had forgotten such an important day.",
+            "translation": "Belə vacib bir günü unutduğuna inana bilmirdi."
+          },
+          {
+            "text": "“I'm going to apologize to her today,” she told her brother. “I've already decided.”",
+            "translation": "«Bu gün ondan üzr istəyəcəyəm», – o, qardaşına dedi. «Artıq qərar vermişəm.»"
+          },
+          {
+            "text": "“Good idea,” her brother said. “I'll drive you there if you want.”",
+            "translation": "«Yaxşı fikirdir», – qardaşı dedi. «İstəsən, səni ora maşınla aparım.»"
+          },
+          {
+            "text": "On the way, Aysel bought a small cake and wrote a card: “I was wrong, and I'm really sorry. I hope you will forgive me.”",
+            "translation": "Yolda Aysel kiçik bir tort aldı və açıqcaya yazdı: «Mən haqsız idim və çox peşmanam. Ümid edirəm, məni bağışlayacaqsan.»"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "When Nigar opened the door, she looked at the cake and smiled a little.",
+            "translation": "Nigar qapını açanda torta baxdı və azca gülümsədi."
+          },
+          {
+            "text": "Aysel explained everything, and her apology was so sincere that Nigar could not stay angry.",
+            "translation": "Aysel hər şeyi izah etdi və onun üzrxahlığı o qədər səmimi idi ki, Nigar daha acıqlı qala bilmədi."
+          },
+          {
+            "text": "“It was just a misunderstanding,” Nigar said. “I thought you didn't care about my music.”",
+            "translation": "«Bu, sadəcə anlaşılmazlıq idi», – Nigar dedi. «Elə bilirdim ki, mənim musiqim sənin üçün maraqlı deyil.»"
+          },
+          {
+            "text": "“Of course I care,” Aysel answered. “You have always supported me, and I really appreciate it.”",
+            "translation": "«Əlbəttə, mənim üçün vacibdir», – Aysel cavab verdi. «Sən məni həmişə dəstəkləmisən və mən bunun qədrini çox yaxşı bilirəm.»"
+          },
+          {
+            "text": "Nigar hugged her friend. “Of course I forgive you.”",
+            "translation": "Nigar rəfiqəsini qucaqladı. «Əlbəttə, səni bağışlayıram.»"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "“Next month I'm going to play at the music school again,” Nigar added. “Will you come?”",
+            "translation": "«Gələn ay musiqi məktəbində yenə çıxış edəcəyəm», – Nigar əlavə etdi. «Gələcəksən?»"
+          },
+          {
+            "text": "“I'll be in the first row,” Aysel promised, “and this time I'll write it in my calendar!”",
+            "translation": "«Birinci cərgədə oturacağam», – Aysel söz verdi, – «bu dəfə isə bunu təqvimimə yazacağam!»"
+          },
+          {
+            "text": "“After the concert, we're going to celebrate together,” Nigar said.",
+            "translation": "«Konsertdən sonra isə birlikdə qeyd edəcəyik», – Nigar dedi."
+          },
+          {
+            "text": "They both laughed, and that evening they shared the cake over a pot of tea, just like old times.",
+            "translation": "Hər ikisi güldü, həmin axşam isə bir çaydan çayın başında tortu bölüşdülər – lap köhnə günlərdəki kimi."
+          }
+        ]
+      }
+    ],
+    "glossary": [
+      {
+        "term": "best friends",
+        "lemma": "best friend",
+        "partOfSpeech": "phrase",
+        "meaning": "the friends you like most and are closest to",
+        "translation": "ən yaxın dostlar (rəfiqələr)"
+      },
+      {
+        "term": "share",
+        "lemma": "share",
+        "partOfSpeech": "verb",
+        "meaning": "to have or use something together with other people",
+        "translation": "bölüşmək"
+      },
+      {
+        "term": "secrets",
+        "lemma": "secret",
+        "partOfSpeech": "noun",
+        "meaning": "things you know but do not tell other people",
+        "translation": "sirlər"
+      },
+      {
+        "term": "favorite",
+        "lemma": "favorite",
+        "partOfSpeech": "adjective",
+        "meaning": "liked more than all others",
+        "translation": "ən sevimli"
+      },
+      {
+        "term": "companion",
+        "lemma": "companion",
+        "partOfSpeech": "noun",
+        "meaning": "a person you spend time with or travel with",
+        "translation": "yoldaş, yol yoldaşı"
+      },
+      {
+        "term": "helped each other through",
+        "lemma": "help each other through",
+        "partOfSpeech": "phrase",
+        "meaning": "helped each other during a difficult time until it ended",
+        "translation": "bir-birinə dayaq olmaq"
+      },
+      {
+        "term": "rely on",
+        "lemma": "rely",
+        "partOfSpeech": "verb",
+        "meaning": "to trust that someone will help you when you need it",
+        "translation": "arxalanmaq, güvənmək"
+      },
+      {
+        "term": "each other",
+        "lemma": "each other",
+        "partOfSpeech": "pronoun",
+        "meaning": "used to show that each person does the same thing to the other",
+        "translation": "bir-biri"
+      },
+      {
+        "term": "respect",
+        "lemma": "respect",
+        "partOfSpeech": "noun",
+        "meaning": "a good opinion of someone and polite behavior toward them",
+        "translation": "hörmət"
+      },
+      {
+        "term": "mutual",
+        "lemma": "mutual",
+        "partOfSpeech": "adjective",
+        "meaning": "felt by both people in the same way",
+        "translation": "qarşılıqlı"
+      },
+      {
+        "term": "quarrel",
+        "lemma": "quarrel",
+        "partOfSpeech": "noun",
+        "meaning": "an angry argument between people who know each other",
+        "translation": "mübahisə, dava"
+      },
+      {
+        "term": "in years",
+        "lemma": "in years",
+        "partOfSpeech": "phrase",
+        "meaning": "for a long time; for many years",
+        "translation": "illər ərzində (illər sonra)"
+      },
+      {
+        "term": "had promised",
+        "lemma": "promise",
+        "partOfSpeech": "verb",
+        "meaning": "had said that she would certainly do something",
+        "translation": "söz vermişdi"
+      },
+      {
+        "term": "went to the movies",
+        "lemma": "go to the movies",
+        "partOfSpeech": "phrase",
+        "meaning": "went to see a film at the cinema (American English)",
+        "translation": "kinoya getdi"
+      },
+      {
+        "term": "cousin",
+        "lemma": "cousin",
+        "partOfSpeech": "noun",
+        "meaning": "the child of your aunt or uncle",
+        "translation": "əmi, dayı, xala və ya bibi övladı"
+      },
+      {
+        "term": "instead",
+        "lemma": "instead",
+        "partOfSpeech": "adverb",
+        "meaning": "in the place of something else",
+        "translation": "əvəzində"
+      },
+      {
+        "term": "hurt",
+        "lemma": "hurt",
+        "partOfSpeech": "adjective",
+        "meaning": "feeling sad because of what someone did or said",
+        "translation": "incimiş"
+      },
+      {
+        "term": "practiced",
+        "lemma": "practice",
+        "partOfSpeech": "verb",
+        "meaning": "did something again and again to get better at it",
+        "translation": "məşq etmişdi"
+      },
+      {
+        "term": "audience",
+        "lemma": "audience",
+        "partOfSpeech": "noun",
+        "meaning": "the people who watch or listen to a concert, play or film",
+        "translation": "tamaşaçılar"
+      },
+      {
+        "term": "argued",
+        "lemma": "argue",
+        "partOfSpeech": "verb",
+        "meaning": "spoke angrily because they did not agree",
+        "translation": "mübahisə etdilər"
+      },
+      {
+        "term": "loyal",
+        "lemma": "loyal",
+        "partOfSpeech": "adjective",
+        "meaning": "always supporting and caring about a friend",
+        "translation": "sadiq, vəfalı"
+      },
+      {
+        "term": "betrayed",
+        "lemma": "betray",
+        "partOfSpeech": "verb",
+        "meaning": "hurt someone who trusted you by not being loyal",
+        "translation": "xəyanət etdin"
+      },
+      {
+        "term": "gossip",
+        "lemma": "gossip",
+        "partOfSpeech": "verb",
+        "meaning": "to talk about other people's private lives, often in an unkind way",
+        "translation": "dedi-qodu etmək (yaymaq)"
+      },
+      {
+        "term": "felt terrible",
+        "lemma": "feel terrible",
+        "partOfSpeech": "phrase",
+        "meaning": "to feel very bad or sorry about something",
+        "translation": "özünü çox pis hiss etmək"
+      },
+      {
+        "term": "apologize",
+        "lemma": "apologize",
+        "partOfSpeech": "verb",
+        "meaning": "to say that you are sorry",
+        "translation": "üzr istəmək"
+      },
+      {
+        "term": "drive",
+        "lemma": "drive",
+        "partOfSpeech": "verb",
+        "meaning": "to take someone somewhere in a car",
+        "translation": "maşınla aparmaq"
+      },
+      {
+        "term": "On the way",
+        "lemma": "on the way",
+        "partOfSpeech": "phrase",
+        "meaning": "during the trip to a place",
+        "translation": "yolda"
+      },
+      {
+        "term": "was wrong",
+        "lemma": "be wrong",
+        "partOfSpeech": "phrase",
+        "meaning": "to make a mistake or have an incorrect opinion",
+        "translation": "haqsız olmaq, səhv etmək"
+      },
+      {
+        "term": "forgive",
+        "lemma": "forgive",
+        "partOfSpeech": "verb",
+        "meaning": "to stop being angry with someone",
+        "translation": "bağışlamaq"
+      },
+      {
+        "term": "apology",
+        "lemma": "apology",
+        "partOfSpeech": "noun",
+        "meaning": "words that say you are sorry",
+        "translation": "üzrxahlıq"
+      },
+      {
+        "term": "sincere",
+        "lemma": "sincere",
+        "partOfSpeech": "adjective",
+        "meaning": "honest and really meant",
+        "translation": "səmimi"
+      },
+      {
+        "term": "stay angry",
+        "lemma": "stay angry",
+        "partOfSpeech": "phrase",
+        "meaning": "to continue to be angry",
+        "translation": "acıqlı qalmaq"
+      },
+      {
+        "term": "misunderstanding",
+        "lemma": "misunderstanding",
+        "partOfSpeech": "noun",
+        "meaning": "a situation when someone understands something in the wrong way",
+        "translation": "anlaşılmazlıq"
+      },
+      {
+        "term": "care about",
+        "lemma": "care about",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "to think that someone or something is important",
+        "translation": "əhəmiyyət vermək, maraqlanmaq"
+      },
+      {
+        "term": "supported",
+        "lemma": "support",
+        "partOfSpeech": "verb",
+        "meaning": "helped and encouraged someone",
+        "translation": "dəstəkləmisən"
+      },
+      {
+        "term": "appreciate",
+        "lemma": "appreciate",
+        "partOfSpeech": "verb",
+        "meaning": "to be thankful for something and see its value",
+        "translation": "qədrini bilmək, minnətdar olmaq"
+      },
+      {
+        "term": "hugged",
+        "lemma": "hug",
+        "partOfSpeech": "verb",
+        "meaning": "put her arms around someone to show love",
+        "translation": "qucaqladı"
+      },
+      {
+        "term": "added",
+        "lemma": "add",
+        "partOfSpeech": "verb",
+        "meaning": "said something more",
+        "translation": "əlavə etdi"
+      },
+      {
+        "term": "row",
+        "lemma": "row",
+        "partOfSpeech": "noun",
+        "meaning": "a line of seats",
+        "translation": "cərgə"
+      },
+      {
+        "term": "celebrate",
+        "lemma": "celebrate",
+        "partOfSpeech": "verb",
+        "meaning": "to do something enjoyable because of a special event",
+        "translation": "qeyd etmək"
+      },
+      {
+        "term": "shared",
+        "lemma": "share",
+        "partOfSpeech": "verb",
+        "meaning": "ate something together",
+        "translation": "bölüşdülər"
+      },
+      {
+        "term": "a pot of tea",
+        "lemma": "pot of tea",
+        "partOfSpeech": "phrase",
+        "meaning": "a container full of tea for several people",
+        "translation": "bir çaydan çay"
+      },
+      {
+        "term": "just like old times",
+        "lemma": "just like old times",
+        "partOfSpeech": "idiom",
+        "meaning": "the same as it was in the past, in a happy way",
+        "translation": "lap köhnə günlərdəki kimi"
+      }
+    ]
+  },
+  "grammar": {
+    "topic": "Future: will vs going to",
+    "topicTranslation": "Gələcək zaman: will, yoxsa going to?",
+    "explanation": "We use both will and going to to talk about the future, but there is a difference. We use going to for plans and decisions that we made before the moment of speaking. We use will for decisions that we make at the moment of speaking, and for offers and promises. For predictions, we use going to when we can see something now that shows what will happen, and will for what we think or believe.",
+    "explanationTranslation": "Gələcək haqqında danışmaq üçün həm will, həm də going to işlədirik, amma aralarında fərq var. Going to danışıq anından əvvəl qurulmuş planlar və qərarlar üçün işlədilir. Will isə danışıq anında verilən qərarlar, həmçinin təkliflər və vədlər üçün işlədilir. Proqnozlarda indi gördüyümüz bir əlamətə əsaslananda going to, sadəcə fikrimizi və ya inamımızı bildirəndə isə will işlədirik.",
+    "rules": [
+      {
+        "text": "going to + verb: plans and intentions decided before now (I'm going to visit my aunt on Sunday).",
+        "translation": "going to + feil: əvvəlcədən qərara alınmış planlar və niyyətlər (I'm going to visit my aunt on Sunday)."
+      },
+      {
+        "text": "will + verb: quick decisions made at the moment of speaking (The phone is ringing – I'll answer it).",
+        "translation": "will + feil: danışıq anında qəbul edilən qərarlar (The phone is ringing – I'll answer it)."
+      },
+      {
+        "text": "Use will for offers and promises: I'll help you. I won't tell anyone.",
+        "translation": "Təkliflər və vədlər üçün will işlədilir: I'll help you. I won't tell anyone."
+      },
+      {
+        "text": "Predictions: use going to when you can see evidence now (Look at those clouds – it's going to rain); use will for opinions, often with I think, probably or I'm sure.",
+        "translation": "Proqnozlar: indi görünən bir əlamət varsa, going to işlədilir (Look at those clouds – it's going to rain); şəxsi fikir bildirəndə, çox vaxt I think, probably, I'm sure ilə, will işlədilir."
+      }
+    ],
+    "examples": [
+      {
+        "text": "I'm going to apologize to my sister tonight. I've already decided.",
+        "translation": "Bu axşam bacımdan üzr istəyəcəyəm. Artıq qərar vermişəm."
+      },
+      {
+        "text": "“This bag is heavy.” “Wait, I'll help you.”",
+        "translation": "«Bu çanta ağırdır.» «Dayan, sənə kömək edim.»"
+      },
+      {
+        "text": "I promise I won't argue with you again.",
+        "translation": "Söz verirəm, bir daha səninlə mübahisə etməyəcəyəm."
+      },
+      {
+        "text": "Look at the sky! It's going to snow.",
+        "translation": "Göyə bax! Qar yağacaq."
+      },
+      {
+        "text": "I think she will forgive him in the end.",
+        "translation": "Məncə, o, sonda onu bağışlayacaq."
+      }
+    ],
+    "exercise": {
+      "instructions": "Choose or write the correct future form: will or going to.",
+      "instructionsTranslation": "Gələcək zamanın düzgün formasını seçin və ya yazın: will, yoxsa going to.",
+      "questions": [
+        {
+          "type": "choice",
+          "prompt": "“We don't have any milk.” “Oh, I ___ buy some on my way home.”",
+          "promptTranslation": "«Südümüz qalmayıb.» «Hə? Onda evə gedəndə bir az alaram.»",
+          "options": [
+            "will",
+            "am going to"
+          ],
+          "answer": "will",
+          "explanation": "The speaker decides at the moment of speaking, so we use will.",
+          "explanationTranslation": "Danışan qərarı elə danışıq anında verir, ona görə will işlədilir."
+        },
+        {
+          "type": "choice",
+          "prompt": "Look at those dark clouds! It ___ rain.",
+          "promptTranslation": "O qara buludlara bax! Yağış yağacaq.",
+          "options": [
+            "will",
+            "is going to"
+          ],
+          "answer": "is going to",
+          "explanation": "We can see evidence now (the dark clouds), so we use going to.",
+          "explanationTranslation": "İndi əlamət görürük (qara buludlar), ona görə going to işlədilir."
+        },
+        {
+          "type": "choice",
+          "prompt": "We have already bought the tickets. We ___ fly to London in May.",
+          "promptTranslation": "Biletləri artıq almışıq. May ayında Londona uçacağıq.",
+          "options": [
+            "will",
+            "are going to"
+          ],
+          "answer": "are going to",
+          "explanation": "This is a plan made before now, so we use going to.",
+          "explanationTranslation": "Bu, əvvəlcədən qurulmuş plandır, ona görə going to işlədilir."
+        },
+        {
+          "type": "text",
+          "prompt": "Don't worry, I ___ (not / tell) anyone your secret. I promise!",
+          "promptTranslation": "Narahat olma, sirrini heç kimə deməyəcəyəm. Söz verirəm!",
+          "answer": "won't tell",
+          "acceptedAnswers": [
+            "will not tell"
+          ],
+          "explanation": "It is a promise, so we use will (negative: won't).",
+          "explanationTranslation": "Bu, vəddir, ona görə will işlədilir (inkarı: won't)."
+        },
+        {
+          "type": "text",
+          "prompt": "Ali has decided: he ___ (apologize) to his friend tomorrow.",
+          "promptTranslation": "Əli qərar verib: sabah dostundan üzr istəyəcək.",
+          "answer": "is going to apologize",
+          "acceptedAnswers": [
+            "'s going to apologize"
+          ],
+          "explanation": "Ali made the decision before now, so we use going to.",
+          "explanationTranslation": "Əli qərarı əvvəlcədən verib, ona görə going to işlədilir."
+        }
+      ]
+    }
+  }
+}

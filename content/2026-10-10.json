@@ -1,0 +1,1070 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-10",
+  "level": "B1",
+  "translationLanguage": "az",
+  "words": [
+    {
+      "word": "repair",
+      "ipa": "/rɪˈpɛr/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "təmir etmək, düzəltmək",
+          "definition": "to fix something that is broken or damaged",
+          "synonyms": [
+            "fix",
+            "mend"
+          ],
+          "antonyms": [
+            "break",
+            "damage"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "How much will it cost to repair my phone?",
+              "translation": "Telefonumu təmir etmək neçəyə başa gələcək?"
+            },
+            {
+              "text": "My father repaired the old bicycle himself.",
+              "translation": "Atam köhnə velosipedi özü təmir etdi."
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "noun",
+          "translation": "təmir",
+          "definition": "work that you do to fix something that is broken or damaged",
+          "synonyms": [],
+          "antonyms": [
+            "damage"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The road is closed for repairs.",
+              "translation": "Yol təmir işlərinə görə bağlıdır."
+            },
+            {
+              "text": "The car needs some small repairs before the trip.",
+              "translation": "Səfərdən əvvəl maşının kiçik təmirə ehtiyacı var."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "tidy",
+      "ipa": "/ˈtaɪdi/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "səliqəli",
+          "definition": "neat and in good order, with everything in the right place",
+          "synonyms": [
+            "neat",
+            "clean",
+            "orderly"
+          ],
+          "antonyms": [
+            "messy",
+            "untidy"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Her desk is always tidy.",
+              "translation": "Onun yazı masası həmişə səliqəlidir."
+            },
+            {
+              "text": "Try to keep your room tidy.",
+              "translation": "Otağını səliqəli saxlamağa çalış."
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "verb",
+          "translation": "yığışdırmaq, səliqəyə salmaq",
+          "definition": "to make a place neat by putting things where they belong (often \"tidy up\")",
+          "synonyms": [
+            "clean up",
+            "straighten up"
+          ],
+          "antonyms": [
+            "mess up"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "I tidied the kitchen before the guests arrived.",
+              "translation": "Qonaqlar gəlməzdən əvvəl mətbəxi yığışdırdım."
+            },
+            {
+              "text": "Can you help me tidy up the living room?",
+              "translation": "Qonaq otağını yığışdırmağa mənə kömək edə bilərsən?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "rent",
+      "ipa": "/rɛnt/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "kirayə haqqı",
+          "definition": "money that you pay every month to live in a house or apartment that belongs to someone else",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The rent for this apartment is 600 manats a month.",
+              "translation": "Bu mənzilin kirayə haqqı ayda 600 manatdır."
+            },
+            {
+              "text": "Rents in the city center are very high.",
+              "translation": "Şəhər mərkəzində kirayə haqları çox yüksəkdir."
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "verb",
+          "translation": "kirayə götürmək; kirayəyə vermək",
+          "definition": "to pay money to use something that belongs to someone else, such as a house or car; also, to let someone use your house for money",
+          "synonyms": [
+            "lease",
+            "hire"
+          ],
+          "antonyms": [
+            "buy"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "We rented a car for our trip to Sheki.",
+              "translation": "Şəkiyə səfər üçün maşın kirayə götürdük."
+            },
+            {
+              "text": "They rent their old house to students.",
+              "translation": "Onlar köhnə evlərini tələbələrə kirayəyə verirlər."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "furniture",
+      "ipa": "/ˈfɝnɪtʃər/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "mebel",
+          "definition": "things such as tables, chairs, beds and sofas that you put in a home or office",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "We need to buy some furniture for the new office.",
+              "translation": "Yeni ofis üçün bir az mebel almalıyıq."
+            },
+            {
+              "text": "This old piece of furniture belonged to my grandmother.",
+              "translation": "Bu köhnə mebel nənəmə məxsus idi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "landlord",
+      "ipa": "/ˈlændˌlɔrd/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "ev sahibi (kirayə verən)",
+          "definition": "a person who owns a house or apartment and lets other people live there for money",
+          "synonyms": [
+            "owner",
+            "property owner"
+          ],
+          "antonyms": [
+            "tenant"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Our landlord lives in the same building.",
+              "translation": "Ev sahibimiz eyni binada yaşayır."
+            },
+            {
+              "text": "I called the landlord because the heating wasn't working.",
+              "translation": "İstilik sistemi işləmədiyi üçün ev sahibinə zəng etdim."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "decorate",
+      "ipa": "/ˈdɛkəˌreɪt/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "bəzəmək; (otağı) rəngləyib yeniləmək",
+          "definition": "to make something more beautiful by adding things to it, or by painting a room or putting paper on the walls",
+          "synonyms": [
+            "do up"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "We decorated the tree with lights and small toys.",
+              "translation": "Ağacı işıqlar və kiçik oyuncaqlarla bəzədik."
+            },
+            {
+              "text": "They are decorating the kitchen this weekend.",
+              "translation": "Bu həftəsonu mətbəxi rəngləyib yeniləyirlər."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "mess",
+      "ipa": "/mɛs/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "dağınıqlıq, qarmaqarışıqlıq",
+          "definition": "a dirty or untidy state, or a situation with many problems",
+          "synonyms": [
+            "chaos",
+            "clutter"
+          ],
+          "antonyms": [
+            "order"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Your room is a mess – please clean it!",
+              "translation": "Otağın alt-üst olub – xahiş edirəm, onu yığışdır!"
+            },
+            {
+              "text": "Sorry about the mess. We're painting the walls.",
+              "translation": "Dağınıqlığa görə bağışlayın. Divarları rəngləyirik."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "leak",
+      "ipa": "/lik/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "sızma, axma; dəlik",
+          "definition": "a small hole or crack that lets water, gas or air come out; also, the water or gas that comes out",
+          "synonyms": [
+            "drip",
+            "hole"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "There's a leak in the roof, so we need a bucket.",
+              "translation": "Dam su buraxır, ona görə bizə vedrə lazımdır."
+            },
+            {
+              "text": "The gas leak was fixed quickly.",
+              "translation": "Qaz sızması tez aradan qaldırıldı."
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "verb",
+          "translation": "sızmaq, axmaq; su buraxmaq",
+          "definition": "to let liquid or gas come out through a small hole, or to come out in this way",
+          "synonyms": [
+            "drip"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "My water bottle is leaking into my bag.",
+              "translation": "Butulkamdan çantama su axır."
+            },
+            {
+              "text": "Water leaked from the washing machine all over the floor.",
+              "translation": "Paltaryuyan maşından bütün döşəməyə su axdı."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "plumber",
+      "ipa": "/ˈplʌmər/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "santexnik",
+          "definition": "a person whose job is to put in and repair water pipes, toilets and sinks",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "We called a plumber because the toilet was broken.",
+              "translation": "Unitaz xarab olduğu üçün santexnik çağırdıq."
+            },
+            {
+              "text": "The plumber is coming at nine tomorrow.",
+              "translation": "Santexnik sabah saat doqquzda gəlir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "cozy",
+      "ipa": "/ˈkoʊzi/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "rahat, isti, doğma",
+          "definition": "warm, comfortable and pleasant, especially about a small room or home",
+          "synonyms": [
+            "comfortable",
+            "snug",
+            "warm"
+          ],
+          "antonyms": [
+            "uncomfortable",
+            "cold"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "We found a cozy little café near the station.",
+              "translation": "Stansiyanın yaxınlığında kiçik, rahat bir kafe tapdıq."
+            },
+            {
+              "text": "With the fire burning, the room felt warm and cozy.",
+              "translation": "Kamin yananda otaq isti və rahat idi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "spacious",
+      "ipa": "/ˈspeɪʃəs/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "geniş",
+          "definition": "having a lot of space inside",
+          "synonyms": [
+            "roomy",
+            "large",
+            "big"
+          ],
+          "antonyms": [
+            "small",
+            "cramped"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Their new house has a spacious kitchen.",
+              "translation": "Onların yeni evinin geniş mətbəxi var."
+            },
+            {
+              "text": "The hotel rooms were clean and spacious.",
+              "translation": "Otel otaqları təmiz və geniş idi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "ceiling",
+      "ipa": "/ˈsilɪŋ/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "tavan",
+          "definition": "the inside surface at the top of a room",
+          "synonyms": [],
+          "antonyms": [
+            "floor"
+          ],
+          "homonyms": [
+            {
+              "word": "sealing",
+              "meaning": "closing something tightly so that air or water cannot get in or out (sounds the same as \"ceiling\")",
+              "translation": "kip bağlama, hermetikləşdirmə"
+            }
+          ],
+          "examples": [
+            {
+              "text": "The kitchen has a high ceiling.",
+              "translation": "Mətbəxin tavanı hündürdür."
+            },
+            {
+              "text": "A lamp was hanging from the ceiling.",
+              "translation": "Tavandan lampa asılmışdı."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "carpet",
+      "ipa": "/ˈkɑrpɪt/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "xalça",
+          "definition": "a thick, soft material that covers a floor",
+          "synonyms": [
+            "rug"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Azerbaijani carpets are famous all over the world.",
+              "translation": "Azərbaycan xalçaları bütün dünyada məşhurdur."
+            },
+            {
+              "text": "Please take off your shoes – we have a new carpet.",
+              "translation": "Xahiş edirik, ayaqqabılarınızı çıxarın – yeni xalçamız var."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "lease",
+      "ipa": "/lis/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "kirayə (icarə) müqaviləsi",
+          "definition": "a legal agreement in which you pay to use a house, apartment or car for a period of time",
+          "synonyms": [
+            "contract",
+            "rental agreement"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "We signed a two-year lease on the apartment.",
+              "translation": "Mənzil üçün iki illik kirayə müqaviləsi imzaladıq."
+            },
+            {
+              "text": "Our lease ends in December.",
+              "translation": "Kirayə müqaviləmiz dekabrda bitir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "neighborhood",
+      "ipa": "/ˈneɪbərˌhʊd/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "məhəllə, ətraf",
+          "definition": "an area of a town or city and the people who live there",
+          "synonyms": [
+            "area",
+            "district",
+            "community"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "I grew up in a friendly neighborhood.",
+              "translation": "Mən mehriban bir məhəllədə böyümüşəm."
+            },
+            {
+              "text": "Are there any good restaurants in your neighborhood?",
+              "translation": "Sizin ətrafda yaxşı restoranlar varmı?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "story": {
+    "title": "Kamran's First Apartment",
+    "titleTranslation": "Kamranın ilk mənzili",
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "Last month Kamran found his first apartment in a quiet neighborhood of Baku.",
+            "translation": "Keçən ay Kamran Bakının sakit məhəllələrindən birində ilk mənzilini tapdı."
+          },
+          {
+            "text": "It isn't very spacious – just one room, a small kitchen and a bathroom – but the rent is low and it is close to his office.",
+            "translation": "Mənzil o qədər də geniş deyil – cəmi bir otaq, kiçik mətbəx və vanna otağı – amma kirayə haqqı aşağıdır və iş yerinə yaxındır."
+          },
+          {
+            "text": "The landlord, Mr. Rashidov, is a kind old man who lives on the first floor.",
+            "translation": "Ev sahibi Rəşidov müəllim birinci mərtəbədə yaşayan mehriban, yaşlı bir kişidir."
+          },
+          {
+            "text": "Kamran signed a one-year lease and moved in on a rainy Monday.",
+            "translation": "Kamran bir illik kirayə müqaviləsi imzaladı və yağışlı bir bazar ertəsi mənzilə köçdü."
+          },
+          {
+            "text": "He was excited, because for the first time in his life he had his own place.",
+            "translation": "O, çox həyəcanlı idi, çünki həyatında ilk dəfə öz evi var idi."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Soon he found out that the apartment had some problems.",
+            "translation": "Tezliklə o, mənzilin bəzi problemləri olduğunu öyrəndi."
+          },
+          {
+            "text": "The kitchen window didn't close properly, the pipe under the sink had a leak, and there was a brown spot on the bathroom ceiling.",
+            "translation": "Mətbəxin pəncərəsi yaxşı bağlanmırdı, lavabonun altındakı boru su buraxırdı, vanna otağının tavanında isə qəhvəyi bir ləkə var idi."
+          },
+          {
+            "text": "The old carpet in the living room was dirty, and his boxes were everywhere, so the whole place was a mess.",
+            "translation": "Qonaq otağındakı köhnə xalça çirkli idi, qutuları da hər yerə səpələnmişdi, ona görə bütün ev alt-üst idi."
+          },
+          {
+            "text": "Kamran didn't feel at home there at all.",
+            "translation": "Kamran özünü orada heç də evindəki kimi hiss etmirdi."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "On Friday evening Kamran called his mother.",
+            "translation": "Cümə günü axşam Kamran anasına zəng etdi."
+          },
+          {
+            "text": "“I'm very busy this weekend,” he said.",
+            "translation": "«Bu həftəsonu çox məşğulam», – dedi."
+          },
+          {
+            "text": "“On Saturday morning Mr. Rashidov is coming to repair the window, and a plumber is fixing the leak at two.”",
+            "translation": "«Şənbə səhəri Rəşidov müəllim pəncərəni təmir etməyə gəlir, saat ikidə isə santexnik sızan borunu düzəldəcək.»"
+          },
+          {
+            "text": "“On Sunday I'm meeting Elvin at the market. We're buying some second-hand furniture – a table, two chairs and a bookshelf.”",
+            "translation": "«Bazar günü isə Elvinlə bazarda görüşürəm. İkinci əl mebel alacağıq – bir masa, iki stul və bir kitab rəfi.»"
+          },
+          {
+            "text": "His mother laughed. “Don't forget to tidy the apartment,” she said.",
+            "translation": "Anası güldü. «Mənzili yığışdırmağı unutma», – dedi."
+          },
+          {
+            "text": "“I'm visiting you on Monday, and I'm bringing a new carpet as a gift for your new home!”",
+            "translation": "«Bazar ertəsi sənə gəlirəm və yeni evin üçün hədiyyə olaraq yeni bir xalça gətirirəm!»"
+          },
+          {
+            "text": "“That's very kind of you, Mom,” Kamran said. “Then I'm making dinner for us on Monday!”",
+            "translation": "«Çox sağ ol, ana», – Kamran dedi. «Onda bazar ertəsi ikimiz üçün şam yeməyi hazırlayıram!»"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The weekend went well.",
+            "translation": "Həftəsonu yaxşı keçdi."
+          },
+          {
+            "text": "Mr. Rashidov repaired the window in an hour and even stayed for a cup of tea.",
+            "translation": "Rəşidov müəllim pəncərəni bir saata təmir etdi, hətta bir fincan çay içmək üçün qaldı."
+          },
+          {
+            "text": "The plumber changed the old pipe and said that the ceiling would dry in a few days.",
+            "translation": "Santexnik köhnə borunu dəyişdi və tavanın bir neçə günə quruyacağını dedi."
+          },
+          {
+            "text": "On Sunday night Kamran arranged the new furniture, unpacked the last boxes and made the whole apartment neat and tidy.",
+            "translation": "Bazar günü axşam Kamran yeni mebeli yerləşdirdi, son qutuları boşaltdı və bütün mənzili səliqə-sahmana saldı."
+          },
+          {
+            "text": "He also decorated the walls with photos of his family and friends.",
+            "translation": "Divarları da ailəsinin və dostlarının şəkilləri ilə bəzədi."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "When his mother arrived on Monday, she put the new carpet on the floor and looked around.",
+            "translation": "Bazar ertəsi anası gələndə yeni xalçanı yerə sərdi və ətrafa baxdı."
+          },
+          {
+            "text": "“It's small, but it's really cozy,” she said with a smile.",
+            "translation": "«Kiçikdir, amma çox rahat və doğmadır», – o, gülümsəyərək dedi."
+          },
+          {
+            "text": "“Now it really feels like home.”",
+            "translation": "«İndi bura doğrudan da ev kimidir.»"
+          },
+          {
+            "text": "Later that evening, they had dinner at Kamran's new table, and Mr. Rashidov came up to say hello.",
+            "translation": "Həmin axşam bir az sonra onlar Kamranın yeni masasında şam yeməyi yedilər, Rəşidov müəllim də salam vermək üçün yuxarı qalxdı."
+          }
+        ]
+      }
+    ],
+    "glossary": [
+      {
+        "term": "quiet",
+        "lemma": "quiet",
+        "partOfSpeech": "adjective",
+        "meaning": "with little noise and few people or cars",
+        "translation": "sakit"
+      },
+      {
+        "term": "neighborhood",
+        "lemma": "neighborhood",
+        "partOfSpeech": "noun",
+        "meaning": "an area of a city where people live",
+        "translation": "məhəllə"
+      },
+      {
+        "term": "spacious",
+        "lemma": "spacious",
+        "partOfSpeech": "adjective",
+        "meaning": "having a lot of space inside",
+        "translation": "geniş"
+      },
+      {
+        "term": "rent",
+        "lemma": "rent",
+        "partOfSpeech": "noun",
+        "meaning": "money you pay every month to live in a place",
+        "translation": "kirayə haqqı"
+      },
+      {
+        "term": "close to",
+        "lemma": "close to",
+        "partOfSpeech": "phrase",
+        "meaning": "near",
+        "translation": "yaxın"
+      },
+      {
+        "term": "landlord",
+        "lemma": "landlord",
+        "partOfSpeech": "noun",
+        "meaning": "the person who owns the apartment and gets the rent",
+        "translation": "ev sahibi"
+      },
+      {
+        "term": "first floor",
+        "lemma": "first floor",
+        "partOfSpeech": "phrase",
+        "meaning": "the floor of a building at street level (in American English)",
+        "translation": "birinci mərtəbə"
+      },
+      {
+        "term": "signed",
+        "lemma": "sign",
+        "partOfSpeech": "verb",
+        "meaning": "wrote his name on a document to show that he agreed",
+        "translation": "imzaladı"
+      },
+      {
+        "term": "lease",
+        "lemma": "lease",
+        "partOfSpeech": "noun",
+        "meaning": "a legal agreement to rent a home for a period of time",
+        "translation": "kirayə müqaviləsi"
+      },
+      {
+        "term": "moved in",
+        "lemma": "move in",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "started living in a new home",
+        "translation": "köçdü"
+      },
+      {
+        "term": "excited",
+        "lemma": "excited",
+        "partOfSpeech": "adjective",
+        "meaning": "very happy and full of energy because of something new",
+        "translation": "həyəcanlı"
+      },
+      {
+        "term": "his own place",
+        "lemma": "your own place",
+        "partOfSpeech": "phrase",
+        "meaning": "a home that is only yours",
+        "translation": "öz evi"
+      },
+      {
+        "term": "found out",
+        "lemma": "find out",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "learned something new",
+        "translation": "öyrəndi, bildi"
+      },
+      {
+        "term": "properly",
+        "lemma": "properly",
+        "partOfSpeech": "adverb",
+        "meaning": "in the correct way",
+        "translation": "düzgün, yaxşı"
+      },
+      {
+        "term": "pipe",
+        "lemma": "pipe",
+        "partOfSpeech": "noun",
+        "meaning": "a tube that carries water or gas",
+        "translation": "boru"
+      },
+      {
+        "term": "sink",
+        "lemma": "sink",
+        "partOfSpeech": "noun",
+        "meaning": "a bowl with a faucet in a kitchen or bathroom, where you wash things",
+        "translation": "lavabo"
+      },
+      {
+        "term": "leak",
+        "lemma": "leak",
+        "partOfSpeech": "noun",
+        "meaning": "a small hole or crack that lets water come out",
+        "translation": "su sızması, axma"
+      },
+      {
+        "term": "spot",
+        "lemma": "spot",
+        "partOfSpeech": "noun",
+        "meaning": "a small dirty mark",
+        "translation": "ləkə"
+      },
+      {
+        "term": "ceiling",
+        "lemma": "ceiling",
+        "partOfSpeech": "noun",
+        "meaning": "the top surface of a room",
+        "translation": "tavan"
+      },
+      {
+        "term": "carpet",
+        "lemma": "carpet",
+        "partOfSpeech": "noun",
+        "meaning": "a thick, soft cover for a floor",
+        "translation": "xalça"
+      },
+      {
+        "term": "mess",
+        "lemma": "mess",
+        "partOfSpeech": "noun",
+        "meaning": "a dirty or untidy state",
+        "translation": "dağınıqlıq, qarmaqarışıqlıq"
+      },
+      {
+        "term": "feel at home",
+        "lemma": "feel at home",
+        "partOfSpeech": "idiom",
+        "meaning": "to feel comfortable and relaxed in a place",
+        "translation": "özünü evindəki kimi hiss etmək"
+      },
+      {
+        "term": "at all",
+        "lemma": "at all",
+        "partOfSpeech": "phrase",
+        "meaning": "in any way (used to make a negative sentence stronger)",
+        "translation": "heç də, qətiyyən"
+      },
+      {
+        "term": "repair",
+        "lemma": "repair",
+        "partOfSpeech": "verb",
+        "meaning": "to fix something that is broken",
+        "translation": "təmir etmək"
+      },
+      {
+        "term": "plumber",
+        "lemma": "plumber",
+        "partOfSpeech": "noun",
+        "meaning": "a person whose job is to fix water pipes, sinks and toilets",
+        "translation": "santexnik"
+      },
+      {
+        "term": "fixing",
+        "lemma": "fix",
+        "partOfSpeech": "verb",
+        "meaning": "making something work again",
+        "translation": "düzəldir"
+      },
+      {
+        "term": "second-hand",
+        "lemma": "second-hand",
+        "partOfSpeech": "adjective",
+        "meaning": "not new; owned by someone before",
+        "translation": "ikinci əl"
+      },
+      {
+        "term": "furniture",
+        "lemma": "furniture",
+        "partOfSpeech": "noun",
+        "meaning": "tables, chairs, beds and similar things in a home",
+        "translation": "mebel"
+      },
+      {
+        "term": "bookshelf",
+        "lemma": "bookshelf",
+        "partOfSpeech": "noun",
+        "meaning": "a piece of furniture with shelves for books",
+        "translation": "kitab rəfi"
+      },
+      {
+        "term": "tidy",
+        "lemma": "tidy",
+        "partOfSpeech": "verb",
+        "meaning": "to make a place clean and put things in order",
+        "translation": "yığışdırmaq"
+      },
+      {
+        "term": "That's very kind of you",
+        "lemma": "that's very kind of you",
+        "partOfSpeech": "phrase",
+        "meaning": "a polite way to say thank you",
+        "translation": "çox sağ ol, çox mehribansan"
+      },
+      {
+        "term": "went well",
+        "lemma": "go well",
+        "partOfSpeech": "phrase",
+        "meaning": "to happen in a good way, without problems",
+        "translation": "yaxşı keçmək"
+      },
+      {
+        "term": "repaired",
+        "lemma": "repair",
+        "partOfSpeech": "verb",
+        "meaning": "fixed something that was broken",
+        "translation": "təmir etdi"
+      },
+      {
+        "term": "in an hour",
+        "lemma": "in an hour",
+        "partOfSpeech": "phrase",
+        "meaning": "in the time of one hour",
+        "translation": "bir saata"
+      },
+      {
+        "term": "even",
+        "lemma": "even",
+        "partOfSpeech": "adverb",
+        "meaning": "used to show that something is surprising",
+        "translation": "hətta"
+      },
+      {
+        "term": "arranged",
+        "lemma": "arrange",
+        "partOfSpeech": "verb",
+        "meaning": "put things in a particular place or order",
+        "translation": "yerləşdirdi"
+      },
+      {
+        "term": "unpacked",
+        "lemma": "unpack",
+        "partOfSpeech": "verb",
+        "meaning": "took things out of a box or bag",
+        "translation": "boşaltdı"
+      },
+      {
+        "term": "neat and tidy",
+        "lemma": "neat and tidy",
+        "partOfSpeech": "idiom",
+        "meaning": "clean, with everything in its place",
+        "translation": "səliqə-sahmanlı"
+      },
+      {
+        "term": "decorated",
+        "lemma": "decorate",
+        "partOfSpeech": "verb",
+        "meaning": "made a place more beautiful by adding things to it",
+        "translation": "bəzədi"
+      },
+      {
+        "term": "looked around",
+        "lemma": "look around",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "looked at everything in a place",
+        "translation": "ətrafa baxdı"
+      },
+      {
+        "term": "cozy",
+        "lemma": "cozy",
+        "partOfSpeech": "adjective",
+        "meaning": "warm, comfortable and pleasant",
+        "translation": "rahat, doğma"
+      },
+      {
+        "term": "with a smile",
+        "lemma": "with a smile",
+        "partOfSpeech": "phrase",
+        "meaning": "while smiling",
+        "translation": "gülümsəyərək"
+      },
+      {
+        "term": "feels like home",
+        "lemma": "feel like home",
+        "partOfSpeech": "idiom",
+        "meaning": "to feel comfortable, like your own home",
+        "translation": "ev kimi gəlmək, doğma olmaq"
+      },
+      {
+        "term": "came up",
+        "lemma": "come up",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "came to a higher floor of the building",
+        "translation": "yuxarı qalxdı"
+      },
+      {
+        "term": "say hello",
+        "lemma": "say hello",
+        "partOfSpeech": "phrase",
+        "meaning": "to greet someone",
+        "translation": "salam vermək"
+      }
+    ]
+  },
+  "grammar": {
+    "topic": "Present continuous for future arrangements",
+    "topicTranslation": "Gələcək razılaşmalar üçün present continuous",
+    "explanation": "We often use the present continuous (am/is/are + verb-ing) to talk about future arrangements. An arrangement is a plan that is already fixed: we have agreed on it with other people, booked it or written it in our calendar. We usually say when it is happening, for example tonight, on Friday or next week. Without a time expression, the present continuous usually means now.",
+    "explanationTranslation": "Gələcəkdə baş verəcək razılaşdırılmış planlar haqqında danışmaq üçün tez-tez present continuous (am/is/are + feil-ing) işlədirik. Belə plan artıq dəqiqləşdirilmiş olur: başqaları ilə razılaşmışıq, yer sifariş etmişik və ya təqvimimizə yazmışıq. Adətən bunun nə vaxt olacağını da deyirik, məsələn: tonight, on Friday, next week. Vaxt ifadəsi olmadıqda present continuous adətən indi baş verən hərəkəti bildirir.",
+    "rules": [
+      {
+        "text": "Form: am/is/are + verb-ing + a future time (I'm meeting Elvin on Sunday).",
+        "translation": "Quruluş: am/is/are + feil-ing + gələcək vaxt (I'm meeting Elvin on Sunday)."
+      },
+      {
+        "text": "Use it for fixed plans with other people: meetings, appointments, trips and parties.",
+        "translation": "Başqaları ilə razılaşdırılmış dəqiq planlar üçün işlədilir: görüşlər, qəbullar, səfərlər, qonaqlıqlar."
+      },
+      {
+        "text": "Add a time expression (tomorrow, at six, next month) to make it clear that you mean the future.",
+        "translation": "Gələcəkdən danışdığınız aydın olsun deyə vaxt ifadəsi əlavə edin (tomorrow, at six, next month)."
+      },
+      {
+        "text": "Ask about someone's plans with the present continuous: What are you doing this weekend?",
+        "translation": "Birinin planları haqqında present continuous ilə soruşuruq: What are you doing this weekend?"
+      }
+    ],
+    "examples": [
+      {
+        "text": "I'm meeting my landlord at ten tomorrow.",
+        "translation": "Sabah saat onda ev sahibimlə görüşürəm."
+      },
+      {
+        "text": "We're renting a car next weekend.",
+        "translation": "Gələn həftəsonu maşın kirayə götürürük."
+      },
+      {
+        "text": "What are you doing on Saturday evening?",
+        "translation": "Şənbə axşamı nə edirsən?"
+      },
+      {
+        "text": "A plumber is coming to repair the washing machine on Thursday.",
+        "translation": "Cümə axşamı paltaryuyan maşını təmir etmək üçün santexnik gəlir."
+      },
+      {
+        "text": "She isn't working next Monday because she's flying to Ganja.",
+        "translation": "O, gələn bazar ertəsi işləmir, çünki Gəncəyə uçur."
+      }
+    ],
+    "exercise": {
+      "instructions": "Choose or write the correct form of the verb.",
+      "instructionsTranslation": "Feilin düzgün formasını seçin və ya yazın.",
+      "questions": [
+        {
+          "type": "choice",
+          "prompt": "I ___ the dentist at four o'clock tomorrow.",
+          "promptTranslation": "Sabah saat dörddə diş həkiminin qəbuluna gedirəm.",
+          "options": [
+            "see",
+            "am seeing",
+            "saw"
+          ],
+          "answer": "am seeing",
+          "explanation": "It is a fixed appointment in the future, so we use the present continuous.",
+          "explanationTranslation": "Bu, gələcək üçün dəqiq təyin olunmuş görüşdür, ona görə present continuous işlədilir."
+        },
+        {
+          "type": "choice",
+          "prompt": "“What ___ this weekend?” “We're visiting my grandparents.”",
+          "promptTranslation": "«Bu həftəsonu nə edirsiniz?» «Nənəmgilə qonaq gedirik.»",
+          "options": [
+            "do you do",
+            "are you doing",
+            "did you do"
+          ],
+          "answer": "are you doing",
+          "explanation": "We ask about someone's future plans with the present continuous.",
+          "explanationTranslation": "Birinin gələcək planları haqqında present continuous ilə soruşuruq."
+        },
+        {
+          "type": "text",
+          "prompt": "My sister ___ (get) married in June.",
+          "promptTranslation": "Bacım iyun ayında ərə gedir.",
+          "answer": "is getting",
+          "acceptedAnswers": [
+            "'s getting"
+          ],
+          "explanation": "The wedding is already planned and arranged, so we use the present continuous.",
+          "explanationTranslation": "Toy artıq planlaşdırılıb və razılaşdırılıb, ona görə present continuous işlədilir."
+        },
+        {
+          "type": "text",
+          "prompt": "We ___ (not / move) to a new apartment next month – the landlord changed his mind.",
+          "promptTranslation": "Gələn ay yeni mənzilə köçmürük – ev sahibi fikrini dəyişdi.",
+          "answer": "aren't moving",
+          "acceptedAnswers": [
+            "are not moving",
+            "'re not moving"
+          ],
+          "explanation": "The arrangement was canceled, so we use the negative present continuous.",
+          "explanationTranslation": "Razılaşma ləğv olunub, ona görə present continuous zamanının inkar forması işlədilir."
+        },
+        {
+          "type": "choice",
+          "prompt": "Kamran ___ furniture with Elvin on Sunday – they have already agreed on the time.",
+          "promptTranslation": "Kamran bazar günü Elvinlə mebel alır – onlar artıq vaxt barədə razılaşıblar.",
+          "options": [
+            "buys",
+            "is buying",
+            "bought"
+          ],
+          "answer": "is buying",
+          "explanation": "It is an arrangement with another person at a fixed time.",
+          "explanationTranslation": "Bu, başqa bir adamla müəyyən vaxta razılaşdırılmış plandır."
+        }
+      ]
+    }
+  }
+}

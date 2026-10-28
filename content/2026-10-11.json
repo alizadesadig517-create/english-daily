@@ -1,0 +1,1005 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-11",
+  "level": "B1",
+  "translationLanguage": "az",
+  "words": [
+    {
+      "word": "environment",
+      "ipa": "/ɪnˈvaɪrənmənt/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "ətraf mühit; mühit",
+          "definition": "the air, water, land, plants and animals around us; also, the conditions in which you live or work",
+          "synonyms": [
+            "nature",
+            "surroundings"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Plastic bags are bad for the environment.",
+              "translation": "Plastik torbalar ətraf mühitə ziyandır."
+            },
+            {
+              "text": "Children need a safe and happy environment at home.",
+              "translation": "Uşaqlara evdə təhlükəsiz və xoşbəxt mühit lazımdır."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "pollution",
+      "ipa": "/pəˈluʃən/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "çirklənmə",
+          "definition": "dirty or harmful things in the air, water or land, or the process of making them dirty",
+          "synonyms": [
+            "contamination"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Air pollution in big cities is a serious problem.",
+              "translation": "Böyük şəhərlərdə havanın çirklənməsi ciddi problemdir."
+            },
+            {
+              "text": "The factory was closed because of water pollution.",
+              "translation": "Fabrik suyu çirkləndirdiyi üçün bağlandı."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "protect",
+      "ipa": "/prəˈtɛkt/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "qorumaq, mühafizə etmək",
+          "definition": "to keep someone or something safe from harm or damage",
+          "synonyms": [
+            "defend",
+            "guard",
+            "keep safe"
+          ],
+          "antonyms": [
+            "harm",
+            "attack"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Wear a hat to protect your face from the sun.",
+              "translation": "Üzünü günəşdən qorumaq üçün papaq tax."
+            },
+            {
+              "text": "The new law protects wild animals.",
+              "translation": "Yeni qanun vəhşi heyvanları qoruyur."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "recycle",
+      "ipa": "/riˈsaɪkəl/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "təkrar emal etmək",
+          "definition": "to treat used things such as paper, glass or plastic so that they can be used again",
+          "synonyms": [
+            "reuse"
+          ],
+          "antonyms": [
+            "throw away",
+            "waste"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "We recycle all our paper and plastic bottles.",
+              "translation": "Biz bütün kağızlarımızı və plastik butulkalarımızı təkrar emala veririk."
+            },
+            {
+              "text": "This bag is made from recycled plastic.",
+              "translation": "Bu torba təkrar emal olunmuş plastikdən hazırlanıb."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "species",
+      "ipa": "/ˈspiʃiz/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "növ (canlı növü)",
+          "definition": "a group of animals or plants of the same kind that can have young ones together",
+          "synonyms": [
+            "kind",
+            "type"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "There are hundreds of species of birds in this national park.",
+              "translation": "Bu milli parkda yüzlərlə quş növü var."
+            },
+            {
+              "text": "Scientists discovered a new species of frog.",
+              "translation": "Alimlər yeni bir qurbağa növü kəşf etdilər."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "wildlife",
+      "ipa": "/ˈwaɪldˌlaɪf/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "vəhşi təbiət, yabanı heyvanlar",
+          "definition": "animals, birds and plants that live free in nature",
+          "synonyms": [
+            "nature"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The national park is home to a lot of wildlife.",
+              "translation": "Milli park çoxlu yabanı heyvanın məskənidir."
+            },
+            {
+              "text": "Pollution is a danger to wildlife.",
+              "translation": "Çirklənmə vəhşi təbiət üçün təhlükədir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "climate",
+      "ipa": "/ˈklaɪmət/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "iqlim",
+          "definition": "the usual weather of a place over a long period of time",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Lankaran has a warm and wet climate.",
+              "translation": "Lənkəranın iqlimi isti və rütubətlidir."
+            },
+            {
+              "text": "Climate change is one of the biggest problems today.",
+              "translation": "İqlim dəyişikliyi bu günün ən böyük problemlərindən biridir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "harm",
+      "ipa": "/hɑrm/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "zərər vermək, ziyan vurmaq",
+          "definition": "to hurt or damage someone or something",
+          "synonyms": [
+            "hurt",
+            "damage",
+            "injure"
+          ],
+          "antonyms": [
+            "protect",
+            "help"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Too much sun can harm your skin.",
+              "translation": "Həddindən artıq günəş dərinizə zərər verə bilər."
+            },
+            {
+              "text": "No animals were harmed during the making of this film.",
+              "translation": "Bu filmin çəkilişi zamanı heç bir heyvana zərər verilməyib."
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "noun",
+          "translation": "zərər, ziyan",
+          "definition": "damage or injury to someone or something",
+          "synonyms": [
+            "damage",
+            "injury",
+            "hurt"
+          ],
+          "antonyms": [
+            "benefit",
+            "good"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "A little coffee won't do you any harm.",
+              "translation": "Bir az qəhvə sənə heç bir zərər verməz."
+            },
+            {
+              "text": "He didn't mean any harm – it was just a joke.",
+              "translation": "Onun pis niyyəti yox idi – bu, sadəcə zarafat idi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "preserve",
+      "ipa": "/prɪˈzɝv/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "qoruyub saxlamaq, mühafizə etmək",
+          "definition": "to keep something in its original state, or to keep it safe from damage or change",
+          "synonyms": [
+            "protect",
+            "keep",
+            "save"
+          ],
+          "antonyms": [
+            "destroy",
+            "damage"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The town has preserved its old buildings.",
+              "translation": "Şəhər köhnə binalarını qoruyub saxlayıb."
+            },
+            {
+              "text": "We must preserve these forests for the future.",
+              "translation": "Bu meşələri gələcək üçün qoruyub saxlamalıyıq."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "extinct",
+      "ipa": "/ɪkˈstɪŋkt/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "nəsli kəsilmiş",
+          "definition": "no longer existing, because all the animals or plants of this kind have died",
+          "synonyms": [],
+          "antonyms": [
+            "living",
+            "alive"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Dinosaurs became extinct millions of years ago.",
+              "translation": "Dinozavrların nəsli milyonlarla il əvvəl kəsilib."
+            },
+            {
+              "text": "Some kinds of tigers are already extinct.",
+              "translation": "Bəzi pələng növlərinin nəsli artıq kəsilib."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "plastic",
+      "ipa": "/ˈplæstɪk/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "plastik",
+          "definition": "a light, strong material made from chemicals and used to make many things",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "This chair is made of plastic.",
+              "translation": "Bu stul plastikdən hazırlanıb."
+            },
+            {
+              "text": "We use too much plastic in our daily lives.",
+              "translation": "Gündəlik həyatımızda həddindən artıq plastik işlədirik."
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "adjective",
+          "translation": "plastik",
+          "definition": "made of a light, strong material from chemicals",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Bring your own bag instead of a plastic one.",
+              "translation": "Plastik torba əvəzinə öz çantanı gətir."
+            },
+            {
+              "text": "The children drank juice from plastic cups.",
+              "translation": "Uşaqlar plastik stəkanlardan şirə içdilər."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "resource",
+      "ipa": "/ˈrisɔrs/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "sərvət, ehtiyat, vəsait",
+          "definition": "something useful that people can use, such as water, oil, money or time",
+          "synonyms": [
+            "supply",
+            "source"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Water is a precious natural resource.",
+              "translation": "Su qiymətli təbii sərvətdir."
+            },
+            {
+              "text": "The school doesn't have enough resources to buy new computers.",
+              "translation": "Məktəbin yeni kompüterlər almağa kifayət qədər vəsaiti yoxdur."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "renewable",
+      "ipa": "/rɪˈnuəbəl/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "bərpa olunan",
+          "definition": "that can be replaced naturally and will not be used up, like energy from the sun or wind",
+          "synonyms": [],
+          "antonyms": [
+            "non-renewable"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Wind and solar power are renewable sources of energy.",
+              "translation": "Külək və günəş enerjisi bərpa olunan enerji mənbələridir."
+            },
+            {
+              "text": "The country wants to get half of its electricity from renewable energy.",
+              "translation": "Ölkə elektrik enerjisinin yarısını bərpa olunan enerjidən əldə etmək istəyir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "global",
+      "ipa": "/ˈɡloʊbəl/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "qlobal, ümumdünya",
+          "definition": "relating to or affecting the whole world",
+          "synonyms": [
+            "worldwide",
+            "international"
+          ],
+          "antonyms": [
+            "local"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Global warming is making summers hotter.",
+              "translation": "Qlobal istiləşmə yayları daha isti edir."
+            },
+            {
+              "text": "The company has a global network of offices.",
+              "translation": "Şirkətin ofisləri bütün dünyaya yayılıb."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sustainable",
+      "ipa": "/səˈsteɪnəbəl/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "dayanıqlı, ekoloji cəhətdən davamlı",
+          "definition": "that can continue for a long time without hurting nature or using up resources",
+          "synonyms": [
+            "green",
+            "eco-friendly"
+          ],
+          "antonyms": [
+            "unsustainable"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "We need more sustainable ways to produce food.",
+              "translation": "Ərzaq istehsalının ətraf mühitə zərər verməyən, daha dayanıqlı üsullarına ehtiyacımız var."
+            },
+            {
+              "text": "Walking and cycling are sustainable ways to travel.",
+              "translation": "Piyada getmək və velosiped sürmək ətraf mühitə zərər verməyən hərəkət üsullarıdır."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "story": {
+    "title": "A Cleaner Beach",
+    "titleTranslation": "Daha təmiz çimərlik",
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "Every summer, Leyla visits her grandfather in a small village near the Caspian Sea.",
+            "translation": "Hər yay Leyla Xəzər dənizi yaxınlığındakı kiçik bir kənddə yaşayan babasına baş çəkir."
+          },
+          {
+            "text": "When she was a child, the beach there was the most beautiful place in the world for her.",
+            "translation": "Uşaq olanda oradakı çimərlik onun üçün dünyanın ən gözəl yeri idi."
+          },
+          {
+            "text": "The water was clear, and the wildlife was amazing: there were seals, fish and hundreds of birds.",
+            "translation": "Su dupduru idi, vəhşi təbiət isə heyrətamiz idi: suitilər, balıqlar və yüzlərlə quş var idi."
+          },
+          {
+            "text": "But this year the beach looked dirtier than ever: there were plastic bottles and bags everywhere.",
+            "translation": "Amma bu il çimərlik həmişəkindən daha çirkli görünürdü: hər yerdə plastik butulkalar və torbalar var idi."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "“Pollution is a bigger problem now than it was forty years ago,” her grandfather said sadly.",
+            "translation": "«Çirklənmə indi qırx il əvvəlkindən daha böyük problemdir», – babası kədərlə dedi."
+          },
+          {
+            "text": "“The summers are hotter and drier, too. The climate is changing, and it's a global problem, not just ours.”",
+            "translation": "«Yaylar da daha isti və quraq keçir. İqlim dəyişir və bu, təkcə bizim yox, bütün dünyanın problemidir.»"
+          },
+          {
+            "text": "He told Leyla that some species of birds no longer stop here on their long journey south, and one kind of fish from his childhood is almost extinct now.",
+            "translation": "O, Leylaya dedi ki, bəzi quş növləri cənuba uzun yolçuluqları zamanı artıq burada qonmur, uşaqlığında tutduğu bir balıq növünün isə nəsli indi demək olar ki, kəsilib."
+          },
+          {
+            "text": "“People think that a single bag can't harm the sea,” he said, “but millions of bags can.”",
+            "translation": "«İnsanlar elə bilir ki, bircə torba dənizə zərər verə bilməz», – dedi, – «amma milyonlarla torba verə bilər.»"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Leyla thought for a moment. “Then let's do something,” she said. “Even a small step is better than nothing.”",
+            "translation": "Leyla bir anlıq düşündü. «Onda gəl bir iş görək», – dedi. «Kiçik bir addım belə heç nədən yaxşıdır.»"
+          },
+          {
+            "text": "The next morning, Leyla, her grandfather and five children from the village collected bags of trash from the sand.",
+            "translation": "Ertəsi səhər Leyla, babası və kənddən beş uşaq qumun üstündən kisə-kisə zibil yığdılar."
+          },
+          {
+            "text": "They separated the plastic and the glass so they could recycle them in the nearest town.",
+            "translation": "Ən yaxın şəhərdə təkrar emala vermək üçün plastiki və şüşəni ayırdılar."
+          },
+          {
+            "text": "It was hard work, but it was also the happiest morning of the summer: the children sang songs and laughed the whole time.",
+            "translation": "İş ağır idi, amma həm də yayın ən şən səhəri idi: uşaqlar bütün vaxt mahnı oxuyub güldülər."
+          },
+          {
+            "text": "By evening, the beach looked much cleaner, and the children made a sign: “Protect our environment – it's the only home we have!”",
+            "translation": "Axşama doğru çimərlik xeyli təmiz görünürdü, uşaqlar isə bir lövhə düzəltdilər: «Ətraf mühiti qoruyun – bu, bizim yeganə evimizdir!»"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "That night, Leyla and her grandfather sat on the porch and talked about the future.",
+            "translation": "Həmin gecə Leyla və babası eyvanda oturub gələcək haqqında danışdılar."
+          },
+          {
+            "text": "Her grandfather said that clean water and air are our most important resources, and that we should use them more carefully.",
+            "translation": "Babası dedi ki, təmiz su və hava ən vacib sərvətlərimizdir və onlardan daha ehtiyatla istifadə etməliyik."
+          },
+          {
+            "text": "He wants to put solar panels on his roof, because solar power is cleaner than gas, and it is renewable – the sun will never run out.",
+            "translation": "O, damına günəş panelləri quraşdırmaq istəyir, çünki günəş enerjisi qazdan daha təmizdir və bərpa olunandır – günəş heç vaxt tükənməyəcək."
+          },
+          {
+            "text": "“We need a more sustainable way of life,” he said, “so that we can preserve nature for your children.”",
+            "translation": "«Bizə təbiətə daha az zərər verən, dayanıqlı bir həyat tərzi lazımdır», – dedi, – «ki, təbiəti sizin uşaqlarınız üçün qoruyub saxlaya bilək.»"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "“This was the best day of my summer,” Leyla said, and her grandfather smiled proudly.",
+            "translation": "«Bu, yayımın ən gözəl günü idi», – Leyla dedi, babası isə qürurla gülümsədi."
+          },
+          {
+            "text": "Next year, they plan to clean an even longer part of the beach – and this time the whole village wants to help.",
+            "translation": "Gələn il onlar çimərliyin daha da uzun bir hissəsini təmizləməyi planlaşdırırlar – bu dəfə isə bütün kənd kömək etmək istəyir."
+          }
+        ]
+      }
+    ],
+    "glossary": [
+      {
+        "term": "village",
+        "lemma": "village",
+        "partOfSpeech": "noun",
+        "meaning": "a very small town in the countryside",
+        "translation": "kənd"
+      },
+      {
+        "term": "beach",
+        "lemma": "beach",
+        "partOfSpeech": "noun",
+        "meaning": "an area of sand next to the sea",
+        "translation": "çimərlik"
+      },
+      {
+        "term": "the most beautiful",
+        "lemma": "the most beautiful",
+        "partOfSpeech": "phrase",
+        "meaning": "more beautiful than all the others",
+        "translation": "ən gözəl"
+      },
+      {
+        "term": "wildlife",
+        "lemma": "wildlife",
+        "partOfSpeech": "noun",
+        "meaning": "wild animals, birds and plants living in nature",
+        "translation": "vəhşi təbiət, canlı aləm"
+      },
+      {
+        "term": "amazing",
+        "lemma": "amazing",
+        "partOfSpeech": "adjective",
+        "meaning": "very surprising and wonderful",
+        "translation": "heyrətamiz"
+      },
+      {
+        "term": "seals",
+        "lemma": "seal",
+        "partOfSpeech": "noun",
+        "meaning": "large sea animals with smooth fur that live in water and on land",
+        "translation": "suitilər"
+      },
+      {
+        "term": "dirtier than ever",
+        "lemma": "dirtier than ever",
+        "partOfSpeech": "phrase",
+        "meaning": "more dirty than at any time before",
+        "translation": "həmişəkindən daha çirkli"
+      },
+      {
+        "term": "plastic",
+        "lemma": "plastic",
+        "partOfSpeech": "adjective",
+        "meaning": "made of plastic, a light material from chemicals",
+        "translation": "plastik"
+      },
+      {
+        "term": "Pollution",
+        "lemma": "pollution",
+        "partOfSpeech": "noun",
+        "meaning": "dirty or harmful things in the air, water or land",
+        "translation": "çirklənmə"
+      },
+      {
+        "term": "drier",
+        "lemma": "dry",
+        "partOfSpeech": "adjective",
+        "meaning": "with less rain or water",
+        "translation": "daha quraq"
+      },
+      {
+        "term": "climate",
+        "lemma": "climate",
+        "partOfSpeech": "noun",
+        "meaning": "the usual weather in a place over many years",
+        "translation": "iqlim"
+      },
+      {
+        "term": "global",
+        "lemma": "global",
+        "partOfSpeech": "adjective",
+        "meaning": "affecting the whole world",
+        "translation": "qlobal, ümumdünya"
+      },
+      {
+        "term": "species",
+        "lemma": "species",
+        "partOfSpeech": "noun",
+        "meaning": "a group of animals or plants of the same kind",
+        "translation": "növ"
+      },
+      {
+        "term": "no longer",
+        "lemma": "no longer",
+        "partOfSpeech": "phrase",
+        "meaning": "not any more",
+        "translation": "artıq (...mır)"
+      },
+      {
+        "term": "journey",
+        "lemma": "journey",
+        "partOfSpeech": "noun",
+        "meaning": "a long trip from one place to another",
+        "translation": "yolçuluq, səfər"
+      },
+      {
+        "term": "childhood",
+        "lemma": "childhood",
+        "partOfSpeech": "noun",
+        "meaning": "the time when you are a child",
+        "translation": "uşaqlıq"
+      },
+      {
+        "term": "extinct",
+        "lemma": "extinct",
+        "partOfSpeech": "adjective",
+        "meaning": "no longer existing; with no animals of this kind still alive",
+        "translation": "nəsli kəsilmiş"
+      },
+      {
+        "term": "single",
+        "lemma": "single",
+        "partOfSpeech": "adjective",
+        "meaning": "only one",
+        "translation": "bircə, tək"
+      },
+      {
+        "term": "harm",
+        "lemma": "harm",
+        "partOfSpeech": "verb",
+        "meaning": "to hurt or damage",
+        "translation": "zərər vermək"
+      },
+      {
+        "term": "for a moment",
+        "lemma": "for a moment",
+        "partOfSpeech": "phrase",
+        "meaning": "for a very short time",
+        "translation": "bir anlıq"
+      },
+      {
+        "term": "step",
+        "lemma": "step",
+        "partOfSpeech": "noun",
+        "meaning": "one action in a series of actions",
+        "translation": "addım"
+      },
+      {
+        "term": "better than nothing",
+        "lemma": "better than nothing",
+        "partOfSpeech": "idiom",
+        "meaning": "not perfect, but still useful",
+        "translation": "heç nədən yaxşıdır"
+      },
+      {
+        "term": "collected",
+        "lemma": "collect",
+        "partOfSpeech": "verb",
+        "meaning": "picked up and brought together",
+        "translation": "yığdılar"
+      },
+      {
+        "term": "trash",
+        "lemma": "trash",
+        "partOfSpeech": "noun",
+        "meaning": "things that people throw away (American English)",
+        "translation": "zibil"
+      },
+      {
+        "term": "sand",
+        "lemma": "sand",
+        "partOfSpeech": "noun",
+        "meaning": "the very small grains that cover a beach",
+        "translation": "qum"
+      },
+      {
+        "term": "separated",
+        "lemma": "separate",
+        "partOfSpeech": "verb",
+        "meaning": "put into different groups",
+        "translation": "ayırdılar"
+      },
+      {
+        "term": "recycle",
+        "lemma": "recycle",
+        "partOfSpeech": "verb",
+        "meaning": "to treat used things so they can be used again",
+        "translation": "təkrar emal etmək"
+      },
+      {
+        "term": "nearest",
+        "lemma": "near",
+        "partOfSpeech": "adjective",
+        "meaning": "the closest",
+        "translation": "ən yaxın"
+      },
+      {
+        "term": "hard work",
+        "lemma": "hard work",
+        "partOfSpeech": "phrase",
+        "meaning": "work that needs a lot of effort",
+        "translation": "ağır iş, zəhmət"
+      },
+      {
+        "term": "the happiest",
+        "lemma": "the happiest",
+        "partOfSpeech": "phrase",
+        "meaning": "happier than all the others",
+        "translation": "ən xoşbəxt, ən şən"
+      },
+      {
+        "term": "the whole time",
+        "lemma": "the whole time",
+        "partOfSpeech": "phrase",
+        "meaning": "all the time, from the beginning to the end",
+        "translation": "bütün vaxt, əvvəldən axıra qədər"
+      },
+      {
+        "term": "much cleaner",
+        "lemma": "much cleaner",
+        "partOfSpeech": "phrase",
+        "meaning": "a lot more clean",
+        "translation": "xeyli təmiz"
+      },
+      {
+        "term": "sign",
+        "lemma": "sign",
+        "partOfSpeech": "noun",
+        "meaning": "a board with words on it that gives information",
+        "translation": "lövhə"
+      },
+      {
+        "term": "Protect",
+        "lemma": "protect",
+        "partOfSpeech": "verb",
+        "meaning": "to keep safe from harm",
+        "translation": "qorumaq"
+      },
+      {
+        "term": "environment",
+        "lemma": "environment",
+        "partOfSpeech": "noun",
+        "meaning": "the air, water, land, animals and plants around us",
+        "translation": "ətraf mühit"
+      },
+      {
+        "term": "porch",
+        "lemma": "porch",
+        "partOfSpeech": "noun",
+        "meaning": "a covered area at the front of a house",
+        "translation": "eyvan"
+      },
+      {
+        "term": "resources",
+        "lemma": "resource",
+        "partOfSpeech": "noun",
+        "meaning": "useful things such as water, air or wood that people need",
+        "translation": "sərvətlər"
+      },
+      {
+        "term": "carefully",
+        "lemma": "carefully",
+        "partOfSpeech": "adverb",
+        "meaning": "with attention, so that you do not waste or damage anything",
+        "translation": "ehtiyatla, diqqətlə"
+      },
+      {
+        "term": "solar panels",
+        "lemma": "solar panel",
+        "partOfSpeech": "noun",
+        "meaning": "flat pieces of equipment that make electricity from sunlight",
+        "translation": "günəş panelləri"
+      },
+      {
+        "term": "solar power",
+        "lemma": "solar power",
+        "partOfSpeech": "noun",
+        "meaning": "energy made from sunlight",
+        "translation": "günəş enerjisi"
+      },
+      {
+        "term": "renewable",
+        "lemma": "renewable",
+        "partOfSpeech": "adjective",
+        "meaning": "that comes again naturally and will not be used up",
+        "translation": "bərpa olunan"
+      },
+      {
+        "term": "run out",
+        "lemma": "run out",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "to be completely used, so that there is none left",
+        "translation": "tükənmək"
+      },
+      {
+        "term": "sustainable",
+        "lemma": "sustainable",
+        "partOfSpeech": "adjective",
+        "meaning": "that can continue for a long time without harming nature",
+        "translation": "dayanıqlı, təbiətə zərər verməyən"
+      },
+      {
+        "term": "way of life",
+        "lemma": "way of life",
+        "partOfSpeech": "phrase",
+        "meaning": "how people usually live",
+        "translation": "həyat tərzi"
+      },
+      {
+        "term": "preserve",
+        "lemma": "preserve",
+        "partOfSpeech": "verb",
+        "meaning": "to keep something safe so that it does not disappear",
+        "translation": "qoruyub saxlamaq"
+      },
+      {
+        "term": "proudly",
+        "lemma": "proudly",
+        "partOfSpeech": "adverb",
+        "meaning": "in a way that shows you are pleased with someone",
+        "translation": "qürurla"
+      },
+      {
+        "term": "even longer",
+        "lemma": "even",
+        "partOfSpeech": "adverb",
+        "meaning": "used to make a comparison stronger",
+        "translation": "daha da uzun"
+      }
+    ]
+  },
+  "grammar": {
+    "topic": "Comparatives and superlatives",
+    "topicTranslation": "Sifətin müqayisə və üstünlük dərəcələri",
+    "explanation": "We use comparative adjectives to compare two people or things, usually with than: Baku is bigger than Ganja. We use superlative adjectives to say that one thing is more (or less) than all the others in a group, usually with the: It's the tallest building in the city. Short adjectives take -er and -est, and longer adjectives use more and most. Some adjectives are irregular: good – better – best, bad – worse – worst.",
+    "explanationTranslation": "İki insanı və ya əşyanı müqayisə etmək üçün sifətin müqayisə dərəcəsini işlədirik, adətən than ilə: Baku is bigger than Ganja. Bir şeyin qrupdakı bütün digərlərindən daha çox (və ya daha az) olduğunu demək üçün isə üstünlük dərəcəsini işlədirik, adətən the ilə: It's the tallest building in the city. Qısa sifətlərə -er və -est şəkilçiləri artırılır, uzun sifətlərdən əvvəl isə more və most gəlir. Bəzi sifətlər qaydaya tabe deyil: good – better – best, bad – worse – worst.",
+    "rules": [
+      {
+        "text": "One-syllable adjectives: add -er / -est (cold – colder – the coldest). If the word ends in one vowel + one consonant, double the consonant (big – bigger – the biggest).",
+        "translation": "Birhecalı sifətlərə -er / -est artırılır (cold – colder – the coldest). Söz bir sait + bir samitlə bitirsə, son samit qoşalaşır (big – bigger – the biggest)."
+      },
+      {
+        "text": "Adjectives ending in a consonant + y: change y to i (dirty – dirtier – the dirtiest).",
+        "translation": "Samit + y ilə bitən sifətlərdə y hərfi i-yə çevrilir (dirty – dirtier – the dirtiest)."
+      },
+      {
+        "text": "Most other adjectives with two or more syllables: more / the most (polluted – more polluted – the most polluted).",
+        "translation": "İki və daha çox hecalı digər sifətlərin əksəriyyəti more / the most ilə işlənir (polluted – more polluted – the most polluted)."
+      },
+      {
+        "text": "Irregular forms: good – better – the best; bad – worse – the worst; far – farther – the farthest.",
+        "translation": "Qaydaya tabe olmayan formalar: good – better – the best; bad – worse – the worst; far – farther – the farthest."
+      }
+    ],
+    "examples": [
+      {
+        "text": "The air in the mountains is cleaner than in the city.",
+        "translation": "Dağlarda hava şəhərdəkindən daha təmizdir."
+      },
+      {
+        "text": "Pollution is the biggest problem in our town.",
+        "translation": "Çirklənmə şəhərimizin ən böyük problemidir."
+      },
+      {
+        "text": "Recycling is easier than many people think.",
+        "translation": "Təkrar emal bir çox insanın düşündüyündən daha asandır."
+      },
+      {
+        "text": "This is the most beautiful beach I have ever seen.",
+        "translation": "Bu, indiyə qədər gördüyüm ən gözəl çimərlikdir."
+      },
+      {
+        "text": "Today the weather is worse than yesterday.",
+        "translation": "Bu gün hava dünənkindən daha pisdir."
+      }
+    ],
+    "exercise": {
+      "instructions": "Choose or write the correct comparative or superlative form.",
+      "instructionsTranslation": "Sifətin düzgün müqayisə və ya üstünlük dərəcəsini seçin və ya yazın.",
+      "questions": [
+        {
+          "type": "choice",
+          "prompt": "The blue whale is ___ animal in the world.",
+          "promptTranslation": "Göy balina dünyanın ən iri heyvanıdır.",
+          "options": [
+            "the larger",
+            "the largest",
+            "larger"
+          ],
+          "answer": "the largest",
+          "explanation": "We compare it with all the animals in the world, so we need the superlative.",
+          "explanationTranslation": "Onu dünyadakı bütün heyvanlarla müqayisə edirik, ona görə üstünlük dərəcəsi lazımdır."
+        },
+        {
+          "type": "text",
+          "prompt": "Plastic bags are ___ (bad) for the sea than paper bags.",
+          "promptTranslation": "Plastik torbalar dəniz üçün kağız torbalardan daha ziyanlıdır.",
+          "answer": "worse",
+          "explanation": "Bad is irregular: bad – worse – the worst.",
+          "explanationTranslation": "Bad sifəti qaydaya tabe deyil: bad – worse – the worst."
+        },
+        {
+          "type": "choice",
+          "prompt": "This summer was ___ than last summer.",
+          "promptTranslation": "Bu yay keçən yaydan daha isti idi.",
+          "options": [
+            "hotter",
+            "hoter",
+            "more hot"
+          ],
+          "answer": "hotter",
+          "explanation": "Hot ends in one vowel + one consonant, so we double the t: hotter.",
+          "explanationTranslation": "Hot sözü bir sait + bir samitlə bitir, ona görə t qoşalaşır: hotter."
+        },
+        {
+          "type": "text",
+          "prompt": "Recycling is ___ (important) thing we can do for the environment.",
+          "promptTranslation": "Təkrar emal ətraf mühit üçün edə biləcəyimiz ən vacib işdir.",
+          "answer": "the most important",
+          "explanation": "Important is a long adjective, so the superlative is the most important.",
+          "explanationTranslation": "Important uzun sifətdir, ona görə üstünlük dərəcəsi the most important olur."
+        },
+        {
+          "type": "choice",
+          "prompt": "Our street is ___ than it was ten years ago.",
+          "promptTranslation": "Küçəmiz on il əvvəlkindən daha səs-küylüdür.",
+          "options": [
+            "noisier",
+            "noisyer",
+            "more noisier"
+          ],
+          "answer": "noisier",
+          "explanation": "Noisy ends in a consonant + y, so y changes to i: noisier.",
+          "explanationTranslation": "Noisy samit + y ilə bitir, ona görə y hərfi i-yə çevrilir: noisier."
+        }
+      ]
+    }
+  }
+}

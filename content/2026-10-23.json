@@ -1,0 +1,1210 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-23",
+  "level": "B1",
+  "translationLanguage": "az",
+  "words": [
+    {
+      "word": "board",
+      "ipa": "/bɔrd/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "lövhə; taxta",
+          "definition": "a flat, thin piece of wood or other hard material used for a special purpose, for example for writing on or showing information",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [
+            {
+              "word": "bored",
+              "meaning": "feeling tired and unhappy because nothing is interesting (sounds the same as \"board\")",
+              "translation": "darıxmış, cansıxıcı"
+            },
+            {
+              "word": "board",
+              "meaning": "a group of people who control a company or an organization",
+              "translation": "idarə heyəti"
+            }
+          ],
+          "examples": [
+            {
+              "text": "The teacher wrote the new words on the board.",
+              "translation": "Müəllim yeni sözləri lövhəyə yazdı."
+            },
+            {
+              "text": "Check the departure board to find your train.",
+              "translation": "Qatarını tapmaq üçün yola düşmə lövhəsinə bax."
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "verb",
+          "translation": "minmək (qatara, təyyarəyə, gəmiyə)",
+          "definition": "to get on a plane, train, bus or ship",
+          "synonyms": [
+            "get on",
+            "embark"
+          ],
+          "antonyms": [
+            "get off",
+            "disembark"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Passengers can board the plane at Gate 12.",
+              "translation": "Sərnişinlər 12 nömrəli çıxışdan təyyarəyə minə bilərlər."
+            },
+            {
+              "text": "We boarded the train just before it left.",
+              "translation": "Qatar yola düşməzdən az əvvəl ona mindik."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "passenger",
+      "ipa": "/ˈpæsəndʒɚ/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "sərnişin",
+          "definition": "a person who travels in a car, bus, train, plane or ship but is not driving it",
+          "synonyms": [
+            "traveler",
+            "rider"
+          ],
+          "antonyms": [
+            "driver"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The bus can carry fifty passengers.",
+              "translation": "Avtobus əlli sərnişin daşıya bilir."
+            },
+            {
+              "text": "I sat in the passenger seat next to my dad.",
+              "translation": "Atamın yanında, sərnişin oturacağında oturdum."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "platform",
+      "ipa": "/ˈplætfɔrm/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "perron; platforma",
+          "definition": "the raised area next to the tracks at a train station where people get on and off trains",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The train to Ganja leaves from Platform 3.",
+              "translation": "Gəncəyə gedən qatar 3-cü perrondan yola düşür."
+            },
+            {
+              "text": "We waited on the platform for twenty minutes.",
+              "translation": "Perronda iyirmi dəqiqə gözlədik."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "warn",
+      "ipa": "/wɔrn/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "xəbərdarlıq etmək, xəbərdar etmək",
+          "definition": "to tell someone about a possible danger or problem so that they can avoid it",
+          "synonyms": [
+            "alert",
+            "caution"
+          ],
+          "antonyms": [],
+          "homonyms": [
+            {
+              "word": "worn",
+              "meaning": "the past participle of \"wear\" (sounds the same as \"warn\")",
+              "translation": "geyilmiş, köhnəlmiş"
+            }
+          ],
+          "examples": [
+            {
+              "text": "My mother warned me not to swim after eating.",
+              "translation": "Anam yeməkdən sonra üzməmək barədə mənə xəbərdarlıq etdi."
+            },
+            {
+              "text": "The radio is warning drivers about ice on the roads.",
+              "translation": "Radio sürücüləri yollardakı buz barədə xəbərdar edir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "nervous",
+      "ipa": "/ˈnɝvəs/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "həyəcanlı, narahat",
+          "definition": "worried and a little afraid about something that is going to happen",
+          "synonyms": [
+            "anxious",
+            "worried",
+            "tense"
+          ],
+          "antonyms": [
+            "calm",
+            "relaxed",
+            "confident"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "I always get nervous before exams.",
+              "translation": "İmtahanlardan əvvəl həmişə həyəcanlanıram."
+            },
+            {
+              "text": "She gave a nervous smile and opened the door.",
+              "translation": "O, həyəcanla gülümsədi və qapını açdı."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "departure",
+      "ipa": "/dɪˈpɑrtʃɚ/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "yola düşmə, gediş, uçuş",
+          "definition": "the act of leaving a place, especially at the start of a trip",
+          "synonyms": [
+            "leaving",
+            "exit"
+          ],
+          "antonyms": [
+            "arrival"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Please come to the airport two hours before departure.",
+              "translation": "Zəhmət olmasa, uçuşdan iki saat əvvəl hava limanına gəlin."
+            },
+            {
+              "text": "The departure of our train was delayed by an hour.",
+              "translation": "Qatarımızın yola düşməsi bir saat gecikdi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "arrival",
+      "ipa": "/əˈraɪvəl/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "gəliş, çatma",
+          "definition": "the act of coming to a place",
+          "synonyms": [
+            "coming",
+            "landing"
+          ],
+          "antonyms": [
+            "departure"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "We called our parents on arrival at the hotel.",
+              "translation": "Otelə çatan kimi valideynlərimizə zəng etdik."
+            },
+            {
+              "text": "The arrivals board shows that the flight is late.",
+              "translation": "Gəliş lövhəsi uçuşun gecikdiyini göstərir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "miss",
+      "ipa": "/mɪs/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "(qatara, avtobusa) çatmamaq, qaçırmaq; darıxmaq",
+          "definition": "to be too late for a bus, train or plane; also to feel sad because someone is not with you",
+          "synonyms": [
+            "long for"
+          ],
+          "antonyms": [
+            "catch"
+          ],
+          "homonyms": [
+            {
+              "word": "Miss",
+              "meaning": "a title used before the name of a girl or a woman who is not married",
+              "translation": "xanım"
+            }
+          ],
+          "examples": [
+            {
+              "text": "Hurry up, or we'll miss the bus!",
+              "translation": "Tələs, yoxsa avtobusa çatmayacağıq!"
+            },
+            {
+              "text": "I really miss my friends from school.",
+              "translation": "Məktəb dostlarım üçün çox darıxıram."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "conductor",
+      "ipa": "/kənˈdʌktɚ/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "bələdçi (qatarda); dirijor",
+          "definition": "a person who checks tickets on a train; also a person who leads a group of musicians",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The conductor asked to see our tickets.",
+              "translation": "Bələdçi biletlərimizi göstərməyimizi istədi."
+            },
+            {
+              "text": "The conductor raised his hands, and the orchestra began to play.",
+              "translation": "Dirijor əllərini qaldırdı və orkestr çalmağa başladı."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "carriage",
+      "ipa": "/ˈkærɪdʒ/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "vaqon; kareta, at arabası",
+          "definition": "one of the separate parts of a train where passengers sit; also an old vehicle pulled by horses",
+          "synonyms": [
+            "car",
+            "coach"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Our seats are in carriage number four.",
+              "translation": "Yerlərimiz dördüncü vaqondadır."
+            },
+            {
+              "text": "The prince arrived in a carriage pulled by white horses.",
+              "translation": "Şahzadə ağ atların çəkdiyi karetada gəldi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "fasten",
+      "ipa": "/ˈfæsən/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "bağlamaq, bərkitmək",
+          "definition": "to close or tie something so that it is held firmly in place",
+          "synonyms": [
+            "buckle",
+            "close",
+            "tie",
+            "attach"
+          ],
+          "antonyms": [
+            "unfasten",
+            "undo"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Please fasten your seat belts.",
+              "translation": "Zəhmət olmasa, təhlükəsizlik kəmərlərinizi bağlayın."
+            },
+            {
+              "text": "She fastened her coat and went out into the cold.",
+              "translation": "O, paltosunun düymələrini bağladı və soyuğa çıxdı."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "turbulence",
+      "ipa": "/ˈtɝbjələns/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "turbulentlik, (təyyarənin) silkələnməsi",
+          "definition": "sudden, strong movements of air that make a plane shake",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "We hit some turbulence over the mountains.",
+              "translation": "Dağların üzərində bir az turbulentliyə düşdük."
+            },
+            {
+              "text": "Don't worry – a little turbulence is normal.",
+              "translation": "Narahat olma – bir az turbulentlik normaldır."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "terminal",
+      "ipa": "/ˈtɝmənəl/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "terminal",
+          "definition": "a big building at an airport or a bus station where passengers arrive and leave",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Our flight leaves from Terminal 1.",
+              "translation": "Uçuşumuz 1 saylı terminaldan yola düşür."
+            },
+            {
+              "text": "There are many cafés in the new terminal.",
+              "translation": "Yeni terminalda çoxlu kafe var."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "security",
+      "ipa": "/sɪˈkjʊrəti/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "təhlükəsizlik; təhlükəsizlik yoxlaması",
+          "definition": "the place at an airport where people and bags are checked; also the state of being safe",
+          "synonyms": [
+            "safety",
+            "protection"
+          ],
+          "antonyms": [
+            "danger"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "It took us thirty minutes to get through security.",
+              "translation": "Təhlükəsizlik yoxlamasından keçmək bizə otuz dəqiqə çəkdi."
+            },
+            {
+              "text": "The building has very good security.",
+              "translation": "Binada təhlükəsizlik çox yaxşı təmin olunub."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "aisle",
+      "ipa": "/aɪl/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "keçid (oturacaqlar və ya rəflər arasında)",
+          "definition": "the narrow space between rows of seats on a plane or in a theater, or between shelves in a store",
+          "synonyms": [
+            "passage",
+            "gangway"
+          ],
+          "antonyms": [],
+          "homonyms": [
+            {
+              "word": "isle",
+              "meaning": "a small island (sounds the same as \"aisle\")",
+              "translation": "ada"
+            }
+          ],
+          "examples": [
+            {
+              "text": "Would you like a window seat or an aisle seat?",
+              "translation": "Pəncərə yanında, yoxsa keçid tərəfdə oturmaq istəyirsiniz?"
+            },
+            {
+              "text": "You can find rice in aisle five.",
+              "translation": "Düyünü beşinci sırada tapa bilərsiniz."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "story": {
+    "title": "Ramin's First Trip Alone",
+    "titleTranslation": "Raminin ilk tək səfəri",
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "Ramin was fifteen, and it was his first time traveling alone.",
+            "translation": "Ramin on beş yaşında idi və ilk dəfə tək səyahət edirdi."
+          },
+          {
+            "text": "His mother had packed his bag three times, and his little sister had drawn him a map of the sea.",
+            "translation": "Anası onun çantasını üç dəfə yığmışdı, kiçik bacısı isə ona dənizin xəritəsini çəkmişdi."
+          },
+          {
+            "text": "He had decided to spend the summer with his aunt in Batumi, so he had to fly to Tbilisi first and then take a train to the sea.",
+            "translation": "O, yayı Batumidə yaşayan xalasının yanında keçirməyə qərar vermişdi, ona görə də əvvəlcə Tbilisiyə uçmalı, sonra isə qatarla dəniz kənarına getməli idi."
+          },
+          {
+            "text": "At the airport, his father kept giving advice.",
+            "translation": "Hava limanında atası durmadan məsləhət verirdi."
+          },
+          {
+            "text": "“Don't forget to check the departure time, and stay calm if you hear any announcements,” he warned. “And please try not to miss the train!”",
+            "translation": "«Uçuş vaxtını yoxlamağı unutma və hər hansı elan eşitsən, sakit ol», – deyə xəbərdarlıq etdi. «Bir də, xahiş edirəm, qatardan qalmamağa çalış!»"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Ramin felt nervous as he walked through security.",
+            "translation": "Təhlükəsizlik yoxlamasından keçərkən Ramin həyəcanlı idi."
+          },
+          {
+            "text": "The terminal was huge, and there were so many people and screens that he kept looking at his boarding pass.",
+            "translation": "Terminal nəhəng idi, o qədər çox adam və ekran var idi ki, o, durmadan minik talonuna baxırdı."
+          },
+          {
+            "text": "Finally, he hugged his father and boarded the plane.",
+            "translation": "Nəhayət, atasını qucaqladı və təyyarəyə mindi."
+          },
+          {
+            "text": "He had a seat next to the aisle, and an elderly passenger in the window seat smiled at him.",
+            "translation": "Onun yeri keçidin yanında idi; pəncərə tərəfdə oturan yaşlı bir sərnişin qadın ona gülümsədi."
+          },
+          {
+            "text": "Her name was Sevda, and she enjoyed telling stories about her travels.",
+            "translation": "Onun adı Sevda idi və səyahətləri haqqında danışmağı çox sevirdi."
+          },
+          {
+            "text": "She had visited more than thirty countries and still loved learning new words in every language.",
+            "translation": "O, otuzdan çox ölkədə olmuşdu və hələ də hər dildə yeni sözlər öyrənməyi çox sevirdi."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Halfway through the flight, the captain asked everyone to fasten their seat belts because of some turbulence.",
+            "translation": "Uçuşun yarısında kapitan bir az turbulentlik olduğuna görə hamıdan təhlükəsizlik kəmərlərini bağlamağı xahiş etdi."
+          },
+          {
+            "text": "Some passengers looked worried, and a baby started crying somewhere behind them.",
+            "translation": "Bəzi sərnişinlər narahat görünürdü, arxada isə haradasa bir körpə ağlamağa başladı."
+          },
+          {
+            "text": "The plane shook a little, but Sevda just laughed and kept talking, so Ramin soon stopped worrying.",
+            "translation": "Təyyarə bir az silkələndi, amma Sevda sadəcə güldü və danışmağa davam etdi, ona görə də Raminin narahatlığı tezliklə keçib getdi."
+          },
+          {
+            "text": "After a smooth arrival in Tbilisi, he said goodbye to his new friend and took a taxi to the train station.",
+            "translation": "Tbilisiyə rahat çatandan sonra o, yeni dostu ilə sağollaşdı və taksi ilə dəmir yolu vağzalına getdi."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The train to Batumi was already waiting at the platform.",
+            "translation": "Batumiyə gedən qatar artıq perronda gözləyirdi."
+          },
+          {
+            "text": "A friendly conductor checked his ticket and helped him find the right carriage.",
+            "translation": "Mehriban bələdçi onun biletini yoxladı və düzgün vaqonu tapmağa kömək etdi."
+          },
+          {
+            "text": "It was an old train, and it moved slowly, but Ramin didn't mind waiting.",
+            "translation": "Bu, köhnə qatar idi və yavaş gedirdi, amma gözləmək Ramini heç narahat etmirdi."
+          },
+          {
+            "text": "Ramin chose to sit by the window and spent five hours watching green hills, small villages and, at last, the sea.",
+            "translation": "Ramin pəncərənin yanında oturmağı seçdi və beş saat boyunca yaşıl təpələrə, kiçik kəndlərə və nəhayət, dənizə tamaşa etdi."
+          },
+          {
+            "text": "He even managed to call his father and describe everything he could see.",
+            "translation": "O, hətta atasına zəng edib gördüyü hər şeyi təsvir etməyi də bacardı."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "His aunt was waiting on the platform with a big smile.",
+            "translation": "Xalası perronda gülərüzlə onu gözləyirdi."
+          },
+          {
+            "text": "“How was the trip?” she asked, taking his bag.",
+            "translation": "«Yol necə keçdi?» – deyə o, çantasını alaraq soruşdu."
+          },
+          {
+            "text": "“Great,” Ramin said. “I wasn't scared at all, and next time I'd like to go even farther!”",
+            "translation": "«Əla», – dedi Ramin. «Heç qorxmadım, növbəti dəfə isə daha uzağa getmək istərdim!»"
+          },
+          {
+            "text": "That night, he fell asleep to the sound of the waves, tired but proud of himself.",
+            "translation": "Həmin gecə o, yorğun, amma özü ilə fəxr edərək dalğaların səsi altında yuxuya getdi."
+          }
+        ]
+      }
+    ],
+    "glossary": [
+      {
+        "term": "traveling",
+        "lemma": "travel",
+        "partOfSpeech": "verb",
+        "meaning": "going from one place to another, often far away",
+        "translation": "səyahət etmək"
+      },
+      {
+        "term": "alone",
+        "lemma": "alone",
+        "partOfSpeech": "adverb",
+        "meaning": "without other people",
+        "translation": "tək"
+      },
+      {
+        "term": "decided",
+        "lemma": "decide",
+        "partOfSpeech": "verb",
+        "meaning": "made a choice about what to do",
+        "translation": "qərar vermişdi"
+      },
+      {
+        "term": "spend",
+        "lemma": "spend",
+        "partOfSpeech": "verb",
+        "meaning": "to pass time somewhere",
+        "translation": "keçirmək"
+      },
+      {
+        "term": "aunt",
+        "lemma": "aunt",
+        "partOfSpeech": "noun",
+        "meaning": "the sister of your mother or father",
+        "translation": "xala, bibi"
+      },
+      {
+        "term": "had to",
+        "lemma": "have to",
+        "partOfSpeech": "phrase",
+        "meaning": "it was necessary to",
+        "translation": "-malı idi, -məli idi"
+      },
+      {
+        "term": "take a train",
+        "lemma": "take a train",
+        "partOfSpeech": "phrase",
+        "meaning": "to travel somewhere by train",
+        "translation": "qatarla getmək"
+      },
+      {
+        "term": "packed",
+        "lemma": "pack",
+        "partOfSpeech": "verb",
+        "meaning": "put things into a bag for a trip",
+        "translation": "yığmışdı"
+      },
+      {
+        "term": "drawn",
+        "lemma": "draw",
+        "partOfSpeech": "verb",
+        "meaning": "made a picture with a pen or pencil",
+        "translation": "çəkmişdi"
+      },
+      {
+        "term": "map",
+        "lemma": "map",
+        "partOfSpeech": "noun",
+        "meaning": "a drawing of an area that shows roads, rivers, the sea and so on",
+        "translation": "xəritə"
+      },
+      {
+        "term": "airport",
+        "lemma": "airport",
+        "partOfSpeech": "noun",
+        "meaning": "a place where planes take off and land",
+        "translation": "hava limanı"
+      },
+      {
+        "term": "kept",
+        "lemma": "keep",
+        "partOfSpeech": "verb",
+        "meaning": "continued doing something again and again",
+        "translation": "durmadan ...ırdı, davam edirdi"
+      },
+      {
+        "term": "advice",
+        "lemma": "advice",
+        "partOfSpeech": "noun",
+        "meaning": "an opinion about what someone should do",
+        "translation": "məsləhət"
+      },
+      {
+        "term": "forget",
+        "lemma": "forget",
+        "partOfSpeech": "verb",
+        "meaning": "to not remember",
+        "translation": "unutmaq"
+      },
+      {
+        "term": "check",
+        "lemma": "check",
+        "partOfSpeech": "verb",
+        "meaning": "to look at something to make sure it is correct",
+        "translation": "yoxlamaq"
+      },
+      {
+        "term": "departure",
+        "lemma": "departure",
+        "partOfSpeech": "noun",
+        "meaning": "the time when a plane or train leaves",
+        "translation": "uçuş, yola düşmə"
+      },
+      {
+        "term": "stay calm",
+        "lemma": "stay calm",
+        "partOfSpeech": "phrase",
+        "meaning": "to not become worried or excited",
+        "translation": "sakit olmaq, təmkinini saxlamaq"
+      },
+      {
+        "term": "announcements",
+        "lemma": "announcement",
+        "partOfSpeech": "noun",
+        "meaning": "official messages that tell people about something, for example at an airport",
+        "translation": "elanlar"
+      },
+      {
+        "term": "warned",
+        "lemma": "warn",
+        "partOfSpeech": "verb",
+        "meaning": "told someone about a possible problem",
+        "translation": "xəbərdarlıq etdi"
+      },
+      {
+        "term": "miss",
+        "lemma": "miss",
+        "partOfSpeech": "verb",
+        "meaning": "to be too late for a train, bus or plane",
+        "translation": "(qatardan) qalmaq, çatmamaq"
+      },
+      {
+        "term": "nervous",
+        "lemma": "nervous",
+        "partOfSpeech": "adjective",
+        "meaning": "worried and a little afraid",
+        "translation": "həyəcanlı"
+      },
+      {
+        "term": "walked through",
+        "lemma": "walk through",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "walked from one side of something to the other",
+        "translation": "keçdi"
+      },
+      {
+        "term": "security",
+        "lemma": "security",
+        "partOfSpeech": "noun",
+        "meaning": "the place at an airport where people and bags are checked",
+        "translation": "təhlükəsizlik yoxlaması"
+      },
+      {
+        "term": "terminal",
+        "lemma": "terminal",
+        "partOfSpeech": "noun",
+        "meaning": "a big airport building where passengers arrive and leave",
+        "translation": "terminal"
+      },
+      {
+        "term": "huge",
+        "lemma": "huge",
+        "partOfSpeech": "adjective",
+        "meaning": "very big",
+        "translation": "nəhəng"
+      },
+      {
+        "term": "screens",
+        "lemma": "screen",
+        "partOfSpeech": "noun",
+        "meaning": "flat surfaces that show information or pictures",
+        "translation": "ekranlar"
+      },
+      {
+        "term": "boarding pass",
+        "lemma": "boarding pass",
+        "partOfSpeech": "noun",
+        "meaning": "a card or paper that you show to get on a plane",
+        "translation": "minik talonu"
+      },
+      {
+        "term": "Finally",
+        "lemma": "finally",
+        "partOfSpeech": "adverb",
+        "meaning": "after a long time or after waiting",
+        "translation": "nəhayət"
+      },
+      {
+        "term": "hugged",
+        "lemma": "hug",
+        "partOfSpeech": "verb",
+        "meaning": "put his arms around someone to show love",
+        "translation": "qucaqladı"
+      },
+      {
+        "term": "boarded",
+        "lemma": "board",
+        "partOfSpeech": "verb",
+        "meaning": "got on a plane, train or ship",
+        "translation": "mindi"
+      },
+      {
+        "term": "seat",
+        "lemma": "seat",
+        "partOfSpeech": "noun",
+        "meaning": "a place where you can sit",
+        "translation": "yer, oturacaq"
+      },
+      {
+        "term": "aisle",
+        "lemma": "aisle",
+        "partOfSpeech": "noun",
+        "meaning": "the narrow space between rows of seats on a plane",
+        "translation": "keçid"
+      },
+      {
+        "term": "elderly",
+        "lemma": "elderly",
+        "partOfSpeech": "adjective",
+        "meaning": "old (a polite word)",
+        "translation": "yaşlı"
+      },
+      {
+        "term": "passenger",
+        "lemma": "passenger",
+        "partOfSpeech": "noun",
+        "meaning": "a person who travels on a plane, train or bus but does not drive it",
+        "translation": "sərnişin"
+      },
+      {
+        "term": "window seat",
+        "lemma": "window seat",
+        "partOfSpeech": "noun",
+        "meaning": "a seat next to the window on a plane, train or bus",
+        "translation": "pəncərə yanındakı yer"
+      },
+      {
+        "term": "enjoyed",
+        "lemma": "enjoy",
+        "partOfSpeech": "verb",
+        "meaning": "liked doing something very much",
+        "translation": "çox sevirdi, xoşlayırdı"
+      },
+      {
+        "term": "travels",
+        "lemma": "travel",
+        "partOfSpeech": "noun",
+        "meaning": "trips to different places, especially far away",
+        "translation": "səyahətlər"
+      },
+      {
+        "term": "countries",
+        "lemma": "country",
+        "partOfSpeech": "noun",
+        "meaning": "areas of land with their own government, like Azerbaijan or Georgia",
+        "translation": "ölkələr"
+      },
+      {
+        "term": "still",
+        "lemma": "still",
+        "partOfSpeech": "adverb",
+        "meaning": "even now, as before",
+        "translation": "hələ də"
+      },
+      {
+        "term": "learning",
+        "lemma": "learn",
+        "partOfSpeech": "verb",
+        "meaning": "getting new knowledge or skills",
+        "translation": "öyrənmək"
+      },
+      {
+        "term": "Halfway through",
+        "lemma": "halfway through",
+        "partOfSpeech": "phrase",
+        "meaning": "in the middle of an activity or a period of time",
+        "translation": "yarısında"
+      },
+      {
+        "term": "flight",
+        "lemma": "flight",
+        "partOfSpeech": "noun",
+        "meaning": "a trip by plane",
+        "translation": "uçuş"
+      },
+      {
+        "term": "captain",
+        "lemma": "captain",
+        "partOfSpeech": "noun",
+        "meaning": "the pilot who is in charge of a plane",
+        "translation": "kapitan"
+      },
+      {
+        "term": "fasten",
+        "lemma": "fasten",
+        "partOfSpeech": "verb",
+        "meaning": "to close or tie something so it holds firmly",
+        "translation": "bağlamaq"
+      },
+      {
+        "term": "seat belts",
+        "lemma": "seat belt",
+        "partOfSpeech": "noun",
+        "meaning": "belts that keep you safely in your seat in a car or plane",
+        "translation": "təhlükəsizlik kəmərləri"
+      },
+      {
+        "term": "turbulence",
+        "lemma": "turbulence",
+        "partOfSpeech": "noun",
+        "meaning": "strong movements of air that make a plane shake",
+        "translation": "turbulentlik"
+      },
+      {
+        "term": "passengers",
+        "lemma": "passenger",
+        "partOfSpeech": "noun",
+        "meaning": "people who travel on a plane, train or bus",
+        "translation": "sərnişinlər"
+      },
+      {
+        "term": "worried",
+        "lemma": "worried",
+        "partOfSpeech": "adjective",
+        "meaning": "unhappy because you think something bad may happen",
+        "translation": "narahat"
+      },
+      {
+        "term": "somewhere",
+        "lemma": "somewhere",
+        "partOfSpeech": "adverb",
+        "meaning": "in a place that you don't know exactly",
+        "translation": "haradasa"
+      },
+      {
+        "term": "shook",
+        "lemma": "shake",
+        "partOfSpeech": "verb",
+        "meaning": "moved quickly up and down or from side to side",
+        "translation": "silkələndi"
+      },
+      {
+        "term": "stopped worrying",
+        "lemma": "stop worrying",
+        "partOfSpeech": "phrase",
+        "meaning": "was not worried any more",
+        "translation": "narahat olmağı dayandırdı, narahatlığı keçdi"
+      },
+      {
+        "term": "smooth",
+        "lemma": "smooth",
+        "partOfSpeech": "adjective",
+        "meaning": "happening without problems or sudden movements",
+        "translation": "rahat, problemsiz"
+      },
+      {
+        "term": "arrival",
+        "lemma": "arrival",
+        "partOfSpeech": "noun",
+        "meaning": "the act of coming to a place",
+        "translation": "gəliş, çatma"
+      },
+      {
+        "term": "said goodbye",
+        "lemma": "say goodbye",
+        "partOfSpeech": "phrase",
+        "meaning": "said words like “bye” when leaving someone",
+        "translation": "sağollaşdı"
+      },
+      {
+        "term": "train station",
+        "lemma": "train station",
+        "partOfSpeech": "noun",
+        "meaning": "a place where trains stop and passengers get on and off",
+        "translation": "dəmir yolu vağzalı"
+      },
+      {
+        "term": "platform",
+        "lemma": "platform",
+        "partOfSpeech": "noun",
+        "meaning": "the place at a station where you get on and off trains",
+        "translation": "perron"
+      },
+      {
+        "term": "friendly",
+        "lemma": "friendly",
+        "partOfSpeech": "adjective",
+        "meaning": "kind and pleasant to other people",
+        "translation": "mehriban"
+      },
+      {
+        "term": "conductor",
+        "lemma": "conductor",
+        "partOfSpeech": "noun",
+        "meaning": "a person who checks tickets on a train",
+        "translation": "bələdçi"
+      },
+      {
+        "term": "carriage",
+        "lemma": "carriage",
+        "partOfSpeech": "noun",
+        "meaning": "one of the parts of a train where passengers sit",
+        "translation": "vaqon"
+      },
+      {
+        "term": "didn't mind",
+        "lemma": "not mind",
+        "partOfSpeech": "phrase",
+        "meaning": "was not unhappy or annoyed about something",
+        "translation": "etiraz etmirdi, narahat olmurdu"
+      },
+      {
+        "term": "chose",
+        "lemma": "choose",
+        "partOfSpeech": "verb",
+        "meaning": "decided which thing he wanted",
+        "translation": "seçdi"
+      },
+      {
+        "term": "hills",
+        "lemma": "hill",
+        "partOfSpeech": "noun",
+        "meaning": "areas of high land, lower than mountains",
+        "translation": "təpələr"
+      },
+      {
+        "term": "at last",
+        "lemma": "at last",
+        "partOfSpeech": "phrase",
+        "meaning": "finally, after a long time",
+        "translation": "nəhayət"
+      },
+      {
+        "term": "managed to",
+        "lemma": "manage to",
+        "partOfSpeech": "phrase",
+        "meaning": "succeeded in doing something",
+        "translation": "bacardı"
+      },
+      {
+        "term": "describe",
+        "lemma": "describe",
+        "partOfSpeech": "verb",
+        "meaning": "to say what something is like",
+        "translation": "təsvir etmək"
+      },
+      {
+        "term": "trip",
+        "lemma": "trip",
+        "partOfSpeech": "noun",
+        "meaning": "a journey to a place and back, or to a place",
+        "translation": "səfər, yol"
+      },
+      {
+        "term": "scared",
+        "lemma": "scared",
+        "partOfSpeech": "adjective",
+        "meaning": "afraid",
+        "translation": "qorxmuş"
+      },
+      {
+        "term": "at all",
+        "lemma": "at all",
+        "partOfSpeech": "phrase",
+        "meaning": "used to make a negative stronger",
+        "translation": "heç"
+      },
+      {
+        "term": "I'd like to",
+        "lemma": "would like to",
+        "partOfSpeech": "phrase",
+        "meaning": "a polite way to say “I want to”",
+        "translation": "istərdim"
+      },
+      {
+        "term": "farther",
+        "lemma": "far",
+        "partOfSpeech": "adverb",
+        "meaning": "to a greater distance",
+        "translation": "daha uzağa"
+      },
+      {
+        "term": "fell asleep",
+        "lemma": "fall asleep",
+        "partOfSpeech": "phrase",
+        "meaning": "started to sleep",
+        "translation": "yuxuya getdi"
+      },
+      {
+        "term": "waves",
+        "lemma": "wave",
+        "partOfSpeech": "noun",
+        "meaning": "lines of water that move across the top of the sea",
+        "translation": "dalğalar"
+      },
+      {
+        "term": "proud of himself",
+        "lemma": "be proud of yourself",
+        "partOfSpeech": "phrase",
+        "meaning": "feeling happy and pleased because of something you did",
+        "translation": "özü ilə fəxr edən"
+      }
+    ]
+  },
+  "grammar": {
+    "topic": "Verb patterns: gerund or infinitive",
+    "topicTranslation": "Feil modelləri: -ing forması (gerund) və ya məsdər",
+    "explanation": "Some verbs are followed by the -ing form (the gerund), and others by to + verb (the infinitive). After enjoy, avoid, finish, mind and keep, we use the -ing form. After want, decide, hope, plan, offer and agree, we use to + verb. After prepositions like about, for, of and without, we always use the -ing form. A few verbs, like stop, remember and forget, can take both forms, but the meaning changes.",
+    "explanationTranslation": "Bəzi feillərdən sonra -ing forması (gerund), digərlərindən sonra isə to + feil (məsdər) işlədilir. Enjoy, avoid, finish, mind və keep feillərindən sonra -ing forması gəlir. Want, decide, hope, plan, offer və agree feillərindən sonra to + feil gəlir. About, for, of və without kimi sözönlərindən sonra həmişə -ing forması işlədilir. Stop, remember və forget kimi bəzi feillər hər iki formanı qəbul edir, amma məna dəyişir.",
+    "rules": [
+      {
+        "text": "Verb + -ing: enjoy, avoid, finish, mind, keep, suggest, can't stand. (I enjoy reading.)",
+        "translation": "Feil + -ing: enjoy, avoid, finish, mind, keep, suggest, can't stand. (I enjoy reading.)"
+      },
+      {
+        "text": "Verb + to + verb: want, decide, hope, plan, offer, agree, need, learn, manage, choose. (She decided to leave.)",
+        "translation": "Feil + to + feil: want, decide, hope, plan, offer, agree, need, learn, manage, choose. (She decided to leave.)"
+      },
+      {
+        "text": "After a preposition, always use the -ing form: She is good at drawing. Thanks for helping me.",
+        "translation": "Sözönlərindən sonra həmişə -ing forması işlədilir: She is good at drawing. Thanks for helping me."
+      },
+      {
+        "text": "Some verbs change their meaning: I stopped drinking coffee (I don't drink it now). I stopped to drink coffee (I stopped in order to drink it).",
+        "translation": "Bəzi feillərin mənası dəyişir: I stopped drinking coffee (artıq qəhvə içmirəm). I stopped to drink coffee (qəhvə içmək üçün dayandım)."
+      }
+    ],
+    "examples": [
+      {
+        "text": "Ramin decided to travel alone.",
+        "translation": "Ramin tək səyahət etməyə qərar verdi."
+      },
+      {
+        "text": "Passengers should avoid standing near the edge of the platform.",
+        "translation": "Sərnişinlər perronun kənarına yaxın dayanmaqdan çəkinməlidirlər."
+      },
+      {
+        "text": "She enjoys meeting new people on trains.",
+        "translation": "O, qatarda yeni insanlarla tanış olmağı xoşlayır."
+      },
+      {
+        "text": "We hope to see you again soon.",
+        "translation": "Ümid edirik ki, tezliklə sizi yenidən görəcəyik."
+      },
+      {
+        "text": "I'm always nervous about flying.",
+        "translation": "Təyyarə ilə uçmaq məni həmişə həyəcanlandırır."
+      }
+    ],
+    "exercise": {
+      "instructions": "Choose or write the correct form: -ing or to + verb.",
+      "instructionsTranslation": "Düzgün formanı seçin və ya yazın: -ing və ya to + feil.",
+      "questions": [
+        {
+          "type": "choice",
+          "prompt": "I enjoy ___ by train.",
+          "promptTranslation": "Qatarla səyahət etməyi xoşlayıram.",
+          "options": [
+            "traveling",
+            "to travel"
+          ],
+          "answer": "traveling",
+          "explanation": "Enjoy is followed by the -ing form.",
+          "explanationTranslation": "Enjoy feilindən sonra -ing forması işlədilir."
+        },
+        {
+          "type": "choice",
+          "prompt": "They decided ___ a taxi to the airport.",
+          "promptTranslation": "Hava limanına taksi ilə getməyə qərar verdilər.",
+          "options": [
+            "taking",
+            "to take"
+          ],
+          "answer": "to take",
+          "explanation": "Decide is followed by to + verb.",
+          "explanationTranslation": "Decide feilindən sonra to + feil işlədilir."
+        },
+        {
+          "type": "text",
+          "prompt": "Please avoid ___ (use) your phone while you are driving.",
+          "promptTranslation": "Zəhmət olmasa, maşın sürərkən telefondan istifadə etməkdən çəkinin.",
+          "answer": "using",
+          "explanation": "Avoid is followed by the -ing form.",
+          "explanationTranslation": "Avoid feilindən sonra -ing forması işlədilir."
+        },
+        {
+          "type": "text",
+          "prompt": "He offered ___ (carry) my heavy bag.",
+          "promptTranslation": "O, ağır çantamı daşımağı təklif etdi.",
+          "answer": "to carry",
+          "explanation": "Offer is followed by to + verb.",
+          "explanationTranslation": "Offer feilindən sonra to + feil işlədilir."
+        },
+        {
+          "type": "choice",
+          "prompt": "Thanks for ___ me about the delay.",
+          "promptTranslation": "Gecikmə barədə məni xəbərdar etdiyin üçün sağ ol.",
+          "options": [
+            "warning",
+            "to warn",
+            "warn"
+          ],
+          "answer": "warning",
+          "explanation": "After a preposition (for), we use the -ing form.",
+          "explanationTranslation": "Sözönündən (for) sonra -ing forması işlədilir."
+        }
+      ]
+    }
+  }
+}
