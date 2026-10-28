@@ -1,0 +1,60 @@
+# One-time helper: creates the release signing key and stores it in the
+# repository secrets KEYSTORE_BASE64, KEYSTORE_PASSWORD, KEY_ALIAS and
+# KEY_PASSWORD - all from the GitHub website, no computer needed.
+#
+# Needs a temporary repository secret SETUP_TOKEN: a fine-grained personal
+# access token for this repository with "Secrets: Read and write". Delete the
+# secret and the token afterwards. See README.md, "Signing key".
+name: Create signing key
+
+on:
+  workflow_dispatch:
+    inputs:
+      overwrite:
+        description: 'Replace an existing key (phones with the old app must uninstall it first)'
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+
+jobs:
+  create:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '17'
+
+      - name: Create key and save secrets
+        env:
+          GH_TOKEN: ${{ secrets.SETUP_TOKEN }}
+          REPO: ${{ github.repository }}
+          OVERWRITE: ${{ inputs.overwrite }}
+        run: |
+          set -euo pipefail
+          if [ -z "$GH_TOKEN" ]; then
+            echo "::error::Add the repository secret SETUP_TOKEN first (see README, 'Signing key')."
+            exit 1
+          fi
+          if gh secret list --repo "$REPO" | grep -q '^KEYSTORE_BASE64'; then
+            if [ "$OVERWRITE" != "true" ]; then
+              echo "::error::A signing key already exists. Run again with 'overwrite' ticked only if you really want a new key."
+              exit 1
+            fi
+          fi
+          PASSWORD=$(openssl rand -base64 30 | tr -dc 'A-Za-z0-9' | head -c 32)
+          echo "::add-mask::$PASSWORD"
+          ALIAS=english-daily
+          keytool -genkeypair -noprompt \
+            -keystore release.jks -storetype PKCS12 \
+            -alias "$ALIAS" -keyalg RSA -keysize 2048 -validity 10000 \
+            -storepass "$PASSWORD" -keypass "$PASSWORD" \
+            -dname "CN=English Daily, O=Personal, C=AZ"
+          base64 -w0 release.jks | gh secret set KEYSTORE_BASE64 --repo "$REPO"
+          printf '%s' "$PASSWORD" | gh secret set KEYSTORE_PASSWORD --repo "$REPO"
+          printf '%s' "$PASSWORD" | gh secret set KEY_PASSWORD --repo "$REPO"
+          printf '%s' "$ALIAS" | gh secret set KEY_ALIAS --repo "$REPO"
+          rm -f release.jks
+          echo "Done. The four signing secrets are saved. Now delete the SETUP_TOKEN secret and the token itself." >> "$GITHUB_STEP_SUMMARY"

@@ -1,0 +1,539 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-27",
+  "level": "B1",
+  "translationLanguage": "az",
+  "words": [
+    {
+      "word": "fair",
+      "ipa": "/fɛr/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "yarmarka, sərgi",
+          "definition": "an event, often outdoors, where people sell things, show products or enjoy games and food",
+          "synonyms": [
+            "market",
+            "exhibition"
+          ],
+          "antonyms": [],
+          "homonyms": [
+            {
+              "word": "fare",
+              "meaning": "the money you pay for a trip by bus, train or taxi (sounds the same as \"fair\")",
+              "translation": "gediş haqqı"
+            }
+          ],
+          "examples": [
+            {
+              "text": "We bought fresh honey at the autumn fair.",
+              "translation": "Payız yarmarkasında təzə bal aldıq."
+            },
+            {
+              "text": "Many companies show their new products at the book fair.",
+              "translation": "Bir çox şirkət yeni məhsullarını kitab sərgisində nümayiş etdirir."
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "adjective",
+          "translation": "ədalətli",
+          "definition": "treating people in an equal and right way",
+          "synonyms": [
+            "just",
+            "reasonable"
+          ],
+          "antonyms": [
+            "unfair",
+            "unjust"
+          ],
+          "homonyms": [
+            {
+              "word": "fair (hair, skin)",
+              "meaning": "light in colour, used about hair or skin",
+              "translation": "açıq rəngli, sarışın"
+            }
+          ],
+          "examples": [
+            {
+              "text": "It isn't fair that I always have to wash the dishes.",
+              "translation": "Qabları həmişə mənim yumağım ədalətli deyil."
+            },
+            {
+              "text": "The teacher was strict but fair.",
+              "translation": "Müəllim tələbkar, amma ədalətli idi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "decline",
+      "ipa": "/dɪˈklaɪn/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "imtina etmək, rədd etmək; azalmaq",
+          "definition": "to say politely that you will not accept something; also, to become smaller or weaker",
+          "synonyms": [
+            "refuse",
+            "reject",
+            "decrease"
+          ],
+          "antonyms": [
+            "accept",
+            "increase"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "She declined the job offer because the salary was too low.",
+              "translation": "Maaş çox aşağı olduğu üçün o, iş təklifini rədd etdi."
+            },
+            {
+              "text": "The number of visitors declined last winter.",
+              "translation": "Keçən qış ziyarətçilərin sayı azaldı."
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "noun",
+          "translation": "azalma, enmə, tənəzzül",
+          "definition": "a slow fall in the amount, quality or strength of something",
+          "synonyms": [
+            "fall",
+            "drop",
+            "decrease"
+          ],
+          "antonyms": [
+            "rise",
+            "growth",
+            "increase"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "There has been a decline in the number of people who read newspapers.",
+              "translation": "Qəzet oxuyan insanların sayında azalma olub."
+            },
+            {
+              "text": "The town's decline started when the factory closed.",
+              "translation": "Fabrik bağlananda şəhərin tənəzzülü başladı."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "remind",
+      "ipa": "/rɪˈmaɪnd/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "xatırlatmaq",
+          "definition": "to help someone remember something they must do, or to make someone think of something from the past",
+          "synonyms": [
+            "prompt"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Can you remind me to call my mother tonight?",
+              "translation": "Bu axşam anama zəng etməyi mənə xatırlada bilərsən?"
+            },
+            {
+              "text": "This song reminds me of my school days.",
+              "translation": "Bu mahnı mənə məktəb illərimi xatırladır."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "borrow",
+      "ipa": "/ˈbɑːroʊ/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "borc almaq, müvəqqəti götürmək",
+          "definition": "to take something that belongs to someone else and promise to give it back later",
+          "synonyms": [],
+          "antonyms": [
+            "lend",
+            "return"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Can I borrow your pen for a minute?",
+              "translation": "Bir dəqiqəlik qələmini götürə bilərəm?"
+            },
+            {
+              "text": "He borrowed money from his brother to buy a car.",
+              "translation": "O, maşın almaq üçün qardaşından borc pul aldı."
+            },
+            {
+              "text": "You can borrow up to five books from the library.",
+              "translation": "Kitabxanadan beş kitaba qədər götürə bilərsən."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "reliable",
+      "ipa": "/rɪˈlaɪəbəl/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "etibarlı, güvənilən",
+          "definition": "that you can trust to work well or to do what you expect",
+          "synonyms": [
+            "dependable",
+            "trustworthy"
+          ],
+          "antonyms": [
+            "unreliable"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "My old car is slow, but it is very reliable.",
+              "translation": "Köhnə maşınım yavaşdır, amma çox etibarlıdır."
+            },
+            {
+              "text": "We need reliable information before we decide.",
+              "translation": "Qərar verməzdən əvvəl bizə etibarlı məlumat lazımdır."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "story": {
+    "title": "The Bicycle at the Fair",
+    "titleTranslation": "Yarmarkadakı velosiped",
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "Every October, our town has a big autumn fair in the main square.",
+            "translation": "Hər oktyabrda şəhərimizin mərkəzi meydanında böyük payız yarmarkası keçirilir."
+          },
+          {
+            "text": "This year I wanted to go early, but my bicycle was broken.",
+            "translation": "Bu il tez getmək istəyirdim, amma velosipedim xarab idi."
+          },
+          {
+            "text": "So I asked my neighbor Leyla if I could borrow hers.",
+            "translation": "Ona görə də qonşum Leyladan onun velosipedini götürə biləcəyimi soruşdum."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "At first she politely declined.",
+            "translation": "Əvvəlcə o, nəzakətlə imtina etdi."
+          },
+          {
+            "text": "“The last time you borrowed something from me, you forgot to bring it back,” she said.",
+            "translation": "«Axırıncı dəfə məndən nəsə götürəndə onu geri qaytarmağı unutmuşdun», – dedi."
+          },
+          {
+            "text": "She had a point, of course.",
+            "translation": "Əlbəttə, o haqlı idi."
+          },
+          {
+            "text": "I promised to be more reliable this time and to return the bike by six o'clock.",
+            "translation": "Bu dəfə daha etibarlı olacağıma və velosipedi saat altıya qədər qaytaracağıma söz verdim."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The fair was wonderful: there were apples, warm bread and live music.",
+            "translation": "Yarmarka möhtəşəm idi: alma, isti çörək və canlı musiqi var idi."
+          },
+          {
+            "text": "I lost track of time, but at half past five my phone reminded me about my promise.",
+            "translation": "Vaxtın necə keçdiyini hiss etmədim, amma saat altının yarısında telefonum verdiyim sözü mənə xatırlatdı."
+          },
+          {
+            "text": "I rode back quickly and returned the bicycle to Leyla, together with a jar of honey to say thank you.",
+            "translation": "Tez geri qayıtdım və velosipedi təşəkkür əlaməti olaraq bir banka balla birlikdə Leylaya qaytardım."
+          },
+          {
+            "text": "She smiled and said I could borrow it again next year.",
+            "translation": "O gülümsədi və gələn il onu yenə götürə biləcəyimi dedi."
+          }
+        ]
+      }
+    ],
+    "glossary": [
+      {
+        "term": "fair",
+        "lemma": "fair",
+        "partOfSpeech": "noun",
+        "meaning": "an outdoor event where people sell things, eat and have fun",
+        "translation": "yarmarka"
+      },
+      {
+        "term": "main square",
+        "lemma": "main square",
+        "partOfSpeech": "phrase",
+        "meaning": "the most important open place in the centre of a town",
+        "translation": "mərkəzi meydan"
+      },
+      {
+        "term": "broken",
+        "lemma": "broken",
+        "partOfSpeech": "adjective",
+        "meaning": "damaged, so it does not work",
+        "translation": "xarab, sınıq"
+      },
+      {
+        "term": "neighbor",
+        "lemma": "neighbor",
+        "partOfSpeech": "noun",
+        "meaning": "a person who lives next to you or near you",
+        "translation": "qonşu"
+      },
+      {
+        "term": "borrow",
+        "lemma": "borrow",
+        "partOfSpeech": "verb",
+        "meaning": "to take something from someone and give it back later",
+        "translation": "müvəqqəti götürmək"
+      },
+      {
+        "term": "politely",
+        "lemma": "politely",
+        "partOfSpeech": "adverb",
+        "meaning": "in a kind way that shows good manners",
+        "translation": "nəzakətlə"
+      },
+      {
+        "term": "declined",
+        "lemma": "decline",
+        "partOfSpeech": "verb",
+        "meaning": "said no to something in a polite way",
+        "translation": "imtina etdi"
+      },
+      {
+        "term": "borrowed",
+        "lemma": "borrow",
+        "partOfSpeech": "verb",
+        "meaning": "took something from someone for a short time",
+        "translation": "götürdün"
+      },
+      {
+        "term": "bring it back",
+        "lemma": "bring back",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "to return something to the place or person it came from",
+        "translation": "geri qaytarmaq"
+      },
+      {
+        "term": "had a point",
+        "lemma": "have a point",
+        "partOfSpeech": "idiom",
+        "meaning": "to say something that is true or reasonable",
+        "translation": "haqlı olmaq"
+      },
+      {
+        "term": "promised",
+        "lemma": "promise",
+        "partOfSpeech": "verb",
+        "meaning": "said that you will certainly do something",
+        "translation": "söz verdim"
+      },
+      {
+        "term": "reliable",
+        "lemma": "reliable",
+        "partOfSpeech": "adjective",
+        "meaning": "someone you can trust to do what they say",
+        "translation": "etibarlı"
+      },
+      {
+        "term": "return",
+        "lemma": "return",
+        "partOfSpeech": "verb",
+        "meaning": "to give something back",
+        "translation": "qaytarmaq"
+      },
+      {
+        "term": "wonderful",
+        "lemma": "wonderful",
+        "partOfSpeech": "adjective",
+        "meaning": "very good; making you feel happy",
+        "translation": "möhtəşəm, gözəl"
+      },
+      {
+        "term": "live music",
+        "lemma": "live music",
+        "partOfSpeech": "phrase",
+        "meaning": "music played by musicians in front of people, not a recording",
+        "translation": "canlı musiqi"
+      },
+      {
+        "term": "lost track of time",
+        "lemma": "lose track of time",
+        "partOfSpeech": "idiom",
+        "meaning": "to forget about the time because you are busy or having fun",
+        "translation": "vaxtın necə keçdiyini hiss etməmək"
+      },
+      {
+        "term": "half past five",
+        "lemma": "half past five",
+        "partOfSpeech": "phrase",
+        "meaning": "5:30 - thirty minutes after five o'clock",
+        "translation": "saat altının yarısı (5:30)"
+      },
+      {
+        "term": "reminded",
+        "lemma": "remind",
+        "partOfSpeech": "verb",
+        "meaning": "helped someone remember something",
+        "translation": "xatırlatdı"
+      },
+      {
+        "term": "promise",
+        "lemma": "promise",
+        "partOfSpeech": "noun",
+        "meaning": "words that say you will certainly do something",
+        "translation": "vəd, söz"
+      },
+      {
+        "term": "rode back",
+        "lemma": "ride back",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "to return by bicycle, horse or motorbike",
+        "translation": "(velosipedlə) geri qayıtmaq"
+      },
+      {
+        "term": "jar",
+        "lemma": "jar",
+        "partOfSpeech": "noun",
+        "meaning": "a glass container with a lid, used for food like honey or jam",
+        "translation": "banka"
+      },
+      {
+        "term": "to say thank you",
+        "lemma": "say thank you",
+        "partOfSpeech": "phrase",
+        "meaning": "in order to show that you are grateful",
+        "translation": "təşəkkür etmək üçün"
+      }
+    ]
+  },
+  "grammar": {
+    "topic": "Present perfect or past simple?",
+    "topicTranslation": "Present perfect, yoxsa past simple?",
+    "explanation": "We use the present perfect (have/has + past participle) for past actions when the exact time is not important, for life experiences, and for past actions with a result now. We use the past simple for finished actions at a definite time in the past, for example yesterday, last year, in 2020 or two days ago. A simple test: if you say or ask when it happened, use the past simple.",
+    "explanationTranslation": "Present perfect zamanını (have/has + feilin üçüncü forması) dəqiq vaxtı vacib olmayan keçmiş hərəkətlər, həyat təcrübəsi və nəticəsi indi görünən keçmiş hərəkətlər üçün işlədirik. Past simple zamanını isə keçmişdə müəyyən vaxtda bitmiş hərəkətlər üçün işlədirik, məsələn: yesterday, last year, in 2020, two days ago. Sadə yoxlama: əgər hərəkətin nə vaxt baş verdiyini deyirsinizsə və ya soruşursunuzsa, past simple işlədin.",
+    "rules": [
+      {
+        "text": "Present perfect: have/has + past participle (I have seen, she has finished).",
+        "translation": "Present perfect: have/has + feilin üçüncü forması (I have seen, she has finished)."
+      },
+      {
+        "text": "Use the past simple with finished time expressions: yesterday, last week, in 2019, two years ago.",
+        "translation": "Bitmiş vaxtı bildirən ifadələrlə past simple işlədilir: yesterday, last week, in 2019, two years ago."
+      },
+      {
+        "text": "Use the present perfect with ever, never, already, yet and just, and with time periods that are not finished (today, this week).",
+        "translation": "Ever, never, already, yet, just sözləri ilə və hələ bitməmiş dövrlərlə (today, this week) present perfect işlədilir."
+      },
+      {
+        "text": "Do not use the present perfect with a finished time: say “I saw him yesterday”, not “I have seen him yesterday”.",
+        "translation": "Bitmiş vaxtla present perfect işlədilmir: “I have seen him yesterday” yox, “I saw him yesterday” deyilir."
+      }
+    ],
+    "examples": [
+      {
+        "text": "I have visited Paris twice.",
+        "translation": "Mən iki dəfə Parisdə olmuşam."
+      },
+      {
+        "text": "I visited Paris in 2022.",
+        "translation": "Mən 2022-ci ildə Parisə getdim."
+      },
+      {
+        "text": "Have you ever borrowed money from a friend?",
+        "translation": "Heç dostundan borc pul almısan?"
+      },
+      {
+        "text": "She has just finished her homework.",
+        "translation": "O, ev tapşırığını indicə bitirib."
+      },
+      {
+        "text": "We moved to Baku two years ago.",
+        "translation": "Biz iki il əvvəl Bakıya köçdük."
+      }
+    ],
+    "exercise": {
+      "instructions": "Choose or write the correct form of the verb.",
+      "instructionsTranslation": "Feilin düzgün formasını seçin və ya yazın.",
+      "questions": [
+        {
+          "type": "choice",
+          "prompt": "I ___ my keys, so I can't open the door.",
+          "promptTranslation": "Açarlarımı itirmişəm, ona görə də qapını aça bilmirəm.",
+          "options": [
+            "lost",
+            "have lost"
+          ],
+          "answer": "have lost",
+          "explanation": "The result is important now: I can't open the door.",
+          "explanationTranslation": "Nəticə indi vacibdir: qapını aça bilmirəm."
+        },
+        {
+          "type": "choice",
+          "prompt": "We ___ to the fair last Saturday.",
+          "promptTranslation": "Keçən şənbə yarmarkaya getdik.",
+          "options": [
+            "went",
+            "have gone"
+          ],
+          "answer": "went",
+          "explanation": "“Last Saturday” is a finished time.",
+          "explanationTranslation": "“Last Saturday” bitmiş vaxtdır."
+        },
+        {
+          "type": "choice",
+          "prompt": "___ you ever ___ a horse?",
+          "promptTranslation": "Heç ata minmisən?",
+          "options": [
+            "Did / ride",
+            "Have / ridden"
+          ],
+          "answer": "Have / ridden",
+          "explanation": "“Ever” asks about life experience.",
+          "explanationTranslation": "“Ever” həyat təcrübəsi haqqında soruşur."
+        },
+        {
+          "type": "text",
+          "prompt": "She ___ (decline) the invitation yesterday.",
+          "promptTranslation": "O, dünən dəvəti rədd etdi.",
+          "answer": "declined",
+          "explanation": "“Yesterday” is a finished time, so we use the past simple.",
+          "explanationTranslation": "“Yesterday” bitmiş vaxtdır, ona görə past simple işlədilir."
+        },
+        {
+          "type": "text",
+          "prompt": "I ___ (already / remind) him three times today.",
+          "promptTranslation": "Bu gün ona artıq üç dəfə xatırlatmışam.",
+          "answer": "have already reminded",
+          "acceptedAnswers": [
+            "'ve already reminded"
+          ],
+          "explanation": "“Today” is not finished and “already” goes with the present perfect.",
+          "explanationTranslation": "“Today” hələ bitməyib, “already” isə present perfect ilə işlənir."
+        }
+      ]
+    }
+  }
+}

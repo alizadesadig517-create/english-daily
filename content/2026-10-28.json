@@ -1,0 +1,569 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-28",
+  "level": "B1",
+  "translationLanguage": "az",
+  "words": [
+    {
+      "word": "trust",
+      "ipa": "/trʌst/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "etibar etmək, güvənmək",
+          "definition": "to believe that someone is good and honest, or that something is true or will work",
+          "synonyms": [
+            "believe",
+            "rely on",
+            "count on"
+          ],
+          "antonyms": [
+            "distrust",
+            "doubt"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "I trust my doctor completely.",
+              "translation": "Həkimimə tam güvənirəm."
+            },
+            {
+              "text": "Don't trust everything you read on the internet.",
+              "translation": "İnternetdə oxuduğun hər şeyə inanma."
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "noun",
+          "translation": "etibar, inam",
+          "definition": "the feeling that someone is honest and will not hurt or cheat you",
+          "synonyms": [
+            "confidence",
+            "faith"
+          ],
+          "antonyms": [
+            "distrust",
+            "suspicion"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Trust is very important in a friendship.",
+              "translation": "Dostluqda etibar çox vacibdir."
+            },
+            {
+              "text": "It takes years to build trust and only a moment to lose it.",
+              "translation": "Etibar qazanmaq illər çəkir, itirmək isə bir an."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "struggle",
+      "ipa": "/ˈstrʌɡəl/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "çətinlik çəkmək; mübarizə aparmaq",
+          "definition": "to try very hard to do something that is difficult",
+          "synonyms": [
+            "try hard",
+            "fight",
+            "battle"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Many students struggle with English pronunciation.",
+              "translation": "Bir çox tələbə ingilis dilinin tələffüzündə çətinlik çəkir."
+            },
+            {
+              "text": "He struggled to open the heavy door.",
+              "translation": "O, ağır qapını açmaqda çətinlik çəkdi."
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "noun",
+          "translation": "mübarizə, çətinlik",
+          "definition": "a long and difficult effort to do or to get something",
+          "synonyms": [
+            "effort",
+            "fight",
+            "battle"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Learning to drive was a real struggle for me.",
+              "translation": "Maşın sürməyi öyrənmək mənim üçün əsl çətinlik idi."
+            },
+            {
+              "text": "Their struggle for a better life lasted many years.",
+              "translation": "Onların daha yaxşı həyat uğrunda mübarizəsi uzun illər davam etdi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "patient",
+      "ipa": "/ˈpeɪʃənt/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "səbirli",
+          "definition": "able to wait calmly, or to stay calm when something is slow or difficult",
+          "synonyms": [
+            "calm",
+            "tolerant"
+          ],
+          "antonyms": [
+            "impatient"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Be patient – the bus will come soon.",
+              "translation": "Səbirli ol, avtobus tezliklə gələcək."
+            },
+            {
+              "text": "My grandmother is very patient with small children.",
+              "translation": "Nənəm kiçik uşaqlarla çox səbirlidir."
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "noun",
+          "translation": "xəstə, pasiyent",
+          "definition": "a person who is getting medical care from a doctor or in a hospital",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The doctor sees about thirty patients a day.",
+              "translation": "Həkim gündə təxminən otuz xəstə qəbul edir."
+            },
+            {
+              "text": "The patient felt much better after the operation.",
+              "translation": "Əməliyyatdan sonra xəstə özünü xeyli yaxşı hiss etdi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "rush",
+      "ipa": "/rʌʃ/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "tələsmək",
+          "definition": "to move or do something very quickly, often too quickly",
+          "synonyms": [
+            "hurry",
+            "race"
+          ],
+          "antonyms": [
+            "slow down",
+            "take your time"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Don't rush – we have plenty of time.",
+              "translation": "Tələsmə, vaxtımız çoxdur."
+            },
+            {
+              "text": "She rushed to the station but missed the train.",
+              "translation": "O, stansiyaya tələsdi, amma qatara çatmadı."
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "noun",
+          "translation": "tələsiklik, basabas",
+          "definition": "a situation when you have to hurry, or when many people want something at the same time",
+          "synonyms": [
+            "hurry"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Sorry, I can't talk now – I'm in a rush.",
+              "translation": "Bağışla, indi danışa bilmirəm – tələsirəm."
+            },
+            {
+              "text": "There is always a rush for tickets before the holidays.",
+              "translation": "Bayramlardan əvvəl biletlər üçün həmişə basabas olur."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "give up",
+      "ipa": "/ɡɪv ˈʌp/",
+      "senses": [
+        {
+          "partOfSpeech": "phrasal verb",
+          "translation": "vaz keçmək, əl çəkmək; tərgitmək",
+          "definition": "to stop trying to do something, or to stop a habit",
+          "synonyms": [
+            "quit",
+            "stop",
+            "abandon"
+          ],
+          "antonyms": [
+            "keep going",
+            "continue",
+            "persist"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Don't give up – you are almost there!",
+              "translation": "Vaz keçmə, az qalıb!"
+            },
+            {
+              "text": "My father decided to give up smoking ten years ago.",
+              "translation": "Atam on il əvvəl siqareti tərgitməyə qərar verdi."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "story": {
+    "title": "The Swimming Lesson",
+    "titleTranslation": "Üzgüçülük dərsi",
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "Last summer, at the age of thirty, Murad decided to learn to swim.",
+            "translation": "Keçən yay, otuz yaşında Murad üzməyi öyrənməyə qərar verdi."
+          },
+          {
+            "text": "He had always been afraid of deep water, and the first lessons were a real struggle.",
+            "translation": "O, həmişə dərin sudan qorxmuşdu və ilk dərslər əsl mübarizə idi."
+          },
+          {
+            "text": "Every time he tried to float, he panicked and grabbed the side of the pool.",
+            "translation": "Hər dəfə suyun üzündə qalmağa çalışanda təşvişə düşür və hovuzun kənarından yapışırdı."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "His teacher, an old man called Kamal, was very patient.",
+            "translation": "Onun müəllimi, Kamal adlı yaşlı bir kişi, çox səbirli idi."
+          },
+          {
+            "text": "“Don't rush,” he said. “If you relax, the water will hold you.”",
+            "translation": "«Tələsmə», – dedi. «Əgər rahatlaşsan, su səni saxlayacaq.»"
+          },
+          {
+            "text": "“You have to trust the water, and you have to trust me.”",
+            "translation": "«Suya güvənməlisən, mənə də güvənməlisən.»"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "After three weeks, Murad still couldn't swim, and he wanted to give up.",
+            "translation": "Üç həftədən sonra Murad hələ də üzə bilmirdi və vaz keçmək istəyirdi."
+          },
+          {
+            "text": "But Kamal reminded him how far he had come: he was no longer afraid to put his face in the water.",
+            "translation": "Amma Kamal ona nə qədər irəlilədiyini xatırlatdı: o, artıq üzünü suya salmaqdan qorxmurdu."
+          },
+          {
+            "text": "One morning, without thinking, Murad pushed off from the wall and swam to the other side.",
+            "translation": "Bir səhər Murad heç fikirləşmədən divardan təkan aldı və hovuzun o biri tərəfinə üzdü."
+          },
+          {
+            "text": "Now he tells everyone the same thing: “If you don't give up, you will get there.”",
+            "translation": "İndi o, hamıya eyni şeyi deyir: «Vaz keçməsən, məqsədinə çatacaqsan.»"
+          }
+        ]
+      }
+    ],
+    "glossary": [
+      {
+        "term": "at the age of",
+        "lemma": "at the age of",
+        "partOfSpeech": "phrase",
+        "meaning": "when someone is a particular age",
+        "translation": "... yaşında"
+      },
+      {
+        "term": "decided",
+        "lemma": "decide",
+        "partOfSpeech": "verb",
+        "meaning": "made a choice about what to do",
+        "translation": "qərar verdi"
+      },
+      {
+        "term": "afraid of",
+        "lemma": "be afraid of",
+        "partOfSpeech": "phrase",
+        "meaning": "feeling fear because of something",
+        "translation": "... qorxmaq"
+      },
+      {
+        "term": "deep",
+        "lemma": "deep",
+        "partOfSpeech": "adjective",
+        "meaning": "going a long way down from the top",
+        "translation": "dərin"
+      },
+      {
+        "term": "struggle",
+        "lemma": "struggle",
+        "partOfSpeech": "noun",
+        "meaning": "something that is very difficult and needs a lot of effort",
+        "translation": "mübarizə, çətinlik"
+      },
+      {
+        "term": "float",
+        "lemma": "float",
+        "partOfSpeech": "verb",
+        "meaning": "to stay on the top of water without sinking",
+        "translation": "suyun üzündə qalmaq"
+      },
+      {
+        "term": "panicked",
+        "lemma": "panic",
+        "partOfSpeech": "verb",
+        "meaning": "suddenly felt so afraid that he could not think clearly",
+        "translation": "təşvişə düşdü, panikaya düşdü"
+      },
+      {
+        "term": "grabbed",
+        "lemma": "grab",
+        "partOfSpeech": "verb",
+        "meaning": "took hold of something quickly and strongly",
+        "translation": "yapışdı, qamarladı"
+      },
+      {
+        "term": "pool",
+        "lemma": "pool",
+        "partOfSpeech": "noun",
+        "meaning": "a place with water where people swim",
+        "translation": "hovuz"
+      },
+      {
+        "term": "patient",
+        "lemma": "patient",
+        "partOfSpeech": "adjective",
+        "meaning": "able to stay calm when something takes a long time",
+        "translation": "səbirli"
+      },
+      {
+        "term": "rush",
+        "lemma": "rush",
+        "partOfSpeech": "verb",
+        "meaning": "to do something too quickly",
+        "translation": "tələsmək"
+      },
+      {
+        "term": "relax",
+        "lemma": "relax",
+        "partOfSpeech": "verb",
+        "meaning": "to become calm and less worried or tense",
+        "translation": "rahatlaşmaq, sakitləşmək"
+      },
+      {
+        "term": "hold",
+        "lemma": "hold",
+        "partOfSpeech": "verb",
+        "meaning": "to keep someone or something up so they do not fall or sink",
+        "translation": "saxlamaq"
+      },
+      {
+        "term": "have to",
+        "lemma": "have to",
+        "partOfSpeech": "phrase",
+        "meaning": "must; it is necessary to",
+        "translation": "-malı, -məli"
+      },
+      {
+        "term": "trust",
+        "lemma": "trust",
+        "partOfSpeech": "verb",
+        "meaning": "to believe that someone or something will not let you down",
+        "translation": "güvənmək, etibar etmək"
+      },
+      {
+        "term": "give up",
+        "lemma": "give up",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "to stop trying",
+        "translation": "vaz keçmək"
+      },
+      {
+        "term": "reminded",
+        "lemma": "remind",
+        "partOfSpeech": "verb",
+        "meaning": "helped someone remember something",
+        "translation": "xatırlatdı"
+      },
+      {
+        "term": "how far he had come",
+        "lemma": "how far you have come",
+        "partOfSpeech": "idiom",
+        "meaning": "how much progress someone has made",
+        "translation": "nə qədər irəlilədiyi"
+      },
+      {
+        "term": "no longer",
+        "lemma": "no longer",
+        "partOfSpeech": "phrase",
+        "meaning": "not any more",
+        "translation": "artıq ... deyil"
+      },
+      {
+        "term": "without thinking",
+        "lemma": "without thinking",
+        "partOfSpeech": "phrase",
+        "meaning": "doing something naturally, without planning it",
+        "translation": "fikirləşmədən"
+      },
+      {
+        "term": "pushed off",
+        "lemma": "push off",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "to move away from something by pushing against it",
+        "translation": "təkan alıb uzaqlaşdı"
+      },
+      {
+        "term": "get there",
+        "lemma": "get there",
+        "partOfSpeech": "idiom",
+        "meaning": "to finally succeed or reach your goal",
+        "translation": "məqsədə çatmaq"
+      }
+    ]
+  },
+  "grammar": {
+    "topic": "First conditional (if + present simple, will + verb)",
+    "topicTranslation": "Birinci tip şərt cümlələri",
+    "explanation": "We use the first conditional to talk about a real possibility in the future and its result. The if-part uses the present simple, and the main part uses will + verb. The if-part can come first or second. When it comes first, we put a comma after it.",
+    "explanationTranslation": "Birinci tip şərt cümlələri gələcəkdə baş verə biləcək real vəziyyət və onun nəticəsi haqqında danışmaq üçün işlədilir. If hissəsində present simple, əsas hissədə isə will + feil işlədilir. If hissəsi cümlənin əvvəlində və ya sonunda gələ bilər. Əvvəldə gələndə ondan sonra vergül qoyulur.",
+    "rules": [
+      {
+        "text": "Form: If + present simple, will + base verb. (If it rains, we will stay at home.)",
+        "translation": "Quruluş: If + present simple, will + feilin əsas forması. (If it rains, we will stay at home.)"
+      },
+      {
+        "text": "Do not use will in the if-part: say “If you study”, not “If you will study”.",
+        "translation": "If hissəsində will işlədilmir: “If you will study” yox, “If you study” deyilir."
+      },
+      {
+        "text": "You can use can, may or might instead of will to talk about ability or a less certain result.",
+        "translation": "Bacarıq və ya daha az əmin nəticə haqqında danışmaq üçün will əvəzinə can, may və ya might işlədə bilərsiniz."
+      },
+      {
+        "text": "Unless means “if not”: Unless you hurry, you will miss the bus.",
+        "translation": "Unless “if not” (əgər ... -məsə) mənasını verir: Unless you hurry, you will miss the bus."
+      }
+    ],
+    "examples": [
+      {
+        "text": "If you don't give up, you will get better.",
+        "translation": "Vaz keçməsən, daha yaxşı olacaqsan."
+      },
+      {
+        "text": "If it's sunny tomorrow, we'll go to the beach.",
+        "translation": "Sabah hava günəşli olsa, çimərliyə gedəcəyik."
+      },
+      {
+        "text": "She will be angry if you are late again.",
+        "translation": "Əgər yenə geciksən, o, hirslənəcək."
+      },
+      {
+        "text": "I'll call you if I have time.",
+        "translation": "Vaxtım olsa, sənə zəng edəcəyəm."
+      },
+      {
+        "text": "Unless you hurry, you will miss the train.",
+        "translation": "Tələsməsən, qatara çatmayacaqsan."
+      }
+    ],
+    "exercise": {
+      "instructions": "Complete the sentences with the correct form.",
+      "instructionsTranslation": "Cümlələri düzgün forma ilə tamamlayın.",
+      "questions": [
+        {
+          "type": "choice",
+          "prompt": "If it ___ tomorrow, we will stay at home.",
+          "promptTranslation": "Sabah yağış yağsa, evdə qalacağıq.",
+          "options": [
+            "rains",
+            "will rain",
+            "rained"
+          ],
+          "answer": "rains",
+          "explanation": "Use the present simple in the if-part.",
+          "explanationTranslation": "If hissəsində present simple işlədilir."
+        },
+        {
+          "type": "choice",
+          "prompt": "If you are patient, you ___ the answer.",
+          "promptTranslation": "Səbirli olsan, cavabı tapacaqsan.",
+          "options": [
+            "find",
+            "will find",
+            "found"
+          ],
+          "answer": "will find",
+          "explanation": "The main part uses will + verb.",
+          "explanationTranslation": "Əsas hissədə will + feil işlədilir."
+        },
+        {
+          "type": "text",
+          "prompt": "If she ___ (not / rush), she won't make mistakes.",
+          "promptTranslation": "Tələsməsə, səhv etməyəcək.",
+          "answer": "doesn't rush",
+          "acceptedAnswers": [
+            "does not rush"
+          ],
+          "explanation": "Present simple negative with she: doesn't + verb.",
+          "explanationTranslation": "She ilə present simple-ın inkar forması: doesn't + feil."
+        },
+        {
+          "type": "text",
+          "prompt": "I ___ (call) you if I hear any news.",
+          "promptTranslation": "Hər hansı xəbər eşitsəm, sənə zəng edəcəyəm.",
+          "answer": "will call",
+          "acceptedAnswers": [
+            "'ll call"
+          ],
+          "explanation": "This is the main part, so we use will + verb.",
+          "explanationTranslation": "Bu, əsas hissədir, ona görə will + feil işlədilir."
+        },
+        {
+          "type": "choice",
+          "prompt": "___ you trust him, he won't trust you.",
+          "promptTranslation": "Sən ona güvənməsən, o da sənə güvənməyəcək.",
+          "options": [
+            "If",
+            "Unless",
+            "When"
+          ],
+          "answer": "Unless",
+          "explanation": "Unless = if not.",
+          "explanationTranslation": "Unless = if not (əgər ... -məsə)."
+        }
+      ]
+    }
+  }
+}
