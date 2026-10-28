@@ -511,6 +511,10 @@
             "translation": "Böyük qızların bəziləri ona gülürdü və ilk həftədən sonra o, az qala komandanı tərk edəcəkdi."
           },
           {
+            "text": "She went home and cried, and she told her mother that basketball wasn't for her.",
+            "translation": "O, evə gedib ağladı və anasına basketbolun ona görə olmadığını dedi."
+          },
+          {
             "text": "But her coach, Mr. Aliyev, saw that she was determined and never stopped trying.",
             "translation": "Amma məşqçisi Əliyev müəllim onun qətiyyətli olduğunu və heç vaxt cəhd etməkdən əl çəkmədiyini gördü."
           },
@@ -525,6 +529,10 @@
           {
             "text": "Every day after school, Zeynab practiced for an hour in the gym.",
             "translation": "Hər gün dərsdən sonra Zeynəb idman zalında bir saat məşq edirdi."
+          },
+          {
+            "text": "Mr. Aliyev gave her simple exercises and showed her how to stand and how to hold the ball.",
+            "translation": "Əliyev müəllim ona sadə məşqlər verir, necə durmağı və topu necə tutmağı göstərirdi."
           },
           {
             "text": "She ran, jumped and threw the ball again and again until her arms hurt.",
@@ -559,6 +567,10 @@
             "translation": "Yüzlərlə insan oyunu izləyirdi və Zeynəbin əlləri titrəyirdi."
           },
           {
+            "text": "Her mother and father were sitting in the third row, holding a big sign with her name on it.",
+            "translation": "Anası və atası üçüncü cərgədə oturub üzərində onun adı yazılmış böyük bir lövhə tuturdular."
+          },
+          {
             "text": "The game was close from start to finish.",
             "translation": "Oyun əvvəldən axıra qədər gərgin keçdi."
           },
@@ -585,6 +597,10 @@
           {
             "text": "Each player got a gold medal, and Mr. Aliyev hugged every one of them.",
             "translation": "Hər oyunçu qızıl medal aldı və Əliyev müəllim onların hər birini qucaqladı."
+          },
+          {
+            "text": "Even the players from the other team came to shake hands and say “Well done.”",
+            "translation": "Hətta rəqib komandanın oyunçuları da gəlib əl sıxdılar və «Afərin» dedilər."
           },
           {
             "text": "Later, Zeynab said, “A year ago I couldn't do this. Now I know I can achieve anything if I work hard.”",
@@ -655,6 +671,13 @@
         "translation": "tərk etdi, atdı"
       },
       {
+        "term": "wasn't for her",
+        "lemma": "be not for someone",
+        "partOfSpeech": "idiom",
+        "meaning": "was not the right activity for her",
+        "translation": "ona görə deyildi"
+      },
+      {
         "term": "coach",
         "lemma": "coach",
         "partOfSpeech": "noun",
@@ -709,6 +732,20 @@
         "partOfSpeech": "noun",
         "meaning": "a big room for sports and exercise",
         "translation": "idman zalı"
+      },
+      {
+        "term": "exercises",
+        "lemma": "exercise",
+        "partOfSpeech": "noun",
+        "meaning": "activities you do to train a skill",
+        "translation": "məşqlər, tapşırıqlar"
+      },
+      {
+        "term": "hold",
+        "lemma": "hold",
+        "partOfSpeech": "verb",
+        "meaning": "to have something in your hands",
+        "translation": "tutmaq"
       },
       {
         "term": "again and again",
@@ -830,6 +867,20 @@
         "translation": "titrəyirdi"
       },
       {
+        "term": "row",
+        "lemma": "row",
+        "partOfSpeech": "noun",
+        "meaning": "a line of seats",
+        "translation": "cərgə, sıra"
+      },
+      {
+        "term": "sign",
+        "lemma": "sign",
+        "partOfSpeech": "noun",
+        "meaning": "a piece of paper or board with words on it",
+        "translation": "lövhə, plakat"
+      },
+      {
         "term": "close",
         "lemma": "close",
         "partOfSpeech": "adjective",
@@ -928,6 +979,20 @@
         "translation": "qucaqladı"
       },
       {
+        "term": "shake hands",
+        "lemma": "shake hands",
+        "partOfSpeech": "phrase",
+        "meaning": "to hold someone's hand and move it up and down as a greeting",
+        "translation": "əl sıxmaq"
+      },
+      {
+        "term": "Well done",
+        "lemma": "well done",
+        "partOfSpeech": "interjection",
+        "meaning": "said to praise someone for doing something well",
+        "translation": "afərin"
+      },
+      {
         "term": "achieve",
         "lemma": "achieve",
         "partOfSpeech": "verb",
@@ -945,7 +1010,7 @@
         "term": "I'll be able to",
         "lemma": "be able to",
         "partOfSpeech": "phrase",
-        "meaning": "I will be able to; I will can",
+        "meaning": "I will have the ability to",
         "translation": "-a biləcəyəm"
       }
     ]

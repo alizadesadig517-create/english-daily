@@ -526,6 +526,10 @@
             "translation": "İlk həftə çətin keçdi və üçüncü gün o, az qala hər şeydən əl çəkməyə qərar verdi."
           },
           {
+            "text": "Her legs hurt, and the alarm at six o'clock felt like a punishment.",
+            "translation": "Ayaqları ağrıyırdı, saat altıda çalan zəngli saat isə ona cəza kimi gəlirdi."
+          },
+          {
             "text": "But the group encouraged her every day, and it was hard to say no to their positive attitude.",
             "translation": "Amma qrup onu hər gün ruhlandırırdı və onların müsbət ruhuna “yox” demək çətin idi."
           },
@@ -560,6 +564,10 @@
           {
             "text": "She also made new friends and learned the names of the streets around her home.",
             "translation": "O, həm də yeni dostlar qazandı və evinin ətrafındakı küçələrin adlarını öyrəndi."
+          },
+          {
+            "text": "Her colleagues noticed the change and said that she looked much happier.",
+            "translation": "İş yoldaşları dəyişikliyi hiss etdilər və onun daha xoşbəxt göründüyünü dedilər."
           }
         ]
       },
@@ -768,6 +776,34 @@
         "translation": "əl çəkmək, vaz keçmək"
       },
       {
+        "term": "hurt",
+        "lemma": "hurt",
+        "partOfSpeech": "verb",
+        "meaning": "felt pain",
+        "translation": "ağrıyırdı"
+      },
+      {
+        "term": "alarm",
+        "lemma": "alarm",
+        "partOfSpeech": "noun",
+        "meaning": "a clock that makes a loud noise to wake you up",
+        "translation": "zəngli saat"
+      },
+      {
+        "term": "felt like",
+        "lemma": "feel like",
+        "partOfSpeech": "phrase",
+        "meaning": "seemed similar to",
+        "translation": "... kimi gəlirdi"
+      },
+      {
+        "term": "punishment",
+        "lemma": "punishment",
+        "partOfSpeech": "noun",
+        "meaning": "something bad that happens to you because you did something wrong",
+        "translation": "cəza"
+      },
+      {
         "term": "encouraged",
         "lemma": "encourage",
         "partOfSpeech": "verb",
@@ -873,11 +909,11 @@
         "translation": "daha sağlam"
       },
       {
-        "term": "developed a love for",
-        "lemma": "develop a love for",
-        "partOfSpeech": "phrase",
-        "meaning": "slowly started to love something",
-        "translation": "sevməyə başladı"
+        "term": "developed",
+        "lemma": "develop",
+        "partOfSpeech": "verb",
+        "meaning": "slowly started to have (a feeling or interest)",
+        "translation": "yarandı, getdikcə ... başladı"
       },
       {
         "term": "boulevard",
@@ -913,6 +949,20 @@
         "partOfSpeech": "phrase",
         "meaning": "met people and became friends with them",
         "translation": "yeni dostlar qazandı"
+      },
+      {
+        "term": "colleagues",
+        "lemma": "colleague",
+        "partOfSpeech": "noun",
+        "meaning": "people you work with",
+        "translation": "iş yoldaşları"
+      },
+      {
+        "term": "noticed",
+        "lemma": "notice",
+        "partOfSpeech": "verb",
+        "meaning": "saw or became aware of something",
+        "translation": "hiss etdilər, gördülər"
       },
       {
         "term": "transformed",
