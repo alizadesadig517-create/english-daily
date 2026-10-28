@@ -77,9 +77,13 @@ jobs:
         if: always()
         run: rm -f android/release.jks android/key.properties
 
+      # The GitHub Release below is the main download. The artifact is a
+      # convenience copy, so a full artifact storage quota must not fail the build.
       - name: Upload artifact
         uses: actions/upload-artifact@v4
+        continue-on-error: true
         with:
+          retention-days: 7
           name: english-daily-v${{ github.run_number }}
           path: app/build/app/outputs/flutter-apk/app-release.apk
           if-no-files-found: error
