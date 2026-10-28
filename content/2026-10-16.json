@@ -1,0 +1,1017 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-16",
+  "level": "B1",
+  "translationLanguage": "az",
+  "words": [
+    {
+      "word": "mention",
+      "ipa": "/ˈmɛnʃən/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "qeyd etmək, adını çəkmək, söz açmaq",
+          "definition": "to talk or write about something quickly, without giving many details",
+          "synonyms": [
+            "refer to",
+            "bring up",
+            "note"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "She mentioned that she was moving to Ganja.",
+              "translation": "O, Gəncəyə köçdüyünü qeyd etdi."
+            },
+            {
+              "text": "Don't mention the party to Ali – it's a surprise.",
+              "translation": "Əliyə qonaqlıqdan söz açma – bu, sürprizdir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "persuade",
+      "ipa": "/pərˈsweɪd/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "razı salmaq, inandırmaq",
+          "definition": "to make someone agree to do or believe something by giving them good reasons",
+          "synonyms": [
+            "convince",
+            "talk into"
+          ],
+          "antonyms": [
+            "discourage",
+            "dissuade"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "I persuaded my brother to come with us.",
+              "translation": "Qardaşımı bizimlə gəlməyə razı saldım."
+            },
+            {
+              "text": "She tried to persuade her parents, but they still said no.",
+              "translation": "O, valideynlərini razı salmağa çalışdı, amma onlar yenə də “yox” dedilər."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "rumor",
+      "ipa": "/ˈrumər/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "şayiə, söz-söhbət",
+          "definition": "a story or piece of news that people tell each other, which may not be true",
+          "synonyms": [
+            "gossip",
+            "hearsay"
+          ],
+          "antonyms": [
+            "fact"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "There's a rumor that our teacher is leaving.",
+              "translation": "Müəllimimizin getdiyi barədə şayiə var."
+            },
+            {
+              "text": "Don't spread rumors about other people.",
+              "translation": "Başqaları haqqında şayiə yayma."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "announce",
+      "ipa": "/əˈnaʊns/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "elan etmək, bildirmək",
+          "definition": "to tell people officially or publicly about something",
+          "synonyms": [
+            "declare",
+            "make public"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The pilot announced that we would land in ten minutes.",
+              "translation": "Pilot on dəqiqəyə eniş edəcəyimizi elan etdi."
+            },
+            {
+              "text": "They announced their engagement at the family dinner.",
+              "translation": "Onlar ailə şam yeməyində nişanlandıqlarını elan etdilər."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "respond",
+      "ipa": "/rɪˈspɑnd/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "cavab vermək; reaksiya vermək",
+          "definition": "to answer someone, or to react to something that happens",
+          "synonyms": [
+            "reply",
+            "answer",
+            "react"
+          ],
+          "antonyms": [
+            "ignore"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "She didn't respond to my message.",
+              "translation": "O, mesajıma cavab vermədi."
+            },
+            {
+              "text": "How did he respond when you told him the news?",
+              "translation": "Ona xəbəri deyəndə o, necə reaksiya verdi?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "suggest",
+      "ipa": "/səɡˈdʒɛst/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "təklif etmək, məsləhət görmək",
+          "definition": "to give an idea or a plan for someone to think about",
+          "synonyms": [
+            "propose",
+            "recommend"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "I suggest that we meet at six.",
+              "translation": "Saat altıda görüşməyi təklif edirəm."
+            },
+            {
+              "text": "She suggested going to the cinema.",
+              "translation": "O, kinoya getməyi təklif etdi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "deny",
+      "ipa": "/dɪˈnaɪ/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "inkar etmək, danmaq; təkzib etmək",
+          "definition": "to say that something is not true, or that you did not do something",
+          "synonyms": [
+            "reject",
+            "dispute"
+          ],
+          "antonyms": [
+            "admit",
+            "confirm"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "He denied breaking the window.",
+              "translation": "O, pəncərəni sındırdığını inkar etdi."
+            },
+            {
+              "text": "The company denies the rumors.",
+              "translation": "Şirkət şayiələri təkzib edir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "admit",
+      "ipa": "/ədˈmɪt/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "etiraf etmək, boynuna almaq",
+          "definition": "to agree, often when you don't want to, that something is true or that you did something wrong",
+          "synonyms": [
+            "confess",
+            "accept",
+            "acknowledge"
+          ],
+          "antonyms": [
+            "deny"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "I admit that I was wrong.",
+              "translation": "Səhv etdiyimi etiraf edirəm."
+            },
+            {
+              "text": "She finally admitted eating the last piece of cake.",
+              "translation": "O, nəhayət, tortun son tikəsini yediyini boynuna aldı."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "claim",
+      "ipa": "/kleɪm/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "iddia etmək",
+          "definition": "to say that something is true, although it might not be",
+          "synonyms": [
+            "state",
+            "insist",
+            "maintain"
+          ],
+          "antonyms": [
+            "deny"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "He claims that he met a famous actor at the airport.",
+              "translation": "O, hava limanında məşhur bir aktyorla tanış olduğunu iddia edir."
+            },
+            {
+              "text": "The advertisement claims that the cream works in one week.",
+              "translation": "Reklamda kremin bir həftəyə təsir etdiyi iddia olunur."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "whisper",
+      "ipa": "/ˈwɪspər/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "pıçıldamaq",
+          "definition": "to speak very quietly, using your breath and not your voice",
+          "synonyms": [
+            "murmur",
+            "mutter"
+          ],
+          "antonyms": [
+            "shout",
+            "yell"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "She whispered something in my ear.",
+              "translation": "O, qulağıma nəsə pıçıldadı."
+            },
+            {
+              "text": "Please whisper – the baby is sleeping.",
+              "translation": "Zəhmət olmasa, pıçıltı ilə danış – körpə yatır."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "convince",
+      "ipa": "/kənˈvɪns/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "inandırmaq; razı salmaq",
+          "definition": "to make someone believe that something is true, or make them decide to do something",
+          "synonyms": [
+            "persuade",
+            "assure"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "He couldn't convince me that the plan would work.",
+              "translation": "O, məni planın işləyəcəyinə inandıra bilmədi."
+            },
+            {
+              "text": "She convinced me to buy a new laptop.",
+              "translation": "O, məni yeni noutbuk almağa razı saldı."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "interrupt",
+      "ipa": "/ˌɪntəˈrʌpt/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "sözünü kəsmək; yarımçıq kəsmək",
+          "definition": "to stop someone while they are speaking, or to stop something for a short time",
+          "synonyms": [
+            "cut in",
+            "break in"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Sorry to interrupt, but your taxi is here.",
+              "translation": "Sözünüzü kəsdiyim üçün bağışlayın, amma taksiniz gəlib."
+            },
+            {
+              "text": "The game was interrupted by heavy rain.",
+              "translation": "Oyun güclü yağış səbəbindən dayandırıldı."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "inform",
+      "ipa": "/ɪnˈfɔrm/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "məlumat vermək, xəbərdar etmək",
+          "definition": "to tell someone about something, often in an official way",
+          "synonyms": [
+            "tell",
+            "notify",
+            "let know"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Please inform us if you change your address.",
+              "translation": "Ünvanınızı dəyişsəniz, bizə məlumat verin."
+            },
+            {
+              "text": "We were informed that the flight was late.",
+              "translation": "Bizə reysin gecikdiyi barədə məlumat verildi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "discuss",
+      "ipa": "/dɪˈskʌs/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "müzakirə etmək",
+          "definition": "to talk about something with other people",
+          "synonyms": [
+            "talk about",
+            "talk over",
+            "debate"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "We need to discuss the plan for next week.",
+              "translation": "Gələn həftənin planını müzakirə etməliyik."
+            },
+            {
+              "text": "They discussed the problem for hours.",
+              "translation": "Onlar problemi saatlarla müzakirə etdilər."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "gesture",
+      "ipa": "/ˈdʒɛstʃər/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "jest, işarə; (xoş) jest",
+          "definition": "a movement of your hands or head that shows what you mean or feel; also a small action that shows your feelings",
+          "synonyms": [
+            "sign",
+            "signal",
+            "movement"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "He made a gesture for us to sit down.",
+              "translation": "O, bizə oturmağımız üçün işarə etdi."
+            },
+            {
+              "text": "Sending flowers was a kind gesture.",
+              "translation": "Gül göndərmək xoş bir jest idi."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "story": {
+    "title": "The Office Rumor",
+    "titleTranslation": "Ofisdəki şayiə",
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "On Monday morning, a strange rumor started to spread around the office.",
+            "translation": "Bazar ertəsi səhər ofisdə qəribə bir şayiə yayılmağa başladı."
+          },
+          {
+            "text": "Someone claimed that the company was going to close their department.",
+            "translation": "Kimsə iddia edirdi ki, şirkət onların şöbəsini bağlayacaq."
+          },
+          {
+            "text": "Some people said that a bigger company had bought theirs; others said that everyone would have to work from home.",
+            "translation": "Bəziləri deyirdi ki, daha böyük bir şirkət onların şirkətini alıb, digərləri isə hamının evdən işləməli olacağını deyirdi."
+          },
+          {
+            "text": "People whispered in the kitchen and stopped talking when the manager walked past.",
+            "translation": "İnsanlar mətbəxdə pıçıldaşır, menecer yanlarından keçəndə isə susurdular."
+          },
+          {
+            "text": "Soon the rumor had grown so big that some people started to look at job websites.",
+            "translation": "Tezliklə şayiə o qədər böyüdü ki, bəziləri iş elanları saytlarına baxmağa başladı."
+          },
+          {
+            "text": "Narmin felt worried all day and couldn't concentrate on her work.",
+            "translation": "Nərmin bütün günü narahat idi və diqqətini işinə cəmləyə bilmirdi."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "At lunch, she mentioned the rumor to her colleague Rashad.",
+            "translation": "Nahar vaxtı o, iş yoldaşı Rəşada bu şayiədən söz açdı."
+          },
+          {
+            "text": "Rashad had worked at the company for ten years, and he had heard many rumors before.",
+            "translation": "Rəşad bu şirkətdə on il işləmişdi və əvvəllər də çox şayiə eşitmişdi."
+          },
+          {
+            "text": "“You shouldn't believe everything you hear,” he said calmly. “If you're worried, you ought to ask the manager directly.”",
+            "translation": "«Eşitdiyin hər şeyə inanmamalısan», – deyə o, sakitcə dedi. «Narahatsansa, birbaşa menecerdən soruşmalısan.»"
+          },
+          {
+            "text": "Narmin wasn't sure. “What if he denies it, but it's true?” she asked.",
+            "translation": "Nərmin əmin deyildi. «Bəs o, bunu inkar etsə, amma doğru olsa?» – deyə soruşdu."
+          },
+          {
+            "text": "“Then you should at least ask him to inform the team about his plans,” Rashad said.",
+            "translation": "«Onda heç olmasa ondan planları barədə komandaya məlumat verməsini xahiş etməlisən», – dedi Rəşad."
+          },
+          {
+            "text": "He suggested writing a short, polite email, and in the end he persuaded her to send it.",
+            "translation": "O, qısa və nəzakətli bir e-poçt yazmağı təklif etdi və sonda Nərmini onu göndərməyə razı saldı."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The manager didn't respond that day, and Narmin slept badly.",
+            "translation": "Menecer həmin gün cavab vermədi və Nərmin pis yatdı."
+          },
+          {
+            "text": "She checked her inbox every ten minutes, but there was nothing.",
+            "translation": "O, hər on dəqiqədən bir poçt qutusunu yoxlayırdı, amma heç nə yox idi."
+          },
+          {
+            "text": "The next morning, he called everyone into the meeting room because he wanted to announce some news.",
+            "translation": "Ertəsi səhər o, hamını iclas otağına çağırdı, çünki bir xəbər elan etmək istəyirdi."
+          },
+          {
+            "text": "Before he could start, Elvin from the sales team interrupted him: “Are we all losing our jobs?”",
+            "translation": "O, sözə başlamağa macal tapmamış satış komandasından Elvin onun sözünü kəsdi: «Hamımız işimizi itiririk?»"
+          },
+          {
+            "text": "The manager laughed and made a calming gesture with his hands.",
+            "translation": "Menecer güldü və əlləri ilə sakitləşdirici bir işarə etdi."
+          },
+          {
+            "text": "“Nobody is losing their job,” he said. “But I admit it was my mistake – I should inform you about changes much earlier.”",
+            "translation": "«Heç kim işini itirmir», – dedi. «Amma etiraf edirəm ki, bu, mənim səhvim idi – dəyişikliklər barədə sizə daha tez məlumat verməliyəm.»"
+          },
+          {
+            "text": "“We're moving to a bigger and brighter office next month, and today I'd like to discuss the plan with all of you.”",
+            "translation": "«Gələn ay daha böyük və işıqlı bir ofisə köçürük və bu gün planı hamınızla müzakirə etmək istərdim.»"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Everyone laughed with relief, and the room was suddenly full of happy voices.",
+            "translation": "Hamı rahat nəfəs alıb güldü və otaq birdən sevincli səslərlə doldu."
+          },
+          {
+            "text": "Later, Rashad smiled at Narmin. “So, did I convince you? Rumors are usually wrong.”",
+            "translation": "Sonra Rəşad Nərminə gülümsədi: «Hə, səni inandıra bildim? Şayiələr adətən yanlış olur.»"
+          },
+          {
+            "text": "He didn't say “I told you so,” but his smile said it for him.",
+            "translation": "O, «Mən sənə demişdim» demədi, amma təbəssümü hər şeyi deyirdi."
+          },
+          {
+            "text": "Narmin nodded. “You're right. Next time, I should ask questions before I start to worry.”",
+            "translation": "Nərmin başını tərpətdi: «Haqlısan. Növbəti dəfə narahat olmağa başlamazdan əvvəl sual verməliyəm.»"
+          },
+          {
+            "text": "That evening, she called her mother and told her the whole story, and they both laughed about it.",
+            "translation": "Həmin axşam o, anasına zəng edib hər şeyi danışdı və hər ikisi buna güldülər."
+          }
+        ]
+      }
+    ],
+    "glossary": [
+      {
+        "term": "strange",
+        "lemma": "strange",
+        "partOfSpeech": "adjective",
+        "meaning": "unusual or surprising",
+        "translation": "qəribə"
+      },
+      {
+        "term": "rumor",
+        "lemma": "rumor",
+        "partOfSpeech": "noun",
+        "meaning": "a story that people tell each other, which may not be true",
+        "translation": "şayiə"
+      },
+      {
+        "term": "spread",
+        "lemma": "spread",
+        "partOfSpeech": "verb",
+        "meaning": "to move to more and more people",
+        "translation": "yayılmaq"
+      },
+      {
+        "term": "around the office",
+        "lemma": "around",
+        "partOfSpeech": "phrase",
+        "meaning": "in many parts of the office",
+        "translation": "ofis boyunca, ofisdə"
+      },
+      {
+        "term": "claimed",
+        "lemma": "claim",
+        "partOfSpeech": "verb",
+        "meaning": "said something was true without proof",
+        "translation": "iddia edirdi"
+      },
+      {
+        "term": "department",
+        "lemma": "department",
+        "partOfSpeech": "noun",
+        "meaning": "one part of a big company",
+        "translation": "şöbə"
+      },
+      {
+        "term": "work from home",
+        "lemma": "work from home",
+        "partOfSpeech": "phrase",
+        "meaning": "to do your job at home, not in the office",
+        "translation": "evdən işləmək"
+      },
+      {
+        "term": "whispered",
+        "lemma": "whisper",
+        "partOfSpeech": "verb",
+        "meaning": "spoke very quietly",
+        "translation": "pıçıldaşırdılar"
+      },
+      {
+        "term": "walked past",
+        "lemma": "walk past",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "walked near them without stopping",
+        "translation": "yanlarından keçdi"
+      },
+      {
+        "term": "had grown",
+        "lemma": "grow",
+        "partOfSpeech": "verb",
+        "meaning": "had become bigger",
+        "translation": "böyümüşdü"
+      },
+      {
+        "term": "job websites",
+        "lemma": "job website",
+        "partOfSpeech": "noun",
+        "meaning": "internet pages where people look for work",
+        "translation": "iş elanları saytları"
+      },
+      {
+        "term": "worried",
+        "lemma": "worried",
+        "partOfSpeech": "adjective",
+        "meaning": "thinking about problems and feeling afraid",
+        "translation": "narahat"
+      },
+      {
+        "term": "concentrate on",
+        "lemma": "concentrate on",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "to give all your attention to something",
+        "translation": "diqqətini ... cəmləmək"
+      },
+      {
+        "term": "mentioned",
+        "lemma": "mention",
+        "partOfSpeech": "verb",
+        "meaning": "talked about something quickly",
+        "translation": "söz açdı, qeyd etdi"
+      },
+      {
+        "term": "colleague",
+        "lemma": "colleague",
+        "partOfSpeech": "noun",
+        "meaning": "a person you work with",
+        "translation": "iş yoldaşı"
+      },
+      {
+        "term": "shouldn't",
+        "lemma": "should",
+        "partOfSpeech": "verb",
+        "meaning": "it is not a good idea to",
+        "translation": "-mamalısan, -məməlisən"
+      },
+      {
+        "term": "calmly",
+        "lemma": "calmly",
+        "partOfSpeech": "adverb",
+        "meaning": "in a quiet way, without worry",
+        "translation": "sakitcə"
+      },
+      {
+        "term": "ought to",
+        "lemma": "ought to",
+        "partOfSpeech": "phrase",
+        "meaning": "should; it is the right thing to do",
+        "translation": "-malısan, -məlisən"
+      },
+      {
+        "term": "directly",
+        "lemma": "directly",
+        "partOfSpeech": "adverb",
+        "meaning": "without asking other people first",
+        "translation": "birbaşa"
+      },
+      {
+        "term": "What if",
+        "lemma": "what if",
+        "partOfSpeech": "phrase",
+        "meaning": "used to ask what will happen in a situation",
+        "translation": "bəs ... olsa"
+      },
+      {
+        "term": "denies",
+        "lemma": "deny",
+        "partOfSpeech": "verb",
+        "meaning": "says that something is not true",
+        "translation": "inkar edir"
+      },
+      {
+        "term": "at least",
+        "lemma": "at least",
+        "partOfSpeech": "phrase",
+        "meaning": "used to say that something is the smallest thing you should do",
+        "translation": "heç olmasa"
+      },
+      {
+        "term": "inform",
+        "lemma": "inform",
+        "partOfSpeech": "verb",
+        "meaning": "to give someone information",
+        "translation": "məlumat vermək"
+      },
+      {
+        "term": "suggested",
+        "lemma": "suggest",
+        "partOfSpeech": "verb",
+        "meaning": "gave an idea",
+        "translation": "təklif etdi"
+      },
+      {
+        "term": "polite",
+        "lemma": "polite",
+        "partOfSpeech": "adjective",
+        "meaning": "showing good manners",
+        "translation": "nəzakətli"
+      },
+      {
+        "term": "in the end",
+        "lemma": "in the end",
+        "partOfSpeech": "phrase",
+        "meaning": "finally, after some time",
+        "translation": "sonda, nəhayət"
+      },
+      {
+        "term": "persuaded",
+        "lemma": "persuade",
+        "partOfSpeech": "verb",
+        "meaning": "made someone agree to do something",
+        "translation": "razı saldı"
+      },
+      {
+        "term": "respond",
+        "lemma": "respond",
+        "partOfSpeech": "verb",
+        "meaning": "to answer",
+        "translation": "cavab vermək"
+      },
+      {
+        "term": "checked",
+        "lemma": "check",
+        "partOfSpeech": "verb",
+        "meaning": "looked at something to find out information",
+        "translation": "yoxlayırdı"
+      },
+      {
+        "term": "inbox",
+        "lemma": "inbox",
+        "partOfSpeech": "noun",
+        "meaning": "the place where new emails arrive",
+        "translation": "poçt qutusu, gələnlər qutusu"
+      },
+      {
+        "term": "called everyone into",
+        "lemma": "call into",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "asked everyone to come into a room",
+        "translation": "hamını ... çağırdı"
+      },
+      {
+        "term": "meeting room",
+        "lemma": "meeting room",
+        "partOfSpeech": "noun",
+        "meaning": "a room where people have meetings",
+        "translation": "iclas otağı"
+      },
+      {
+        "term": "announce",
+        "lemma": "announce",
+        "partOfSpeech": "verb",
+        "meaning": "to tell people officially about something",
+        "translation": "elan etmək"
+      },
+      {
+        "term": "sales team",
+        "lemma": "sales team",
+        "partOfSpeech": "noun",
+        "meaning": "the group of people who sell a company's products",
+        "translation": "satış komandası"
+      },
+      {
+        "term": "interrupted",
+        "lemma": "interrupt",
+        "partOfSpeech": "verb",
+        "meaning": "started speaking while someone else was speaking",
+        "translation": "sözünü kəsdi"
+      },
+      {
+        "term": "losing our jobs",
+        "lemma": "lose your job",
+        "partOfSpeech": "phrase",
+        "meaning": "no longer having our work",
+        "translation": "işimizi itiririk"
+      },
+      {
+        "term": "calming",
+        "lemma": "calming",
+        "partOfSpeech": "adjective",
+        "meaning": "making people feel calm",
+        "translation": "sakitləşdirici"
+      },
+      {
+        "term": "gesture",
+        "lemma": "gesture",
+        "partOfSpeech": "noun",
+        "meaning": "a movement of the hands that shows what you mean",
+        "translation": "işarə, jest"
+      },
+      {
+        "term": "admit",
+        "lemma": "admit",
+        "partOfSpeech": "verb",
+        "meaning": "to agree that you did something wrong",
+        "translation": "etiraf etmək"
+      },
+      {
+        "term": "should",
+        "lemma": "should",
+        "partOfSpeech": "verb",
+        "meaning": "it is a good idea or the right thing to",
+        "translation": "-malı, -məli"
+      },
+      {
+        "term": "brighter",
+        "lemma": "bright",
+        "partOfSpeech": "adjective",
+        "meaning": "with more light",
+        "translation": "daha işıqlı"
+      },
+      {
+        "term": "discuss",
+        "lemma": "discuss",
+        "partOfSpeech": "verb",
+        "meaning": "to talk about something with other people",
+        "translation": "müzakirə etmək"
+      },
+      {
+        "term": "with relief",
+        "lemma": "with relief",
+        "partOfSpeech": "phrase",
+        "meaning": "feeling happy because a worry has gone",
+        "translation": "rahat nəfəs alaraq"
+      },
+      {
+        "term": "suddenly",
+        "lemma": "suddenly",
+        "partOfSpeech": "adverb",
+        "meaning": "quickly and unexpectedly",
+        "translation": "birdən"
+      },
+      {
+        "term": "voices",
+        "lemma": "voice",
+        "partOfSpeech": "noun",
+        "meaning": "the sounds people make when they speak",
+        "translation": "səslər"
+      },
+      {
+        "term": "convince",
+        "lemma": "convince",
+        "partOfSpeech": "verb",
+        "meaning": "to make someone believe something",
+        "translation": "inandırmaq"
+      },
+      {
+        "term": "I told you so",
+        "lemma": "I told you so",
+        "partOfSpeech": "idiom",
+        "meaning": "said when you were right about something and the other person did not listen",
+        "translation": "mən sənə demişdim"
+      },
+      {
+        "term": "nodded",
+        "lemma": "nod",
+        "partOfSpeech": "verb",
+        "meaning": "moved her head down and up to say yes",
+        "translation": "başını tərpətdi"
+      },
+      {
+        "term": "the whole story",
+        "lemma": "the whole story",
+        "partOfSpeech": "phrase",
+        "meaning": "everything that happened",
+        "translation": "hər şeyi, bütün əhvalatı"
+      },
+      {
+        "term": "Next time",
+        "lemma": "next time",
+        "partOfSpeech": "phrase",
+        "meaning": "on the next occasion",
+        "translation": "növbəti dəfə"
+      }
+    ]
+  },
+  "grammar": {
+    "topic": "Advice: should and ought to",
+    "topicTranslation": "Məsləhət: should və ought to",
+    "explanation": "We use should and ought to to give advice or to say what is the right thing to do. They have almost the same meaning, but should is much more common, especially in questions and negative sentences. After should we use the base verb; after ought we use to + base verb. The negative is shouldn't. To ask for advice, we usually say Should I ...?",
+    "explanationTranslation": "Məsləhət vermək və ya düzgün hərəkətin nə olduğunu bildirmək üçün should və ought to işlədilir. Onların mənası demək olar ki, eynidir, amma should, xüsusən sual və inkar cümlələrində, daha çox işlənir. Should-dan sonra feilin əsas forması, ought-dan sonra isə to + feilin əsas forması gəlir. İnkar forması shouldn't-dur. Məsləhət istəmək üçün adətən Should I ...? deyilir.",
+    "rules": [
+      {
+        "text": "should + base verb (no to): You should rest.",
+        "translation": "should + feilin əsas forması (to-suz): You should rest."
+      },
+      {
+        "text": "ought to + base verb: You ought to call her.",
+        "translation": "ought to + feilin əsas forması: You ought to call her."
+      },
+      {
+        "text": "The negative is shouldn't (should not): You shouldn't believe rumors.",
+        "translation": "İnkar forması shouldn't (should not)-dur: You shouldn't believe rumors."
+      },
+      {
+        "text": "To ask for advice, use Should I / we ...? We rarely use ought in questions.",
+        "translation": "Məsləhət istəmək üçün Should I / we ...? işlədilir. Ought sual cümlələrində nadir hallarda işlənir."
+      }
+    ],
+    "examples": [
+      {
+        "text": "You should respond to his email today.",
+        "translation": "Onun məktubuna bu gün cavab verməlisən."
+      },
+      {
+        "text": "We ought to leave now – the traffic is terrible at this time.",
+        "translation": "İndi çıxmalıyıq – bu vaxt tıxac dəhşətli olur."
+      },
+      {
+        "text": "You shouldn't spread rumors about your colleagues.",
+        "translation": "İş yoldaşların haqqında şayiə yaymamalısan."
+      },
+      {
+        "text": "Should I mention the problem to my boss?",
+        "translation": "Problemi müdirimə deyim?"
+      },
+      {
+        "text": "She ought to see a doctor about her back.",
+        "translation": "O, beli ilə bağlı həkimə görünməlidir."
+      }
+    ],
+    "exercise": {
+      "instructions": "Choose or write the correct form.",
+      "instructionsTranslation": "Düzgün formanı seçin və ya yazın.",
+      "questions": [
+        {
+          "type": "choice",
+          "prompt": "You look tired. You ___ go to bed early tonight.",
+          "promptTranslation": "Yorğun görünürsən. Bu axşam tez yatmalısan.",
+          "options": [
+            "should",
+            "ought",
+            "shouldn't"
+          ],
+          "answer": "should",
+          "explanation": "We give advice with should + base verb. Ought needs to.",
+          "explanationTranslation": "Məsləhət should + feilin əsas forması ilə verilir. Ought-dan sonra to lazımdır."
+        },
+        {
+          "type": "choice",
+          "prompt": "You ___ to apologize to your sister.",
+          "promptTranslation": "Bacından üzr istəməlisən.",
+          "options": [
+            "should",
+            "ought",
+            "must"
+          ],
+          "answer": "ought",
+          "explanation": "Only ought is followed by to + verb.",
+          "explanationTranslation": "Yalnız ought-dan sonra to + feil gəlir."
+        },
+        {
+          "type": "text",
+          "prompt": "You ___ (should / not) eat so much sugar.",
+          "promptTranslation": "Bu qədər çox şəkər yeməməlisən.",
+          "answer": "shouldn't",
+          "acceptedAnswers": [
+            "should not"
+          ],
+          "explanation": "The negative of should is shouldn't.",
+          "explanationTranslation": "Should-un inkar forması shouldn't-dur."
+        },
+        {
+          "type": "text",
+          "prompt": "___ (should) I tell him about the rumor?",
+          "promptTranslation": "Ona şayiə barədə deyim?",
+          "answer": "Should",
+          "explanation": "In questions, should comes before the subject.",
+          "explanationTranslation": "Sual cümləsində should mübtədadan əvvəl gəlir."
+        },
+        {
+          "type": "choice",
+          "prompt": "It's cold outside. You ought ___ a warm coat.",
+          "promptTranslation": "Çöldə soyuqdur. İsti palto geyinməlisən.",
+          "options": [
+            "wear",
+            "to wear",
+            "wearing"
+          ],
+          "answer": "to wear",
+          "explanation": "After ought we use to + base verb.",
+          "explanationTranslation": "Ought-dan sonra to + feilin əsas forması işlədilir."
+        }
+      ]
+    }
+  }
+}

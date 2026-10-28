@@ -1,0 +1,1009 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-12",
+  "level": "B1",
+  "translationLanguage": "az",
+  "words": [
+    {
+      "word": "device",
+      "ipa": "/dɪˈvaɪs/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "cihaz, qurğu",
+          "definition": "a small machine or tool that is made for a special job, such as a phone or a tablet",
+          "synonyms": [
+            "gadget",
+            "machine",
+            "tool"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "You can watch the film on any device – your phone, tablet or laptop.",
+              "translation": "Filmə istənilən cihazda baxa bilərsən – telefonda, planşetdə və ya noutbukda."
+            },
+            {
+              "text": "Please turn off all electronic devices during the exam.",
+              "translation": "Xahiş edirik, imtahan zamanı bütün elektron cihazları söndürün."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "charge",
+      "ipa": "/tʃɑrdʒ/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "şarj etmək; (pul) tələb etmək",
+          "definition": "to put electricity into a battery; also, to ask someone to pay a price for something",
+          "synonyms": [
+            "power up",
+            "bill"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "I forgot to charge my phone last night.",
+              "translation": "Dünən gecə telefonumu şarj etməyi unutdum."
+            },
+            {
+              "text": "The hotel charged us twenty manats for breakfast.",
+              "translation": "Otel səhər yeməyi üçün bizdən iyirmi manat aldı."
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "noun",
+          "translation": "ödəniş, haqq; (batareyanın) şarjı",
+          "definition": "the money you have to pay for a service; also, the electricity stored in a battery",
+          "synonyms": [
+            "fee",
+            "cost",
+            "price"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "There is no charge for children under six.",
+              "translation": "Altı yaşınadək uşaqlardan ödəniş alınmır."
+            },
+            {
+              "text": "My phone has only ten percent charge left.",
+              "translation": "Telefonumun cəmi on faiz şarjı qalıb."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "install",
+      "ipa": "/ɪnˈstɔl/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "quraşdırmaq",
+          "definition": "to put a new program on a computer or phone, or to put a machine in place so that it is ready to use",
+          "synonyms": [
+            "set up",
+            "put in"
+          ],
+          "antonyms": [
+            "uninstall",
+            "remove"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "I installed a new app for learning English.",
+              "translation": "İngilis dilini öyrənmək üçün yeni proqram quraşdırdım."
+            },
+            {
+              "text": "They are installing air conditioning in the office next week.",
+              "translation": "Gələn həftə ofisdə kondisioner quraşdırırlar."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "update",
+      "ipa": "/ʌpˈdeɪt, ˈʌpdeɪt/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "yeniləmək",
+          "definition": "to add the newest information to something, or to make a program newer and better",
+          "synonyms": [
+            "upgrade",
+            "renew",
+            "refresh"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "You should update your phone regularly.",
+              "translation": "Telefonunu mütəmadi olaraq yeniləməlisən."
+            },
+            {
+              "text": "The website is updated every morning.",
+              "translation": "Sayt hər səhər yenilənir."
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "noun",
+          "translation": "yeniləmə; son xəbər",
+          "definition": "a newer version of a program, or the newest news about something",
+          "synonyms": [
+            "upgrade",
+            "news"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "A new update for this game came out yesterday.",
+              "translation": "Bu oyunun yeni yeniləməsi dünən çıxdı."
+            },
+            {
+              "text": "I'll send you an update after the meeting.",
+              "translation": "Görüşdən sonra sənə son vəziyyət barədə məlumat göndərərəm."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "screen",
+      "ipa": "/skrin/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "ekran",
+          "definition": "the flat surface of a TV, computer or phone where you see pictures and words",
+          "synonyms": [
+            "display",
+            "monitor"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The screen on my phone is broken.",
+              "translation": "Telefonumun ekranı sınıb."
+            },
+            {
+              "text": "Children shouldn't spend too many hours in front of a screen.",
+              "translation": "Uşaqlar ekran qarşısında çox saat keçirməməlidirlər."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "battery",
+      "ipa": "/ˈbætəri/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "batareya, akkumulyator",
+          "definition": "a small object that stores electricity and gives power to phones, cars, toys and other things",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "My phone's battery dies very quickly.",
+              "translation": "Telefonumun batareyası çox tez bitir."
+            },
+            {
+              "text": "This toy needs two batteries.",
+              "translation": "Bu oyuncağa iki batareya lazımdır."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "download",
+      "ipa": "/ˈdaʊnˌloʊd/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "yükləmək (internetdən)",
+          "definition": "to copy a file or program from the internet onto your computer or phone",
+          "synonyms": [],
+          "antonyms": [
+            "upload"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "You can download the app for free.",
+              "translation": "Proqramı pulsuz yükləyə bilərsən."
+            },
+            {
+              "text": "I downloaded some music for the trip.",
+              "translation": "Səfər üçün bir az musiqi yüklədim."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "password",
+      "ipa": "/ˈpæsˌwɝd/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "şifrə, parol",
+          "definition": "a secret word or set of letters and numbers that you need to use a computer, phone or website",
+          "synonyms": [
+            "passcode",
+            "code"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Never tell anyone your password.",
+              "translation": "Şifrəni heç vaxt heç kimə demə."
+            },
+            {
+              "text": "I forgot my password and couldn't open my email.",
+              "translation": "Şifrəmi unutdum və elektron poçtumu aça bilmədim."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "wireless",
+      "ipa": "/ˈwaɪərləs/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "simsiz",
+          "definition": "working without wires, using radio signals",
+          "synonyms": [
+            "cordless"
+          ],
+          "antonyms": [
+            "wired"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "This café has free wireless internet.",
+              "translation": "Bu kafedə pulsuz simsiz internet var."
+            },
+            {
+              "text": "I use a wireless mouse with my laptop.",
+              "translation": "Noutbukumla simsiz siçan işlədirəm."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "keyboard",
+      "ipa": "/ˈkiˌbɔrd/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "klaviatura; sintezator",
+          "definition": "the set of keys that you press to type on a computer or phone; also, an electric musical instrument like a piano",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The letter E on my keyboard doesn't work.",
+              "translation": "Klaviaturamda E hərfi işləmir."
+            },
+            {
+              "text": "She plays keyboard in a band.",
+              "translation": "O, bir musiqi qrupunda sintezatorda çalır."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "connect",
+      "ipa": "/kəˈnɛkt/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "qoşmaq, birləşdirmək",
+          "definition": "to join two things together, or to join a device to a network or the internet",
+          "synonyms": [
+            "join",
+            "link",
+            "attach"
+          ],
+          "antonyms": [
+            "disconnect"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "I can't connect to the internet.",
+              "translation": "İnternetə qoşula bilmirəm."
+            },
+            {
+              "text": "Connect the printer to your computer with this cable.",
+              "translation": "Printeri bu kabellə kompüterinə qoş."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "delete",
+      "ipa": "/dɪˈlit/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "silmək",
+          "definition": "to remove words, files or photos from a computer or phone",
+          "synonyms": [
+            "remove",
+            "erase"
+          ],
+          "antonyms": [
+            "save",
+            "keep"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "I deleted the photo by mistake.",
+              "translation": "Şəkli səhvən sildim."
+            },
+            {
+              "text": "Please delete my number from the list.",
+              "translation": "Xahiş edirəm, nömrəmi siyahıdan silin."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "backup",
+      "ipa": "/ˈbækˌʌp/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "ehtiyat nüsxə",
+          "definition": "a copy of computer files that you keep in case the first ones are lost or damaged",
+          "synonyms": [
+            "copy"
+          ],
+          "antonyms": [
+            "original"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Always make a backup of your important files.",
+              "translation": "Vacib fayllarının həmişə ehtiyat nüsxəsini çıxar."
+            },
+            {
+              "text": "Luckily, I had a backup of all my photos.",
+              "translation": "Xoşbəxtlikdən, bütün şəkillərimin ehtiyat nüsxəsi var idi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "storage",
+      "ipa": "/ˈstɔrɪdʒ/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "yaddaş; saxlama yeri",
+          "definition": "space for keeping things, for example files on a computer or things in a house",
+          "synonyms": [
+            "space",
+            "memory"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "My phone has 128 GB of storage.",
+              "translation": "Telefonumun 128 GB yaddaşı var."
+            },
+            {
+              "text": "We use the basement for storage.",
+              "translation": "Zirzəmini əşyaları saxlamaq üçün istifadə edirik."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "compatible",
+      "ipa": "/kəmˈpætəbəl/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "uyğun, uyuşan",
+          "definition": "able to work together with another machine or program; also, able to have a good relationship with someone",
+          "synonyms": [
+            "suitable",
+            "matching"
+          ],
+          "antonyms": [
+            "incompatible"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "This charger isn't compatible with my phone.",
+              "translation": "Bu şarj cihazı telefonuma uyğun deyil."
+            },
+            {
+              "text": "They are good friends because they are very compatible.",
+              "translation": "Onlar yaxşı dostdurlar, çünki xasiyyətləri bir-birinə çox uyğundur."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "story": {
+    "title": "Grandma's New Phone",
+    "titleTranslation": "Nənənin yeni telefonu",
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "For her seventieth birthday, Murad's grandmother got a new smartphone from the family.",
+            "translation": "Yetmiş yaşının tamamında ailəsi Muradın nənəsinə yeni smartfon hədiyyə etdi."
+          },
+          {
+            "text": "She liked it, but she was a little afraid of it.",
+            "translation": "Nənəsi onu bəyəndi, amma ondan bir az çəkinirdi."
+          },
+          {
+            "text": "“My old phone wasn't as smart as this one, but it was much simpler,” she said.",
+            "translation": "«Köhnə telefonum bunun qədər ağıllı deyildi, amma xeyli sadə idi», – dedi."
+          },
+          {
+            "text": "“And its battery lasted for a whole week! I don't even know how to charge this device.”",
+            "translation": "«Batareyası da bütöv bir həftə davam gətirirdi! Mən heç bu cihazı necə şarj etməyi də bilmirəm.»"
+          },
+          {
+            "text": "Murad, who studies computer science, promised to teach her everything.",
+            "translation": "Kompüter elmləri üzrə təhsil alan Murad ona hər şeyi öyrədəcəyinə söz verdi."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "So on Saturday Murad sat down with her at the kitchen table.",
+            "translation": "Ona görə də şənbə günü Murad mətbəxdə, masa arxasında nənəsinin yanında oturdu."
+          },
+          {
+            "text": "First he showed her where to plug in the charger.",
+            "translation": "Əvvəlcə ona şarj cihazını haraya qoşmaq lazım olduğunu göstərdi."
+          },
+          {
+            "text": "Then he connected the phone to the home Wi-Fi and wrote the password on a piece of paper for her.",
+            "translation": "Sonra telefonu evdəki Wi-Fi şəbəkəsinə qoşdu və şifrəni bir kağız parçasına yazıb ona verdi."
+          },
+          {
+            "text": "He made the letters on the screen bigger, so she could read them without her glasses.",
+            "translation": "Ekrandakı hərfləri böyütdü ki, nənəsi onları eynəksiz oxuya bilsin."
+          },
+          {
+            "text": "The keyboard was a problem at first, because the keys weren't as big as on her old phone.",
+            "translation": "Əvvəlcə klaviatura problem oldu, çünki düymələr köhnə telefonundakı qədər böyük deyildi."
+          },
+          {
+            "text": "But Murad showed her how to send voice messages instead, and she was very happy.",
+            "translation": "Amma Murad ona bunun əvəzinə səsli mesaj göndərməyi göstərdi və nənəsi çox sevindi."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Next, he helped her download and install a few apps: one for video calls, one for the weather and one with recipes.",
+            "translation": "Sonra bir neçə proqramı yükləyib quraşdırmağa kömək etdi: biri video zənglər, biri hava proqnozu, biri isə yemək reseptləri üçün."
+          },
+          {
+            "text": "One game didn't work, because it wasn't compatible with her phone, so they deleted it.",
+            "translation": "Bir oyun işləmədi, çünki onun telefonuna uyğun deyildi, ona görə də onu sildilər."
+          },
+          {
+            "text": "“Every few weeks, the phone will ask you to update it,” Murad explained. “Just say yes and wait a few minutes.”",
+            "translation": "«Bir neçə həftədən bir telefon səndən onu yeniləməyi istəyəcək», – Murad izah etdi. «Sadəcə razılaş və bir neçə dəqiqə gözlə.»"
+          },
+          {
+            "text": "He also turned on an automatic backup, so her photos would be safe even if she lost the phone.",
+            "translation": "O, həmçinin avtomatik ehtiyat nüsxəni işə saldı ki, telefonu itirsə belə, şəkilləri itməsin."
+          },
+          {
+            "text": "“There's plenty of storage,” he said, “so you can take as many photos as you like.”",
+            "translation": "«Yaddaş boldur», – dedi, – «ona görə istədiyin qədər şəkil çəkə bilərsən.»"
+          },
+          {
+            "text": "Then he showed her how to share photos with the family group and how to lock the screen.",
+            "translation": "Sonra ona şəkilləri ailə qrupunda necə paylaşmağı və ekranı necə kilidləməyi göstərdi."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Finally, he gave her a pair of wireless headphones, so she could listen to music while she cooked.",
+            "translation": "Sonda ona bir cüt simsiz qulaqlıq bağışladı ki, yemək bişirərkən musiqiyə qulaq asa bilsin."
+          },
+          {
+            "text": "In the evening, his grandmother made her first video call to her sister in Ganja.",
+            "translation": "Axşam nənəsi Gəncədəki bacısına ilk video zəngini etdi."
+          },
+          {
+            "text": "She laughed when she saw her sister's face on the screen.",
+            "translation": "Bacısının üzünü ekranda görəndə güldü."
+          },
+          {
+            "text": "“It's not as difficult as I thought!” she said.",
+            "translation": "«Düşündüyüm qədər çətin deyilmiş!» – dedi."
+          },
+          {
+            "text": "“My new phone may not be as simple as the old one, but it's much more fun!”",
+            "translation": "«Yeni telefonum köhnəsi qədər sadə olmaya bilər, amma ondan qat-qat maraqlıdır!»"
+          },
+          {
+            "text": "Now she calls Murad every day – and she is already giving him advice about his own phone.",
+            "translation": "İndi o, hər gün Murada zəng edir – üstəlik, artıq onun öz telefonu barədə ona məsləhətlər verir."
+          }
+        ]
+      }
+    ],
+    "glossary": [
+      {
+        "term": "seventieth birthday",
+        "lemma": "seventieth birthday",
+        "partOfSpeech": "phrase",
+        "meaning": "the day when someone becomes 70 years old",
+        "translation": "yetmiş yaşının tamamı"
+      },
+      {
+        "term": "smartphone",
+        "lemma": "smartphone",
+        "partOfSpeech": "noun",
+        "meaning": "a mobile phone that can use the internet and apps",
+        "translation": "smartfon"
+      },
+      {
+        "term": "afraid of",
+        "lemma": "afraid of",
+        "partOfSpeech": "phrase",
+        "meaning": "feeling fear or worry about something",
+        "translation": "...dan qorxmaq, çəkinmək"
+      },
+      {
+        "term": "as smart as",
+        "lemma": "as smart as",
+        "partOfSpeech": "phrase",
+        "meaning": "equally clever or modern",
+        "translation": "... qədər ağıllı"
+      },
+      {
+        "term": "simpler",
+        "lemma": "simple",
+        "partOfSpeech": "adjective",
+        "meaning": "easier to use or understand",
+        "translation": "daha sadə"
+      },
+      {
+        "term": "battery",
+        "lemma": "battery",
+        "partOfSpeech": "noun",
+        "meaning": "the part of a phone that stores electricity",
+        "translation": "batareya"
+      },
+      {
+        "term": "lasted",
+        "lemma": "last",
+        "partOfSpeech": "verb",
+        "meaning": "continued to work for a period of time",
+        "translation": "davam gətirirdi"
+      },
+      {
+        "term": "charge",
+        "lemma": "charge",
+        "partOfSpeech": "verb",
+        "meaning": "to put electricity into a battery",
+        "translation": "şarj etmək"
+      },
+      {
+        "term": "device",
+        "lemma": "device",
+        "partOfSpeech": "noun",
+        "meaning": "a small machine, such as a phone",
+        "translation": "cihaz"
+      },
+      {
+        "term": "computer science",
+        "lemma": "computer science",
+        "partOfSpeech": "noun",
+        "meaning": "the study of computers and how they work",
+        "translation": "kompüter elmləri, informatika"
+      },
+      {
+        "term": "sat down",
+        "lemma": "sit down",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "took a seat",
+        "translation": "oturdu"
+      },
+      {
+        "term": "plug in",
+        "lemma": "plug in",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "to connect a machine to the electricity",
+        "translation": "elektrikə qoşmaq"
+      },
+      {
+        "term": "charger",
+        "lemma": "charger",
+        "partOfSpeech": "noun",
+        "meaning": "the thing you use to put electricity into a phone's battery",
+        "translation": "şarj cihazı"
+      },
+      {
+        "term": "connected",
+        "lemma": "connect",
+        "partOfSpeech": "verb",
+        "meaning": "joined a device to a network",
+        "translation": "qoşdu"
+      },
+      {
+        "term": "password",
+        "lemma": "password",
+        "partOfSpeech": "noun",
+        "meaning": "a secret word you need to use a phone, computer or network",
+        "translation": "şifrə, parol"
+      },
+      {
+        "term": "a piece of paper",
+        "lemma": "piece of paper",
+        "partOfSpeech": "phrase",
+        "meaning": "one sheet or part of a sheet of paper",
+        "translation": "bir kağız parçası"
+      },
+      {
+        "term": "screen",
+        "lemma": "screen",
+        "partOfSpeech": "noun",
+        "meaning": "the flat part of a phone where you see words and pictures",
+        "translation": "ekran"
+      },
+      {
+        "term": "glasses",
+        "lemma": "glasses",
+        "partOfSpeech": "noun",
+        "meaning": "two pieces of glass in a frame that help you see better",
+        "translation": "eynək"
+      },
+      {
+        "term": "keyboard",
+        "lemma": "keyboard",
+        "partOfSpeech": "noun",
+        "meaning": "the set of keys you press to write on a phone or computer",
+        "translation": "klaviatura"
+      },
+      {
+        "term": "at first",
+        "lemma": "at first",
+        "partOfSpeech": "phrase",
+        "meaning": "in the beginning",
+        "translation": "əvvəlcə"
+      },
+      {
+        "term": "keys",
+        "lemma": "key",
+        "partOfSpeech": "noun",
+        "meaning": "the small buttons with letters on a keyboard",
+        "translation": "düymələr"
+      },
+      {
+        "term": "weren't as big as",
+        "lemma": "not as big as",
+        "partOfSpeech": "phrase",
+        "meaning": "were smaller than",
+        "translation": "... qədər böyük deyildi"
+      },
+      {
+        "term": "voice messages",
+        "lemma": "voice message",
+        "partOfSpeech": "noun",
+        "meaning": "recorded spoken messages that you send by phone",
+        "translation": "səsli mesajlar"
+      },
+      {
+        "term": "download",
+        "lemma": "download",
+        "partOfSpeech": "verb",
+        "meaning": "to copy a program or file from the internet to your device",
+        "translation": "yükləmək"
+      },
+      {
+        "term": "install",
+        "lemma": "install",
+        "partOfSpeech": "verb",
+        "meaning": "to put a new program on a phone or computer so it is ready to use",
+        "translation": "quraşdırmaq"
+      },
+      {
+        "term": "apps",
+        "lemma": "app",
+        "partOfSpeech": "noun",
+        "meaning": "programs on a phone",
+        "translation": "proqramlar, tətbiqlər"
+      },
+      {
+        "term": "video calls",
+        "lemma": "video call",
+        "partOfSpeech": "noun",
+        "meaning": "phone calls in which you can see each other",
+        "translation": "video zənglər"
+      },
+      {
+        "term": "recipes",
+        "lemma": "recipe",
+        "partOfSpeech": "noun",
+        "meaning": "instructions that tell you how to cook something",
+        "translation": "reseptlər"
+      },
+      {
+        "term": "compatible",
+        "lemma": "compatible",
+        "partOfSpeech": "adjective",
+        "meaning": "able to work together with another machine or program",
+        "translation": "uyğun"
+      },
+      {
+        "term": "deleted",
+        "lemma": "delete",
+        "partOfSpeech": "verb",
+        "meaning": "removed something from a computer or phone",
+        "translation": "sildilər"
+      },
+      {
+        "term": "update",
+        "lemma": "update",
+        "partOfSpeech": "verb",
+        "meaning": "to make a program newer with the latest changes",
+        "translation": "yeniləmək"
+      },
+      {
+        "term": "turned on",
+        "lemma": "turn on",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "started a machine or a function",
+        "translation": "işə saldı"
+      },
+      {
+        "term": "automatic",
+        "lemma": "automatic",
+        "partOfSpeech": "adjective",
+        "meaning": "working by itself, without a person",
+        "translation": "avtomatik"
+      },
+      {
+        "term": "backup",
+        "lemma": "backup",
+        "partOfSpeech": "noun",
+        "meaning": "a copy of files kept in a safe place in case the first ones are lost",
+        "translation": "ehtiyat nüsxə"
+      },
+      {
+        "term": "plenty of",
+        "lemma": "plenty of",
+        "partOfSpeech": "phrase",
+        "meaning": "a lot of; more than enough",
+        "translation": "bol, kifayət qədər"
+      },
+      {
+        "term": "storage",
+        "lemma": "storage",
+        "partOfSpeech": "noun",
+        "meaning": "space on a device for keeping files and photos",
+        "translation": "yaddaş"
+      },
+      {
+        "term": "as many photos as you like",
+        "lemma": "as many as you like",
+        "partOfSpeech": "phrase",
+        "meaning": "any number of photos that you want",
+        "translation": "istədiyin qədər şəkil"
+      },
+      {
+        "term": "lock",
+        "lemma": "lock",
+        "partOfSpeech": "verb",
+        "meaning": "to close something so that other people cannot open or use it",
+        "translation": "kilidləmək"
+      },
+      {
+        "term": "a pair of",
+        "lemma": "a pair of",
+        "partOfSpeech": "phrase",
+        "meaning": "two things of the same kind that are used together",
+        "translation": "bir cüt"
+      },
+      {
+        "term": "wireless",
+        "lemma": "wireless",
+        "partOfSpeech": "adjective",
+        "meaning": "working without wires",
+        "translation": "simsiz"
+      },
+      {
+        "term": "headphones",
+        "lemma": "headphones",
+        "partOfSpeech": "noun",
+        "meaning": "a small device you wear on your ears to listen to music",
+        "translation": "qulaqlıq"
+      },
+      {
+        "term": "not as difficult as",
+        "lemma": "not as difficult as",
+        "partOfSpeech": "phrase",
+        "meaning": "easier than",
+        "translation": "... qədər çətin deyil"
+      },
+      {
+        "term": "not be as simple as",
+        "lemma": "not as simple as",
+        "partOfSpeech": "phrase",
+        "meaning": "be less simple than",
+        "translation": "... qədər sadə olmamaq"
+      },
+      {
+        "term": "much more fun",
+        "lemma": "much more fun",
+        "partOfSpeech": "phrase",
+        "meaning": "a lot more enjoyable",
+        "translation": "qat-qat maraqlı"
+      },
+      {
+        "term": "giving him advice",
+        "lemma": "give advice",
+        "partOfSpeech": "phrase",
+        "meaning": "telling him what he should do",
+        "translation": "ona məsləhət vermək"
+      },
+      {
+        "term": "his own",
+        "lemma": "own",
+        "partOfSpeech": "adjective",
+        "meaning": "belonging to him and not to anyone else",
+        "translation": "öz"
+      }
+    ]
+  },
+  "grammar": {
+    "topic": "(not) as ... as for comparing",
+    "topicTranslation": "Müqayisə üçün (not) as ... as quruluşu",
+    "explanation": "We use as + adjective + as to say that two people or things are the same in some way: My phone is as fast as yours. We use not as + adjective + as to say that the first thing has less of a quality than the second: This tablet isn't as expensive as that one (= it is cheaper). The adjective stays in its normal form – we don't add -er or more. We can also use this structure with adverbs and with many/much: She doesn't type as quickly as her son.",
+    "explanationTranslation": "İki insanın və ya əşyanın hansısa cəhətdən eyni olduğunu demək üçün as + sifət + as quruluşunu işlədirik: My phone is as fast as yours. Birinci şeydə hansısa keyfiyyətin ikincidən az olduğunu demək üçün isə not as + sifət + as işlədirik: This tablet isn't as expensive as that one (= o daha ucuzdur). Sifət adi formada qalır – ona -er və ya more əlavə etmirik. Bu quruluşu zərflərlə və many/much sözləri ilə də işlətmək olar: She doesn't type as quickly as her son.",
+    "rules": [
+      {
+        "text": "as + adjective + as = the same (She is as tall as her brother).",
+        "translation": "as + sifət + as = eyni dərəcədə (She is as tall as her brother – O, qardaşı qədər hündürdür)."
+      },
+      {
+        "text": "not as + adjective + as = less (The train isn't as fast as the plane).",
+        "translation": "not as + sifət + as = daha az (The train isn't as fast as the plane – Qatar təyyarə qədər sürətli deyil)."
+      },
+      {
+        "text": "Use the normal adjective, not the comparative: as big as, not “as bigger as”.",
+        "translation": "Sifətin adi forması işlədilir, müqayisə dərəcəsi yox: as big as düzgündür, “as bigger as” səhvdir."
+      },
+      {
+        "text": "After the second as, you can use a noun, an object pronoun (as me, as him) or a clause (as I thought).",
+        "translation": "İkinci as sözündən sonra isim, obyekt əvəzliyi (as me, as him) və ya budaq cümlə (as I thought) gələ bilər."
+      }
+    ],
+    "examples": [
+      {
+        "text": "My new laptop is as light as a tablet.",
+        "translation": "Yeni noutbukum planşet qədər yüngüldür."
+      },
+      {
+        "text": "This screen isn't as bright as the old one.",
+        "translation": "Bu ekran köhnəsi qədər parlaq deyil."
+      },
+      {
+        "text": "Installing the app wasn't as hard as I expected.",
+        "translation": "Proqramı quraşdırmaq gözlədiyim qədər çətin olmadı."
+      },
+      {
+        "text": "My brother is as good with computers as me.",
+        "translation": "Qardaşım da kompüter işində mənim qədər bacarıqlıdır."
+      },
+      {
+        "text": "The battery doesn't last as long as it did last year.",
+        "translation": "Batareya keçən il olduğu qədər uzun davam gətirmir."
+      }
+    ],
+    "exercise": {
+      "instructions": "Complete the sentences with (not) as ... as.",
+      "instructionsTranslation": "Cümlələri (not) as ... as quruluşu ilə tamamlayın.",
+      "questions": [
+        {
+          "type": "choice",
+          "prompt": "My phone is old, but it is ___ yours.",
+          "promptTranslation": "Telefonum köhnədir, amma səninki qədər sürətlidir.",
+          "options": [
+            "as fast as",
+            "as faster as",
+            "as fast than"
+          ],
+          "answer": "as fast as",
+          "explanation": "We use as + normal adjective + as.",
+          "explanationTranslation": "as + sifətin adi forması + as işlədilir."
+        },
+        {
+          "type": "text",
+          "prompt": "This tablet costs $200 and that one costs $300. This tablet isn't ___ (expensive) that one.",
+          "promptTranslation": "Bu planşet 200 dollar, o biri isə 300 dollardır. Bu planşet o biri qədər baha deyil.",
+          "answer": "as expensive as",
+          "explanation": "The first tablet is cheaper, so we say it isn't as expensive as the second one.",
+          "explanationTranslation": "Birinci planşet daha ucuzdur, ona görə “isn't as expensive as” deyirik."
+        },
+        {
+          "type": "choice",
+          "prompt": "Ali is 1.80 m tall, and his brother is 1.80 m tall too. Ali is ___ his brother.",
+          "promptTranslation": "Əlinin boyu 1,80 m-dir, qardaşınınkı da 1,80 m. Əli qardaşı qədər hündürdür.",
+          "options": [
+            "as tall as",
+            "not as tall as",
+            "taller than"
+          ],
+          "answer": "as tall as",
+          "explanation": "They are the same height, so we use as ... as.",
+          "explanationTranslation": "Onların boyu eynidir, ona görə as ... as işlədilir."
+        },
+        {
+          "type": "text",
+          "prompt": "The film wasn't ___ (good) the book.",
+          "promptTranslation": "Film kitab qədər yaxşı deyildi.",
+          "answer": "as good as",
+          "explanation": "In this structure we use the normal adjective good, not better.",
+          "explanationTranslation": "Bu quruluşda better yox, sifətin adi forması good işlədilir."
+        },
+        {
+          "type": "choice",
+          "prompt": "Updating the phone was easy. It wasn't as difficult ___ I thought.",
+          "promptTranslation": "Telefonu yeniləmək asan idi. Düşündüyüm qədər çətin deyildi.",
+          "options": [
+            "than",
+            "as",
+            "like"
+          ],
+          "answer": "as",
+          "explanation": "The structure is not as ... as, so the second word is also as.",
+          "explanationTranslation": "Quruluş not as ... as şəklindədir, ona görə ikinci söz də as olur."
+        }
+      ]
+    }
+  }
+}

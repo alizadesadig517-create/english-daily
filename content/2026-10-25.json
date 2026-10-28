@@ -1,0 +1,1075 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-25",
+  "level": "B1",
+  "translationLanguage": "az",
+  "words": [
+    {
+      "word": "adapt",
+      "ipa": "/əˈdæpt/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "uyğunlaşmaq, alışmaq",
+          "definition": "to change your behavior or ideas so that you can live or work well in a new situation",
+          "synonyms": [
+            "adjust",
+            "get used to",
+            "fit in"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "It took me a few months to adapt to the new school.",
+              "translation": "Yeni məktəbə uyğunlaşmaq mənə bir neçə ay çəkdi."
+            },
+            {
+              "text": "Children usually adapt quickly to new places.",
+              "translation": "Uşaqlar adətən yeni yerlərə tez alışırlar."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "habit",
+      "ipa": "/ˈhæbɪt/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "vərdiş, adət",
+          "definition": "something that you do often and regularly, often without thinking about it",
+          "synonyms": [
+            "routine",
+            "custom",
+            "practice"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Reading before bed is a good habit.",
+              "translation": "Yatmazdan əvvəl kitab oxumaq yaxşı vərdişdir."
+            },
+            {
+              "text": "He has a bad habit of biting his nails.",
+              "translation": "Onun dırnaqlarını gəmirmək kimi pis vərdişi var."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "gradually",
+      "ipa": "/ˈɡrædʒuəli/",
+      "senses": [
+        {
+          "partOfSpeech": "adverb",
+          "translation": "tədricən, yavaş-yavaş",
+          "definition": "slowly, a little at a time, over a period of time",
+          "synonyms": [
+            "slowly",
+            "little by little",
+            "step by step"
+          ],
+          "antonyms": [
+            "suddenly",
+            "quickly"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The weather gradually got warmer.",
+              "translation": "Hava tədricən istiləşdi."
+            },
+            {
+              "text": "Gradually, I started to understand the language.",
+              "translation": "Yavaş-yavaş dili başa düşməyə başladım."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "challenge",
+      "ipa": "/ˈtʃælɪndʒ/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "çətinlik, sınaq",
+          "definition": "something new and difficult that needs a lot of effort",
+          "synonyms": [
+            "difficulty",
+            "test",
+            "problem"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Moving to a new country is a big challenge.",
+              "translation": "Yeni ölkəyə köçmək böyük sınaqdır."
+            },
+            {
+              "text": "My grandfather loves a challenge – he started learning English at seventy.",
+              "translation": "Babam çətinliyi sevir – o, yetmiş yaşında ingilis dilini öyrənməyə başladı."
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "verb",
+          "translation": "(yarışa, çətin işə) çağırmaq",
+          "definition": "to invite someone to compete with you or to try something difficult",
+          "synonyms": [
+            "dare",
+            "invite"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "My friend challenged me to run five kilometers.",
+              "translation": "Dostum məni beş kilometr qaçmağa çağırdı."
+            },
+            {
+              "text": "Our teacher challenges us to think for ourselves.",
+              "translation": "Müəllimimiz bizi müstəqil düşünməyə çağırır."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "encourage",
+      "ipa": "/ɪnˈkɝɪdʒ/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "həvəsləndirmək, ruhlandırmaq",
+          "definition": "to give someone support and confidence so that they want to do something",
+          "synonyms": [
+            "support",
+            "inspire",
+            "motivate",
+            "cheer on"
+          ],
+          "antonyms": [
+            "discourage"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "My parents always encouraged me to read.",
+              "translation": "Valideynlərim məni həmişə kitab oxumağa həvəsləndirib."
+            },
+            {
+              "text": "The coach encourages every player before the game.",
+              "translation": "Məşqçi oyundan əvvəl hər oyunçunu ruhlandırır."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "transform",
+      "ipa": "/trænsˈfɔrm/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "tamamilə dəyişdirmək, çevirmək",
+          "definition": "to change something or someone completely, usually in a good way",
+          "synonyms": [
+            "change",
+            "convert",
+            "alter"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The new park has transformed our neighborhood.",
+              "translation": "Yeni park məhəlləmizi tamamilə dəyişib."
+            },
+            {
+              "text": "They transformed the old factory into a museum.",
+              "translation": "Onlar köhnə fabriki muzeyə çevirdilər."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "develop",
+      "ipa": "/dɪˈvɛləp/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "inkişaf etmək, inkişaf etdirmək; yaranmaq",
+          "definition": "to grow or change into something bigger, stronger or better; to make something grow in this way",
+          "synonyms": [
+            "grow",
+            "improve",
+            "build"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Reading helps children develop their language skills.",
+              "translation": "Kitab oxumaq uşaqlara dil bacarıqlarını inkişaf etdirməyə kömək edir."
+            },
+            {
+              "text": "The town developed quickly after the new road was built.",
+              "translation": "Yeni yol çəkildikdən sonra qəsəbə sürətlə inkişaf etdi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "progress",
+      "ipa": "/ˈprɑɡrɛs/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "irəliləyiş, tərəqqi",
+          "definition": "the process of getting better or moving forward",
+          "synonyms": [
+            "improvement",
+            "development",
+            "advance"
+          ],
+          "antonyms": [
+            "setback"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "You are making good progress with your English.",
+              "translation": "İngilis dilində yaxşı irəliləyiş əldə edirsən."
+            },
+            {
+              "text": "The doctor was happy with my progress.",
+              "translation": "Həkim irəliləyişimdən razı qaldı."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "adjust",
+      "ipa": "/əˈdʒʌst/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "tənzimləmək; uyğunlaşmaq",
+          "definition": "to change something a little so that it works better; also to get used to a new situation",
+          "synonyms": [
+            "adapt",
+            "change",
+            "get used to"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "You can adjust the seat to make it more comfortable.",
+              "translation": "Oturacağı daha rahat etmək üçün onu tənzimləyə bilərsən."
+            },
+            {
+              "text": "It took me a week to adjust to my new job.",
+              "translation": "Yeni işimə uyğunlaşmaq mənə bir həftə çəkdi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "quit",
+      "ipa": "/kwɪt/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "atmaq, tərgitmək; (işdən, məktəbdən) çıxmaq; vaz keçmək",
+          "definition": "to stop doing something, or to leave a job or school",
+          "synonyms": [
+            "stop",
+            "leave",
+            "give up"
+          ],
+          "antonyms": [
+            "continue",
+            "start"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "My uncle quit smoking last year.",
+              "translation": "Əmim keçən il siqareti atdı."
+            },
+            {
+              "text": "She quit her job to start her own business.",
+              "translation": "O, öz biznesini qurmaq üçün işdən çıxdı."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "attitude",
+      "ipa": "/ˈætəˌtud/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "münasibət, yanaşma",
+          "definition": "the way you think and feel about something, and how this shows in your behavior",
+          "synonyms": [
+            "outlook",
+            "approach",
+            "mindset"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "She has a very positive attitude toward life.",
+              "translation": "O, həyata çox müsbət yanaşır."
+            },
+            {
+              "text": "His attitude changed after he met the team.",
+              "translation": "Komanda ilə tanış olandan sonra onun münasibəti dəyişdi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "motivation",
+      "ipa": "/ˌmoʊtəˈveɪʃən/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "motivasiya, həvəs, stimul",
+          "definition": "the wish or reason to do something, especially something that needs effort",
+          "synonyms": [
+            "drive",
+            "enthusiasm",
+            "reason"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "I lost my motivation after the holidays.",
+              "translation": "Bayramlardan sonra həvəsimi itirdim."
+            },
+            {
+              "text": "Money is not his only motivation.",
+              "translation": "Pul onun yeganə motivasiyası deyil."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "overcome",
+      "ipa": "/ˌoʊvɚˈkʌm/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "öhdəsindən gəlmək, dəf etmək",
+          "definition": "to deal successfully with a problem or a difficult feeling",
+          "synonyms": [
+            "beat",
+            "defeat",
+            "get over"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "It took him years to overcome his shyness.",
+              "translation": "Utancaqlığının öhdəsindən gəlmək ona illər çəkdi."
+            },
+            {
+              "text": "Together we can overcome any problem.",
+              "translation": "Birlikdə istənilən problemin öhdəsindən gələ bilərik."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "effective",
+      "ipa": "/ɪˈfɛktɪv/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "effektiv, səmərəli",
+          "definition": "working well and giving the result that you want",
+          "synonyms": [
+            "successful",
+            "useful",
+            "efficient"
+          ],
+          "antonyms": [
+            "ineffective",
+            "useless"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "This medicine is very effective against headaches.",
+              "translation": "Bu dərman baş ağrısına qarşı çox effektivdir."
+            },
+            {
+              "text": "Short daily practice is the most effective way to learn.",
+              "translation": "Qısa gündəlik məşq öyrənməyin ən səmərəli yoludur."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "consistent",
+      "ipa": "/kənˈsɪstənt/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "ardıcıl, sabit",
+          "definition": "always doing something in the same way, or staying the same over time",
+          "synonyms": [
+            "steady",
+            "regular",
+            "constant"
+          ],
+          "antonyms": [
+            "inconsistent",
+            "irregular"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "If you want results, you need to be consistent.",
+              "translation": "Nəticə istəyirsənsə, ardıcıl olmalısan."
+            },
+            {
+              "text": "Her grades have been consistent all year.",
+              "translation": "Onun qiymətləri bütün il boyu sabit olub."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "story": {
+    "title": "New City, New Habits",
+    "titleTranslation": "Yeni şəhər, yeni vərdişlər",
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "When Elnara moved from Lankaran to Baku for a new job, everything felt strange.",
+            "translation": "Elnarə yeni iş üçün Lənkərandan Bakıya köçəndə hər şey ona qəribə gəlirdi."
+          },
+          {
+            "text": "The streets were noisy, the buses were always full, and she didn't know anyone.",
+            "translation": "Küçələr səs-küylü, avtobuslar həmişə dolu idi və o, heç kimi tanımırdı."
+          },
+          {
+            "text": "Adapting to city life was a real challenge for her.",
+            "translation": "Şəhər həyatına uyğunlaşmaq onun üçün əsl sınaq idi."
+          },
+          {
+            "text": "After work, she sat at home alone, ate fast food and watched TV until midnight, and soon these evenings became a bad habit.",
+            "translation": "İşdən sonra evdə tək oturur, hazır yeməklər yeyir və gecə yarısına qədər televizora baxırdı; tezliklə bu axşamlar pis vərdişə çevrildi."
+          },
+          {
+            "text": "She felt tired all the time and had no motivation to do anything.",
+            "translation": "O, daim yorğun idi və heç nə etməyə həvəsi yox idi."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "One morning, she met her neighbor, Mrs. Zarifa, in the elevator.",
+            "translation": "Bir səhər o, liftdə qonşusu Zərifə xanımla qarşılaşdı."
+          },
+          {
+            "text": "“You're new here, aren't you?” the woman asked with a warm smile.",
+            "translation": "«Siz burada yenisiniz, elə deyilmi?» – qadın mehriban təbəssümlə soruşdu."
+          },
+          {
+            "text": "Elnara nodded and said that she felt a little lonely.",
+            "translation": "Elnarə başını tərpətdi və özünü bir az tənha hiss etdiyini dedi."
+          },
+          {
+            "text": "“Then come running with us in the park tomorrow,” said Mrs. Zarifa. “We meet at half past six every morning.”",
+            "translation": "«Onda sabah bizimlə parka qaçmağa gəlin», – dedi Zərifə xanım. «Biz hər səhər yeddinin yarısında görüşürük.»"
+          },
+          {
+            "text": "“That's very early, isn't it?” Elnara laughed. “I'm not a morning person.”",
+            "translation": "«Bu, çox tezdir, elə deyilmi?» – Elnarə güldü. «Mən səhər tez durmağı sevən adam deyiləm.»"
+          },
+          {
+            "text": "“Nobody is at first,” the woman said. “You'll adjust.”",
+            "translation": "«Əvvəlcə heç kim sevmir», – qadın dedi. «Alışacaqsınız.»"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The first week was hard, and on the third day she almost decided to quit.",
+            "translation": "İlk həftə çətin keçdi və üçüncü gün o, az qala hər şeydən əl çəkməyə qərar verdi."
+          },
+          {
+            "text": "But the group encouraged her every day, and it was hard to say no to their positive attitude.",
+            "translation": "Amma qrup onu hər gün ruhlandırırdı və onların müsbət ruhuna “yox” demək çətin idi."
+          },
+          {
+            "text": "“You don't have to be fast,” Mrs. Zarifa told her. “You just have to be consistent.”",
+            "translation": "«Sürətli olmağınız vacib deyil», – Zərifə xanım ona dedi. «Sadəcə ardıcıl olmalısınız.»"
+          },
+          {
+            "text": "She explained that the most effective way to overcome a difficult start was to take small steps.",
+            "translation": "O izah etdi ki, çətin başlanğıcın öhdəsindən gəlməyin ən səmərəli yolu kiçik addımlar atmaqdır."
+          },
+          {
+            "text": "“Ten minutes today, fifteen next week – that's enough, isn't it?”",
+            "translation": "«Bu gün on dəqiqə, gələn həftə on beş – bu kifayətdir, elə deyilmi?»"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Gradually, the early runs became a new habit, and Elnara started to enjoy them.",
+            "translation": "Tədricən səhər qaçışları yeni bir vərdişə çevrildi və Elnarə onlardan zövq almağa başladı."
+          },
+          {
+            "text": "She went to bed earlier, cooked healthier food and slowly developed a love for long walks along the boulevard.",
+            "translation": "O, daha tez yatmağa, daha sağlam yeməklər bişirməyə başladı və getdikcə bulvarda uzun gəzintiləri sevdi."
+          },
+          {
+            "text": "Every week, she wrote down her times, and she was surprised by her progress.",
+            "translation": "Hər həftə o, qaçış vaxtlarını qeyd edirdi və öz irəliləyişinə təəccüblənirdi."
+          },
+          {
+            "text": "She also made new friends and learned the names of the streets around her home.",
+            "translation": "O, həm də yeni dostlar qazandı və evinin ətrafındakı küçələrin adlarını öyrəndi."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Three months later, Mrs. Zarifa looked at her and said, “These runs have transformed you, haven't they?”",
+            "translation": "Üç ay sonra Zərifə xanım ona baxıb dedi: «Bu qaçışlar sizi tamamilə dəyişib, elə deyilmi?»"
+          },
+          {
+            "text": "Elnara smiled. “Yes,” she said. “And I don't feel like a stranger anymore.”",
+            "translation": "Elnarə gülümsədi. «Bəli», – dedi. «Artıq özümü burada yad hiss etmirəm.»"
+          },
+          {
+            "text": "“And Baku feels like home now, doesn't it?” Mrs. Zarifa asked.",
+            "translation": "«Bakı da artıq sizə doğma gəlir, elə deyilmi?» – deyə Zərifə xanım soruşdu."
+          },
+          {
+            "text": "“It does,” Elnara answered happily.",
+            "translation": "«Bəli, elədir», – Elnarə sevinclə cavab verdi."
+          }
+        ]
+      }
+    ],
+    "glossary": [
+      {
+        "term": "moved",
+        "lemma": "move",
+        "partOfSpeech": "verb",
+        "meaning": "went to live in a new place",
+        "translation": "köçdü"
+      },
+      {
+        "term": "strange",
+        "lemma": "strange",
+        "partOfSpeech": "adjective",
+        "meaning": "unusual and not familiar",
+        "translation": "qəribə"
+      },
+      {
+        "term": "noisy",
+        "lemma": "noisy",
+        "partOfSpeech": "adjective",
+        "meaning": "making a lot of noise; loud",
+        "translation": "səs-küylü"
+      },
+      {
+        "term": "Adapting",
+        "lemma": "adapt",
+        "partOfSpeech": "verb",
+        "meaning": "changing to live well in a new situation",
+        "translation": "uyğunlaşmaq"
+      },
+      {
+        "term": "city life",
+        "lemma": "city life",
+        "partOfSpeech": "noun",
+        "meaning": "the way people live in a big city",
+        "translation": "şəhər həyatı"
+      },
+      {
+        "term": "challenge",
+        "lemma": "challenge",
+        "partOfSpeech": "noun",
+        "meaning": "something new and difficult",
+        "translation": "sınaq, çətinlik"
+      },
+      {
+        "term": "alone",
+        "lemma": "alone",
+        "partOfSpeech": "adverb",
+        "meaning": "without other people",
+        "translation": "tək"
+      },
+      {
+        "term": "fast food",
+        "lemma": "fast food",
+        "partOfSpeech": "noun",
+        "meaning": "hot food, like burgers, that is made and served quickly",
+        "translation": "hazır yemək, fast-fud"
+      },
+      {
+        "term": "until midnight",
+        "lemma": "until midnight",
+        "partOfSpeech": "phrase",
+        "meaning": "up to 12 o'clock at night",
+        "translation": "gecə yarısına qədər"
+      },
+      {
+        "term": "became",
+        "lemma": "become",
+        "partOfSpeech": "verb",
+        "meaning": "started to be",
+        "translation": "çevrildi, oldu"
+      },
+      {
+        "term": "habit",
+        "lemma": "habit",
+        "partOfSpeech": "noun",
+        "meaning": "something you do regularly, often without thinking",
+        "translation": "vərdiş"
+      },
+      {
+        "term": "all the time",
+        "lemma": "all the time",
+        "partOfSpeech": "phrase",
+        "meaning": "always; very often",
+        "translation": "daim, həmişə"
+      },
+      {
+        "term": "motivation",
+        "lemma": "motivation",
+        "partOfSpeech": "noun",
+        "meaning": "the wish or reason to do something",
+        "translation": "həvəs, motivasiya"
+      },
+      {
+        "term": "neighbor",
+        "lemma": "neighbor",
+        "partOfSpeech": "noun",
+        "meaning": "a person who lives near you",
+        "translation": "qonşu"
+      },
+      {
+        "term": "elevator",
+        "lemma": "elevator",
+        "partOfSpeech": "noun",
+        "meaning": "a machine that carries people up and down in a building",
+        "translation": "lift"
+      },
+      {
+        "term": "aren't you",
+        "lemma": "aren't you",
+        "partOfSpeech": "phrase",
+        "meaning": "a question tag used to check that something is true",
+        "translation": "elə deyilmi"
+      },
+      {
+        "term": "warm",
+        "lemma": "warm",
+        "partOfSpeech": "adjective",
+        "meaning": "friendly and kind",
+        "translation": "mehriban, səmimi"
+      },
+      {
+        "term": "nodded",
+        "lemma": "nod",
+        "partOfSpeech": "verb",
+        "meaning": "moved her head up and down to say yes",
+        "translation": "başını tərpətdi"
+      },
+      {
+        "term": "lonely",
+        "lemma": "lonely",
+        "partOfSpeech": "adjective",
+        "meaning": "unhappy because you are alone",
+        "translation": "tənha"
+      },
+      {
+        "term": "half past six",
+        "lemma": "half past six",
+        "partOfSpeech": "phrase",
+        "meaning": "6:30",
+        "translation": "yeddinin yarısı"
+      },
+      {
+        "term": "isn't it",
+        "lemma": "isn't it",
+        "partOfSpeech": "phrase",
+        "meaning": "a question tag used to ask someone to agree",
+        "translation": "elə deyilmi"
+      },
+      {
+        "term": "morning person",
+        "lemma": "morning person",
+        "partOfSpeech": "noun",
+        "meaning": "someone who likes getting up early and feels good in the morning",
+        "translation": "səhər tez durmağı sevən adam"
+      },
+      {
+        "term": "at first",
+        "lemma": "at first",
+        "partOfSpeech": "phrase",
+        "meaning": "at the beginning",
+        "translation": "əvvəlcə"
+      },
+      {
+        "term": "adjust",
+        "lemma": "adjust",
+        "partOfSpeech": "verb",
+        "meaning": "to get used to a new situation",
+        "translation": "alışmaq, uyğunlaşmaq"
+      },
+      {
+        "term": "almost",
+        "lemma": "almost",
+        "partOfSpeech": "adverb",
+        "meaning": "nearly, but not completely",
+        "translation": "az qala"
+      },
+      {
+        "term": "quit",
+        "lemma": "quit",
+        "partOfSpeech": "verb",
+        "meaning": "to stop doing something",
+        "translation": "əl çəkmək, vaz keçmək"
+      },
+      {
+        "term": "encouraged",
+        "lemma": "encourage",
+        "partOfSpeech": "verb",
+        "meaning": "gave someone support and confidence",
+        "translation": "ruhlandırırdı"
+      },
+      {
+        "term": "say no to",
+        "lemma": "say no to",
+        "partOfSpeech": "phrase",
+        "meaning": "to refuse something",
+        "translation": "“yox” demək, imtina etmək"
+      },
+      {
+        "term": "positive",
+        "lemma": "positive",
+        "partOfSpeech": "adjective",
+        "meaning": "hopeful and thinking about good things",
+        "translation": "müsbət"
+      },
+      {
+        "term": "attitude",
+        "lemma": "attitude",
+        "partOfSpeech": "noun",
+        "meaning": "the way someone thinks and feels about something",
+        "translation": "münasibət, ruh"
+      },
+      {
+        "term": "don't have to",
+        "lemma": "not have to",
+        "partOfSpeech": "phrase",
+        "meaning": "it is not necessary",
+        "translation": "məcbur deyilsiniz, vacib deyil"
+      },
+      {
+        "term": "consistent",
+        "lemma": "consistent",
+        "partOfSpeech": "adjective",
+        "meaning": "doing something in the same way all the time",
+        "translation": "ardıcıl"
+      },
+      {
+        "term": "explained",
+        "lemma": "explain",
+        "partOfSpeech": "verb",
+        "meaning": "made something clear by telling more about it",
+        "translation": "izah etdi"
+      },
+      {
+        "term": "effective",
+        "lemma": "effective",
+        "partOfSpeech": "adjective",
+        "meaning": "working well and giving good results",
+        "translation": "səmərəli"
+      },
+      {
+        "term": "overcome",
+        "lemma": "overcome",
+        "partOfSpeech": "verb",
+        "meaning": "to deal successfully with a problem",
+        "translation": "öhdəsindən gəlmək"
+      },
+      {
+        "term": "take small steps",
+        "lemma": "take small steps",
+        "partOfSpeech": "idiom",
+        "meaning": "to do something slowly, a little at a time",
+        "translation": "kiçik addımlar atmaq"
+      },
+      {
+        "term": "enough",
+        "lemma": "enough",
+        "partOfSpeech": "adjective",
+        "meaning": "as much as is needed",
+        "translation": "kifayət"
+      },
+      {
+        "term": "Gradually",
+        "lemma": "gradually",
+        "partOfSpeech": "adverb",
+        "meaning": "slowly, little by little",
+        "translation": "tədricən"
+      },
+      {
+        "term": "runs",
+        "lemma": "run",
+        "partOfSpeech": "noun",
+        "meaning": "times when you go running",
+        "translation": "qaçışlar"
+      },
+      {
+        "term": "enjoy",
+        "lemma": "enjoy",
+        "partOfSpeech": "verb",
+        "meaning": "to get pleasure from something",
+        "translation": "zövq almaq"
+      },
+      {
+        "term": "healthier",
+        "lemma": "healthy",
+        "partOfSpeech": "adjective",
+        "meaning": "better for your body",
+        "translation": "daha sağlam"
+      },
+      {
+        "term": "developed a love for",
+        "lemma": "develop a love for",
+        "partOfSpeech": "phrase",
+        "meaning": "slowly started to love something",
+        "translation": "sevməyə başladı"
+      },
+      {
+        "term": "boulevard",
+        "lemma": "boulevard",
+        "partOfSpeech": "noun",
+        "meaning": "a wide street or path, often with trees, next to the sea or in a city",
+        "translation": "bulvar"
+      },
+      {
+        "term": "wrote down",
+        "lemma": "write down",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "wrote something on paper so as not to forget it",
+        "translation": "qeyd edirdi, yazırdı"
+      },
+      {
+        "term": "surprised",
+        "lemma": "surprised",
+        "partOfSpeech": "adjective",
+        "meaning": "feeling that something is unexpected",
+        "translation": "təəccüblənmiş"
+      },
+      {
+        "term": "progress",
+        "lemma": "progress",
+        "partOfSpeech": "noun",
+        "meaning": "the process of getting better",
+        "translation": "irəliləyiş"
+      },
+      {
+        "term": "made new friends",
+        "lemma": "make friends",
+        "partOfSpeech": "phrase",
+        "meaning": "met people and became friends with them",
+        "translation": "yeni dostlar qazandı"
+      },
+      {
+        "term": "transformed",
+        "lemma": "transform",
+        "partOfSpeech": "verb",
+        "meaning": "changed completely",
+        "translation": "tamamilə dəyişib"
+      },
+      {
+        "term": "haven't they",
+        "lemma": "haven't they",
+        "partOfSpeech": "phrase",
+        "meaning": "a question tag after a sentence with “have”",
+        "translation": "elə deyilmi"
+      },
+      {
+        "term": "stranger",
+        "lemma": "stranger",
+        "partOfSpeech": "noun",
+        "meaning": "a person who is new in a place and doesn't know it",
+        "translation": "yad adam, qərib"
+      },
+      {
+        "term": "anymore",
+        "lemma": "anymore",
+        "partOfSpeech": "adverb",
+        "meaning": "not now, as before",
+        "translation": "artıq"
+      },
+      {
+        "term": "feels like home",
+        "lemma": "feel like home",
+        "partOfSpeech": "idiom",
+        "meaning": "seems as comfortable and familiar as your own home",
+        "translation": "doğma gəlir"
+      },
+      {
+        "term": "doesn't it",
+        "lemma": "doesn't it",
+        "partOfSpeech": "phrase",
+        "meaning": "a question tag after a sentence in the present simple",
+        "translation": "elə deyilmi"
+      },
+      {
+        "term": "happily",
+        "lemma": "happily",
+        "partOfSpeech": "adverb",
+        "meaning": "in a happy way",
+        "translation": "sevinclə"
+      }
+    ]
+  },
+  "grammar": {
+    "topic": "Question tags",
+    "topicTranslation": "Ayırıcı suallar (question tags)",
+    "explanation": "A question tag is a short question at the end of a sentence. We use it to check information or to ask someone to agree with us. If the sentence is positive, the tag is negative. If the sentence is negative, the tag is positive. The tag uses the same auxiliary verb as the sentence and a pronoun.",
+    "explanationTranslation": "Ayırıcı sual cümlənin sonunda gələn qısa sualdır. Ondan məlumatı yoxlamaq və ya qarşı tərəfin razılığını almaq üçün istifadə edirik. Cümlə təsdiqdirsə, ayırıcı sual inkar olur. Cümlə inkardırsa, ayırıcı sual təsdiq olur. Ayırıcı sualda cümlədəki köməkçi feil və bir əvəzlik işlədilir.",
+    "rules": [
+      {
+        "text": "Positive sentence + negative tag: You're tired, aren't you?",
+        "translation": "Təsdiq cümlə + inkar ayırıcı sual: You're tired, aren't you?"
+      },
+      {
+        "text": "Negative sentence + positive tag: She doesn't eat meat, does she?",
+        "translation": "İnkar cümlə + təsdiq ayırıcı sual: She doesn't eat meat, does she?"
+      },
+      {
+        "text": "Use the same auxiliary or modal verb as in the sentence (be, have, can, will). If there is none, use do, does or did: He works here, doesn't he? They left early, didn't they?",
+        "translation": "Cümlədəki köməkçi və ya modal feili (be, have, can, will) təkrarlayın. Belə feil yoxdursa, do, does və ya did işlədin: He works here, doesn't he? They left early, didn't they?"
+      },
+      {
+        "text": "Special cases: I am → aren't I? (I'm late, aren't I?) and Let's → shall we? (Let's go, shall we?)",
+        "translation": "Xüsusi hallar: I am → aren't I? (I'm late, aren't I?) və Let's → shall we? (Let's go, shall we?)"
+      }
+    ],
+    "examples": [
+      {
+        "text": "It's a big challenge, isn't it?",
+        "translation": "Bu, böyük sınaqdır, elə deyilmi?"
+      },
+      {
+        "text": "You can't come tomorrow, can you?",
+        "translation": "Sabah gələ bilməzsən, eləmi?"
+      },
+      {
+        "text": "She encouraged you to apply, didn't she?",
+        "translation": "O səni müraciət etməyə həvəsləndirdi, elə deyilmi?"
+      },
+      {
+        "text": "They won't quit now, will they?",
+        "translation": "Onlar indi vaz keçməyəcəklər, eləmi?"
+      },
+      {
+        "text": "Your brother has made great progress, hasn't he?",
+        "translation": "Qardaşın böyük irəliləyiş əldə edib, elə deyilmi?"
+      }
+    ],
+    "exercise": {
+      "instructions": "Choose or write the correct question tag.",
+      "instructionsTranslation": "Düzgün ayırıcı sualı seçin və ya yazın.",
+      "questions": [
+        {
+          "type": "choice",
+          "prompt": "You're from Ganja, ___?",
+          "promptTranslation": "Siz Gəncədənsiniz, elə deyilmi?",
+          "options": [
+            "are you",
+            "aren't you",
+            "don't you"
+          ],
+          "answer": "aren't you",
+          "explanation": "Positive sentence with are → negative tag aren't you.",
+          "explanationTranslation": "Are ilə təsdiq cümlə → inkar ayırıcı sual aren't you."
+        },
+        {
+          "type": "choice",
+          "prompt": "She doesn't like coffee, ___?",
+          "promptTranslation": "O, qəhvəni sevmir, eləmi?",
+          "options": [
+            "does she",
+            "doesn't she",
+            "is she"
+          ],
+          "answer": "does she",
+          "explanation": "Negative sentence with doesn't → positive tag does she.",
+          "explanationTranslation": "Doesn't ilə inkar cümlə → təsdiq ayırıcı sual does she."
+        },
+        {
+          "type": "text",
+          "prompt": "They went to the park yesterday, ___ (did) they?",
+          "promptTranslation": "Onlar dünən parka getdilər, elə deyilmi?",
+          "answer": "didn't",
+          "explanation": "The sentence is positive and in the past simple, so the tag is didn't they.",
+          "explanationTranslation": "Cümlə təsdiqdir və past simple-dadır, ona görə ayırıcı sual didn't they olur."
+        },
+        {
+          "type": "text",
+          "prompt": "You will help me, ___ (will) you?",
+          "promptTranslation": "Mənə kömək edəcəksən, elə deyilmi?",
+          "answer": "won't",
+          "explanation": "Positive sentence with will → negative tag won't you.",
+          "explanationTranslation": "Will ilə təsdiq cümlə → inkar ayırıcı sual won't you."
+        },
+        {
+          "type": "choice",
+          "prompt": "I'm late again, ___?",
+          "promptTranslation": "Yenə gecikmişəm, elə deyilmi?",
+          "options": [
+            "am I",
+            "aren't I",
+            "isn't I"
+          ],
+          "answer": "aren't I",
+          "explanation": "After I am, the negative tag is aren't I.",
+          "explanationTranslation": "I am-dan sonra inkar ayırıcı sual aren't I olur."
+        }
+      ]
+    }
+  }
+}

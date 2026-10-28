@@ -1,0 +1,1067 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-17",
+  "level": "B1",
+  "translationLanguage": "az",
+  "words": [
+    {
+      "word": "compete",
+      "ipa": "/kəmˈpit/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "yarışmaq, rəqabət aparmaq",
+          "definition": "to take part in a race or contest, or to try to be more successful than others",
+          "synonyms": [
+            "take part",
+            "contend"
+          ],
+          "antonyms": [
+            "cooperate"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Twenty teams will compete in the tournament.",
+              "translation": "Turnirdə iyirmi komanda yarışacaq."
+            },
+            {
+              "text": "Small shops can't compete with big supermarkets.",
+              "translation": "Kiçik mağazalar böyük supermarketlərlə rəqabət apara bilmir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "effort",
+      "ipa": "/ˈɛfərt/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "səy, zəhmət, cəhd",
+          "definition": "the hard work or energy that you need to do something",
+          "synonyms": [
+            "work",
+            "energy",
+            "attempt"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Learning a language takes a lot of time and effort.",
+              "translation": "Dil öyrənmək çox vaxt və zəhmət tələb edir."
+            },
+            {
+              "text": "She made an effort to be friendly.",
+              "translation": "O, mehriban olmağa səy göstərdi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "achieve",
+      "ipa": "/əˈtʃiv/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "nail olmaq, əldə etmək",
+          "definition": "to succeed in doing or getting something after working hard",
+          "synonyms": [
+            "reach",
+            "accomplish",
+            "attain"
+          ],
+          "antonyms": [
+            "fail"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "He achieved his dream of becoming a doctor.",
+              "translation": "O, həkim olmaq arzusuna çatdı."
+            },
+            {
+              "text": "You can achieve a lot in one year.",
+              "translation": "Bir ildə çox şeyə nail ola bilərsən."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "coach",
+      "ipa": "/koʊtʃ/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "məşqçi",
+          "definition": "a person who trains a sports team or a player",
+          "synonyms": [
+            "trainer",
+            "instructor"
+          ],
+          "antonyms": [],
+          "homonyms": [
+            {
+              "word": "coach",
+              "meaning": "a large, comfortable bus for long trips (mostly British)",
+              "translation": "turist avtobusu"
+            }
+          ],
+          "examples": [
+            {
+              "text": "Our coach makes us run every morning.",
+              "translation": "Məşqçimiz bizi hər səhər qaçmağa məcbur edir."
+            },
+            {
+              "text": "She is a famous tennis coach.",
+              "translation": "O, tanınmış tennis məşqçisidir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "score",
+      "ipa": "/skɔr/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "qol vurmaq, xal qazanmaq; bal toplamaq",
+          "definition": "to get a point or a goal in a game, or a number of points in a test",
+          "synonyms": [
+            "get",
+            "win"
+          ],
+          "antonyms": [
+            "miss"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "He scored two goals in the first half.",
+              "translation": "O, birinci hissədə iki qol vurdu."
+            },
+            {
+              "text": "She scored 95 on her English test.",
+              "translation": "O, ingilis dili testində 95 bal topladı."
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "noun",
+          "translation": "hesab; bal, xal",
+          "definition": "the number of points or goals in a game, or the result of a test",
+          "synonyms": [
+            "result",
+            "points",
+            "mark"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "What's the score?",
+              "translation": "Hesab neçədir?"
+            },
+            {
+              "text": "My score on the test was higher than I expected.",
+              "translation": "Testdə balım gözlədiyimdən yüksək oldu."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "athlete",
+      "ipa": "/ˈæθlit/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "idmançı, atlet",
+          "definition": "a person who is good at sports and takes part in competitions",
+          "synonyms": [
+            "sportsman",
+            "sportswoman",
+            "player"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "She is one of the best athletes in the country.",
+              "translation": "O, ölkənin ən yaxşı idmançılarından biridir."
+            },
+            {
+              "text": "Athletes have to train almost every day.",
+              "translation": "İdmançılar demək olar ki, hər gün məşq etməlidirlər."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "defeat",
+      "ipa": "/dɪˈfit/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "məğlub etmək, qalib gəlmək",
+          "definition": "to win against someone in a game, competition or fight",
+          "synonyms": [
+            "beat",
+            "overcome"
+          ],
+          "antonyms": [
+            "lose to"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Our team defeated them 3–1.",
+              "translation": "Komandamız onları 3:1 hesabı ilə məğlub etdi."
+            },
+            {
+              "text": "Nobody could defeat her at chess.",
+              "translation": "Şahmatda heç kim ona qalib gələ bilmirdi."
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "noun",
+          "translation": "məğlubiyyət",
+          "definition": "the fact of losing a game or competition",
+          "synonyms": [
+            "loss"
+          ],
+          "antonyms": [
+            "victory",
+            "win"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The players were sad after the defeat.",
+              "translation": "Oyunçular məğlubiyyətdən sonra kədərli idilər."
+            },
+            {
+              "text": "It was their first defeat this season.",
+              "translation": "Bu, onların bu mövsümdəki ilk məğlubiyyəti idi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "victory",
+      "ipa": "/ˈvɪktəri/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "qələbə",
+          "definition": "the success of winning a game, competition or war",
+          "synonyms": [
+            "win",
+            "success",
+            "triumph"
+          ],
+          "antonyms": [
+            "defeat",
+            "loss"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The fans celebrated the victory all night.",
+              "translation": "Azarkeşlər bütün gecə qələbəni qeyd etdilər."
+            },
+            {
+              "text": "It was an easy victory for our team.",
+              "translation": "Bu, komandamız üçün asan qələbə idi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "tournament",
+      "ipa": "/ˈtʊrnəmənt/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "turnir",
+          "definition": "a competition with many players or teams that play several games to find the winner",
+          "synonyms": [
+            "competition",
+            "championship",
+            "contest"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Sixteen teams took part in the tournament.",
+              "translation": "Turnirdə on altı komanda iştirak etdi."
+            },
+            {
+              "text": "He won his first tennis tournament at the age of twelve.",
+              "translation": "O, ilk tennis turnirini on iki yaşında qazandı."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "opponent",
+      "ipa": "/əˈpoʊnənt/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "rəqib",
+          "definition": "a person or team that you play against in a game or competition",
+          "synonyms": [
+            "rival",
+            "competitor"
+          ],
+          "antonyms": [
+            "teammate",
+            "partner"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "She shook hands with her opponent after the match.",
+              "translation": "O, oyundan sonra rəqibi ilə əl sıxdı."
+            },
+            {
+              "text": "Our next opponent is very strong.",
+              "translation": "Növbəti rəqibimiz çox güclüdür."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "stadium",
+      "ipa": "/ˈsteɪdiəm/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "stadion",
+          "definition": "a large place with seats around a field, where people watch sports or concerts",
+          "synonyms": [
+            "arena"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The stadium was full for the final match.",
+              "translation": "Final oyunu üçün stadion dolu idi."
+            },
+            {
+              "text": "We went to the stadium to watch a concert.",
+              "translation": "Konsertə baxmaq üçün stadiona getdik."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "referee",
+      "ipa": "/ˌrɛfəˈri/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "hakim (idmanda)",
+          "definition": "a person who makes sure that players follow the rules during a game",
+          "synonyms": [
+            "umpire",
+            "judge"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The referee gave him a yellow card.",
+              "translation": "Hakim ona sarı vərəqə göstərdi."
+            },
+            {
+              "text": "The players didn't agree with the referee.",
+              "translation": "Oyunçular hakimlə razılaşmadılar."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "medal",
+      "ipa": "/ˈmɛdəl/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "medal",
+          "definition": "a small, flat piece of metal that is given to someone who wins a competition or does something brave",
+          "synonyms": [
+            "award",
+            "prize"
+          ],
+          "antonyms": [],
+          "homonyms": [
+            {
+              "word": "meddle",
+              "meaning": "to try to take part in other people's business when they don't want you to",
+              "translation": "başqasının işinə qarışmaq"
+            }
+          ],
+          "examples": [
+            {
+              "text": "She won a gold medal at the Olympics.",
+              "translation": "O, Olimpiya oyunlarında qızıl medal qazandı."
+            },
+            {
+              "text": "All the children got a medal after the race.",
+              "translation": "Yarışdan sonra bütün uşaqlara medal verildi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "fit",
+      "ipa": "/fɪt/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "formada, sağlam, gümrah",
+          "definition": "healthy and strong, especially because you exercise",
+          "synonyms": [
+            "healthy",
+            "in shape",
+            "strong"
+          ],
+          "antonyms": [
+            "unfit",
+            "out of shape"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "My grandfather is eighty, but he is still very fit.",
+              "translation": "Babamın səksən yaşı var, amma hələ də çox gümrahdır."
+            },
+            {
+              "text": "I go swimming to keep fit.",
+              "translation": "Formada qalmaq üçün üzməyə gedirəm."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "determined",
+      "ipa": "/dɪˈtɜrmɪnd/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "qətiyyətli, qərarlı",
+          "definition": "having made a strong decision to do something, so that nobody can stop you",
+          "synonyms": [
+            "decided",
+            "firm",
+            "resolute"
+          ],
+          "antonyms": [
+            "hesitant"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "She was determined to finish the race.",
+              "translation": "O, yarışı mütləq başa vurmağa qərarlı idi."
+            },
+            {
+              "text": "He is a very determined young man.",
+              "translation": "O, çox qətiyyətli bir gəncdir."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "story": {
+    "title": "The Final Game",
+    "titleTranslation": "Final oyunu",
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "Zeynab is fourteen, and she plays basketball for her school team.",
+            "translation": "Zeynəbin on dörd yaşı var və o, məktəb komandasında basketbol oynayır."
+          },
+          {
+            "text": "When she joined the team last year, she wasn't very fit, and she couldn't even score from close to the basket.",
+            "translation": "Keçən il komandaya qoşulanda o, elə də formada deyildi və hətta səbətin lap yanından belə topu sala bilmirdi."
+          },
+          {
+            "text": "Some of the older girls laughed at her, and after the first week she almost quit.",
+            "translation": "Böyük qızların bəziləri ona gülürdü və ilk həftədən sonra o, az qala komandanı tərk edəcəkdi."
+          },
+          {
+            "text": "But her coach, Mr. Aliyev, saw that she was determined and never stopped trying.",
+            "translation": "Amma məşqçisi Əliyev müəllim onun qətiyyətli olduğunu və heç vaxt cəhd etməkdən əl çəkmədiyini gördü."
+          },
+          {
+            "text": "“Talent is nice, but effort is more important,” he told her. “Every real athlete knows that.”",
+            "translation": "«İstedad yaxşı şeydir, amma zəhmət daha vacibdir», – deyə o, Zeynəbə dedi. «Hər bir əsl idmançı bunu bilir.»"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Every day after school, Zeynab practiced for an hour in the gym.",
+            "translation": "Hər gün dərsdən sonra Zeynəb idman zalında bir saat məşq edirdi."
+          },
+          {
+            "text": "She ran, jumped and threw the ball again and again until her arms hurt.",
+            "translation": "O, qolları ağrıyana qədər qaçır, tullanır və topu dəfələrlə atırdı."
+          },
+          {
+            "text": "On weekends, she went running in the park with her father, who was a runner when he was young.",
+            "translation": "Həftəsonları o, gəncliyində qaçışla məşğul olmuş atası ilə parkda qaçırdı."
+          },
+          {
+            "text": "Slowly, she was able to score more and more points.",
+            "translation": "Yavaş-yavaş o, getdikcə daha çox xal qazana bildi."
+          },
+          {
+            "text": "In the spring, her team got the chance to compete in the city tournament.",
+            "translation": "Yazda onun komandası şəhər turnirində yarışmaq imkanı qazandı."
+          },
+          {
+            "text": "They won their first three games and reached the final, which was played in the city's indoor stadium.",
+            "translation": "Onlar ilk üç oyunda qalib gəldilər və şəhərin qapalı stadionunda keçirilən finala çıxdılar."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Their opponent was the strongest school in the city, and last year nobody was able to defeat them.",
+            "translation": "Onların rəqibi şəhərin ən güclü məktəbi idi və keçən il heç kim onlara qalib gələ bilməmişdi."
+          },
+          {
+            "text": "Hundreds of people were watching, and Zeynab's hands were shaking.",
+            "translation": "Yüzlərlə insan oyunu izləyirdi və Zeynəbin əlləri titrəyirdi."
+          },
+          {
+            "text": "The game was close from start to finish.",
+            "translation": "Oyun əvvəldən axıra qədər gərgin keçdi."
+          },
+          {
+            "text": "With ten seconds left, the score was tied.",
+            "translation": "On saniyə qalmış hesab bərabər idi."
+          },
+          {
+            "text": "Zeynab got the ball, took a deep breath and threw it.",
+            "translation": "Top Zeynəbə çatdı, o, dərindən nəfəs aldı və topu atdı."
+          },
+          {
+            "text": "The ball went in just before the referee blew the whistle.",
+            "translation": "Top hakim fit çalmazdan bir an əvvəl səbətə düşdü."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "It was a victory for the whole team, and her teammates screamed with joy.",
+            "translation": "Bu, bütün komandanın qələbəsi idi və komanda yoldaşları sevincdən qışqırdılar."
+          },
+          {
+            "text": "Each player got a gold medal, and Mr. Aliyev hugged every one of them.",
+            "translation": "Hər oyunçu qızıl medal aldı və Əliyev müəllim onların hər birini qucaqladı."
+          },
+          {
+            "text": "Later, Zeynab said, “A year ago I couldn't do this. Now I know I can achieve anything if I work hard.”",
+            "translation": "Sonra Zeynəb dedi: «Bir il əvvəl bunu edə bilmirdim. İndi bilirəm ki, çox çalışsam, istənilən şeyə nail ola bilərəm.»"
+          },
+          {
+            "text": "Then she smiled and added, “And next year, I'll be able to play even better!”",
+            "translation": "Sonra gülümsəyib əlavə etdi: «Gələn il isə daha da yaxşı oynaya biləcəyəm!»"
+          }
+        ]
+      }
+    ],
+    "glossary": [
+      {
+        "term": "joined",
+        "lemma": "join",
+        "partOfSpeech": "verb",
+        "meaning": "became a member of a group",
+        "translation": "qoşuldu"
+      },
+      {
+        "term": "fit",
+        "lemma": "fit",
+        "partOfSpeech": "adjective",
+        "meaning": "healthy and strong because of exercise",
+        "translation": "formada"
+      },
+      {
+        "term": "couldn't",
+        "lemma": "can",
+        "partOfSpeech": "verb",
+        "meaning": "was not able to",
+        "translation": "bacarmırdı, -a bilmirdi"
+      },
+      {
+        "term": "score",
+        "lemma": "score",
+        "partOfSpeech": "verb",
+        "meaning": "to get points in a game",
+        "translation": "xal qazanmaq, top salmaq"
+      },
+      {
+        "term": "close to",
+        "lemma": "close to",
+        "partOfSpeech": "phrase",
+        "meaning": "near",
+        "translation": "yaxın, yanında"
+      },
+      {
+        "term": "basket",
+        "lemma": "basket",
+        "partOfSpeech": "noun",
+        "meaning": "the net and ring that players throw the ball into",
+        "translation": "səbət"
+      },
+      {
+        "term": "laughed at",
+        "lemma": "laugh at",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "laughed to show that someone looked silly",
+        "translation": "... gülürdülər"
+      },
+      {
+        "term": "quit",
+        "lemma": "quit",
+        "partOfSpeech": "verb",
+        "meaning": "stopped doing something and left",
+        "translation": "tərk etdi, atdı"
+      },
+      {
+        "term": "coach",
+        "lemma": "coach",
+        "partOfSpeech": "noun",
+        "meaning": "a person who trains a sports team",
+        "translation": "məşqçi"
+      },
+      {
+        "term": "determined",
+        "lemma": "determined",
+        "partOfSpeech": "adjective",
+        "meaning": "having a strong wish to do something",
+        "translation": "qətiyyətli"
+      },
+      {
+        "term": "never stopped trying",
+        "lemma": "stop trying",
+        "partOfSpeech": "phrase",
+        "meaning": "always continued to try",
+        "translation": "cəhd etməkdən əl çəkmədi"
+      },
+      {
+        "term": "Talent",
+        "lemma": "talent",
+        "partOfSpeech": "noun",
+        "meaning": "a natural ability to do something well",
+        "translation": "istedad"
+      },
+      {
+        "term": "effort",
+        "lemma": "effort",
+        "partOfSpeech": "noun",
+        "meaning": "hard work",
+        "translation": "zəhmət, səy"
+      },
+      {
+        "term": "athlete",
+        "lemma": "athlete",
+        "partOfSpeech": "noun",
+        "meaning": "a person who is good at sports",
+        "translation": "idmançı"
+      },
+      {
+        "term": "practiced",
+        "lemma": "practice",
+        "partOfSpeech": "verb",
+        "meaning": "did something many times to get better",
+        "translation": "məşq edirdi"
+      },
+      {
+        "term": "gym",
+        "lemma": "gym",
+        "partOfSpeech": "noun",
+        "meaning": "a big room for sports and exercise",
+        "translation": "idman zalı"
+      },
+      {
+        "term": "again and again",
+        "lemma": "again and again",
+        "partOfSpeech": "phrase",
+        "meaning": "many times",
+        "translation": "dəfələrlə"
+      },
+      {
+        "term": "until",
+        "lemma": "until",
+        "partOfSpeech": "conjunction",
+        "meaning": "up to the time when",
+        "translation": "... qədər"
+      },
+      {
+        "term": "hurt",
+        "lemma": "hurt",
+        "partOfSpeech": "verb",
+        "meaning": "felt pain",
+        "translation": "ağrıdı"
+      },
+      {
+        "term": "went running",
+        "lemma": "go running",
+        "partOfSpeech": "phrase",
+        "meaning": "ran for exercise",
+        "translation": "qaçışa çıxdı, qaçdı"
+      },
+      {
+        "term": "was able to",
+        "lemma": "be able to",
+        "partOfSpeech": "phrase",
+        "meaning": "could; managed to",
+        "translation": "bacardı, -a bildi"
+      },
+      {
+        "term": "more and more",
+        "lemma": "more and more",
+        "partOfSpeech": "phrase",
+        "meaning": "a growing number of",
+        "translation": "getdikcə daha çox"
+      },
+      {
+        "term": "points",
+        "lemma": "point",
+        "partOfSpeech": "noun",
+        "meaning": "numbers you win in a game",
+        "translation": "xallar"
+      },
+      {
+        "term": "got the chance",
+        "lemma": "get the chance",
+        "partOfSpeech": "phrase",
+        "meaning": "had the opportunity",
+        "translation": "imkan qazandı"
+      },
+      {
+        "term": "compete",
+        "lemma": "compete",
+        "partOfSpeech": "verb",
+        "meaning": "to take part in a contest",
+        "translation": "yarışmaq"
+      },
+      {
+        "term": "tournament",
+        "lemma": "tournament",
+        "partOfSpeech": "noun",
+        "meaning": "a competition with many teams",
+        "translation": "turnir"
+      },
+      {
+        "term": "reached the final",
+        "lemma": "reach the final",
+        "partOfSpeech": "phrase",
+        "meaning": "got to the last and most important game",
+        "translation": "finala çıxdılar"
+      },
+      {
+        "term": "indoor",
+        "lemma": "indoor",
+        "partOfSpeech": "adjective",
+        "meaning": "inside a building",
+        "translation": "qapalı"
+      },
+      {
+        "term": "stadium",
+        "lemma": "stadium",
+        "partOfSpeech": "noun",
+        "meaning": "a big place where people watch sports",
+        "translation": "stadion"
+      },
+      {
+        "term": "opponent",
+        "lemma": "opponent",
+        "partOfSpeech": "noun",
+        "meaning": "the team you play against",
+        "translation": "rəqib"
+      },
+      {
+        "term": "defeat",
+        "lemma": "defeat",
+        "partOfSpeech": "verb",
+        "meaning": "to win against someone",
+        "translation": "məğlub etmək, qalib gəlmək"
+      },
+      {
+        "term": "Hundreds of",
+        "lemma": "hundreds of",
+        "partOfSpeech": "phrase",
+        "meaning": "a very large number of",
+        "translation": "yüzlərlə"
+      },
+      {
+        "term": "shaking",
+        "lemma": "shake",
+        "partOfSpeech": "verb",
+        "meaning": "moving a little because of fear",
+        "translation": "titrəyirdi"
+      },
+      {
+        "term": "close",
+        "lemma": "close",
+        "partOfSpeech": "adjective",
+        "meaning": "with almost the same number of points on both sides",
+        "translation": "gərgin, bərabər"
+      },
+      {
+        "term": "from start to finish",
+        "lemma": "from start to finish",
+        "partOfSpeech": "phrase",
+        "meaning": "during the whole time",
+        "translation": "əvvəldən axıra qədər"
+      },
+      {
+        "term": "With ten seconds left",
+        "lemma": "with ... left",
+        "partOfSpeech": "phrase",
+        "meaning": "when there were only ten seconds more",
+        "translation": "on saniyə qalmış"
+      },
+      {
+        "term": "the score was tied",
+        "lemma": "the score is tied",
+        "partOfSpeech": "phrase",
+        "meaning": "both teams had the same number of points",
+        "translation": "hesab bərabər idi"
+      },
+      {
+        "term": "took a deep breath",
+        "lemma": "take a deep breath",
+        "partOfSpeech": "phrase",
+        "meaning": "breathed in a lot of air slowly",
+        "translation": "dərindən nəfəs aldı"
+      },
+      {
+        "term": "threw",
+        "lemma": "throw",
+        "partOfSpeech": "verb",
+        "meaning": "sent the ball through the air with her hand",
+        "translation": "atdı"
+      },
+      {
+        "term": "went in",
+        "lemma": "go in",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "fell into the basket",
+        "translation": "səbətə düşdü"
+      },
+      {
+        "term": "referee",
+        "lemma": "referee",
+        "partOfSpeech": "noun",
+        "meaning": "the person who controls a game",
+        "translation": "hakim"
+      },
+      {
+        "term": "blew the whistle",
+        "lemma": "blow the whistle",
+        "partOfSpeech": "phrase",
+        "meaning": "made a loud sound with a small tool to stop the game",
+        "translation": "fit çaldı"
+      },
+      {
+        "term": "victory",
+        "lemma": "victory",
+        "partOfSpeech": "noun",
+        "meaning": "the success of winning",
+        "translation": "qələbə"
+      },
+      {
+        "term": "teammates",
+        "lemma": "teammate",
+        "partOfSpeech": "noun",
+        "meaning": "people on the same team",
+        "translation": "komanda yoldaşları"
+      },
+      {
+        "term": "screamed with joy",
+        "lemma": "scream with joy",
+        "partOfSpeech": "phrase",
+        "meaning": "shouted loudly because they were very happy",
+        "translation": "sevincdən qışqırdılar"
+      },
+      {
+        "term": "medal",
+        "lemma": "medal",
+        "partOfSpeech": "noun",
+        "meaning": "a piece of metal given to winners",
+        "translation": "medal"
+      },
+      {
+        "term": "hugged",
+        "lemma": "hug",
+        "partOfSpeech": "verb",
+        "meaning": "put his arms around someone",
+        "translation": "qucaqladı"
+      },
+      {
+        "term": "achieve",
+        "lemma": "achieve",
+        "partOfSpeech": "verb",
+        "meaning": "to succeed in getting something after working hard",
+        "translation": "nail olmaq"
+      },
+      {
+        "term": "work hard",
+        "lemma": "work hard",
+        "partOfSpeech": "phrase",
+        "meaning": "to put a lot of effort into something",
+        "translation": "çox çalışmaq"
+      },
+      {
+        "term": "I'll be able to",
+        "lemma": "be able to",
+        "partOfSpeech": "phrase",
+        "meaning": "I will be able to; I will can",
+        "translation": "-a biləcəyəm"
+      }
+    ]
+  },
+  "grammar": {
+    "topic": "Ability: can, could, be able to",
+    "topicTranslation": "Bacarıq: can, could, be able to",
+    "explanation": "We use can to talk about ability in the present and could to talk about general ability in the past. Can and could are followed by the base verb, and they are the same for all persons. We use be able to when can is not possible, for example after will or in the present perfect. For one specific success in the past, we usually say was or were able to.",
+    "explanationTranslation": "İndiki zamanda bacarıq haqqında danışmaq üçün can, keçmişdə ümumi bacarıq haqqında danışmaq üçün isə could işlədilir. Can və could-dan sonra feilin əsas forması gəlir və onlar bütün şəxslərdə eynidir. Can işlətmək mümkün olmayanda, məsələn, will-dən sonra və ya present perfect-də, be able to işlədilir. Keçmişdə konkret bir uğur haqqında danışanda adətən was və ya were able to deyilir.",
+    "rules": [
+      {
+        "text": "can / can't + base verb for ability in the present: She can swim.",
+        "translation": "İndiki zamanda bacarıq üçün can / can't + feilin əsas forması: She can swim."
+      },
+      {
+        "text": "could / couldn't + base verb for general ability in the past: I could read when I was four.",
+        "translation": "Keçmişdə ümumi bacarıq üçün could / couldn't + feilin əsas forması: I could read when I was four."
+      },
+      {
+        "text": "be able to works in all tenses, for example will be able to and have been able to: I'll be able to drive next year.",
+        "translation": "be able to bütün zamanlarda işlənir, məsələn, will be able to və have been able to: I'll be able to drive next year."
+      },
+      {
+        "text": "For one specific success in the past, use was / were able to, not could: After many tries, he was able to fix the car.",
+        "translation": "Keçmişdə konkret bir uğur üçün could yox, was / were able to işlədilir: After many tries, he was able to fix the car."
+      }
+    ],
+    "examples": [
+      {
+        "text": "My little brother can count to a hundred.",
+        "translation": "Kiçik qardaşım yüzə qədər saya bilir."
+      },
+      {
+        "text": "When I was young, I could run very fast.",
+        "translation": "Gənc olanda çox sürətlə qaça bilirdim."
+      },
+      {
+        "text": "If you make an effort, you will be able to achieve your goal.",
+        "translation": "Səy göstərsən, məqsədinə nail ola biləcəksən."
+      },
+      {
+        "text": "Our team was able to score in the last minute.",
+        "translation": "Komandamız son dəqiqədə qol vura bildi."
+      },
+      {
+        "text": "I'm sorry, I can't come to the match tomorrow.",
+        "translation": "Bağışla, sabah oyuna gələ bilmərəm."
+      }
+    ],
+    "exercise": {
+      "instructions": "Choose or write the correct form.",
+      "instructionsTranslation": "Düzgün formanı seçin və ya yazın.",
+      "questions": [
+        {
+          "type": "choice",
+          "prompt": "___ you speak any other languages?",
+          "promptTranslation": "Başqa dillərdə danışa bilirsən?",
+          "options": [
+            "Can",
+            "Are",
+            "Do"
+          ],
+          "answer": "Can",
+          "explanation": "We use can to ask about ability.",
+          "explanationTranslation": "Bacarıq haqqında soruşmaq üçün can işlədilir."
+        },
+        {
+          "type": "choice",
+          "prompt": "When she was five, she ___ ride a bike.",
+          "promptTranslation": "Beş yaşında o, velosiped sürə bilirdi.",
+          "options": [
+            "can",
+            "could",
+            "is able to"
+          ],
+          "answer": "could",
+          "explanation": "This is general ability in the past, so we use could.",
+          "explanationTranslation": "Bu, keçmişdə ümumi bacarıqdır, ona görə could işlədilir."
+        },
+        {
+          "type": "text",
+          "prompt": "Next year I ___ (be able to) drive a car.",
+          "promptTranslation": "Gələn il maşın sürə biləcəyəm.",
+          "answer": "will be able to",
+          "acceptedAnswers": [
+            "'ll be able to"
+          ],
+          "explanation": "Can has no future form, so we use will be able to.",
+          "explanationTranslation": "Can-ın gələcək zaman forması yoxdur, ona görə will be able to işlədilir."
+        },
+        {
+          "type": "text",
+          "prompt": "Sorry, I ___ (can / not) hear you – the music is too loud.",
+          "promptTranslation": "Bağışla, səni eşidə bilmirəm – musiqi çox ucadır.",
+          "answer": "can't",
+          "acceptedAnswers": [
+            "cannot",
+            "can not"
+          ],
+          "explanation": "The negative of can is can't (cannot).",
+          "explanationTranslation": "Can-ın inkar forması can't (cannot)-dur."
+        },
+        {
+          "type": "choice",
+          "prompt": "The game was very hard, but in the end we ___ win.",
+          "promptTranslation": "Oyun çox çətin idi, amma sonda qalib gələ bildik.",
+          "options": [
+            "could",
+            "were able to",
+            "can"
+          ],
+          "answer": "were able to",
+          "explanation": "This is one specific success in the past, so we use were able to.",
+          "explanationTranslation": "Bu, keçmişdə konkret bir uğurdur, ona görə were able to işlədilir."
+        }
+      ]
+    }
+  }
+}

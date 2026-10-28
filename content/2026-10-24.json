@@ -1,0 +1,1106 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-24",
+  "level": "B1",
+  "translationLanguage": "az",
+  "words": [
+    {
+      "word": "honest",
+      "ipa": "/ˈɑnɪst/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "dürüst, düz, səmimi",
+          "definition": "always telling the truth and not cheating or stealing",
+          "synonyms": [
+            "truthful",
+            "sincere",
+            "frank"
+          ],
+          "antonyms": [
+            "dishonest"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Thank you for being honest with me.",
+              "translation": "Mənimlə dürüst olduğun üçün sağ ol."
+            },
+            {
+              "text": "To be honest, I didn't like the film.",
+              "translation": "Düzünü desəm, filmi bəyənmədim."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "generous",
+      "ipa": "/ˈdʒɛnərəs/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "səxavətli, əliaçıq",
+          "definition": "happy to give money, time or help to other people",
+          "synonyms": [
+            "kind",
+            "giving",
+            "unselfish"
+          ],
+          "antonyms": [
+            "mean",
+            "selfish",
+            "stingy"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "My uncle is very generous – he always buys presents for everyone.",
+              "translation": "Əmim çox səxavətlidir – həmişə hamıya hədiyyə alır."
+            },
+            {
+              "text": "That's a very generous offer.",
+              "translation": "Bu, çox səxavətli təklifdir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "selfish",
+      "ipa": "/ˈsɛlfɪʃ/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "eqoist, xudbin",
+          "definition": "thinking only about yourself and not about other people",
+          "synonyms": [
+            "self-centered",
+            "greedy"
+          ],
+          "antonyms": [
+            "unselfish",
+            "generous",
+            "caring"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "It was selfish of him to eat all the cake.",
+              "translation": "Tortun hamısını yeməklə o, eqoistlik etdi."
+            },
+            {
+              "text": "Don't be so selfish – share your toys with your sister.",
+              "translation": "Bu qədər eqoist olma – oyuncaqlarını bacınla bölüş."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "polite",
+      "ipa": "/pəˈlaɪt/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "nəzakətli, tərbiyəli",
+          "definition": "speaking and behaving in a kind way that shows respect for other people",
+          "synonyms": [
+            "courteous",
+            "respectful",
+            "well-mannered"
+          ],
+          "antonyms": [
+            "rude",
+            "impolite"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "It's polite to say thank you.",
+              "translation": "Təşəkkür etmək nəzakət əlamətidir."
+            },
+            {
+              "text": "The waiter was very polite to us.",
+              "translation": "Ofisiant bizimlə çox nəzakətli idi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "stubborn",
+      "ipa": "/ˈstʌbɚn/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "inadkar, tərs",
+          "definition": "not willing to change your ideas or what you are doing, even when you should",
+          "synonyms": [
+            "obstinate",
+            "headstrong",
+            "inflexible"
+          ],
+          "antonyms": [
+            "flexible",
+            "easygoing"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "He is so stubborn that he never says sorry.",
+              "translation": "O, o qədər inadkardır ki, heç vaxt üzr istəmir."
+            },
+            {
+              "text": "Don't be stubborn – listen to the doctor.",
+              "translation": "İnadkarlıq etmə – həkimə qulaq as."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "modest",
+      "ipa": "/ˈmɑdɪst/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "təvazökar",
+          "definition": "not talking much about your own skills or success",
+          "synonyms": [
+            "humble",
+            "unassuming"
+          ],
+          "antonyms": [
+            "arrogant",
+            "boastful"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "She is very modest about her success.",
+              "translation": "O, uğurları barədə çox təvazökardır."
+            },
+            {
+              "text": "Don't be so modest – your work is excellent!",
+              "translation": "Bu qədər təvazökar olma – işin əladır!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "rude",
+      "ipa": "/rud/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "kobud, ədəbsiz",
+          "definition": "not polite; saying or doing things that upset other people",
+          "synonyms": [
+            "impolite",
+            "disrespectful"
+          ],
+          "antonyms": [
+            "polite",
+            "respectful"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "It's rude to talk with your mouth full.",
+              "translation": "Ağzın dolu danışmaq ədəbsizlikdir."
+            },
+            {
+              "text": "The man at the ticket office was very rude to us.",
+              "translation": "Bilet kassasındakı kişi bizimlə çox kobud davrandı."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "cheerful",
+      "ipa": "/ˈtʃɪrfəl/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "şən, gümrah",
+          "definition": "happy and full of positive energy",
+          "synonyms": [
+            "happy",
+            "bright",
+            "upbeat",
+            "jolly"
+          ],
+          "antonyms": [
+            "gloomy",
+            "sad",
+            "miserable"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Our neighbor is always cheerful, even on Monday mornings.",
+              "translation": "Qonşumuz həmişə şəndir, hətta bazar ertəsi səhərləri də."
+            },
+            {
+              "text": "They painted the kitchen a cheerful yellow.",
+              "translation": "Mətbəxi şən sarı rəngə boyadılar."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "ambitious",
+      "ipa": "/æmˈbɪʃəs/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "iddialı, böyük məqsədləri olan",
+          "definition": "wanting very much to be successful or to do something difficult",
+          "synonyms": [
+            "determined",
+            "driven",
+            "motivated"
+          ],
+          "antonyms": [
+            "unambitious"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "He is an ambitious young lawyer.",
+              "translation": "O, böyük məqsədləri olan gənc bir hüquqşünasdır."
+            },
+            {
+              "text": "That's an ambitious plan – can we really finish it in a week?",
+              "translation": "Bu, iddialı plandır – onu doğrudan da bir həftəyə bitirə bilərikmi?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "lazy",
+      "ipa": "/ˈleɪzi/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "tənbəl",
+          "definition": "not wanting to work or make an effort",
+          "synonyms": [
+            "idle",
+            "inactive"
+          ],
+          "antonyms": [
+            "hard-working",
+            "active"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "I felt too lazy to cook, so we ordered pizza.",
+              "translation": "Yemək bişirməyə tənbəlliyim gəldi, ona görə də pizza sifariş etdik."
+            },
+            {
+              "text": "Our cat is so lazy – he sleeps all day.",
+              "translation": "Pişiyimiz çox tənbəldir – bütün günü yatır."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sensible",
+      "ipa": "/ˈsɛnsəbəl/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "ağıllı, sağlam düşüncəli, məntiqli",
+          "definition": "able to make good decisions based on clear thinking; practical",
+          "synonyms": [
+            "reasonable",
+            "wise",
+            "practical"
+          ],
+          "antonyms": [
+            "silly",
+            "foolish"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "It was sensible to take an umbrella.",
+              "translation": "Çətir götürmək ağıllı qərar idi."
+            },
+            {
+              "text": "My sister is the most sensible person in our family.",
+              "translation": "Bacım ailəmizdə ən sağlam düşüncəli insandır."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sensitive",
+      "ipa": "/ˈsɛnsətɪv/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "həssas",
+          "definition": "easily upset by what other people say or do; also good at understanding other people's feelings",
+          "synonyms": [
+            "emotional",
+            "caring",
+            "thoughtful"
+          ],
+          "antonyms": [
+            "insensitive"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Be careful what you say – he's very sensitive.",
+              "translation": "Nə dediyinə diqqət et – o, çox həssasdır."
+            },
+            {
+              "text": "A good teacher is sensitive to students' needs.",
+              "translation": "Yaxşı müəllim şagirdlərin ehtiyaclarına qarşı həssas olur."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "mean",
+      "ipa": "/min/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "acıqlı, pis davranan; xəsis",
+          "definition": "unkind to other people; also not wanting to spend or share money",
+          "synonyms": [
+            "unkind",
+            "nasty",
+            "stingy"
+          ],
+          "antonyms": [
+            "kind",
+            "generous"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Don't be mean to your little brother.",
+              "translation": "Kiçik qardaşınla pis davranma."
+            },
+            {
+              "text": "He's too mean to buy anyone a coffee.",
+              "translation": "O, o qədər xəsisdir ki, heç kimə bir qəhvə də almaz."
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "verb",
+          "translation": "demək, mənası olmaq; nəzərdə tutmaq",
+          "definition": "to have a particular meaning; to want to say or do something",
+          "synonyms": [
+            "signify",
+            "intend"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "What does this word mean?",
+              "translation": "Bu söz nə deməkdir?"
+            },
+            {
+              "text": "Sorry, I didn't mean to hurt you.",
+              "translation": "Bağışla, səni incitmək istəmirdim."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "brave",
+      "ipa": "/breɪv/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "cəsur, qorxmaz",
+          "definition": "ready to do dangerous or difficult things without showing fear",
+          "synonyms": [
+            "courageous",
+            "bold",
+            "fearless"
+          ],
+          "antonyms": [
+            "cowardly",
+            "fearful"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "It was brave of you to tell the truth.",
+              "translation": "Həqiqəti deməklə cəsarətli addım atdın."
+            },
+            {
+              "text": "The brave firefighter saved two children.",
+              "translation": "Cəsur yanğınsöndürən iki uşağı xilas etdi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "careless",
+      "ipa": "/ˈkɛrləs/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "diqqətsiz, ehtiyatsız",
+          "definition": "not thinking enough about what you are doing, so that you make mistakes or cause problems",
+          "synonyms": [
+            "thoughtless",
+            "sloppy"
+          ],
+          "antonyms": [
+            "careful",
+            "attentive"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "I made a careless mistake in the last question.",
+              "translation": "Son sualda diqqətsizlikdən səhv etdim."
+            },
+            {
+              "text": "Careless drivers cause many accidents.",
+              "translation": "Ehtiyatsız sürücülər çoxlu qəzaya səbəb olur."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "story": {
+    "title": "How Grandma Chose",
+    "titleTranslation": "Nənəm necə seçdi",
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "Last Sunday, Lala wanted to know the story of how her grandparents had met.",
+            "translation": "Keçən bazar günü Lalə baba və nənəsinin necə tanış olduğunu öyrənmək istəyirdi."
+          },
+          {
+            "text": "Grandma laughed and said that it was a long story.",
+            "translation": "Nənə güldü və bunun uzun əhvalat olduğunu dedi."
+          },
+          {
+            "text": "She told Lala that, as a young woman, she had worked in a small library in Ganja.",
+            "translation": "O, Lələyə gənc vaxtı Gəncədə kiçik bir kitabxanada işlədiyini danışdı."
+          },
+          {
+            "text": "She said that she could still remember the smell of old paper there.",
+            "translation": "Dedi ki, oradakı köhnə kağız iyini hələ də xatırlayır."
+          },
+          {
+            "text": "She said she had been very ambitious in those days and had dreamed of running the big city library one day.",
+            "translation": "Dedi ki, o vaxtlar çox iddialı imiş və bir gün böyük şəhər kitabxanasına rəhbərlik etməyi arzulayırmış."
+          },
+          {
+            "text": "Then, one rainy afternoon, a polite young man came in and asked for a book about trees.",
+            "translation": "Sonra yağışlı bir günortadan sonra kitabxanaya nəzakətli bir gənc oğlan gəlib ağaclar haqqında kitab istədi."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "“At first, my friends didn't like him,” Grandma explained.",
+            "translation": "«Əvvəlcə rəfiqələrim onu bəyənmirdilər», – deyə nənə izah etdi."
+          },
+          {
+            "text": "“One friend said he was too stubborn, because he always argued about books.”",
+            "translation": "«Rəfiqələrimdən biri onun çox inadkar olduğunu deyirdi, çünki həmişə kitablar barədə mübahisə edirdi.»"
+          },
+          {
+            "text": "“Another told me that he was selfish and only thought about his studies.”",
+            "translation": "«Başqa biri mənə onun eqoist olduğunu və yalnız dərsləri barədə düşündüyünü deyirdi.»"
+          },
+          {
+            "text": "“And my cousin said he was careless, because he had once dropped a library book in a puddle.”",
+            "translation": "«Xalam qızı isə onun diqqətsiz olduğunu deyirdi, çünki bir dəfə kitabxananın kitabını gölməçəyə salmışdı.»"
+          },
+          {
+            "text": "“But I knew they were wrong.”",
+            "translation": "«Amma mən onların yanıldığını bilirdim.»"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "“One winter evening, I saw him give his warm coat to an old man at the bus stop,” Grandma said quietly.",
+            "translation": "«Bir qış axşamı onun isti paltosunu avtobus dayanacağında yaşlı bir kişiyə verdiyini gördüm», – nənə sakitcə dedi."
+          },
+          {
+            "text": "“He was generous even when nobody was watching.”",
+            "translation": "«O, heç kimin görmədiyi vaxt da səxavətli idi.»"
+          },
+          {
+            "text": "“Another time, he was brave enough to stand up to a rude driver who was shouting at a child.”",
+            "translation": "«Başqa bir dəfə isə uşağa qışqıran kobud bir sürücüyə qarşı çıxacaq qədər cəsur idi.»"
+          },
+          {
+            "text": "“Later, he told me that he had read every book on my shelf just to talk to me.”",
+            "translation": "«Sonra o, mənə yalnız mənimlə danışmaq üçün rəfimdəki bütün kitabları oxuduğunu dedi.»"
+          },
+          {
+            "text": "“He was honest, so I believed him.”",
+            "translation": "«O, dürüst idi, ona görə də ona inandım.»"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "“What was he like at home?” Lala asked.",
+            "translation": "«Bəs evdə necə idi?» – deyə Lalə soruşdu."
+          },
+          {
+            "text": "Grandma said that he had always been cheerful, even on difficult days, and that he was never lazy.",
+            "translation": "Nənə dedi ki, baba hətta çətin günlərdə də həmişə şən olub və heç vaxt tənbəllik etməyib."
+          },
+          {
+            "text": "She told her that he was sensitive, too: he cried at sad films but always said that something was in his eye.",
+            "translation": "O, Lələyə babanın həm də həssas olduğunu danışdı: kədərli filmlərdə ağlayırmış, amma həmişə gözünə nəsə düşdüyünü deyirmiş."
+          },
+          {
+            "text": "“He was never mean to anyone, and he was the most sensible person I knew,” she added.",
+            "translation": "«Heç vaxt heç kimlə pis davranmazdı və tanıdığım ən ağıllı insan idi», – deyə əlavə etdi."
+          },
+          {
+            "text": "“When I had to make a big decision, I always asked him first.”",
+            "translation": "«Böyük bir qərar verməli olanda həmişə əvvəlcə ondan soruşurdum.»"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Just then, Grandpa came into the room and said that he was still reading those books.",
+            "translation": "Elə bu vaxt baba otağa girdi və hələ də o kitabları oxuduğunu dedi."
+          },
+          {
+            "text": "“And I'm still the most modest man in Ganja,” he added with a wink.",
+            "translation": "«Mən hələ də Gəncənin ən təvazökar kişisiyəm», – deyə göz vuraraq əlavə etdi."
+          },
+          {
+            "text": "Grandma told him that he wasn't modest at all, but she was smiling as she said it.",
+            "translation": "Nənə ona heç də təvazökar olmadığını dedi, amma bunu deyərkən gülümsəyirdi."
+          },
+          {
+            "text": "Everyone laughed, and Lala decided that it was the best story she had ever heard.",
+            "translation": "Hamı güldü, Lalə isə qərara gəldi ki, bu, indiyə qədər eşitdiyi ən gözəl əhvalatdır."
+          }
+        ]
+      }
+    ],
+    "glossary": [
+      {
+        "term": "wanted to know",
+        "lemma": "want to know",
+        "partOfSpeech": "phrase",
+        "meaning": "wanted to find out",
+        "translation": "öyrənmək istəyirdi"
+      },
+      {
+        "term": "grandparents",
+        "lemma": "grandparents",
+        "partOfSpeech": "noun",
+        "meaning": "the parents of your mother or father",
+        "translation": "baba və nənə"
+      },
+      {
+        "term": "had met",
+        "lemma": "meet",
+        "partOfSpeech": "verb",
+        "meaning": "had seen and got to know someone for the first time",
+        "translation": "tanış olmuşdular"
+      },
+      {
+        "term": "long story",
+        "lemma": "long story",
+        "partOfSpeech": "phrase",
+        "meaning": "a story with many details that takes time to tell",
+        "translation": "uzun əhvalat"
+      },
+      {
+        "term": "told",
+        "lemma": "tell",
+        "partOfSpeech": "verb",
+        "meaning": "said something to someone",
+        "translation": "danışdı, dedi"
+      },
+      {
+        "term": "as a young woman",
+        "lemma": "as a young woman",
+        "partOfSpeech": "phrase",
+        "meaning": "when she was young",
+        "translation": "gənc vaxtı"
+      },
+      {
+        "term": "library",
+        "lemma": "library",
+        "partOfSpeech": "noun",
+        "meaning": "a place where you can read or borrow books",
+        "translation": "kitabxana"
+      },
+      {
+        "term": "smell",
+        "lemma": "smell",
+        "partOfSpeech": "noun",
+        "meaning": "something you notice with your nose",
+        "translation": "iy, qoxu"
+      },
+      {
+        "term": "ambitious",
+        "lemma": "ambitious",
+        "partOfSpeech": "adjective",
+        "meaning": "wanting very much to be successful",
+        "translation": "iddialı, böyük məqsədləri olan"
+      },
+      {
+        "term": "in those days",
+        "lemma": "in those days",
+        "partOfSpeech": "phrase",
+        "meaning": "at that time in the past",
+        "translation": "o vaxtlar"
+      },
+      {
+        "term": "dreamed of",
+        "lemma": "dream of",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "wanted something very much for the future",
+        "translation": "arzulayırdı"
+      },
+      {
+        "term": "running",
+        "lemma": "run",
+        "partOfSpeech": "verb",
+        "meaning": "managing or being in charge of a place or business",
+        "translation": "rəhbərlik etmək, idarə etmək"
+      },
+      {
+        "term": "rainy",
+        "lemma": "rainy",
+        "partOfSpeech": "adjective",
+        "meaning": "with a lot of rain",
+        "translation": "yağışlı"
+      },
+      {
+        "term": "polite",
+        "lemma": "polite",
+        "partOfSpeech": "adjective",
+        "meaning": "behaving in a kind way that shows respect",
+        "translation": "nəzakətli"
+      },
+      {
+        "term": "asked for",
+        "lemma": "ask for",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "said that he wanted to get something",
+        "translation": "istədi"
+      },
+      {
+        "term": "At first",
+        "lemma": "at first",
+        "partOfSpeech": "phrase",
+        "meaning": "at the beginning",
+        "translation": "əvvəlcə"
+      },
+      {
+        "term": "explained",
+        "lemma": "explain",
+        "partOfSpeech": "verb",
+        "meaning": "made something clear by telling more about it",
+        "translation": "izah etdi"
+      },
+      {
+        "term": "stubborn",
+        "lemma": "stubborn",
+        "partOfSpeech": "adjective",
+        "meaning": "not willing to change his ideas",
+        "translation": "inadkar"
+      },
+      {
+        "term": "argued",
+        "lemma": "argue",
+        "partOfSpeech": "verb",
+        "meaning": "disagreed with someone and spoke strongly about it",
+        "translation": "mübahisə edirdi"
+      },
+      {
+        "term": "selfish",
+        "lemma": "selfish",
+        "partOfSpeech": "adjective",
+        "meaning": "thinking only about yourself",
+        "translation": "eqoist"
+      },
+      {
+        "term": "studies",
+        "lemma": "studies",
+        "partOfSpeech": "noun",
+        "meaning": "the work of learning at a school or university",
+        "translation": "dərslər, təhsil"
+      },
+      {
+        "term": "cousin",
+        "lemma": "cousin",
+        "partOfSpeech": "noun",
+        "meaning": "the child of your aunt or uncle",
+        "translation": "xalaqızı, əmiqızı"
+      },
+      {
+        "term": "careless",
+        "lemma": "careless",
+        "partOfSpeech": "adjective",
+        "meaning": "not thinking enough about what you are doing",
+        "translation": "diqqətsiz"
+      },
+      {
+        "term": "dropped",
+        "lemma": "drop",
+        "partOfSpeech": "verb",
+        "meaning": "let something fall by accident",
+        "translation": "saldı"
+      },
+      {
+        "term": "puddle",
+        "lemma": "puddle",
+        "partOfSpeech": "noun",
+        "meaning": "a small pool of water on the ground after rain",
+        "translation": "gölməçə"
+      },
+      {
+        "term": "wrong",
+        "lemma": "wrong",
+        "partOfSpeech": "adjective",
+        "meaning": "not correct",
+        "translation": "səhv, yanılan"
+      },
+      {
+        "term": "coat",
+        "lemma": "coat",
+        "partOfSpeech": "noun",
+        "meaning": "a warm piece of clothing that you wear outside",
+        "translation": "palto"
+      },
+      {
+        "term": "bus stop",
+        "lemma": "bus stop",
+        "partOfSpeech": "noun",
+        "meaning": "a place where buses stop for passengers",
+        "translation": "avtobus dayanacağı"
+      },
+      {
+        "term": "quietly",
+        "lemma": "quietly",
+        "partOfSpeech": "adverb",
+        "meaning": "in a soft, calm voice",
+        "translation": "sakitcə"
+      },
+      {
+        "term": "generous",
+        "lemma": "generous",
+        "partOfSpeech": "adjective",
+        "meaning": "happy to give things or help to others",
+        "translation": "səxavətli"
+      },
+      {
+        "term": "nobody",
+        "lemma": "nobody",
+        "partOfSpeech": "pronoun",
+        "meaning": "no person",
+        "translation": "heç kim"
+      },
+      {
+        "term": "brave",
+        "lemma": "brave",
+        "partOfSpeech": "adjective",
+        "meaning": "not afraid to do something difficult or dangerous",
+        "translation": "cəsur"
+      },
+      {
+        "term": "stand up to",
+        "lemma": "stand up to",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "to refuse to accept bad behavior from someone",
+        "translation": "(kiməsə) qarşı çıxmaq"
+      },
+      {
+        "term": "rude",
+        "lemma": "rude",
+        "partOfSpeech": "adjective",
+        "meaning": "not polite",
+        "translation": "kobud"
+      },
+      {
+        "term": "shouting",
+        "lemma": "shout",
+        "partOfSpeech": "verb",
+        "meaning": "speaking very loudly, often angrily",
+        "translation": "qışqırırdı"
+      },
+      {
+        "term": "shelf",
+        "lemma": "shelf",
+        "partOfSpeech": "noun",
+        "meaning": "a flat board on a wall for keeping books or things",
+        "translation": "rəf"
+      },
+      {
+        "term": "just to",
+        "lemma": "just to",
+        "partOfSpeech": "phrase",
+        "meaning": "only in order to",
+        "translation": "sadəcə ... üçün"
+      },
+      {
+        "term": "honest",
+        "lemma": "honest",
+        "partOfSpeech": "adjective",
+        "meaning": "always telling the truth",
+        "translation": "dürüst"
+      },
+      {
+        "term": "believed",
+        "lemma": "believe",
+        "partOfSpeech": "verb",
+        "meaning": "thought that what someone said was true",
+        "translation": "inandım"
+      },
+      {
+        "term": "What was he like",
+        "lemma": "what is someone like",
+        "partOfSpeech": "phrase",
+        "meaning": "a question about someone's character",
+        "translation": "necə adam idi"
+      },
+      {
+        "term": "cheerful",
+        "lemma": "cheerful",
+        "partOfSpeech": "adjective",
+        "meaning": "happy and full of positive energy",
+        "translation": "şən"
+      },
+      {
+        "term": "lazy",
+        "lemma": "lazy",
+        "partOfSpeech": "adjective",
+        "meaning": "not wanting to work or make an effort",
+        "translation": "tənbəl"
+      },
+      {
+        "term": "sensitive",
+        "lemma": "sensitive",
+        "partOfSpeech": "adjective",
+        "meaning": "showing strong feelings and easily moved",
+        "translation": "həssas"
+      },
+      {
+        "term": "mean",
+        "lemma": "mean",
+        "partOfSpeech": "adjective",
+        "meaning": "unkind",
+        "translation": "pis davranan, acıqlı"
+      },
+      {
+        "term": "sensible",
+        "lemma": "sensible",
+        "partOfSpeech": "adjective",
+        "meaning": "able to make good, clear decisions",
+        "translation": "ağıllı, sağlam düşüncəli"
+      },
+      {
+        "term": "added",
+        "lemma": "add",
+        "partOfSpeech": "verb",
+        "meaning": "said something more",
+        "translation": "əlavə etdi"
+      },
+      {
+        "term": "make a big decision",
+        "lemma": "make a decision",
+        "partOfSpeech": "phrase",
+        "meaning": "to choose what to do about something important",
+        "translation": "böyük qərar vermək"
+      },
+      {
+        "term": "Just then",
+        "lemma": "just then",
+        "partOfSpeech": "phrase",
+        "meaning": "at that exact moment",
+        "translation": "elə bu vaxt"
+      },
+      {
+        "term": "still",
+        "lemma": "still",
+        "partOfSpeech": "adverb",
+        "meaning": "even now, as before",
+        "translation": "hələ də"
+      },
+      {
+        "term": "modest",
+        "lemma": "modest",
+        "partOfSpeech": "adjective",
+        "meaning": "not talking much about your own good qualities",
+        "translation": "təvazökar"
+      },
+      {
+        "term": "with a wink",
+        "lemma": "with a wink",
+        "partOfSpeech": "phrase",
+        "meaning": "closing one eye quickly to show you are joking",
+        "translation": "göz vuraraq"
+      },
+      {
+        "term": "at all",
+        "lemma": "at all",
+        "partOfSpeech": "phrase",
+        "meaning": "used to make a negative stronger",
+        "translation": "heç də"
+      },
+      {
+        "term": "decided",
+        "lemma": "decide",
+        "partOfSpeech": "verb",
+        "meaning": "came to an opinion after thinking",
+        "translation": "qərara gəldi"
+      },
+      {
+        "term": "ever",
+        "lemma": "ever",
+        "partOfSpeech": "adverb",
+        "meaning": "at any time",
+        "translation": "indiyə qədər"
+      }
+    ]
+  },
+  "grammar": {
+    "topic": "Reported speech: statements",
+    "topicTranslation": "Vasitəli nitq: nəqli cümlələr",
+    "explanation": "We use reported speech to tell someone what another person said. We often use said, or told + a person, and we can add that. When the reporting verb is in the past, the verb in the reported sentence usually moves one step back in time: am becomes was, will becomes would, and can becomes could. Pronouns and time words also change, for example “I” can become “he” or “she”, and “tomorrow” becomes “the next day”.",
+    "explanationTranslation": "Vasitəli nitqdən başqa bir insanın dediklərini çatdırmaq üçün istifadə edirik. Çox vaxt said və ya told + şəxs işlədilir, ardınca that əlavə edə bilərik. Nəql edən feil keçmiş zamanda olduqda, çatdırılan cümlədəki feil adətən bir pillə geri keçir: am was-a, will would-a, can isə could-a çevrilir. Əvəzliklər və zaman sözləri də dəyişir: məsələn, “I” “he” və ya “she”, “tomorrow” isə “the next day” olur.",
+    "rules": [
+      {
+        "text": "say + (that) + clause, but tell + person + (that) + clause: She said (that) she was tired. She told me (that) she was tired.",
+        "translation": "say + (that) + cümlə, amma tell + şəxs + (that) + cümlə: She said (that) she was tired. She told me (that) she was tired."
+      },
+      {
+        "text": "The tense usually moves one step back: present simple → past simple, present continuous → past continuous, past simple and present perfect → past perfect.",
+        "translation": "Zaman adətən bir pillə geri keçir: present simple → past simple, present continuous → past continuous, past simple və present perfect → past perfect."
+      },
+      {
+        "text": "Modal verbs change too: will → would, can → could, must → had to.",
+        "translation": "Modal feillər də dəyişir: will → would, can → could, must → had to."
+      },
+      {
+        "text": "Change pronouns and time words when needed: I → he/she, today → that day, tomorrow → the next day, here → there.",
+        "translation": "Lazım olduqda əvəzliklər və zaman sözləri dəyişir: I → he/she, today → that day, tomorrow → the next day, here → there."
+      }
+    ],
+    "examples": [
+      {
+        "text": "“I'm tired.” → She said that she was tired.",
+        "translation": "«Yorğunam.» → O, yorğun olduğunu dedi."
+      },
+      {
+        "text": "“I'm working today.” → He said he was working that day.",
+        "translation": "«Bu gün işləyirəm.» → O, həmin gün işlədiyini dedi."
+      },
+      {
+        "text": "“You are very generous.” → My aunt told me I was very generous.",
+        "translation": "«Sən çox səxavətlisən.» → Xalam mənə çox səxavətli olduğumu dedi."
+      },
+      {
+        "text": "“I will call you tomorrow.” → Tural said he would call me the next day.",
+        "translation": "«Sabah sənə zəng edəcəyəm.» → Tural mənə ertəsi gün zəng edəcəyini dedi."
+      },
+      {
+        "text": "“I can't swim.” → Lala told us that she couldn't swim.",
+        "translation": "«Üzə bilmirəm.» → Lalə bizə üzə bilmədiyini dedi."
+      }
+    ],
+    "exercise": {
+      "instructions": "Choose or write the correct form in reported speech.",
+      "instructionsTranslation": "Vasitəli nitqdə düzgün formanı seçin və ya yazın.",
+      "questions": [
+        {
+          "type": "choice",
+          "prompt": "“I am hungry,” said Ali. → Ali said that he ___ hungry.",
+          "promptTranslation": "«Acam», – dedi Əli. → Əli ac olduğunu dedi.",
+          "options": [
+            "is",
+            "was",
+            "be"
+          ],
+          "answer": "was",
+          "explanation": "Present simple (am) becomes past simple (was).",
+          "explanationTranslation": "Present simple (am) past simple-a (was) çevrilir."
+        },
+        {
+          "type": "choice",
+          "prompt": "She ___ me that she was busy.",
+          "promptTranslation": "O, mənə məşğul olduğunu dedi.",
+          "options": [
+            "said",
+            "told",
+            "spoke"
+          ],
+          "answer": "told",
+          "explanation": "Use tell + person. We can't say “said me”.",
+          "explanationTranslation": "Tell + şəxs işlədilir. “Said me” demək olmaz."
+        },
+        {
+          "type": "text",
+          "prompt": "“I will help you.” → He said he ___ (will) help me.",
+          "promptTranslation": "«Sənə kömək edəcəyəm.» → O, mənə kömək edəcəyini dedi.",
+          "answer": "would",
+          "explanation": "Will becomes would in reported speech.",
+          "explanationTranslation": "Vasitəli nitqdə will would-a çevrilir."
+        },
+        {
+          "type": "text",
+          "prompt": "“I can't come to the party.” → Nigar said she ___ (can't) come to the party.",
+          "promptTranslation": "«Ziyafətə gələ bilmirəm.» → Nigar ziyafətə gələ bilmədiyini dedi.",
+          "answer": "couldn't",
+          "acceptedAnswers": [
+            "could not"
+          ],
+          "explanation": "Can't becomes couldn't.",
+          "explanationTranslation": "Can't couldn't-a çevrilir."
+        },
+        {
+          "type": "choice",
+          "prompt": "“We are watching a film.” → They said they ___ a film.",
+          "promptTranslation": "«Film izləyirik.» → Onlar film izlədiklərini dedilər.",
+          "options": [
+            "are watching",
+            "were watching",
+            "watch"
+          ],
+          "answer": "were watching",
+          "explanation": "Present continuous becomes past continuous.",
+          "explanationTranslation": "Present continuous past continuous-a çevrilir."
+        }
+      ]
+    }
+  }
+}
