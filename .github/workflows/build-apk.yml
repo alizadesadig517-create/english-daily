@@ -2,7 +2,7 @@ name: Build APK
 
 on:
   push:
-    branches: [main, ccr-0bf78db1-z8mzi4]
+    branches: [main]
     # Daily lessons and learner settings don't need a new app build.
     paths-ignore:
       - 'content/**'
