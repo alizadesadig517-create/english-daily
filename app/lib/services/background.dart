@@ -52,6 +52,7 @@ class Background {
     final settings = await store.load();
     if (!settings.onboardingDone) return true;
     await NotificationService.initTimeZones();
+    await NotificationService.init();
     var ok = true;
     try {
       final repo = LessonRepository(await AppDatabase.open(), store);
