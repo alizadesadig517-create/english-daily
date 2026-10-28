@@ -1,0 +1,1067 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-01",
+  "level": "B1",
+  "translationLanguage": "az",
+  "words": [
+    {
+      "word": "appointment",
+      "ipa": "/əˈpɔɪntmənt/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "görüş, qəbul (vaxtı)",
+          "definition": "an arrangement to meet someone at a particular time, for example a doctor",
+          "synonyms": [
+            "meeting",
+            "booking"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "I have a dentist appointment at ten o'clock.",
+              "translation": "Saat onda diş həkiminin qəbuluna yazılmışam."
+            },
+            {
+              "text": "She made an appointment with her bank manager.",
+              "translation": "O, bank meneceri ilə görüş təyin etdi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "delay",
+      "ipa": "/dɪˈleɪ/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "gecikmə, ləngimə",
+          "definition": "a situation in which something happens later than planned",
+          "synonyms": [
+            "hold-up",
+            "wait"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "There was a two-hour delay at the airport.",
+              "translation": "Hava limanında iki saatlıq gecikmə oldu."
+            },
+            {
+              "text": "We apologize for the delay.",
+              "translation": "Gecikməyə görə üzr istəyirik."
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "verb",
+          "translation": "gecikdirmək, təxirə salmaq",
+          "definition": "to make something happen later than planned",
+          "synonyms": [
+            "postpone",
+            "put off",
+            "hold up"
+          ],
+          "antonyms": [
+            "hurry",
+            "speed up"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Heavy snow delayed our flight.",
+              "translation": "Güclü qar uçuşumuzu gecikdirdi."
+            },
+            {
+              "text": "They delayed the meeting until Friday.",
+              "translation": "Onlar iclası cüməyə qədər təxirə saldılar."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "cancel",
+      "ipa": "/ˈkænsəl/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "ləğv etmək",
+          "definition": "to decide that a planned event will not happen",
+          "synonyms": [
+            "call off"
+          ],
+          "antonyms": [
+            "confirm",
+            "arrange"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The concert was canceled because of the rain.",
+              "translation": "Konsert yağışa görə ləğv edildi."
+            },
+            {
+              "text": "I need to cancel my appointment tomorrow.",
+              "translation": "Sabahkı qəbulumu ləğv etməliyəm."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "available",
+      "ipa": "/əˈveɪləbəl/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "mövcud, əldə edilə bilən; boş, vaxtı olan",
+          "definition": "that you can get, buy or use; also, free to meet or talk",
+          "synonyms": [
+            "free",
+            "accessible"
+          ],
+          "antonyms": [
+            "unavailable",
+            "busy"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Is Dr. Aliyeva available on Monday?",
+              "translation": "Bazar ertəsi doktor Əliyevanın boş vaxtı var?"
+            },
+            {
+              "text": "Free tickets are available at the front desk.",
+              "translation": "Pulsuz biletləri qəbul masasından əldə etmək olar."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "schedule",
+      "ipa": "/ˈskɛdʒuːl/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "cədvəl, qrafik, iş planı",
+          "definition": "a plan that lists the times when things will happen",
+          "synonyms": [
+            "timetable",
+            "plan",
+            "agenda"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "My schedule is very busy this week.",
+              "translation": "Bu həftə qrafikim çox sıxdır."
+            },
+            {
+              "text": "The train is running behind schedule.",
+              "translation": "Qatar cədvəldən geri qalır."
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "verb",
+          "translation": "planlaşdırmaq, vaxt təyin etmək",
+          "definition": "to plan that something will happen at a particular time",
+          "synonyms": [
+            "arrange",
+            "plan",
+            "book"
+          ],
+          "antonyms": [
+            "cancel"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The meeting is scheduled for three o'clock.",
+              "translation": "İclas saat üçə planlaşdırılıb."
+            },
+            {
+              "text": "Let's schedule a call for next week.",
+              "translation": "Gələn həftə üçün zəng planlaşdıraq."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "reception",
+      "ipa": "/rɪˈsɛpʃən/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "qəbul masası, resepşn; ziyafət, məclis",
+          "definition": "the place in a hotel, office or hospital where visitors go first; also, a formal party",
+          "synonyms": [
+            "front desk"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Please leave your key at reception.",
+              "translation": "Zəhmət olmasa, açarınızı qəbul masasına təhvil verin."
+            },
+            {
+              "text": "They had a small wedding reception in the garden.",
+              "translation": "Onlar bağda kiçik bir toy məclisi keçirdilər."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "urgent",
+      "ipa": "/ˈɝːdʒənt/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "təcili",
+          "definition": "very important and needing attention immediately",
+          "synonyms": [
+            "pressing",
+            "critical"
+          ],
+          "antonyms": [
+            "unimportant"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "I have an urgent message for the manager.",
+              "translation": "Menecer üçün təcili bir mesajım var."
+            },
+            {
+              "text": "The patient needs urgent help.",
+              "translation": "Xəstənin təcili yardıma ehtiyacı var."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "confirm",
+      "ipa": "/kənˈfɝːm/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "təsdiq etmək, təsdiqləmək",
+          "definition": "to say or show that something is true or that a plan will really happen",
+          "synonyms": [
+            "verify",
+            "check"
+          ],
+          "antonyms": [
+            "cancel",
+            "deny"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Please call to confirm your booking.",
+              "translation": "Sifarişinizi təsdiqləmək üçün zəhmət olmasa zəng edin."
+            },
+            {
+              "text": "The doctor confirmed that it was only a cold.",
+              "translation": "Həkim bunun sadəcə soyuqdəymə olduğunu təsdiq etdi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "arrange",
+      "ipa": "/əˈreɪndʒ/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "təşkil etmək, razılaşdırmaq; düzmək",
+          "definition": "to plan or organize something; also, to put things in a particular order",
+          "synonyms": [
+            "organize",
+            "plan",
+            "set up"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "We arranged to meet at the cafe at six.",
+              "translation": "Saat altıda kafedə görüşməyi razılaşdırdıq."
+            },
+            {
+              "text": "She arranged the flowers in a tall vase.",
+              "translation": "O, gülləri hündür vazaya düzdü."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "flexible",
+      "ipa": "/ˈflɛksəbəl/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "çevik; elastik",
+          "definition": "able to change easily to fit new situations; also, able to bend without breaking",
+          "synonyms": [
+            "adaptable",
+            "adjustable"
+          ],
+          "antonyms": [
+            "rigid",
+            "inflexible"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "My working hours are flexible, so I can start at ten.",
+              "translation": "İş saatlarım çevikdir, ona görə də saat onda başlaya bilərəm."
+            },
+            {
+              "text": "This plastic is light and flexible.",
+              "translation": "Bu plastik yüngül və elastikdir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "attempt",
+      "ipa": "/əˈtɛmpt/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "cəhd",
+          "definition": "an act of trying to do something, especially something difficult",
+          "synonyms": [
+            "try",
+            "effort"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "She passed her driving test on her first attempt.",
+              "translation": "O, sürücülük imtahanını ilk cəhddən verdi."
+            },
+            {
+              "text": "All our attempts to call him failed.",
+              "translation": "Ona zəng etmək üçün bütün cəhdlərimiz boşa çıxdı."
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "verb",
+          "translation": "cəhd etmək",
+          "definition": "to try to do something difficult",
+          "synonyms": [
+            "try"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "He attempted to fix the printer himself.",
+              "translation": "O, printeri özü təmir etməyə cəhd etdi."
+            },
+            {
+              "text": "Don't attempt to climb the mountain in bad weather.",
+              "translation": "Pis havada dağa qalxmağa cəhd etməyin."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "occupied",
+      "ipa": "/ˈɑːkjəpaɪd/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "tutulmuş, boş olmayan; məşğul",
+          "definition": "being used by someone, so you cannot use it; also, busy doing something",
+          "synonyms": [
+            "taken",
+            "in use",
+            "busy"
+          ],
+          "antonyms": [
+            "free",
+            "vacant",
+            "empty"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Excuse me, is this seat occupied?",
+              "translation": "Bağışlayın, bu yer tutulub?"
+            },
+            {
+              "text": "The children were occupied with their toys all afternoon.",
+              "translation": "Uşaqlar bütün günortadan sonra oyuncaqları ilə məşğul idilər."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "request",
+      "ipa": "/rɪˈkwɛst/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "xahiş, müraciət",
+          "definition": "the act of politely or formally asking for something",
+          "synonyms": [
+            "appeal"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The hotel agreed to our request for a quiet room.",
+              "translation": "Otel sakit otaq xahişimizi qəbul etdi."
+            },
+            {
+              "text": "We received over a hundred requests for help.",
+              "translation": "Yüzdən çox yardım müraciəti aldıq."
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "verb",
+          "translation": "xahiş etmək, rəsmi şəkildə istəmək",
+          "definition": "to ask for something politely or formally",
+          "synonyms": [
+            "ask for"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Guests are requested to leave their rooms by noon.",
+              "translation": "Qonaqlardan xahiş olunur ki, otaqlarını saat on ikiyə qədər boşaltsınlar."
+            },
+            {
+              "text": "She requested a copy of the contract.",
+              "translation": "O, müqavilənin surətini istədi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "inconvenient",
+      "ipa": "/ˌɪnkənˈviːniənt/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "əlverişsiz, münasib olmayan",
+          "definition": "causing problems or difficulties, often because it happens at a bad time",
+          "synonyms": [
+            "awkward",
+            "unsuitable"
+          ],
+          "antonyms": [
+            "convenient"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "I'm sorry if this is an inconvenient time to call.",
+              "translation": "Zəng etmək üçün münasib vaxt deyilsə, üzr istəyirəm."
+            },
+            {
+              "text": "The new bus stop is very inconvenient for older people.",
+              "translation": "Yeni avtobus dayanacağı yaşlı insanlar üçün çox əlverişsizdir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "appropriate",
+      "ipa": "/əˈproʊpriət/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "uyğun, münasib, yerinə düşən",
+          "definition": "suitable or right for a particular situation",
+          "synonyms": [
+            "suitable",
+            "proper",
+            "right"
+          ],
+          "antonyms": [
+            "inappropriate",
+            "unsuitable"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Jeans are not appropriate for a job interview.",
+              "translation": "Cins şalvar iş müsahibəsi üçün uyğun deyil."
+            },
+            {
+              "text": "Please choose the appropriate answer.",
+              "translation": "Zəhmət olmasa, uyğun cavabı seçin."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "story": {
+    "title": "A Busy Day at the Clinic",
+    "titleTranslation": "Klinikada gərgin gün",
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "Nigar works at the reception of a small dental clinic in Baku.",
+            "translation": "Nigar Bakıdakı kiçik bir stomatoloji klinikanın qəbul masasında işləyir."
+          },
+          {
+            "text": "She usually arrives at half past eight, makes a cup of tea and checks the doctor's schedule for the day.",
+            "translation": "O, adətən səkkizin yarısında gəlir, bir fincan çay dəmləyir və həkimin həmin gün üçün iş qrafikini yoxlayır."
+          },
+          {
+            "text": "Every morning she calls the patients to confirm their appointments, and she always speaks in a calm, friendly voice.",
+            "translation": "Hər səhər o, pasiyentlərə zəng edib qəbul vaxtlarını təsdiqləyir və həmişə sakit, mehriban səslə danışır."
+          },
+          {
+            "text": "Patients often say that her smile is the best thing about the clinic.",
+            "translation": "Pasiyentlər tez-tez deyirlər ki, onun təbəssümü klinikanın ən yaxşı cəhətidir."
+          },
+          {
+            "text": "She likes her job because the hours are flexible and the people are kind.",
+            "translation": "O, işini sevir, çünki iş saatları çevikdir, insanlar isə mehribandır."
+          },
+          {
+            "text": "But today is not a normal day.",
+            "translation": "Amma bu gün adi gün deyil."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Right now, Dr. Hasanov is sitting at an airport in another city because of a three-hour delay.",
+            "translation": "Hazırda doktor Həsənov başqa bir şəhərdə, hava limanında oturub, çünki uçuşu üç saat gecikir."
+          },
+          {
+            "text": "His plane is still waiting for better weather, and his phone is almost dead.",
+            "translation": "Təyyarəsi hələ də havanın yaxşılaşmasını gözləyir, telefonunun da enerjisi bitmək üzrədir."
+          },
+          {
+            "text": "He sends Nigar a short message: “I'm not coming before lunch. Please cancel my morning patients.”",
+            "translation": "O, Nigara qısa bir mesaj göndərir: «Nahardan əvvəl gəlmirəm. Zəhmət olmasa, səhər pasiyentlərimin qəbulunu ləğv et.»"
+          },
+          {
+            "text": "So at the moment, Nigar is calling everyone on the list and trying to arrange new times.",
+            "translation": "Ona görə də Nigar hazırda siyahıdakı hər kəsə zəng edir və yeni vaxtlar razılaşdırmağa çalışır."
+          },
+          {
+            "text": "It isn't easy: Monday is already full, and Tuesday is an inconvenient day for most people.",
+            "translation": "Bu asan deyil: bazar ertəsi artıq doludur, çərşənbə axşamı isə çoxları üçün əlverişsiz gündür."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Her first attempt is not successful, because Mrs. Aliyeva doesn't answer the phone.",
+            "translation": "Onun ilk cəhdi uğursuz olur, çünki Əliyeva xanım telefonu açmır."
+          },
+          {
+            "text": "The second patient, a young student, is very angry and asks for the manager.",
+            "translation": "İkinci pasiyent, gənc bir tələbə, çox əsəbidir və müdirlə danışmaq istəyir."
+          },
+          {
+            "text": "Nigar stays polite and finds an appropriate answer: “I understand, and I'm really sorry. I can offer you an appointment on Thursday afternoon.”",
+            "translation": "Nigar nəzakətini qoruyur və uyğun cavab tapır: «Sizi başa düşürəm, çox təəssüf edirəm. Sizə cümə axşamı günortadan sonra qəbul vaxtı təklif edə bilərəm.»"
+          },
+          {
+            "text": "Then a woman calls with an urgent request: her son has a terrible toothache.",
+            "translation": "Sonra bir qadın təcili xahişlə zəng edir: oğlunun dişi bərk ağrıyır."
+          },
+          {
+            "text": "Nigar checks Dr. Karimova's list and sees that her chair is not occupied at two o'clock.",
+            "translation": "Nigar doktor Kərimovanın siyahısını yoxlayır və görür ki, saat ikidə onun kreslosu boşdur."
+          },
+          {
+            "text": "“Is your son available at two?” she asks. “Yes, of course!” the mother answers happily.",
+            "translation": "«Oğlunuz saat ikidə gələ bilər?» – o soruşur. «Bəli, əlbəttə!» – ana sevinclə cavab verir."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Mr. Mammadov, an old man who always comes early, is the last person on the list.",
+            "translation": "Siyahıdakı sonuncu adam həmişə tez gələn yaşlı kişi – cənab Məmmədovdur."
+          },
+          {
+            "text": "“No problem, my dear,” he says. “I'm not doing anything special this week, so any day is fine.”",
+            "translation": "«Problem deyil, qızım», – deyir. «Bu həftə xüsusi bir işim yoxdur, istənilən gün mənə uyğundur.»"
+          },
+          {
+            "text": "By noon, Nigar has a new schedule for the whole week.",
+            "translation": "Günortaya qədər Nigarın bütün həftə üçün yeni qrafiki hazır olur."
+          },
+          {
+            "text": "At one o'clock, Dr. Hasanov finally arrives and thanks Nigar for her hard work.",
+            "translation": "Saat birdə doktor Həsənov nəhayət gəlib çıxır və gördüyü iş üçün Nigara təşəkkür edir."
+          },
+          {
+            "text": "At two, the little boy comes in with his mother, and Dr. Karimova takes care of his tooth.",
+            "translation": "Saat ikidə balaca oğlan anası ilə içəri girir və doktor Kərimova onun dişini müalicə edir."
+          },
+          {
+            "text": "Now, at the end of the day, Nigar is drinking a cup of tea and smiling, because she knows that tomorrow is another day.",
+            "translation": "İndi, günün sonunda, Nigar bir fincan çay içir və gülümsəyir, çünki bilir ki, sabah yeni bir gündür."
+          }
+        ]
+      }
+    ],
+    "glossary": [
+      {
+        "term": "reception",
+        "lemma": "reception",
+        "partOfSpeech": "noun",
+        "meaning": "the desk in a building where visitors go first and get help",
+        "translation": "qəbul masası, resepşn"
+      },
+      {
+        "term": "dental clinic",
+        "lemma": "dental clinic",
+        "partOfSpeech": "noun",
+        "meaning": "a place where dentists look after people's teeth",
+        "translation": "stomatoloji klinika"
+      },
+      {
+        "term": "usually",
+        "lemma": "usually",
+        "partOfSpeech": "adverb",
+        "meaning": "in most cases; normally",
+        "translation": "adətən"
+      },
+      {
+        "term": "arrives",
+        "lemma": "arrive",
+        "partOfSpeech": "verb",
+        "meaning": "comes to a place",
+        "translation": "gəlir, gəlib çatır"
+      },
+      {
+        "term": "half past eight",
+        "lemma": "half past eight",
+        "partOfSpeech": "phrase",
+        "meaning": "8:30 - thirty minutes after eight o'clock",
+        "translation": "saat səkkizin yarısı (8:30)"
+      },
+      {
+        "term": "checks",
+        "lemma": "check",
+        "partOfSpeech": "verb",
+        "meaning": "looks at something to make sure it is correct",
+        "translation": "yoxlayır"
+      },
+      {
+        "term": "schedule",
+        "lemma": "schedule",
+        "partOfSpeech": "noun",
+        "meaning": "a plan that shows when things will happen",
+        "translation": "iş qrafiki, cədvəl"
+      },
+      {
+        "term": "patients",
+        "lemma": "patient",
+        "partOfSpeech": "noun",
+        "meaning": "people who get treatment from a doctor or dentist",
+        "translation": "pasiyentlər, xəstələr"
+      },
+      {
+        "term": "confirm",
+        "lemma": "confirm",
+        "partOfSpeech": "verb",
+        "meaning": "to say that a plan is definite and will happen",
+        "translation": "təsdiqləmək"
+      },
+      {
+        "term": "appointments",
+        "lemma": "appointment",
+        "partOfSpeech": "noun",
+        "meaning": "arranged times to see a doctor or another person",
+        "translation": "qəbul vaxtları"
+      },
+      {
+        "term": "calm",
+        "lemma": "calm",
+        "partOfSpeech": "adjective",
+        "meaning": "quiet and relaxed, not worried or angry",
+        "translation": "sakit"
+      },
+      {
+        "term": "smile",
+        "lemma": "smile",
+        "partOfSpeech": "noun",
+        "meaning": "the happy expression on your face when your mouth turns up",
+        "translation": "təbəssüm"
+      },
+      {
+        "term": "flexible",
+        "lemma": "flexible",
+        "partOfSpeech": "adjective",
+        "meaning": "able to change easily, for example working hours",
+        "translation": "çevik"
+      },
+      {
+        "term": "right now",
+        "lemma": "right now",
+        "partOfSpeech": "phrase",
+        "meaning": "at this exact moment",
+        "translation": "hazırda, elə indi"
+      },
+      {
+        "term": "because of",
+        "lemma": "because of",
+        "partOfSpeech": "phrase",
+        "meaning": "as a result of",
+        "translation": "...görə, ...üzündən"
+      },
+      {
+        "term": "delay",
+        "lemma": "delay",
+        "partOfSpeech": "noun",
+        "meaning": "a time when something happens later than planned",
+        "translation": "gecikmə"
+      },
+      {
+        "term": "almost dead",
+        "lemma": "dead",
+        "partOfSpeech": "phrase",
+        "meaning": "(about a phone) with almost no battery left",
+        "translation": "enerjisi bitmək üzrə"
+      },
+      {
+        "term": "cancel",
+        "lemma": "cancel",
+        "partOfSpeech": "verb",
+        "meaning": "to say that something planned will not happen",
+        "translation": "ləğv etmək"
+      },
+      {
+        "term": "at the moment",
+        "lemma": "at the moment",
+        "partOfSpeech": "phrase",
+        "meaning": "now",
+        "translation": "hazırda, bu an"
+      },
+      {
+        "term": "trying to",
+        "lemma": "try",
+        "partOfSpeech": "verb",
+        "meaning": "making an effort to do something",
+        "translation": "çalışır"
+      },
+      {
+        "term": "arrange",
+        "lemma": "arrange",
+        "partOfSpeech": "verb",
+        "meaning": "to plan or agree on something, such as a time",
+        "translation": "razılaşdırmaq, təşkil etmək"
+      },
+      {
+        "term": "already",
+        "lemma": "already",
+        "partOfSpeech": "adverb",
+        "meaning": "before now or before this time",
+        "translation": "artıq"
+      },
+      {
+        "term": "inconvenient",
+        "lemma": "inconvenient",
+        "partOfSpeech": "adjective",
+        "meaning": "not good for you because it causes problems",
+        "translation": "əlverişsiz"
+      },
+      {
+        "term": "attempt",
+        "lemma": "attempt",
+        "partOfSpeech": "noun",
+        "meaning": "a try",
+        "translation": "cəhd"
+      },
+      {
+        "term": "successful",
+        "lemma": "successful",
+        "partOfSpeech": "adjective",
+        "meaning": "getting the result you wanted",
+        "translation": "uğurlu"
+      },
+      {
+        "term": "answer the phone",
+        "lemma": "answer the phone",
+        "partOfSpeech": "phrase",
+        "meaning": "to pick up the phone when it rings and talk",
+        "translation": "telefonu açmaq, zəngə cavab vermək"
+      },
+      {
+        "term": "asks for",
+        "lemma": "ask for",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "to say that you want to see or talk to someone",
+        "translation": "(kimisə) istəmək, soruşmaq"
+      },
+      {
+        "term": "stays polite",
+        "lemma": "stay polite",
+        "partOfSpeech": "phrase",
+        "meaning": "to continue to be kind and show good manners",
+        "translation": "nəzakətini qorumaq"
+      },
+      {
+        "term": "appropriate",
+        "lemma": "appropriate",
+        "partOfSpeech": "adjective",
+        "meaning": "right for the situation",
+        "translation": "uyğun, münasib"
+      },
+      {
+        "term": "offer",
+        "lemma": "offer",
+        "partOfSpeech": "verb",
+        "meaning": "to say that you can give something to someone",
+        "translation": "təklif etmək"
+      },
+      {
+        "term": "appointment",
+        "lemma": "appointment",
+        "partOfSpeech": "noun",
+        "meaning": "an arranged time to see a doctor",
+        "translation": "qəbul vaxtı"
+      },
+      {
+        "term": "urgent",
+        "lemma": "urgent",
+        "partOfSpeech": "adjective",
+        "meaning": "very important and needing action immediately",
+        "translation": "təcili"
+      },
+      {
+        "term": "request",
+        "lemma": "request",
+        "partOfSpeech": "noun",
+        "meaning": "the act of asking for something",
+        "translation": "xahiş"
+      },
+      {
+        "term": "toothache",
+        "lemma": "toothache",
+        "partOfSpeech": "noun",
+        "meaning": "a pain in a tooth",
+        "translation": "diş ağrısı"
+      },
+      {
+        "term": "occupied",
+        "lemma": "occupied",
+        "partOfSpeech": "adjective",
+        "meaning": "being used by someone, not free",
+        "translation": "tutulmuş, boş olmayan"
+      },
+      {
+        "term": "available",
+        "lemma": "available",
+        "partOfSpeech": "adjective",
+        "meaning": "free and able to come or do something",
+        "translation": "boş, gələ bilən"
+      },
+      {
+        "term": "of course",
+        "lemma": "of course",
+        "partOfSpeech": "phrase",
+        "meaning": "certainly; yes",
+        "translation": "əlbəttə"
+      },
+      {
+        "term": "special",
+        "lemma": "special",
+        "partOfSpeech": "adjective",
+        "meaning": "different from usual; important",
+        "translation": "xüsusi"
+      },
+      {
+        "term": "By noon",
+        "lemma": "by noon",
+        "partOfSpeech": "phrase",
+        "meaning": "not later than twelve o'clock in the day",
+        "translation": "günortaya qədər"
+      },
+      {
+        "term": "whole",
+        "lemma": "whole",
+        "partOfSpeech": "adjective",
+        "meaning": "all of something",
+        "translation": "bütün"
+      },
+      {
+        "term": "finally",
+        "lemma": "finally",
+        "partOfSpeech": "adverb",
+        "meaning": "after a long time",
+        "translation": "nəhayət"
+      },
+      {
+        "term": "hard work",
+        "lemma": "hard work",
+        "partOfSpeech": "phrase",
+        "meaning": "a lot of effort",
+        "translation": "zəhmət, gərgin iş"
+      },
+      {
+        "term": "takes care of",
+        "lemma": "take care of",
+        "partOfSpeech": "phrase",
+        "meaning": "to look after someone or deal with something",
+        "translation": "qayğısına qalmaq; (burada) müalicə etmək"
+      },
+      {
+        "term": "at the end of the day",
+        "lemma": "at the end of the day",
+        "partOfSpeech": "phrase",
+        "meaning": "in the evening, when the day's work is finished",
+        "translation": "günün sonunda"
+      },
+      {
+        "term": "tomorrow is another day",
+        "lemma": "tomorrow is another day",
+        "partOfSpeech": "idiom",
+        "meaning": "things can be better tomorrow, so don't worry about today",
+        "translation": "sabah yeni bir gündür"
+      }
+    ]
+  },
+  "grammar": {
+    "topic": "Present simple vs present continuous",
+    "topicTranslation": "Present simple və present continuous: fərqi",
+    "explanation": "We use the present simple for habits, routines and facts: things that happen regularly or are always true. We use the present continuous (am/is/are + verb-ing) for actions that are happening now or around now. Words like usually, always, often and every day often go with the present simple. Words like now, right now, at the moment and today often go with the present continuous. Some verbs, like know, like, want and understand, are not usually used in the continuous form.",
+    "explanationTranslation": "Present simple zamanını vərdişlər, gündəlik işlər və faktlar üçün, yəni müntəzəm baş verən və ya həmişə doğru olan şeylər üçün işlədirik. Present continuous zamanını (am/is/are + feil-ing) indi və ya bu günlərdə davam edən hərəkətlər üçün işlədirik. Usually, always, often, every day kimi sözlər adətən present simple ilə işlənir. Now, right now, at the moment, today kimi sözlər isə çox vaxt present continuous ilə işlənir. Know, like, want, understand kimi bəzi feillər adətən davamedici formada işlədilmir.",
+    "rules": [
+      {
+        "text": "Present simple: I/you/we/they work; he/she/it works. Negatives and questions use do/does: She doesn't work. Does she work?",
+        "translation": "Present simple: I/you/we/they work; he/she/it works. İnkar və sual cümlələrində do/does işlədilir: She doesn't work. Does she work?"
+      },
+      {
+        "text": "Present continuous: am/is/are + verb-ing (I am working, she is calling, they are waiting).",
+        "translation": "Present continuous: am/is/are + feil-ing (I am working, she is calling, they are waiting)."
+      },
+      {
+        "text": "Use the present simple for habits and facts (usually, always, every day) and the present continuous for actions happening now (now, right now, at the moment).",
+        "translation": "Vərdişlər və faktlar üçün present simple (usually, always, every day), indi baş verən hərəkətlər üçün isə present continuous (now, right now, at the moment) işlədin."
+      },
+      {
+        "text": "State verbs such as know, like, want and understand are not normally used in the continuous: say “I know”, not “I am knowing”.",
+        "translation": "Know, like, want, understand kimi vəziyyət bildirən feillər adətən davamedici formada işlənmir: “I am knowing” yox, “I know” deyilir."
+      }
+    ],
+    "examples": [
+      {
+        "text": "Nigar usually answers the phone in the morning.",
+        "translation": "Nigar adətən səhərlər telefona cavab verir."
+      },
+      {
+        "text": "Right now she is canceling an appointment.",
+        "translation": "Hazırda o, bir qəbulu ləğv edir."
+      },
+      {
+        "text": "The bus usually leaves at eight, but today it is running late.",
+        "translation": "Avtobus adətən saat səkkizdə yola düşür, amma bu gün gecikir."
+      },
+      {
+        "text": "I'm not available at the moment because I'm driving.",
+        "translation": "Hazırda məşğulam, çünki maşın sürürəm."
+      },
+      {
+        "text": "Water boils at 100 degrees Celsius.",
+        "translation": "Su 100 dərəcə Selsidə qaynayır."
+      }
+    ],
+    "exercise": {
+      "instructions": "Choose or write the correct form of the verb.",
+      "instructionsTranslation": "Feilin düzgün formasını seçin və ya yazın.",
+      "questions": [
+        {
+          "type": "choice",
+          "prompt": "Look! It ___ outside.",
+          "promptTranslation": "Bax! Çöldə qar yağır.",
+          "options": [
+            "snows",
+            "is snowing"
+          ],
+          "answer": "is snowing",
+          "explanation": "“Look!” shows that the action is happening now.",
+          "explanationTranslation": "“Look!” hərəkətin indi baş verdiyini göstərir."
+        },
+        {
+          "type": "choice",
+          "prompt": "My father ___ coffee every morning.",
+          "promptTranslation": "Atam hər səhər qəhvə içir.",
+          "options": [
+            "drinks",
+            "is drinking"
+          ],
+          "answer": "drinks",
+          "explanation": "“Every morning” shows a habit, so we use the present simple.",
+          "explanationTranslation": "“Every morning” vərdişi bildirir, ona görə present simple işlədilir."
+        },
+        {
+          "type": "choice",
+          "prompt": "I ___ the answer to this question.",
+          "promptTranslation": "Bu sualın cavabını bilirəm.",
+          "options": [
+            "know",
+            "am knowing"
+          ],
+          "answer": "know",
+          "explanation": "“Know” is a state verb and is not usually used in the continuous.",
+          "explanationTranslation": "“Know” vəziyyət bildirən feildir və adətən davamedici formada işlənmir."
+        },
+        {
+          "type": "text",
+          "prompt": "Please be quiet. The baby ___ (sleep).",
+          "promptTranslation": "Zəhmət olmasa, səs salmayın. Körpə yatır.",
+          "answer": "is sleeping",
+          "acceptedAnswers": [
+            "'s sleeping"
+          ],
+          "explanation": "The action is happening now, so we use am/is/are + verb-ing.",
+          "explanationTranslation": "Hərəkət indi baş verir, ona görə am/is/are + feil-ing işlədilir."
+        },
+        {
+          "type": "text",
+          "prompt": "She ___ (not / work) on Sundays.",
+          "promptTranslation": "O, bazar günləri işləmir.",
+          "answer": "does not work",
+          "acceptedAnswers": [
+            "doesn't work"
+          ],
+          "explanation": "This is a regular habit, so we use the present simple; with he/she/it the negative is doesn't + base form.",
+          "explanationTranslation": "Bu, müntəzəm vərdişdir, ona görə present simple işlədilir; he/she/it ilə inkar forması doesn't + feilin əsas formasıdır."
+        }
+      ]
+    }
+  }
+}
