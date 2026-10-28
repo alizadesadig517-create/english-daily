@@ -9,13 +9,23 @@ Map<String, dynamic> _load(String date) =>
 
 void main() {
   group('sample lessons in content/', () {
-    for (final date in ['2026-10-27', '2026-10-28']) {
+    final dates = Directory('../content')
+        .listSync()
+        .map((f) => f.uri.pathSegments.last)
+        .where((n) => RegExp(r'^\d{4}-\d{2}-\d{2}\.json$').hasMatch(n))
+        .map((n) => n.substring(0, 10))
+        .toList()
+      ..sort();
+
+    test('all published lessons are present', () => expect(dates.length, greaterThanOrEqualTo(28)));
+
+    for (final date in dates) {
       test('$date parses completely', () {
         final lesson = Lesson.fromJson(_load(date));
         expect(lesson.date, date);
         expect(lesson.level, 'B1');
         expect(lesson.translationLanguage, 'az');
-        expect(lesson.words, hasLength(5));
+        expect(lesson.words.length, inInclusiveRange(1, 20));
         for (final w in lesson.words) {
           expect(w.ipa, startsWith('/'));
           expect(w.senses, isNotEmpty);

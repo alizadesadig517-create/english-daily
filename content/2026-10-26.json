@@ -1,0 +1,1070 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-26",
+  "level": "B1",
+  "translationLanguage": "az",
+  "words": [
+    {
+      "word": "memory",
+      "ipa": "/ˈmɛməri/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "yaddaş; xatirə",
+          "definition": "the ability to remember things; also something that you remember from the past",
+          "synonyms": [
+            "recollection"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "My grandfather has a very good memory.",
+              "translation": "Babamın yaddaşı çox güclüdür."
+            },
+            {
+              "text": "I have happy memories of my childhood.",
+              "translation": "Uşaqlığımdan xoş xatirələrim var."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "recognize",
+      "ipa": "/ˈrɛkəɡˌnaɪz/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "tanımaq",
+          "definition": "to know who someone is or what something is because you have seen or heard them before",
+          "synonyms": [
+            "identify",
+            "know"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "I didn't recognize you with short hair!",
+              "translation": "Qısa saçla səni tanımadım!"
+            },
+            {
+              "text": "She recognized his voice on the phone immediately.",
+              "translation": "O, telefonda onun səsini dərhal tanıdı."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "familiar",
+      "ipa": "/fəˈmɪljɚ/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "tanış",
+          "definition": "easy to know because you have seen, heard or done it before",
+          "synonyms": [
+            "well-known",
+            "known",
+            "recognizable"
+          ],
+          "antonyms": [
+            "unfamiliar",
+            "strange",
+            "unknown"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Her face looks familiar – have we met before?",
+              "translation": "Onun sifəti tanış gəlir – əvvəllər görüşmüşük?"
+            },
+            {
+              "text": "Are you familiar with this part of the city?",
+              "translation": "Şəhərin bu hissəsi sizə tanışdır?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "look after",
+      "ipa": "/ˌlʊk ˈæftɚ/",
+      "senses": [
+        {
+          "partOfSpeech": "phrasal verb",
+          "translation": "qayğısına qalmaq, baxmaq",
+          "definition": "to take care of someone or something",
+          "synonyms": [
+            "take care of",
+            "care for"
+          ],
+          "antonyms": [
+            "neglect"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Can you look after my cat while I'm away?",
+              "translation": "Mən yoxkən pişiyimə baxa bilərsən?"
+            },
+            {
+              "text": "She looked after her younger brothers when their mother was at work.",
+              "translation": "Anaları işdə olanda o, kiçik qardaşlarının qayğısına qalırdı."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "grow up",
+      "ipa": "/ˌɡroʊ ˈʌp/",
+      "senses": [
+        {
+          "partOfSpeech": "phrasal verb",
+          "translation": "böyümək, boya-başa çatmaq",
+          "definition": "to change from a child into an adult; to spend your childhood somewhere",
+          "synonyms": [
+            "mature",
+            "get older"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "What do you want to be when you grow up?",
+              "translation": "Böyüyəndə kim olmaq istəyirsən?"
+            },
+            {
+              "text": "Growing up in a big family taught me to share.",
+              "translation": "Böyük ailədə böyümək mənə bölüşməyi öyrətdi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "recall",
+      "ipa": "/rɪˈkɔl/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "xatırlamaq, yada salmaq",
+          "definition": "to remember something from the past",
+          "synonyms": [
+            "remember",
+            "recollect"
+          ],
+          "antonyms": [
+            "forget"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "I can't recall his name.",
+              "translation": "Onun adını xatırlaya bilmirəm."
+            },
+            {
+              "text": "She recalled the day she first went to school.",
+              "translation": "O, məktəbə ilk dəfə getdiyi günü xatırladı."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "childhood",
+      "ipa": "/ˈtʃaɪldhʊd/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "uşaqlıq",
+          "definition": "the time when you are a child",
+          "synonyms": [
+            "youth",
+            "early years"
+          ],
+          "antonyms": [
+            "adulthood"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "I had a happy childhood.",
+              "translation": "Xoşbəxt bir uşaqlığım olub."
+            },
+            {
+              "text": "We have been friends since childhood.",
+              "translation": "Biz uşaqlıqdan dostuq."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "nostalgic",
+      "ipa": "/nɑˈstældʒɪk/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "keçmişə həsrət çəkən, nostalji hissi keçirən",
+          "definition": "feeling a little sad and happy at the same time when you think about good times in the past",
+          "synonyms": [
+            "sentimental",
+            "wistful"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Old songs always make me feel nostalgic.",
+              "translation": "Köhnə mahnılar məndə həmişə nostalji hissi oyadır."
+            },
+            {
+              "text": "My parents get nostalgic when they talk about their student days.",
+              "translation": "Valideynlərim tələbəlik illərindən danışanda keçmişə həsrətlə baxırlar."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "forgetful",
+      "ipa": "/fɚˈɡɛtfəl/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "unutqan",
+          "definition": "often not remembering things",
+          "synonyms": [
+            "absent-minded"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "My grandfather is getting a little forgetful.",
+              "translation": "Babam get-gedə bir az unutqan olur."
+            },
+            {
+              "text": "I'm so forgetful – I left my keys at home again.",
+              "translation": "Çox unutqanam – açarlarımı yenə evdə qoymuşam."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "album",
+      "ipa": "/ˈælbəm/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "albom",
+          "definition": "a book for keeping photos; also a collection of songs that come out together",
+          "synonyms": [
+            "scrapbook",
+            "record"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Grandma showed us her old photo album.",
+              "translation": "Nənəm bizə köhnə foto albomunu göstərdi."
+            },
+            {
+              "text": "The band's new album comes out next week.",
+              "translation": "Qrupun yeni albomu gələn həftə çıxır."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "vivid",
+      "ipa": "/ˈvɪvɪd/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "canlı, aydın; parlaq",
+          "definition": "very clear and detailed in your mind; also very bright (about colors)",
+          "synonyms": [
+            "clear",
+            "bright",
+            "lively"
+          ],
+          "antonyms": [
+            "dull",
+            "faint",
+            "vague"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "I have a vivid memory of my first day at school.",
+              "translation": "Məktəbdəki ilk günüm yaddaşımda çox canlı qalıb."
+            },
+            {
+              "text": "She always wears vivid colors.",
+              "translation": "O, həmişə parlaq rənglər geyinir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "treasure",
+      "ipa": "/ˈtrɛʒɚ/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "xəzinə; çox dəyərli şey",
+          "definition": "a collection of gold, money or jewels; also something that is very valuable to you",
+          "synonyms": [
+            "riches",
+            "fortune"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The children looked for buried treasure on the beach.",
+              "translation": "Uşaqlar sahildə basdırılmış xəzinə axtarırdılar."
+            },
+            {
+              "text": "This old letter is my greatest treasure.",
+              "translation": "Bu köhnə məktub mənim ən böyük xəzinəmdir."
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "verb",
+          "translation": "əziz tutmaq, çox dəyər vermək",
+          "definition": "to think that something is very important and to keep it carefully",
+          "synonyms": [
+            "value",
+            "cherish",
+            "prize"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "I treasure the time I spend with my family.",
+              "translation": "Ailəmlə keçirdiyim vaxtı çox dəyərli sayıram."
+            },
+            {
+              "text": "She still treasures the letters her father wrote to her.",
+              "translation": "O, atasının ona yazdığı məktubları hələ də əziz tutur."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "look back",
+      "ipa": "/ˌlʊk ˈbæk/",
+      "senses": [
+        {
+          "partOfSpeech": "phrasal verb",
+          "translation": "geriyə baxmaq, keçmişi xatırlamaq",
+          "definition": "to think about something that happened in the past",
+          "synonyms": [
+            "remember",
+            "reflect"
+          ],
+          "antonyms": [
+            "look ahead",
+            "look forward"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "When I look back on my school years, I smile.",
+              "translation": "Məktəb illərimə geriyə baxanda gülümsəyirəm."
+            },
+            {
+              "text": "Looking back, I think we made the right choice.",
+              "translation": "İndi geriyə baxanda düşünürəm ki, düzgün seçim etmişik."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "keep in touch",
+      "ipa": "/ˌkip ɪn ˈtʌtʃ/",
+      "senses": [
+        {
+          "partOfSpeech": "idiom",
+          "translation": "əlaqə saxlamaq",
+          "definition": "to continue to talk or write to someone who does not live near you",
+          "synonyms": [
+            "stay in touch",
+            "stay in contact"
+          ],
+          "antonyms": [
+            "lose touch"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Let's keep in touch after you move.",
+              "translation": "Sən köçəndən sonra əlaqə saxlayaq."
+            },
+            {
+              "text": "My mother still keeps in touch with her school friends.",
+              "translation": "Anam hələ də məktəb dostları ilə əlaqə saxlayır."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "era",
+      "ipa": "/ˈɪrə/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "dövr, era",
+          "definition": "a period of time in history that has particular qualities",
+          "synonyms": [
+            "period",
+            "age",
+            "time"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The 1990s were the era of video cassettes.",
+              "translation": "1990-cı illər videokassetlər dövrü idi."
+            },
+            {
+              "text": "Smartphones started a new era in communication.",
+              "translation": "Smartfonlar ünsiyyətdə yeni bir dövr başlatdı."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "story": {
+    "title": "Back to Quba",
+    "titleTranslation": "Qubaya qayıdış",
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "Farid grew up in a small village near Quba, but he moved to Baku when he was eighteen.",
+            "translation": "Fərid Quba yaxınlığındakı kiçik bir kənddə böyümüşdü, amma on səkkiz yaşında Bakıya köçmüşdü."
+          },
+          {
+            "text": "For years, he was too busy to visit, and he didn't keep in touch with his old neighbors.",
+            "translation": "İllər boyu o, kəndə baş çəkə bilməyəcək qədər məşğul idi və köhnə qonşuları ilə əlaqə saxlamırdı."
+          },
+          {
+            "text": "Then one evening, his daughter Aylin found an old photo album in a box.",
+            "translation": "Sonra bir axşam qızı Aylin qutuda köhnə bir foto albomu tapdı."
+          },
+          {
+            "text": "“Dad, is this you?” she asked, pointing at a thin boy on a horse.",
+            "translation": "«Ata, bu sənsən?» – deyə o, atın üstündəki arıq bir oğlanı göstərərək soruşdu."
+          },
+          {
+            "text": "Farid looked at the picture for a long time and suddenly felt nostalgic.",
+            "translation": "Fərid uzun müddət şəklə baxdı və birdən keçmişə həsrət hiss etdi."
+          },
+          {
+            "text": "“It was a different era,” he said. “No phones, no internet – just fields, horses and friends.”",
+            "translation": "«O, tamam başqa bir dövr idi», – dedi. «Nə telefon var idi, nə internet – yalnız tarlalar, atlar və dostlar.»"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Last autumn, he finally had enough free time, so he took Aylin to see the place where he had spent his childhood.",
+            "translation": "Keçən payız nəhayət onun kifayət qədər boş vaxtı oldu və o, Aylini uşaqlığını keçirdiyi yeri görməyə apardı."
+          },
+          {
+            "text": "The village looked different.",
+            "translation": "Kənd fərqli görünürdü."
+          },
+          {
+            "text": "The old school was gone, and the road was wide enough for two cars now.",
+            "translation": "Köhnə məktəb artıq yox idi, yol isə indi iki maşının yan-yana keçə biləcəyi qədər geniş idi."
+          },
+          {
+            "text": "But some things were still familiar: the smell of apples, the cold river and the big walnut tree in the middle of the village.",
+            "translation": "Amma bəzi şeylər hələ də tanış idi: alma ətri, soyuq çay və kəndin ortasındakı böyük qoz ağacı."
+          },
+          {
+            "text": "“I used to climb this tree,” Farid told Aylin, “but I was too small to reach the top.”",
+            "translation": "«Mən bu ağaca dırmaşardım», – Fərid Aylinə dedi, – «amma təpəsinə çatmaq üçün hələ çox balaca idim.»"
+          },
+          {
+            "text": "He could recall every branch, and the memory was still vivid.",
+            "translation": "O, hər budağı xatırlaya bilirdi və bu xatirə hələ də çox canlı idi."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Suddenly, an old woman came out of a house and looked at him carefully.",
+            "translation": "Birdən yaşlı bir qadın evdən çıxdı və ona diqqətlə baxdı."
+          },
+          {
+            "text": "“Farid? Is that you?” she asked.",
+            "translation": "«Fərid? Bu sənsən?» – deyə soruşdu."
+          },
+          {
+            "text": "It was Aunt Gulnar, the neighbor who used to look after him when his parents worked in the fields.",
+            "translation": "Bu, valideynləri tarlada işləyəndə ona baxan qonşuları Gülnar xala idi."
+          },
+          {
+            "text": "“I can't believe you recognized me!” Farid laughed. “I was only a boy when I left.”",
+            "translation": "«İnana bilmirəm ki, məni tanıdınız!» – Fərid güldü. «Mən gedəndə hələ uşaq idim.»"
+          },
+          {
+            "text": "“I'm old and a little forgetful,” she said, “but my memory is good enough for the faces I love.”",
+            "translation": "«Qocalmışam, bir az da unutqanam», – dedi, – «amma sevdiyim simaları xatırlamağa yaddaşım hələ ki yetər.»"
+          },
+          {
+            "text": "Then she hugged him tightly.",
+            "translation": "Sonra onu bərk-bərk qucaqladı."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "That evening, they drank tea in her garden, and Aylin listened to stories about her father as a little boy.",
+            "translation": "Həmin axşam onlar onun bağında çay içdilər, Aylin isə atasının uşaqlığı haqqında əhvalatlara qulaq asdı."
+          },
+          {
+            "text": "Aunt Gulnar told her how Farid had once tried to wash a sheep in the river.",
+            "translation": "Gülnar xala ona Fəridin bir dəfə çayda qoyun yumağa çalışdığını danışdı."
+          },
+          {
+            "text": "Before they left, she gave Farid a small photo of his mother that she had kept for thirty years.",
+            "translation": "Onlar gedəndə o, Fəridə otuz il saxladığı anasının kiçik bir şəklini verdi."
+          },
+          {
+            "text": "“I'll treasure it,” he said quietly.",
+            "translation": "«Onu həmişə əziz tutacağam», – o, sakitcə dedi."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "On the way home, Aylin said, “Now I understand what it was like to grow up in a village.”",
+            "translation": "Evə qayıdarkən Aylin dedi: «İndi kənddə böyüməyin necə olduğunu başa düşürəm.»"
+          },
+          {
+            "text": "“When you look back one day, you'll understand even more,” Farid answered.",
+            "translation": "«Bir gün geriyə baxanda bunu daha yaxşı başa düşəcəksən», – deyə Fərid cavab verdi."
+          },
+          {
+            "text": "He promised to keep in touch with Aunt Gulnar and to visit her every summer.",
+            "translation": "O, Gülnar xala ilə əlaqə saxlayacağına və hər yay ona baş çəkəcəyinə söz verdi."
+          },
+          {
+            "text": "A day in Quba wasn't long enough, but it was a beautiful start.",
+            "translation": "Qubada bir gün kifayət etmirdi, amma bu, gözəl bir başlanğıc idi."
+          }
+        ]
+      }
+    ],
+    "glossary": [
+      {
+        "term": "grew up",
+        "lemma": "grow up",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "spent his childhood and became an adult",
+        "translation": "böyümüşdü"
+      },
+      {
+        "term": "village",
+        "lemma": "village",
+        "partOfSpeech": "noun",
+        "meaning": "a very small town in the countryside",
+        "translation": "kənd"
+      },
+      {
+        "term": "moved",
+        "lemma": "move",
+        "partOfSpeech": "verb",
+        "meaning": "went to live in a new place",
+        "translation": "köçmüşdü"
+      },
+      {
+        "term": "too busy",
+        "lemma": "too busy",
+        "partOfSpeech": "phrase",
+        "meaning": "so busy that he could not do something",
+        "translation": "həddən artıq məşğul"
+      },
+      {
+        "term": "keep in touch",
+        "lemma": "keep in touch",
+        "partOfSpeech": "idiom",
+        "meaning": "to continue to talk or write to someone",
+        "translation": "əlaqə saxlamaq"
+      },
+      {
+        "term": "neighbors",
+        "lemma": "neighbor",
+        "partOfSpeech": "noun",
+        "meaning": "people who live near you",
+        "translation": "qonşular"
+      },
+      {
+        "term": "album",
+        "lemma": "album",
+        "partOfSpeech": "noun",
+        "meaning": "a book for keeping photos",
+        "translation": "albom"
+      },
+      {
+        "term": "pointing at",
+        "lemma": "point at",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "showing something with your finger",
+        "translation": "göstərərək"
+      },
+      {
+        "term": "thin",
+        "lemma": "thin",
+        "partOfSpeech": "adjective",
+        "meaning": "not fat",
+        "translation": "arıq"
+      },
+      {
+        "term": "suddenly",
+        "lemma": "suddenly",
+        "partOfSpeech": "adverb",
+        "meaning": "quickly and when you don't expect it",
+        "translation": "birdən"
+      },
+      {
+        "term": "nostalgic",
+        "lemma": "nostalgic",
+        "partOfSpeech": "adjective",
+        "meaning": "a little sad and happy when you think about the past",
+        "translation": "keçmişə həsrət hiss edən"
+      },
+      {
+        "term": "era",
+        "lemma": "era",
+        "partOfSpeech": "noun",
+        "meaning": "a period of time with its own special qualities",
+        "translation": "dövr"
+      },
+      {
+        "term": "fields",
+        "lemma": "field",
+        "partOfSpeech": "noun",
+        "meaning": "areas of land where farmers grow food",
+        "translation": "tarlalar"
+      },
+      {
+        "term": "finally",
+        "lemma": "finally",
+        "partOfSpeech": "adverb",
+        "meaning": "after a long time",
+        "translation": "nəhayət"
+      },
+      {
+        "term": "enough",
+        "lemma": "enough",
+        "partOfSpeech": "determiner",
+        "meaning": "as much or as many as needed",
+        "translation": "kifayət qədər"
+      },
+      {
+        "term": "free time",
+        "lemma": "free time",
+        "partOfSpeech": "noun",
+        "meaning": "time when you don't have to work",
+        "translation": "boş vaxt"
+      },
+      {
+        "term": "spent",
+        "lemma": "spend",
+        "partOfSpeech": "verb",
+        "meaning": "passed time somewhere",
+        "translation": "keçirmişdi"
+      },
+      {
+        "term": "childhood",
+        "lemma": "childhood",
+        "partOfSpeech": "noun",
+        "meaning": "the time when you are a child",
+        "translation": "uşaqlıq"
+      },
+      {
+        "term": "was gone",
+        "lemma": "be gone",
+        "partOfSpeech": "phrase",
+        "meaning": "was not there any more",
+        "translation": "artıq yox idi"
+      },
+      {
+        "term": "wide",
+        "lemma": "wide",
+        "partOfSpeech": "adjective",
+        "meaning": "large from one side to the other",
+        "translation": "geniş"
+      },
+      {
+        "term": "still",
+        "lemma": "still",
+        "partOfSpeech": "adverb",
+        "meaning": "even now, as before",
+        "translation": "hələ də"
+      },
+      {
+        "term": "familiar",
+        "lemma": "familiar",
+        "partOfSpeech": "adjective",
+        "meaning": "known because you have seen it before",
+        "translation": "tanış"
+      },
+      {
+        "term": "smell",
+        "lemma": "smell",
+        "partOfSpeech": "noun",
+        "meaning": "something you notice with your nose",
+        "translation": "ətir, iy"
+      },
+      {
+        "term": "walnut tree",
+        "lemma": "walnut tree",
+        "partOfSpeech": "noun",
+        "meaning": "a tall tree that gives walnuts",
+        "translation": "qoz ağacı"
+      },
+      {
+        "term": "in the middle of",
+        "lemma": "in the middle of",
+        "partOfSpeech": "phrase",
+        "meaning": "in the center of a place",
+        "translation": "ortasında"
+      },
+      {
+        "term": "used to",
+        "lemma": "used to",
+        "partOfSpeech": "phrase",
+        "meaning": "did something regularly in the past but not now",
+        "translation": "vaxtilə ...ardı/ərdi"
+      },
+      {
+        "term": "climb",
+        "lemma": "climb",
+        "partOfSpeech": "verb",
+        "meaning": "to go up something using your hands and feet",
+        "translation": "dırmaşmaq"
+      },
+      {
+        "term": "too small",
+        "lemma": "too small",
+        "partOfSpeech": "phrase",
+        "meaning": "so small that he could not do something",
+        "translation": "çox balaca"
+      },
+      {
+        "term": "reach",
+        "lemma": "reach",
+        "partOfSpeech": "verb",
+        "meaning": "to get to a place",
+        "translation": "çatmaq"
+      },
+      {
+        "term": "top",
+        "lemma": "top",
+        "partOfSpeech": "noun",
+        "meaning": "the highest part of something",
+        "translation": "təpə, zirvə"
+      },
+      {
+        "term": "recall",
+        "lemma": "recall",
+        "partOfSpeech": "verb",
+        "meaning": "to remember",
+        "translation": "xatırlamaq"
+      },
+      {
+        "term": "branch",
+        "lemma": "branch",
+        "partOfSpeech": "noun",
+        "meaning": "a part of a tree that grows out from the main part",
+        "translation": "budaq"
+      },
+      {
+        "term": "memory",
+        "lemma": "memory",
+        "partOfSpeech": "noun",
+        "meaning": "something you remember; also the ability to remember",
+        "translation": "xatirə; yaddaş"
+      },
+      {
+        "term": "vivid",
+        "lemma": "vivid",
+        "partOfSpeech": "adjective",
+        "meaning": "very clear in your mind",
+        "translation": "canlı"
+      },
+      {
+        "term": "carefully",
+        "lemma": "carefully",
+        "partOfSpeech": "adverb",
+        "meaning": "with a lot of attention",
+        "translation": "diqqətlə"
+      },
+      {
+        "term": "Aunt",
+        "lemma": "aunt",
+        "partOfSpeech": "noun",
+        "meaning": "here: a friendly name for an older woman you know well",
+        "translation": "xala"
+      },
+      {
+        "term": "neighbor",
+        "lemma": "neighbor",
+        "partOfSpeech": "noun",
+        "meaning": "a person who lives near you",
+        "translation": "qonşu"
+      },
+      {
+        "term": "look after",
+        "lemma": "look after",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "to take care of someone",
+        "translation": "baxmaq, qayğısına qalmaq"
+      },
+      {
+        "term": "recognized",
+        "lemma": "recognize",
+        "partOfSpeech": "verb",
+        "meaning": "knew who someone was because she had seen him before",
+        "translation": "tanıdınız"
+      },
+      {
+        "term": "forgetful",
+        "lemma": "forgetful",
+        "partOfSpeech": "adjective",
+        "meaning": "often not remembering things",
+        "translation": "unutqan"
+      },
+      {
+        "term": "good enough",
+        "lemma": "good enough",
+        "partOfSpeech": "phrase",
+        "meaning": "as good as needed",
+        "translation": "kifayət qədər yaxşı, yetər"
+      },
+      {
+        "term": "hugged",
+        "lemma": "hug",
+        "partOfSpeech": "verb",
+        "meaning": "put her arms around someone to show love",
+        "translation": "qucaqladı"
+      },
+      {
+        "term": "tightly",
+        "lemma": "tightly",
+        "partOfSpeech": "adverb",
+        "meaning": "strongly and closely",
+        "translation": "bərk-bərk"
+      },
+      {
+        "term": "sheep",
+        "lemma": "sheep",
+        "partOfSpeech": "noun",
+        "meaning": "a farm animal with thick wool",
+        "translation": "qoyun"
+      },
+      {
+        "term": "kept",
+        "lemma": "keep",
+        "partOfSpeech": "verb",
+        "meaning": "had and did not give away or lose",
+        "translation": "saxlamışdı"
+      },
+      {
+        "term": "treasure",
+        "lemma": "treasure",
+        "partOfSpeech": "verb",
+        "meaning": "to keep something carefully because it is very important to you",
+        "translation": "əziz tutmaq"
+      },
+      {
+        "term": "quietly",
+        "lemma": "quietly",
+        "partOfSpeech": "adverb",
+        "meaning": "in a soft, calm voice",
+        "translation": "sakitcə"
+      },
+      {
+        "term": "On the way home",
+        "lemma": "on the way home",
+        "partOfSpeech": "phrase",
+        "meaning": "while going home",
+        "translation": "evə qayıdarkən"
+      },
+      {
+        "term": "what it was like",
+        "lemma": "what something is like",
+        "partOfSpeech": "phrase",
+        "meaning": "how something felt or seemed",
+        "translation": "necə olduğunu"
+      },
+      {
+        "term": "grow up",
+        "lemma": "grow up",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "to spend your childhood somewhere",
+        "translation": "böyümək"
+      },
+      {
+        "term": "look back",
+        "lemma": "look back",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "to think about the past",
+        "translation": "geriyə baxmaq"
+      },
+      {
+        "term": "promised",
+        "lemma": "promise",
+        "partOfSpeech": "verb",
+        "meaning": "said that he would really do something",
+        "translation": "söz verdi"
+      },
+      {
+        "term": "long enough",
+        "lemma": "long enough",
+        "partOfSpeech": "phrase",
+        "meaning": "as long as needed",
+        "translation": "kifayət qədər uzun"
+      },
+      {
+        "term": "start",
+        "lemma": "start",
+        "partOfSpeech": "noun",
+        "meaning": "the beginning of something",
+        "translation": "başlanğıc"
+      }
+    ]
+  },
+  "grammar": {
+    "topic": "Too and enough",
+    "topicTranslation": "Too və enough",
+    "explanation": "We use too before an adjective or adverb to say that something is more than we want or need, and this is a problem. We use enough after an adjective or adverb to say that something is as much as we need. Enough comes before a noun. After both, we often use to + verb: too tired to walk, old enough to drive.",
+    "explanationTranslation": "Too sözünü sifət və ya zərfdən əvvəl işlədirik ki, bir şeyin istədiyimizdən və ya lazım olandan artıq olduğunu və bunun problem yaratdığını bildirək. Enough sözünü sifət və ya zərfdən sonra işlədirik ki, bir şeyin lazım olan qədər olduğunu bildirək. İsimlə işlənəndə enough isimdən əvvəl gəlir. Hər ikisindən sonra çox vaxt to + feil gəlir: too tired to walk, old enough to drive.",
+    "rules": [
+      {
+        "text": "too + adjective/adverb means “more than we want or need”: This coffee is too hot.",
+        "translation": "too + sifət/zərf “istədiyimizdən və ya lazım olandan artıq” mənasını verir: This coffee is too hot."
+      },
+      {
+        "text": "adjective/adverb + enough means “as much as we need”: She is old enough to drive.",
+        "translation": "sifət/zərf + enough “lazım olan qədər” mənasını verir: She is old enough to drive."
+      },
+      {
+        "text": "enough comes before a noun: We don't have enough chairs.",
+        "translation": "enough isimdən əvvəl gəlir: We don't have enough chairs."
+      },
+      {
+        "text": "Both can be followed by to + verb or for + person: It's too cold to swim. The room is big enough for us.",
+        "translation": "Hər ikisindən sonra to + feil və ya for + şəxs gələ bilər: It's too cold to swim. The room is big enough for us."
+      }
+    ],
+    "examples": [
+      {
+        "text": "I was too tired to watch the film.",
+        "translation": "Filmə baxa bilməyəcək qədər yorğun idim."
+      },
+      {
+        "text": "Is your brother old enough to look after the baby?",
+        "translation": "Qardaşın körpəyə baxa biləcək qədər böyükdür?"
+      },
+      {
+        "text": "We didn't have enough time to visit the museum.",
+        "translation": "Muzeyə baş çəkmək üçün kifayət qədər vaxtımız olmadı."
+      },
+      {
+        "text": "This bag is too heavy for me.",
+        "translation": "Bu çanta mənim üçün çox ağırdır."
+      },
+      {
+        "text": "He speaks too quickly – I can't understand him.",
+        "translation": "O, çox tez danışır – onu başa düşə bilmirəm."
+      }
+    ],
+    "exercise": {
+      "instructions": "Choose or write the correct form with too or enough.",
+      "instructionsTranslation": "Too və ya enough ilə düzgün formanı seçin və ya yazın.",
+      "questions": [
+        {
+          "type": "choice",
+          "prompt": "This tea is ___ hot to drink.",
+          "promptTranslation": "Bu çay içmək üçün çox istidir.",
+          "options": [
+            "too",
+            "enough"
+          ],
+          "answer": "too",
+          "explanation": "Too goes before the adjective and means “more than is good”.",
+          "explanationTranslation": "Too sifətdən əvvəl gəlir və “lazım olandan artıq” mənasını verir."
+        },
+        {
+          "type": "choice",
+          "prompt": "He isn't tall ___ to play basketball.",
+          "promptTranslation": "Onun boyu basketbol oynamaq üçün kifayət qədər uzun deyil.",
+          "options": [
+            "too",
+            "enough"
+          ],
+          "answer": "enough",
+          "explanation": "Enough goes after the adjective (tall enough).",
+          "explanationTranslation": "Enough sifətdən sonra gəlir (tall enough)."
+        },
+        {
+          "type": "choice",
+          "prompt": "We don't have ___ to make a cake.",
+          "promptTranslation": "Tort bişirmək üçün kifayət qədər yumurtamız yoxdur.",
+          "options": [
+            "eggs enough",
+            "enough eggs",
+            "too eggs"
+          ],
+          "answer": "enough eggs",
+          "explanation": "Enough goes before a noun.",
+          "explanationTranslation": "Enough isimdən əvvəl gəlir."
+        },
+        {
+          "type": "text",
+          "prompt": "The box was ___ (heavy / too) for me to carry.",
+          "promptTranslation": "Qutu mənim daşıya bilməyəcəyim qədər ağır idi.",
+          "answer": "too heavy",
+          "explanation": "Too comes before the adjective: too heavy.",
+          "explanationTranslation": "Too sifətdən əvvəl gəlir: too heavy."
+        },
+        {
+          "type": "text",
+          "prompt": "Are you ___ (old / enough) to drive?",
+          "promptTranslation": "Maşın sürmək üçün yaşın çatır?",
+          "answer": "old enough",
+          "explanation": "Enough comes after the adjective: old enough.",
+          "explanationTranslation": "Enough sifətdən sonra gəlir: old enough."
+        }
+      ]
+    }
+  }
+}

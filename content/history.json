@@ -1,6 +1,1566 @@
 {
   "words": [
     {
+      "word": "appointment",
+      "date": "2026-10-01"
+    },
+    {
+      "word": "delay",
+      "date": "2026-10-01"
+    },
+    {
+      "word": "cancel",
+      "date": "2026-10-01"
+    },
+    {
+      "word": "available",
+      "date": "2026-10-01"
+    },
+    {
+      "word": "schedule",
+      "date": "2026-10-01"
+    },
+    {
+      "word": "reception",
+      "date": "2026-10-01"
+    },
+    {
+      "word": "urgent",
+      "date": "2026-10-01"
+    },
+    {
+      "word": "confirm",
+      "date": "2026-10-01"
+    },
+    {
+      "word": "arrange",
+      "date": "2026-10-01"
+    },
+    {
+      "word": "flexible",
+      "date": "2026-10-01"
+    },
+    {
+      "word": "attempt",
+      "date": "2026-10-01"
+    },
+    {
+      "word": "occupied",
+      "date": "2026-10-01"
+    },
+    {
+      "word": "request",
+      "date": "2026-10-01"
+    },
+    {
+      "word": "inconvenient",
+      "date": "2026-10-01"
+    },
+    {
+      "word": "appropriate",
+      "date": "2026-10-01"
+    },
+    {
+      "word": "recipe",
+      "date": "2026-10-02"
+    },
+    {
+      "word": "ingredient",
+      "date": "2026-10-02"
+    },
+    {
+      "word": "boil",
+      "date": "2026-10-02"
+    },
+    {
+      "word": "slice",
+      "date": "2026-10-02"
+    },
+    {
+      "word": "taste",
+      "date": "2026-10-02"
+    },
+    {
+      "word": "fry",
+      "date": "2026-10-02"
+    },
+    {
+      "word": "stir",
+      "date": "2026-10-02"
+    },
+    {
+      "word": "flavor",
+      "date": "2026-10-02"
+    },
+    {
+      "word": "raw",
+      "date": "2026-10-02"
+    },
+    {
+      "word": "bitter",
+      "date": "2026-10-02"
+    },
+    {
+      "word": "bake",
+      "date": "2026-10-02"
+    },
+    {
+      "word": "portion",
+      "date": "2026-10-02"
+    },
+    {
+      "word": "spicy",
+      "date": "2026-10-02"
+    },
+    {
+      "word": "leftover",
+      "date": "2026-10-02"
+    },
+    {
+      "word": "peel",
+      "date": "2026-10-02"
+    },
+    {
+      "word": "journey",
+      "date": "2026-10-03"
+    },
+    {
+      "word": "luggage",
+      "date": "2026-10-03"
+    },
+    {
+      "word": "abroad",
+      "date": "2026-10-03"
+    },
+    {
+      "word": "destination",
+      "date": "2026-10-03"
+    },
+    {
+      "word": "explore",
+      "date": "2026-10-03"
+    },
+    {
+      "word": "passport",
+      "date": "2026-10-03"
+    },
+    {
+      "word": "souvenir",
+      "date": "2026-10-03"
+    },
+    {
+      "word": "sightseeing",
+      "date": "2026-10-03"
+    },
+    {
+      "word": "guide",
+      "date": "2026-10-03"
+    },
+    {
+      "word": "accommodation",
+      "date": "2026-10-03"
+    },
+    {
+      "word": "landscape",
+      "date": "2026-10-03"
+    },
+    {
+      "word": "wander",
+      "date": "2026-10-03"
+    },
+    {
+      "word": "foreign",
+      "date": "2026-10-03"
+    },
+    {
+      "word": "route",
+      "date": "2026-10-03"
+    },
+    {
+      "word": "unforgettable",
+      "date": "2026-10-03"
+    },
+    {
+      "word": "employee",
+      "date": "2026-10-04"
+    },
+    {
+      "word": "salary",
+      "date": "2026-10-04"
+    },
+    {
+      "word": "deadline",
+      "date": "2026-10-04"
+    },
+    {
+      "word": "apply",
+      "date": "2026-10-04"
+    },
+    {
+      "word": "experience",
+      "date": "2026-10-04"
+    },
+    {
+      "word": "colleague",
+      "date": "2026-10-04"
+    },
+    {
+      "word": "promotion",
+      "date": "2026-10-04"
+    },
+    {
+      "word": "interview",
+      "date": "2026-10-04"
+    },
+    {
+      "word": "hire",
+      "date": "2026-10-04"
+    },
+    {
+      "word": "resign",
+      "date": "2026-10-04"
+    },
+    {
+      "word": "qualification",
+      "date": "2026-10-04"
+    },
+    {
+      "word": "skill",
+      "date": "2026-10-04"
+    },
+    {
+      "word": "task",
+      "date": "2026-10-04"
+    },
+    {
+      "word": "career",
+      "date": "2026-10-04"
+    },
+    {
+      "word": "unemployed",
+      "date": "2026-10-04"
+    },
+    {
+      "word": "forecast",
+      "date": "2026-10-05"
+    },
+    {
+      "word": "freeze",
+      "date": "2026-10-05"
+    },
+    {
+      "word": "shelter",
+      "date": "2026-10-05"
+    },
+    {
+      "word": "damp",
+      "date": "2026-10-05"
+    },
+    {
+      "word": "storm",
+      "date": "2026-10-05"
+    },
+    {
+      "word": "thunder",
+      "date": "2026-10-05"
+    },
+    {
+      "word": "humid",
+      "date": "2026-10-05"
+    },
+    {
+      "word": "breeze",
+      "date": "2026-10-05"
+    },
+    {
+      "word": "flood",
+      "date": "2026-10-05"
+    },
+    {
+      "word": "drought",
+      "date": "2026-10-05"
+    },
+    {
+      "word": "temperature",
+      "date": "2026-10-05"
+    },
+    {
+      "word": "chilly",
+      "date": "2026-10-05"
+    },
+    {
+      "word": "pour",
+      "date": "2026-10-05"
+    },
+    {
+      "word": "melt",
+      "date": "2026-10-05"
+    },
+    {
+      "word": "lightning",
+      "date": "2026-10-05"
+    },
+    {
+      "word": "injury",
+      "date": "2026-10-06"
+    },
+    {
+      "word": "recover",
+      "date": "2026-10-06"
+    },
+    {
+      "word": "symptom",
+      "date": "2026-10-06"
+    },
+    {
+      "word": "prescription",
+      "date": "2026-10-06"
+    },
+    {
+      "word": "ache",
+      "date": "2026-10-06"
+    },
+    {
+      "word": "fever",
+      "date": "2026-10-06"
+    },
+    {
+      "word": "cough",
+      "date": "2026-10-06"
+    },
+    {
+      "word": "sneeze",
+      "date": "2026-10-06"
+    },
+    {
+      "word": "bandage",
+      "date": "2026-10-06"
+    },
+    {
+      "word": "heal",
+      "date": "2026-10-06"
+    },
+    {
+      "word": "pharmacy",
+      "date": "2026-10-06"
+    },
+    {
+      "word": "swollen",
+      "date": "2026-10-06"
+    },
+    {
+      "word": "dizzy",
+      "date": "2026-10-06"
+    },
+    {
+      "word": "treatment",
+      "date": "2026-10-06"
+    },
+    {
+      "word": "allergic",
+      "date": "2026-10-06"
+    },
+    {
+      "word": "afford",
+      "date": "2026-10-07"
+    },
+    {
+      "word": "budget",
+      "date": "2026-10-07"
+    },
+    {
+      "word": "discount",
+      "date": "2026-10-07"
+    },
+    {
+      "word": "receipt",
+      "date": "2026-10-07"
+    },
+    {
+      "word": "waste",
+      "date": "2026-10-07"
+    },
+    {
+      "word": "expense",
+      "date": "2026-10-07"
+    },
+    {
+      "word": "loan",
+      "date": "2026-10-07"
+    },
+    {
+      "word": "debt",
+      "date": "2026-10-07"
+    },
+    {
+      "word": "invest",
+      "date": "2026-10-07"
+    },
+    {
+      "word": "earn",
+      "date": "2026-10-07"
+    },
+    {
+      "word": "wealthy",
+      "date": "2026-10-07"
+    },
+    {
+      "word": "cash",
+      "date": "2026-10-07"
+    },
+    {
+      "word": "purchase",
+      "date": "2026-10-07"
+    },
+    {
+      "word": "bill",
+      "date": "2026-10-07"
+    },
+    {
+      "word": "savings",
+      "date": "2026-10-07"
+    },
+    {
+      "word": "anxious",
+      "date": "2026-10-08"
+    },
+    {
+      "word": "relieved",
+      "date": "2026-10-08"
+    },
+    {
+      "word": "grateful",
+      "date": "2026-10-08"
+    },
+    {
+      "word": "embarrassed",
+      "date": "2026-10-08"
+    },
+    {
+      "word": "confident",
+      "date": "2026-10-08"
+    },
+    {
+      "word": "ashamed",
+      "date": "2026-10-08"
+    },
+    {
+      "word": "delighted",
+      "date": "2026-10-08"
+    },
+    {
+      "word": "frustrated",
+      "date": "2026-10-08"
+    },
+    {
+      "word": "jealous",
+      "date": "2026-10-08"
+    },
+    {
+      "word": "upset",
+      "date": "2026-10-08"
+    },
+    {
+      "word": "curious",
+      "date": "2026-10-08"
+    },
+    {
+      "word": "disappointed",
+      "date": "2026-10-08"
+    },
+    {
+      "word": "lonely",
+      "date": "2026-10-08"
+    },
+    {
+      "word": "proud",
+      "date": "2026-10-08"
+    },
+    {
+      "word": "calm",
+      "date": "2026-10-08"
+    },
+    {
+      "word": "support",
+      "date": "2026-10-09"
+    },
+    {
+      "word": "argue",
+      "date": "2026-10-09"
+    },
+    {
+      "word": "apologize",
+      "date": "2026-10-09"
+    },
+    {
+      "word": "forgive",
+      "date": "2026-10-09"
+    },
+    {
+      "word": "loyal",
+      "date": "2026-10-09"
+    },
+    {
+      "word": "quarrel",
+      "date": "2026-10-09"
+    },
+    {
+      "word": "betray",
+      "date": "2026-10-09"
+    },
+    {
+      "word": "mutual",
+      "date": "2026-10-09"
+    },
+    {
+      "word": "sincere",
+      "date": "2026-10-09"
+    },
+    {
+      "word": "gossip",
+      "date": "2026-10-09"
+    },
+    {
+      "word": "appreciate",
+      "date": "2026-10-09"
+    },
+    {
+      "word": "rely",
+      "date": "2026-10-09"
+    },
+    {
+      "word": "share",
+      "date": "2026-10-09"
+    },
+    {
+      "word": "companion",
+      "date": "2026-10-09"
+    },
+    {
+      "word": "misunderstanding",
+      "date": "2026-10-09"
+    },
+    {
+      "word": "repair",
+      "date": "2026-10-10"
+    },
+    {
+      "word": "tidy",
+      "date": "2026-10-10"
+    },
+    {
+      "word": "rent",
+      "date": "2026-10-10"
+    },
+    {
+      "word": "furniture",
+      "date": "2026-10-10"
+    },
+    {
+      "word": "landlord",
+      "date": "2026-10-10"
+    },
+    {
+      "word": "decorate",
+      "date": "2026-10-10"
+    },
+    {
+      "word": "mess",
+      "date": "2026-10-10"
+    },
+    {
+      "word": "leak",
+      "date": "2026-10-10"
+    },
+    {
+      "word": "plumber",
+      "date": "2026-10-10"
+    },
+    {
+      "word": "cozy",
+      "date": "2026-10-10"
+    },
+    {
+      "word": "spacious",
+      "date": "2026-10-10"
+    },
+    {
+      "word": "ceiling",
+      "date": "2026-10-10"
+    },
+    {
+      "word": "carpet",
+      "date": "2026-10-10"
+    },
+    {
+      "word": "lease",
+      "date": "2026-10-10"
+    },
+    {
+      "word": "neighborhood",
+      "date": "2026-10-10"
+    },
+    {
+      "word": "environment",
+      "date": "2026-10-11"
+    },
+    {
+      "word": "pollution",
+      "date": "2026-10-11"
+    },
+    {
+      "word": "protect",
+      "date": "2026-10-11"
+    },
+    {
+      "word": "recycle",
+      "date": "2026-10-11"
+    },
+    {
+      "word": "species",
+      "date": "2026-10-11"
+    },
+    {
+      "word": "wildlife",
+      "date": "2026-10-11"
+    },
+    {
+      "word": "climate",
+      "date": "2026-10-11"
+    },
+    {
+      "word": "harm",
+      "date": "2026-10-11"
+    },
+    {
+      "word": "preserve",
+      "date": "2026-10-11"
+    },
+    {
+      "word": "extinct",
+      "date": "2026-10-11"
+    },
+    {
+      "word": "plastic",
+      "date": "2026-10-11"
+    },
+    {
+      "word": "resource",
+      "date": "2026-10-11"
+    },
+    {
+      "word": "renewable",
+      "date": "2026-10-11"
+    },
+    {
+      "word": "global",
+      "date": "2026-10-11"
+    },
+    {
+      "word": "sustainable",
+      "date": "2026-10-11"
+    },
+    {
+      "word": "device",
+      "date": "2026-10-12"
+    },
+    {
+      "word": "charge",
+      "date": "2026-10-12"
+    },
+    {
+      "word": "install",
+      "date": "2026-10-12"
+    },
+    {
+      "word": "update",
+      "date": "2026-10-12"
+    },
+    {
+      "word": "screen",
+      "date": "2026-10-12"
+    },
+    {
+      "word": "battery",
+      "date": "2026-10-12"
+    },
+    {
+      "word": "download",
+      "date": "2026-10-12"
+    },
+    {
+      "word": "password",
+      "date": "2026-10-12"
+    },
+    {
+      "word": "wireless",
+      "date": "2026-10-12"
+    },
+    {
+      "word": "keyboard",
+      "date": "2026-10-12"
+    },
+    {
+      "word": "connect",
+      "date": "2026-10-12"
+    },
+    {
+      "word": "delete",
+      "date": "2026-10-12"
+    },
+    {
+      "word": "backup",
+      "date": "2026-10-12"
+    },
+    {
+      "word": "storage",
+      "date": "2026-10-12"
+    },
+    {
+      "word": "compatible",
+      "date": "2026-10-12"
+    },
+    {
+      "word": "knowledge",
+      "date": "2026-10-13"
+    },
+    {
+      "word": "improve",
+      "date": "2026-10-13"
+    },
+    {
+      "word": "mistake",
+      "date": "2026-10-13"
+    },
+    {
+      "word": "require",
+      "date": "2026-10-13"
+    },
+    {
+      "word": "attend",
+      "date": "2026-10-13"
+    },
+    {
+      "word": "degree",
+      "date": "2026-10-13"
+    },
+    {
+      "word": "graduate",
+      "date": "2026-10-13"
+    },
+    {
+      "word": "lecture",
+      "date": "2026-10-13"
+    },
+    {
+      "word": "assignment",
+      "date": "2026-10-13"
+    },
+    {
+      "word": "revise",
+      "date": "2026-10-13"
+    },
+    {
+      "word": "scholarship",
+      "date": "2026-10-13"
+    },
+    {
+      "word": "fluent",
+      "date": "2026-10-13"
+    },
+    {
+      "word": "memorize",
+      "date": "2026-10-13"
+    },
+    {
+      "word": "curriculum",
+      "date": "2026-10-13"
+    },
+    {
+      "word": "absent",
+      "date": "2026-10-13"
+    },
+    {
+      "word": "traffic",
+      "date": "2026-10-14"
+    },
+    {
+      "word": "crowded",
+      "date": "2026-10-14"
+    },
+    {
+      "word": "pedestrian",
+      "date": "2026-10-14"
+    },
+    {
+      "word": "avoid",
+      "date": "2026-10-14"
+    },
+    {
+      "word": "convenient",
+      "date": "2026-10-14"
+    },
+    {
+      "word": "commute",
+      "date": "2026-10-14"
+    },
+    {
+      "word": "suburb",
+      "date": "2026-10-14"
+    },
+    {
+      "word": "intersection",
+      "date": "2026-10-14"
+    },
+    {
+      "word": "sidewalk",
+      "date": "2026-10-14"
+    },
+    {
+      "word": "noisy",
+      "date": "2026-10-14"
+    },
+    {
+      "word": "district",
+      "date": "2026-10-14"
+    },
+    {
+      "word": "vehicle",
+      "date": "2026-10-14"
+    },
+    {
+      "word": "construction",
+      "date": "2026-10-14"
+    },
+    {
+      "word": "resident",
+      "date": "2026-10-14"
+    },
+    {
+      "word": "transportation",
+      "date": "2026-10-14"
+    },
+    {
+      "word": "bargain",
+      "date": "2026-10-15"
+    },
+    {
+      "word": "refund",
+      "date": "2026-10-15"
+    },
+    {
+      "word": "queue",
+      "date": "2026-10-15"
+    },
+    {
+      "word": "brand",
+      "date": "2026-10-15"
+    },
+    {
+      "word": "compare",
+      "date": "2026-10-15"
+    },
+    {
+      "word": "customer",
+      "date": "2026-10-15"
+    },
+    {
+      "word": "cashier",
+      "date": "2026-10-15"
+    },
+    {
+      "word": "guarantee",
+      "date": "2026-10-15"
+    },
+    {
+      "word": "worth",
+      "date": "2026-10-15"
+    },
+    {
+      "word": "exchange",
+      "date": "2026-10-15"
+    },
+    {
+      "word": "quality",
+      "date": "2026-10-15"
+    },
+    {
+      "word": "checkout",
+      "date": "2026-10-15"
+    },
+    {
+      "word": "packaging",
+      "date": "2026-10-15"
+    },
+    {
+      "word": "overpriced",
+      "date": "2026-10-15"
+    },
+    {
+      "word": "browse",
+      "date": "2026-10-15"
+    },
+    {
+      "word": "mention",
+      "date": "2026-10-16"
+    },
+    {
+      "word": "persuade",
+      "date": "2026-10-16"
+    },
+    {
+      "word": "rumor",
+      "date": "2026-10-16"
+    },
+    {
+      "word": "announce",
+      "date": "2026-10-16"
+    },
+    {
+      "word": "respond",
+      "date": "2026-10-16"
+    },
+    {
+      "word": "suggest",
+      "date": "2026-10-16"
+    },
+    {
+      "word": "deny",
+      "date": "2026-10-16"
+    },
+    {
+      "word": "admit",
+      "date": "2026-10-16"
+    },
+    {
+      "word": "claim",
+      "date": "2026-10-16"
+    },
+    {
+      "word": "whisper",
+      "date": "2026-10-16"
+    },
+    {
+      "word": "convince",
+      "date": "2026-10-16"
+    },
+    {
+      "word": "interrupt",
+      "date": "2026-10-16"
+    },
+    {
+      "word": "inform",
+      "date": "2026-10-16"
+    },
+    {
+      "word": "discuss",
+      "date": "2026-10-16"
+    },
+    {
+      "word": "gesture",
+      "date": "2026-10-16"
+    },
+    {
+      "word": "compete",
+      "date": "2026-10-17"
+    },
+    {
+      "word": "effort",
+      "date": "2026-10-17"
+    },
+    {
+      "word": "achieve",
+      "date": "2026-10-17"
+    },
+    {
+      "word": "coach",
+      "date": "2026-10-17"
+    },
+    {
+      "word": "score",
+      "date": "2026-10-17"
+    },
+    {
+      "word": "athlete",
+      "date": "2026-10-17"
+    },
+    {
+      "word": "defeat",
+      "date": "2026-10-17"
+    },
+    {
+      "word": "victory",
+      "date": "2026-10-17"
+    },
+    {
+      "word": "tournament",
+      "date": "2026-10-17"
+    },
+    {
+      "word": "opponent",
+      "date": "2026-10-17"
+    },
+    {
+      "word": "stadium",
+      "date": "2026-10-17"
+    },
+    {
+      "word": "referee",
+      "date": "2026-10-17"
+    },
+    {
+      "word": "medal",
+      "date": "2026-10-17"
+    },
+    {
+      "word": "fit",
+      "date": "2026-10-17"
+    },
+    {
+      "word": "determined",
+      "date": "2026-10-17"
+    },
+    {
+      "word": "raise",
+      "date": "2026-10-18"
+    },
+    {
+      "word": "generation",
+      "date": "2026-10-18"
+    },
+    {
+      "word": "resemble",
+      "date": "2026-10-18"
+    },
+    {
+      "word": "relative",
+      "date": "2026-10-18"
+    },
+    {
+      "word": "celebrate",
+      "date": "2026-10-18"
+    },
+    {
+      "word": "ancestor",
+      "date": "2026-10-18"
+    },
+    {
+      "word": "sibling",
+      "date": "2026-10-18"
+    },
+    {
+      "word": "wedding",
+      "date": "2026-10-18"
+    },
+    {
+      "word": "anniversary",
+      "date": "2026-10-18"
+    },
+    {
+      "word": "elderly",
+      "date": "2026-10-18"
+    },
+    {
+      "word": "nephew",
+      "date": "2026-10-18"
+    },
+    {
+      "word": "niece",
+      "date": "2026-10-18"
+    },
+    {
+      "word": "tradition",
+      "date": "2026-10-18"
+    },
+    {
+      "word": "inherit",
+      "date": "2026-10-18"
+    },
+    {
+      "word": "bond",
+      "date": "2026-10-18"
+    },
+    {
+      "word": "choice",
+      "date": "2026-10-19"
+    },
+    {
+      "word": "consider",
+      "date": "2026-10-19"
+    },
+    {
+      "word": "regret",
+      "date": "2026-10-19"
+    },
+    {
+      "word": "risk",
+      "date": "2026-10-19"
+    },
+    {
+      "word": "doubt",
+      "date": "2026-10-19"
+    },
+    {
+      "word": "option",
+      "date": "2026-10-19"
+    },
+    {
+      "word": "hesitate",
+      "date": "2026-10-19"
+    },
+    {
+      "word": "opportunity",
+      "date": "2026-10-19"
+    },
+    {
+      "word": "outcome",
+      "date": "2026-10-19"
+    },
+    {
+      "word": "alternative",
+      "date": "2026-10-19"
+    },
+    {
+      "word": "advantage",
+      "date": "2026-10-19"
+    },
+    {
+      "word": "disadvantage",
+      "date": "2026-10-19"
+    },
+    {
+      "word": "priority",
+      "date": "2026-10-19"
+    },
+    {
+      "word": "weigh",
+      "date": "2026-10-19"
+    },
+    {
+      "word": "gamble",
+      "date": "2026-10-19"
+    },
+    {
+      "word": "punctual",
+      "date": "2026-10-20"
+    },
+    {
+      "word": "postpone",
+      "date": "2026-10-20"
+    },
+    {
+      "word": "spare",
+      "date": "2026-10-20"
+    },
+    {
+      "word": "routine",
+      "date": "2026-10-20"
+    },
+    {
+      "word": "occasionally",
+      "date": "2026-10-20"
+    },
+    {
+      "word": "duration",
+      "date": "2026-10-20"
+    },
+    {
+      "word": "frequently",
+      "date": "2026-10-20"
+    },
+    {
+      "word": "rarely",
+      "date": "2026-10-20"
+    },
+    {
+      "word": "temporary",
+      "date": "2026-10-20"
+    },
+    {
+      "word": "permanent",
+      "date": "2026-10-20"
+    },
+    {
+      "word": "meanwhile",
+      "date": "2026-10-20"
+    },
+    {
+      "word": "eventually",
+      "date": "2026-10-20"
+    },
+    {
+      "word": "immediately",
+      "date": "2026-10-20"
+    },
+    {
+      "word": "recently",
+      "date": "2026-10-20"
+    },
+    {
+      "word": "period",
+      "date": "2026-10-20"
+    },
+    {
+      "word": "complain",
+      "date": "2026-10-21"
+    },
+    {
+      "word": "solve",
+      "date": "2026-10-21"
+    },
+    {
+      "word": "issue",
+      "date": "2026-10-21"
+    },
+    {
+      "word": "manage",
+      "date": "2026-10-21"
+    },
+    {
+      "word": "responsible",
+      "date": "2026-10-21"
+    },
+    {
+      "word": "deal with",
+      "date": "2026-10-21"
+    },
+    {
+      "word": "handle",
+      "date": "2026-10-21"
+    },
+    {
+      "word": "fault",
+      "date": "2026-10-21"
+    },
+    {
+      "word": "blame",
+      "date": "2026-10-21"
+    },
+    {
+      "word": "conflict",
+      "date": "2026-10-21"
+    },
+    {
+      "word": "negotiate",
+      "date": "2026-10-21"
+    },
+    {
+      "word": "supervisor",
+      "date": "2026-10-21"
+    },
+    {
+      "word": "efficient",
+      "date": "2026-10-21"
+    },
+    {
+      "word": "cooperate",
+      "date": "2026-10-21"
+    },
+    {
+      "word": "crisis",
+      "date": "2026-10-21"
+    },
+    {
+      "word": "perform",
+      "date": "2026-10-22"
+    },
+    {
+      "word": "audience",
+      "date": "2026-10-22"
+    },
+    {
+      "word": "admire",
+      "date": "2026-10-22"
+    },
+    {
+      "word": "talent",
+      "date": "2026-10-22"
+    },
+    {
+      "word": "impressive",
+      "date": "2026-10-22"
+    },
+    {
+      "word": "stage",
+      "date": "2026-10-22"
+    },
+    {
+      "word": "rehearsal",
+      "date": "2026-10-22"
+    },
+    {
+      "word": "applause",
+      "date": "2026-10-22"
+    },
+    {
+      "word": "painting",
+      "date": "2026-10-22"
+    },
+    {
+      "word": "sculpture",
+      "date": "2026-10-22"
+    },
+    {
+      "word": "creative",
+      "date": "2026-10-22"
+    },
+    {
+      "word": "entertain",
+      "date": "2026-10-22"
+    },
+    {
+      "word": "concert",
+      "date": "2026-10-22"
+    },
+    {
+      "word": "critic",
+      "date": "2026-10-22"
+    },
+    {
+      "word": "masterpiece",
+      "date": "2026-10-22"
+    },
+    {
+      "word": "board",
+      "date": "2026-10-23"
+    },
+    {
+      "word": "passenger",
+      "date": "2026-10-23"
+    },
+    {
+      "word": "platform",
+      "date": "2026-10-23"
+    },
+    {
+      "word": "warn",
+      "date": "2026-10-23"
+    },
+    {
+      "word": "nervous",
+      "date": "2026-10-23"
+    },
+    {
+      "word": "departure",
+      "date": "2026-10-23"
+    },
+    {
+      "word": "arrival",
+      "date": "2026-10-23"
+    },
+    {
+      "word": "miss",
+      "date": "2026-10-23"
+    },
+    {
+      "word": "conductor",
+      "date": "2026-10-23"
+    },
+    {
+      "word": "carriage",
+      "date": "2026-10-23"
+    },
+    {
+      "word": "fasten",
+      "date": "2026-10-23"
+    },
+    {
+      "word": "turbulence",
+      "date": "2026-10-23"
+    },
+    {
+      "word": "terminal",
+      "date": "2026-10-23"
+    },
+    {
+      "word": "security",
+      "date": "2026-10-23"
+    },
+    {
+      "word": "aisle",
+      "date": "2026-10-23"
+    },
+    {
+      "word": "honest",
+      "date": "2026-10-24"
+    },
+    {
+      "word": "generous",
+      "date": "2026-10-24"
+    },
+    {
+      "word": "selfish",
+      "date": "2026-10-24"
+    },
+    {
+      "word": "polite",
+      "date": "2026-10-24"
+    },
+    {
+      "word": "stubborn",
+      "date": "2026-10-24"
+    },
+    {
+      "word": "modest",
+      "date": "2026-10-24"
+    },
+    {
+      "word": "rude",
+      "date": "2026-10-24"
+    },
+    {
+      "word": "cheerful",
+      "date": "2026-10-24"
+    },
+    {
+      "word": "ambitious",
+      "date": "2026-10-24"
+    },
+    {
+      "word": "lazy",
+      "date": "2026-10-24"
+    },
+    {
+      "word": "sensible",
+      "date": "2026-10-24"
+    },
+    {
+      "word": "sensitive",
+      "date": "2026-10-24"
+    },
+    {
+      "word": "mean",
+      "date": "2026-10-24"
+    },
+    {
+      "word": "brave",
+      "date": "2026-10-24"
+    },
+    {
+      "word": "careless",
+      "date": "2026-10-24"
+    },
+    {
+      "word": "adapt",
+      "date": "2026-10-25"
+    },
+    {
+      "word": "habit",
+      "date": "2026-10-25"
+    },
+    {
+      "word": "gradually",
+      "date": "2026-10-25"
+    },
+    {
+      "word": "challenge",
+      "date": "2026-10-25"
+    },
+    {
+      "word": "encourage",
+      "date": "2026-10-25"
+    },
+    {
+      "word": "transform",
+      "date": "2026-10-25"
+    },
+    {
+      "word": "develop",
+      "date": "2026-10-25"
+    },
+    {
+      "word": "progress",
+      "date": "2026-10-25"
+    },
+    {
+      "word": "adjust",
+      "date": "2026-10-25"
+    },
+    {
+      "word": "quit",
+      "date": "2026-10-25"
+    },
+    {
+      "word": "attitude",
+      "date": "2026-10-25"
+    },
+    {
+      "word": "motivation",
+      "date": "2026-10-25"
+    },
+    {
+      "word": "overcome",
+      "date": "2026-10-25"
+    },
+    {
+      "word": "effective",
+      "date": "2026-10-25"
+    },
+    {
+      "word": "consistent",
+      "date": "2026-10-25"
+    },
+    {
+      "word": "memory",
+      "date": "2026-10-26"
+    },
+    {
+      "word": "recognize",
+      "date": "2026-10-26"
+    },
+    {
+      "word": "familiar",
+      "date": "2026-10-26"
+    },
+    {
+      "word": "look after",
+      "date": "2026-10-26"
+    },
+    {
+      "word": "grow up",
+      "date": "2026-10-26"
+    },
+    {
+      "word": "recall",
+      "date": "2026-10-26"
+    },
+    {
+      "word": "childhood",
+      "date": "2026-10-26"
+    },
+    {
+      "word": "nostalgic",
+      "date": "2026-10-26"
+    },
+    {
+      "word": "forgetful",
+      "date": "2026-10-26"
+    },
+    {
+      "word": "album",
+      "date": "2026-10-26"
+    },
+    {
+      "word": "vivid",
+      "date": "2026-10-26"
+    },
+    {
+      "word": "treasure",
+      "date": "2026-10-26"
+    },
+    {
+      "word": "look back",
+      "date": "2026-10-26"
+    },
+    {
+      "word": "keep in touch",
+      "date": "2026-10-26"
+    },
+    {
+      "word": "era",
+      "date": "2026-10-26"
+    },
+    {
       "word": "fair",
       "date": "2026-10-27"
     },
@@ -18,6 +1578,46 @@
     },
     {
       "word": "reliable",
+      "date": "2026-10-27"
+    },
+    {
+      "word": "lend",
+      "date": "2026-10-27"
+    },
+    {
+      "word": "owe",
+      "date": "2026-10-27"
+    },
+    {
+      "word": "stall",
+      "date": "2026-10-27"
+    },
+    {
+      "word": "vendor",
+      "date": "2026-10-27"
+    },
+    {
+      "word": "handmade",
+      "date": "2026-10-27"
+    },
+    {
+      "word": "entrance",
+      "date": "2026-10-27"
+    },
+    {
+      "word": "promise",
+      "date": "2026-10-27"
+    },
+    {
+      "word": "brake",
+      "date": "2026-10-27"
+    },
+    {
+      "word": "pedal",
+      "date": "2026-10-27"
+    },
+    {
+      "word": "local",
       "date": "2026-10-27"
     },
     {
@@ -39,9 +1639,153 @@
     {
       "word": "give up",
       "date": "2026-10-28"
+    },
+    {
+      "word": "float",
+      "date": "2026-10-28"
+    },
+    {
+      "word": "sink",
+      "date": "2026-10-28"
+    },
+    {
+      "word": "dive",
+      "date": "2026-10-28"
+    },
+    {
+      "word": "breathe",
+      "date": "2026-10-28"
+    },
+    {
+      "word": "fear",
+      "date": "2026-10-28"
+    },
+    {
+      "word": "courage",
+      "date": "2026-10-28"
+    },
+    {
+      "word": "panic",
+      "date": "2026-10-28"
+    },
+    {
+      "word": "lifeguard",
+      "date": "2026-10-28"
+    },
+    {
+      "word": "depth",
+      "date": "2026-10-28"
+    },
+    {
+      "word": "relax",
+      "date": "2026-10-28"
     }
   ],
   "grammarTopics": [
+    {
+      "topic": "Present simple vs present continuous",
+      "date": "2026-10-01"
+    },
+    {
+      "topic": "Past simple: regular and irregular verbs",
+      "date": "2026-10-02"
+    },
+    {
+      "topic": "Past continuous",
+      "date": "2026-10-03"
+    },
+    {
+      "topic": "Past continuous vs past simple (when and while)",
+      "date": "2026-10-04"
+    },
+    {
+      "topic": "Used to for past habits",
+      "date": "2026-10-05"
+    },
+    {
+      "topic": "Present perfect for experiences (ever, never)",
+      "date": "2026-10-06"
+    },
+    {
+      "topic": "Present perfect with for and since",
+      "date": "2026-10-07"
+    },
+    {
+      "topic": "Present perfect with just, already and yet",
+      "date": "2026-10-08"
+    },
+    {
+      "topic": "Future: will vs going to",
+      "date": "2026-10-09"
+    },
+    {
+      "topic": "Present continuous for future arrangements",
+      "date": "2026-10-10"
+    },
+    {
+      "topic": "Comparatives and superlatives",
+      "date": "2026-10-11"
+    },
+    {
+      "topic": "(not) as ... as for comparing",
+      "date": "2026-10-12"
+    },
+    {
+      "topic": "Countable and uncountable nouns: much, many, a lot of",
+      "date": "2026-10-13"
+    },
+    {
+      "topic": "Quantifiers: a few, a little, few, little",
+      "date": "2026-10-14"
+    },
+    {
+      "topic": "Obligation: must, have to, don't have to",
+      "date": "2026-10-15"
+    },
+    {
+      "topic": "Advice: should and ought to",
+      "date": "2026-10-16"
+    },
+    {
+      "topic": "Ability: can, could, be able to",
+      "date": "2026-10-17"
+    },
+    {
+      "topic": "Possibility: may, might, could",
+      "date": "2026-10-18"
+    },
+    {
+      "topic": "Second conditional",
+      "date": "2026-10-19"
+    },
+    {
+      "topic": "Zero conditional",
+      "date": "2026-10-20"
+    },
+    {
+      "topic": "Passive voice: present simple and past simple",
+      "date": "2026-10-21"
+    },
+    {
+      "topic": "Defining relative clauses: who, which, that, where",
+      "date": "2026-10-22"
+    },
+    {
+      "topic": "Verb patterns: gerund or infinitive",
+      "date": "2026-10-23"
+    },
+    {
+      "topic": "Reported speech: statements",
+      "date": "2026-10-24"
+    },
+    {
+      "topic": "Question tags",
+      "date": "2026-10-25"
+    },
+    {
+      "topic": "Too and enough",
+      "date": "2026-10-26"
+    },
     {
       "topic": "Present perfect or past simple?",
       "date": "2026-10-27"
