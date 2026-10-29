@@ -1,0 +1,1007 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-29",
+  "level": "B1",
+  "translationLanguage": "az",
+  "words": [
+    {
+      "word": "volunteer",
+      "ipa": "/ˌvɑːlənˈtɪr/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "könüllü",
+          "definition": "a person who does a job without being paid, because they want to help",
+          "synonyms": [
+            "helper"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The hospital needs more volunteers this winter.",
+              "translation": "Bu qış xəstəxanaya daha çox könüllü lazımdır."
+            },
+            {
+              "text": "She has worked as a volunteer at an animal shelter for two years.",
+              "translation": "O, iki ildir heyvan sığınacağında könüllü kimi işləyir."
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "verb",
+          "translation": "könüllü olmaq, öz istəyi ilə öhdəsinə götürmək",
+          "definition": "to offer to do something without being asked or paid",
+          "synonyms": [
+            "offer"
+          ],
+          "antonyms": [
+            "refuse"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "My brother volunteered to cook dinner for everyone.",
+              "translation": "Qardaşım hamı üçün şam yeməyi bişirməyi öz üzərinə götürdü."
+            },
+            {
+              "text": "I volunteer at a children's library on Saturdays.",
+              "translation": "Şənbə günləri uşaq kitabxanasında könüllü işləyirəm."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "community",
+      "ipa": "/kəˈmjuːnəti/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "icma, cəmiyyət",
+          "definition": "the people who live in the same area, or a group of people who share something",
+          "synonyms": [
+            "society",
+            "public"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Our community is planning a big party for the New Year.",
+              "translation": "İcmamız Yeni il üçün böyük bir şənlik planlaşdırır."
+            },
+            {
+              "text": "She is a well-known member of the local community.",
+              "translation": "O, yerli icmanın tanınmış üzvüdür."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "donate",
+      "ipa": "/ˈdoʊneɪt/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "bağışlamaq, ianə etmək",
+          "definition": "to give money, things or blood to help people, often through an organization",
+          "synonyms": [
+            "give"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "We donated our old clothes to a children's home.",
+              "translation": "Köhnə paltarlarımızı uşaq evinə bağışladıq."
+            },
+            {
+              "text": "Thousands of people donate blood every year.",
+              "translation": "Hər il minlərlə insan qan verir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "organize",
+      "ipa": "/ˈɔːrɡənaɪz/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "təşkil etmək",
+          "definition": "to plan and prepare an event or activity",
+          "synonyms": [
+            "arrange",
+            "plan"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Leyla organized a surprise party for her mother's birthday.",
+              "translation": "Leyla anasının ad günü üçün sürpriz şənlik təşkil etdi."
+            },
+            {
+              "text": "Who is organizing the school trip this year?",
+              "translation": "Bu il məktəb ekskursiyasını kim təşkil edir?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "contribute",
+      "ipa": "/kənˈtrɪbjuːt/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "töhfə vermək, pay vermək",
+          "definition": "to give money, time or help, together with other people, to make something happen",
+          "synonyms": [
+            "give",
+            "add"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Everyone contributed ten manats for Kamran's present.",
+              "translation": "Kamranın hədiyyəsi üçün hər kəs on manat verdi."
+            },
+            {
+              "text": "Her ideas contributed a lot to the project's success.",
+              "translation": "Onun fikirləri layihənin uğuruna böyük töhfə verdi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "charity",
+      "ipa": "/ˈtʃærəti/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "xeyriyyə təşkilatı; xeyriyyə",
+          "definition": "an organization that collects money and gives help to people who need it",
+          "synonyms": [
+            "foundation"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The concert raised money for a children's charity.",
+              "translation": "Konsertdə uşaqlara kömək edən xeyriyyə təşkilatı üçün pul toplandı."
+            },
+            {
+              "text": "He gives part of his salary to charity every month.",
+              "translation": "O, hər ay maaşının bir hissəsini xeyriyyəyə verir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "willing",
+      "ipa": "/ˈwɪlɪŋ/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "hazır, razı",
+          "definition": "happy to do something if it is needed",
+          "synonyms": [
+            "ready",
+            "eager"
+          ],
+          "antonyms": [
+            "unwilling",
+            "reluctant"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Are you willing to work on weekends?",
+              "translation": "Həftə sonları işləməyə hazırsan?"
+            },
+            {
+              "text": "My grandmother is always willing to listen to my problems.",
+              "translation": "Nənəm problemlərimi dinləməyə həmişə hazırdır."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "kindness",
+      "ipa": "/ˈkaɪndnəs/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "xeyirxahlıq, mehribanlıq",
+          "definition": "the quality of being friendly, helpful and caring to other people",
+          "synonyms": [
+            "generosity",
+            "care"
+          ],
+          "antonyms": [
+            "cruelty"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Thank you for your kindness.",
+              "translation": "Mehribanlığınız üçün təşəkkür edirəm."
+            },
+            {
+              "text": "Small acts of kindness can make someone's day better.",
+              "translation": "Kiçik yaxşılıqlar kiminsə gününü daha xoş edə bilər."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "weed",
+      "ipa": "/wiːd/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "alaq otu",
+          "definition": "a wild plant that grows where you do not want it, for example in a garden",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The garden was full of weeds after the summer.",
+              "translation": "Yaydan sonra bağ alaq otu ilə dolu idi."
+            },
+            {
+              "text": "Weeds grow very fast after rain.",
+              "translation": "Yağışdan sonra alaq otları çox sürətlə böyüyür."
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "verb",
+          "translation": "alaq etmək, alaq otlarını təmizləmək",
+          "definition": "to pull out wild plants that you do not want from the ground",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "My father spent Sunday morning weeding the garden.",
+              "translation": "Atam bazar səhərini bağda alaq otlarını təmizləməklə keçirdi."
+            },
+            {
+              "text": "Can you help me weed the flower beds?",
+              "translation": "Gül ləklərindəki alaq otlarını təmizləməyə kömək edə bilərsən?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "soil",
+      "ipa": "/sɔɪl/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "torpaq",
+          "definition": "the top layer of the ground, where plants grow",
+          "synonyms": [
+            "earth",
+            "ground",
+            "dirt"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Tomatoes grow best in rich, dark soil.",
+              "translation": "Pomidor ən yaxşı münbit, tünd torpaqda bitir."
+            },
+            {
+              "text": "The soil was too dry after the long summer.",
+              "translation": "Uzun yaydan sonra torpaq həddindən artıq quru idi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "harvest",
+      "ipa": "/ˈhɑːrvɪst/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "məhsul; məhsul yığımı",
+          "definition": "the fruit, vegetables or grain collected from the fields, or the time when they are collected",
+          "synonyms": [
+            "crop"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "This year's apple harvest was very good.",
+              "translation": "Bu ilki alma məhsulu çox yaxşı oldu."
+            },
+            {
+              "text": "Farmers are very busy during the harvest.",
+              "translation": "Məhsul yığımı vaxtı fermerlər çox məşğul olurlar."
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "verb",
+          "translation": "məhsul yığmaq, yığmaq",
+          "definition": "to collect fruit, vegetables or grain when they are ready",
+          "synonyms": [
+            "pick",
+            "gather"
+          ],
+          "antonyms": [
+            "plant",
+            "sow"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "We harvested the potatoes in early October.",
+              "translation": "Kartofu oktyabrın əvvəlində yığdıq."
+            },
+            {
+              "text": "In this village, people still harvest grapes by hand.",
+              "translation": "Bu kənddə insanlar üzümü hələ də əllə yığırlar."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "tool",
+      "ipa": "/tuːl/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "alət",
+          "definition": "a thing that you hold in your hand and use to do a job, for example a hammer",
+          "synonyms": [
+            "instrument"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "You need the right tools to fix a bike.",
+              "translation": "Velosipedi təmir etmək üçün uyğun alətlər lazımdır."
+            },
+            {
+              "text": "He keeps all his tools in a box in the garage.",
+              "translation": "O, bütün alətlərini qarajda bir qutuda saxlayır."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "set up",
+      "ipa": "/ˌsɛt ˈʌp/",
+      "senses": [
+        {
+          "partOfSpeech": "phrasal verb",
+          "translation": "qurmaq, yaratmaq, açmaq",
+          "definition": "to start a business, an organization or a project",
+          "synonyms": [
+            "start",
+            "establish",
+            "found"
+          ],
+          "antonyms": [
+            "close down"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Two friends set up a small café near the university.",
+              "translation": "İki dost universitetin yaxınlığında kiçik bir kafe açdı."
+            },
+            {
+              "text": "She wants to set up her own company one day.",
+              "translation": "O, bir gün öz şirkətini qurmaq istəyir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "neglected",
+      "ipa": "/nɪˈɡlɛktɪd/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "baxımsız, diqqətsiz qalmış",
+          "definition": "not cared for or looked after for a long time",
+          "synonyms": [
+            "abandoned",
+            "uncared-for"
+          ],
+          "antonyms": [
+            "well-kept"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "They bought a neglected old house and repaired it.",
+              "translation": "Onlar baxımsız köhnə bir ev alıb təmir etdilər."
+            },
+            {
+              "text": "The neglected dog was very thin and hungry.",
+              "translation": "Baxımsız qalmış it çox arıq və ac idi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "rewarding",
+      "ipa": "/rɪˈwɔːrdɪŋ/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "məmnunluq gətirən, mənəvi zövq verən",
+          "definition": "making you feel happy and satisfied because it is useful or important",
+          "synonyms": [
+            "satisfying",
+            "worthwhile"
+          ],
+          "antonyms": [
+            "unrewarding",
+            "pointless"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Teaching children is hard but very rewarding.",
+              "translation": "Uşaqlara dərs demək çətindir, amma insana böyük məmnunluq gətirir."
+            },
+            {
+              "text": "Helping others was the most rewarding part of my trip.",
+              "translation": "Başqalarına kömək etmək səfərimin ən çox zövq verən hissəsi oldu."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "story": {
+    "title": "The Garden Behind the School",
+    "titleTranslation": "Məktəbin arxasındakı bağ",
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "Behind the old school on Aysel's street, there was a neglected piece of land full of rubbish and tall weeds.",
+            "translation": "Ayselin küçəsindəki köhnə məktəbin arxasında zibil və hündür alaq otları ilə dolu baxımsız bir torpaq sahəsi var idi."
+          },
+          {
+            "text": "Every time she walked past it, she thought, “It's such a pity. This place could be so beautiful.”",
+            "translation": "Hər dəfə oradan keçəndə düşünürdü: “Çox heyif. Bu yer elə gözəl ola bilərdi ki.”"
+          },
+          {
+            "text": "One evening in March, she decided to do something about it.",
+            "translation": "Mart ayında bir axşam o, bununla bağlı nəsə etməyə qərar verdi."
+          },
+          {
+            "text": "She wanted to set up a community garden where neighbors could grow vegetables together.",
+            "translation": "O, qonşuların birlikdə tərəvəz yetişdirə biləcəyi bir icma bağı salmaq istəyirdi."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Aysel organized a meeting at the local library and put up posters asking for volunteers.",
+            "translation": "Aysel yerli kitabxanada görüş təşkil etdi və könüllü axtarıldığını bildirən afişalar asdı."
+          },
+          {
+            "text": "She was so nervous that she almost canceled it, because she was afraid nobody would come.",
+            "translation": "O qədər həyəcanlı idi ki, az qala görüşü ləğv edəcəkdi, çünki heç kimin gəlməyəcəyindən qorxurdu."
+          },
+          {
+            "text": "But on the day of the meeting, twenty people arrived, and all of them were willing to help.",
+            "translation": "Amma görüş günü iyirmi nəfər gəldi və hamısı kömək etməyə hazır idi."
+          },
+          {
+            "text": "Mr. Rauf, a retired carpenter, donated his old tools, and a young couple contributed money for seeds.",
+            "translation": "Təqaüdçü dülgər Rauf bəy köhnə alətlərini bağışladı, gənc bir cütlük isə toxum almaq üçün pul verdi."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The first weeks were hard work.",
+            "translation": "İlk həftələr ağır keçdi."
+          },
+          {
+            "text": "The volunteers pulled out weeds, carried away bags of rubbish and dug the hard soil.",
+            "translation": "Könüllülər alaq otlarını çıxardılar, zibil torbalarını daşıyıb apardılar və bərk torpağı qazdılar."
+          },
+          {
+            "text": "Some days it was so hot that they could only work early in the morning.",
+            "translation": "Bəzi günlər hava o qədər isti olurdu ki, yalnız səhər tezdən işləyə bilirdilər."
+          },
+          {
+            "text": "Aysel was touched by the kindness of her neighbors, who brought tea and homemade bread for everyone.",
+            "translation": "Aysel hamı üçün çay və ev çörəyi gətirən qonşularının mehribanlığından çox təsirləndi."
+          },
+          {
+            "text": "People who had lived on the same street for years without speaking were now laughing and working side by side.",
+            "translation": "İllərlə eyni küçədə bir-biri ilə danışmadan yaşamış insanlar indi yan-yana gülür və işləyirdilər."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "By September, the garden was full of tomatoes, peppers and beans.",
+            "translation": "Sentyabra qədər bağ pomidor, bibər və lobya ilə dolmuşdu."
+          },
+          {
+            "text": "It was such a good harvest that the group couldn't eat it all.",
+            "translation": "Məhsul o qədər bol idi ki, qrup hamısını yeyə bilmədi."
+          },
+          {
+            "text": "So they decided to harvest a few boxes every week and give them to a local charity that helps families in need.",
+            "translation": "Buna görə də hər həftə bir neçə qutu məhsul yığıb ehtiyacı olan ailələrə kömək edən yerli xeyriyyə təşkilatına verməyə qərar verdilər."
+          },
+          {
+            "text": "Standing in the garden one evening, Aysel smiled.",
+            "translation": "Bir axşam bağda dayanan Aysel gülümsədi."
+          },
+          {
+            "text": "“This has been such a rewarding year,” she said to Mr. Rauf. “I never knew we had such wonderful neighbors.”",
+            "translation": "“Bu il mənə çox böyük məmnunluq gətirdi,” – deyə o, Rauf bəyə dedi. “Heç bilmirdim ki, bu qədər gözəl qonşularımız var.”"
+          }
+        ]
+      }
+    ],
+    "glossary": [
+      {
+        "term": "neglected",
+        "lemma": "neglected",
+        "partOfSpeech": "adjective",
+        "meaning": "not looked after for a long time",
+        "translation": "baxımsız"
+      },
+      {
+        "term": "piece of land",
+        "lemma": "piece of land",
+        "partOfSpeech": "phrase",
+        "meaning": "an area of ground",
+        "translation": "torpaq sahəsi"
+      },
+      {
+        "term": "rubbish",
+        "lemma": "rubbish",
+        "partOfSpeech": "noun",
+        "meaning": "things that people throw away",
+        "translation": "zibil"
+      },
+      {
+        "term": "weeds",
+        "lemma": "weed",
+        "partOfSpeech": "noun",
+        "meaning": "wild plants that grow where you do not want them",
+        "translation": "alaq otları"
+      },
+      {
+        "term": "walked past",
+        "lemma": "walk past",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "walked near something without stopping",
+        "translation": "yanından keçdi"
+      },
+      {
+        "term": "such a pity",
+        "lemma": "such a pity",
+        "partOfSpeech": "phrase",
+        "meaning": "used to say that something is sad or disappointing",
+        "translation": "çox heyif"
+      },
+      {
+        "term": "do something about it",
+        "lemma": "do something about it",
+        "partOfSpeech": "phrase",
+        "meaning": "to take action to change a bad situation",
+        "translation": "bununla bağlı nəsə etmək"
+      },
+      {
+        "term": "set up",
+        "lemma": "set up",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "to start a project or organization",
+        "translation": "salmaq, yaratmaq"
+      },
+      {
+        "term": "community",
+        "lemma": "community",
+        "partOfSpeech": "noun",
+        "meaning": "the people who live in the same area",
+        "translation": "icma"
+      },
+      {
+        "term": "grow vegetables",
+        "lemma": "grow vegetables",
+        "partOfSpeech": "phrase",
+        "meaning": "to plant vegetables and look after them",
+        "translation": "tərəvəz yetişdirmək"
+      },
+      {
+        "term": "organized",
+        "lemma": "organize",
+        "partOfSpeech": "verb",
+        "meaning": "planned and prepared an event",
+        "translation": "təşkil etdi"
+      },
+      {
+        "term": "local",
+        "lemma": "local",
+        "partOfSpeech": "adjective",
+        "meaning": "in or near the area where you live",
+        "translation": "yerli"
+      },
+      {
+        "term": "put up posters",
+        "lemma": "put up a poster",
+        "partOfSpeech": "phrase",
+        "meaning": "to fix large printed notices on a wall",
+        "translation": "afişa asmaq"
+      },
+      {
+        "term": "asking for",
+        "lemma": "ask for",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "saying that you want or need something",
+        "translation": "... istəyən, axtaran"
+      },
+      {
+        "term": "volunteers",
+        "lemma": "volunteer",
+        "partOfSpeech": "noun",
+        "meaning": "people who work without pay because they want to help",
+        "translation": "könüllülər"
+      },
+      {
+        "term": "nervous",
+        "lemma": "nervous",
+        "partOfSpeech": "adjective",
+        "meaning": "a little afraid and worried",
+        "translation": "həyəcanlı"
+      },
+      {
+        "term": "almost",
+        "lemma": "almost",
+        "partOfSpeech": "adverb",
+        "meaning": "very nearly",
+        "translation": "az qala"
+      },
+      {
+        "term": "canceled",
+        "lemma": "cancel",
+        "partOfSpeech": "verb",
+        "meaning": "decided that a planned event will not happen",
+        "translation": "ləğv etdi"
+      },
+      {
+        "term": "afraid",
+        "lemma": "be afraid",
+        "partOfSpeech": "adjective",
+        "meaning": "feeling fear or worry",
+        "translation": "qorxmaq"
+      },
+      {
+        "term": "willing",
+        "lemma": "willing",
+        "partOfSpeech": "adjective",
+        "meaning": "happy to do something if it is needed",
+        "translation": "hazır"
+      },
+      {
+        "term": "retired",
+        "lemma": "retired",
+        "partOfSpeech": "adjective",
+        "meaning": "no longer working because of age",
+        "translation": "təqaüdçü"
+      },
+      {
+        "term": "carpenter",
+        "lemma": "carpenter",
+        "partOfSpeech": "noun",
+        "meaning": "a person whose job is making things from wood",
+        "translation": "dülgər"
+      },
+      {
+        "term": "donated",
+        "lemma": "donate",
+        "partOfSpeech": "verb",
+        "meaning": "gave something to help other people",
+        "translation": "bağışladı"
+      },
+      {
+        "term": "tools",
+        "lemma": "tool",
+        "partOfSpeech": "noun",
+        "meaning": "things you hold in your hand to do a job",
+        "translation": "alətlər"
+      },
+      {
+        "term": "couple",
+        "lemma": "couple",
+        "partOfSpeech": "noun",
+        "meaning": "two people who are married or in a relationship",
+        "translation": "cütlük"
+      },
+      {
+        "term": "contributed",
+        "lemma": "contribute",
+        "partOfSpeech": "verb",
+        "meaning": "gave money or help together with others",
+        "translation": "pay verdi, töhfə verdi"
+      },
+      {
+        "term": "seeds",
+        "lemma": "seed",
+        "partOfSpeech": "noun",
+        "meaning": "small parts of a plant from which new plants grow",
+        "translation": "toxum"
+      },
+      {
+        "term": "hard work",
+        "lemma": "hard work",
+        "partOfSpeech": "phrase",
+        "meaning": "work that needs a lot of effort",
+        "translation": "ağır iş"
+      },
+      {
+        "term": "pulled out",
+        "lemma": "pull out",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "took something out of the ground or a place by pulling",
+        "translation": "çıxardılar"
+      },
+      {
+        "term": "carried away",
+        "lemma": "carry away",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "took something to another place",
+        "translation": "daşıyıb apardılar"
+      },
+      {
+        "term": "dug",
+        "lemma": "dig",
+        "partOfSpeech": "verb",
+        "meaning": "made a hole or turned over the ground",
+        "translation": "qazdılar"
+      },
+      {
+        "term": "soil",
+        "lemma": "soil",
+        "partOfSpeech": "noun",
+        "meaning": "the top layer of the ground, where plants grow",
+        "translation": "torpaq"
+      },
+      {
+        "term": "early in the morning",
+        "lemma": "early in the morning",
+        "partOfSpeech": "phrase",
+        "meaning": "at the start of the day",
+        "translation": "səhər tezdən"
+      },
+      {
+        "term": "touched",
+        "lemma": "touched",
+        "partOfSpeech": "adjective",
+        "meaning": "feeling emotional because someone was kind",
+        "translation": "təsirlənmiş"
+      },
+      {
+        "term": "kindness",
+        "lemma": "kindness",
+        "partOfSpeech": "noun",
+        "meaning": "being friendly and helpful to other people",
+        "translation": "mehribanlıq"
+      },
+      {
+        "term": "homemade",
+        "lemma": "homemade",
+        "partOfSpeech": "adjective",
+        "meaning": "made at home, not bought in a shop",
+        "translation": "evdə bişirilmiş"
+      },
+      {
+        "term": "side by side",
+        "lemma": "side by side",
+        "partOfSpeech": "idiom",
+        "meaning": "next to each other; together",
+        "translation": "yan-yana"
+      },
+      {
+        "term": "by september",
+        "lemma": "by",
+        "partOfSpeech": "preposition",
+        "meaning": "not later than a particular time",
+        "translation": "sentyabra qədər"
+      },
+      {
+        "term": "peppers",
+        "lemma": "pepper",
+        "partOfSpeech": "noun",
+        "meaning": "red, green or yellow vegetables",
+        "translation": "bibər"
+      },
+      {
+        "term": "beans",
+        "lemma": "bean",
+        "partOfSpeech": "noun",
+        "meaning": "seeds of a plant that are eaten as vegetables",
+        "translation": "lobya"
+      },
+      {
+        "term": "harvest",
+        "lemma": "harvest",
+        "partOfSpeech": "noun",
+        "meaning": "the fruit and vegetables collected when they are ready",
+        "translation": "məhsul"
+      },
+      {
+        "term": "charity",
+        "lemma": "charity",
+        "partOfSpeech": "noun",
+        "meaning": "an organization that helps people in need",
+        "translation": "xeyriyyə təşkilatı"
+      },
+      {
+        "term": "in need",
+        "lemma": "in need",
+        "partOfSpeech": "phrase",
+        "meaning": "without enough money, food or help",
+        "translation": "ehtiyacı olan"
+      },
+      {
+        "term": "rewarding",
+        "lemma": "rewarding",
+        "partOfSpeech": "adjective",
+        "meaning": "making you feel happy and satisfied",
+        "translation": "məmnunluq gətirən"
+      },
+      {
+        "term": "wonderful",
+        "lemma": "wonderful",
+        "partOfSpeech": "adjective",
+        "meaning": "very good; great",
+        "translation": "gözəl, əla"
+      }
+    ]
+  },
+  "grammar": {
+    "topic": "So and such",
+    "topicTranslation": "So və such",
+    "explanation": "We use so and such to make a meaning stronger. Use so before an adjective or an adverb without a noun: so hot, so quickly. Use such before a noun, often with an adjective: such a good idea, such nice people. With a singular countable noun, put a or an after such. We often add that + a result: It was so cold that we stayed at home.",
+    "explanationTranslation": "So və such mənanı gücləndirmək üçün işlədilir. So isimsiz sifət və ya zərfdən əvvəl gəlir: so hot, so quickly. Such isimdən əvvəl, çox vaxt sifətlə birlikdə gəlir: such a good idea, such nice people. Təkdə olan sayılan isimlə such-dan sonra a və ya an işlədilir. Nəticəni göstərmək üçün çox vaxt that + nəticə əlavə edirik: It was so cold that we stayed at home.",
+    "rules": [
+      {
+        "text": "so + adjective or adverb: The test was so easy. She speaks so fast.",
+        "translation": "so + sifət və ya zərf: The test was so easy. She speaks so fast."
+      },
+      {
+        "text": "such + a/an + (adjective) + singular noun: It was such a long day.",
+        "translation": "such + a/an + (sifət) + təkdə olan isim: It was such a long day."
+      },
+      {
+        "text": "such + (adjective) + plural or uncountable noun: They are such kind people. We had such bad weather.",
+        "translation": "such + (sifət) + cəmdə olan və ya sayılmayan isim: They are such kind people. We had such bad weather."
+      },
+      {
+        "text": "so much / so many + noun: There was so much work. We had so many volunteers.",
+        "translation": "so much / so many + isim: There was so much work. We had so many volunteers."
+      },
+      {
+        "text": "Add that + result: He was so tired that he fell asleep at once. In speaking, we often leave out that.",
+        "translation": "Nəticəni bildirmək üçün that + nəticə əlavə edin: He was so tired that he fell asleep at once. Danışıqda that çox vaxt buraxılır."
+      }
+    ],
+    "examples": [
+      {
+        "text": "The soil was so dry that nothing could grow.",
+        "translation": "Torpaq o qədər quru idi ki, heç nə bitmirdi."
+      },
+      {
+        "text": "It was such a rewarding day.",
+        "translation": "Çox məmnunluq gətirən bir gün idi."
+      },
+      {
+        "text": "Thank you for your help. You are such a kind volunteer!",
+        "translation": "Köməyin üçün sağ ol. Sən çox mehriban könüllüsən!"
+      },
+      {
+        "text": "There were so many weeds that we needed three days to remove them.",
+        "translation": "Alaq otları o qədər çox idi ki, onları təmizləmək üçün üç gün lazım oldu."
+      },
+      {
+        "text": "It was such a good harvest that we gave half of it to charity.",
+        "translation": "Məhsul o qədər bol idi ki, yarısını xeyriyyəyə verdik."
+      }
+    ],
+    "exercise": {
+      "instructions": "Choose or write the correct answer.",
+      "instructionsTranslation": "Düzgün cavabı seçin və ya yazın.",
+      "questions": [
+        {
+          "type": "choice",
+          "prompt": "The garden looks ___ beautiful now.",
+          "promptTranslation": "Bağ indi çox gözəl görünür.",
+          "options": [
+            "so",
+            "such",
+            "such a"
+          ],
+          "answer": "so",
+          "explanation": "Use so before an adjective without a noun.",
+          "explanationTranslation": "İsimsiz sifətdən əvvəl so işlədilir."
+        },
+        {
+          "type": "choice",
+          "prompt": "It was ___ hot day that we stayed inside.",
+          "promptTranslation": "Elə isti gün idi ki, evdə qaldıq.",
+          "options": [
+            "so",
+            "such",
+            "such a"
+          ],
+          "answer": "such a",
+          "explanation": "Use such a before an adjective + a singular countable noun.",
+          "explanationTranslation": "Sifət + təkdə olan sayılan isimdən əvvəl such a işlədilir."
+        },
+        {
+          "type": "choice",
+          "prompt": "They are ___ helpful neighbors.",
+          "promptTranslation": "Onlar çox köməksevər qonşulardır.",
+          "options": [
+            "so",
+            "such",
+            "such a"
+          ],
+          "answer": "such",
+          "explanation": "Use such without a before a plural noun.",
+          "explanationTranslation": "Cəmdə olan isimdən əvvəl a-sız such işlədilir."
+        },
+        {
+          "type": "text",
+          "prompt": "We had ___ (so + much/many) work that we finished late.",
+          "promptTranslation": "O qədər çox işimiz var idi ki, gec qurtardıq.",
+          "acceptedAnswers": [],
+          "answer": "so much",
+          "explanation": "Work is uncountable, so we use so much.",
+          "explanationTranslation": "Work sayılmayan isimdir, ona görə so much işlədilir."
+        },
+        {
+          "type": "text",
+          "prompt": "The soil was so hard ___ (result word) we couldn't dig it.",
+          "promptTranslation": "Torpaq o qədər bərk idi ki, onu qaza bilmədik.",
+          "acceptedAnswers": [],
+          "answer": "that",
+          "explanation": "So + adjective + that shows the result.",
+          "explanationTranslation": "So + sifət + that nəticəni göstərir."
+        }
+      ]
+    }
+  }
+}
