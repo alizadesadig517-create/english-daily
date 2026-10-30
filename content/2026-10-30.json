@@ -1,0 +1,946 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-30",
+  "level": "B1",
+  "translationLanguage": "az",
+  "words": [
+    {
+      "word": "instrument",
+      "ipa": "/ˈɪnstrəmənt/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "musiqi aləti, alət",
+          "definition": "an object such as a piano, guitar or drum that you use to make music",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Can you play a musical instrument?",
+              "translation": "Hər hansı musiqi aləti çala bilirsən?"
+            },
+            {
+              "text": "The tar is a traditional Azerbaijani instrument.",
+              "translation": "Tar ənənəvi Azərbaycan musiqi alətidir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "practice",
+      "ipa": "/ˈpræktɪs/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "məşq etmək",
+          "definition": "to do something again and again so that you get better at it",
+          "synonyms": [
+            "rehearse",
+            "train"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "She practices the piano for an hour every day.",
+              "translation": "O, hər gün bir saat pianoda məşq edir."
+            },
+            {
+              "text": "We practiced our speech in front of the mirror.",
+              "translation": "Çıxışımızı güzgü qarşısında məşq etdik."
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "noun",
+          "translation": "məşq, təcrübə",
+          "definition": "the time you spend doing something again and again to get better at it",
+          "synonyms": [
+            "training",
+            "rehearsal"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Learning a language takes a lot of practice.",
+              "translation": "Dil öyrənmək çoxlu məşq tələb edir."
+            },
+            {
+              "text": "Football practice starts at five o'clock.",
+              "translation": "Futbol məşqi saat beşdə başlayır."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "beginner",
+      "ipa": "/bɪˈɡɪnər/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "yeni başlayan",
+          "definition": "a person who is starting to learn something and cannot do it well yet",
+          "synonyms": [
+            "learner",
+            "newcomer"
+          ],
+          "antonyms": [
+            "expert",
+            "professional"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "This yoga class is perfect for beginners.",
+              "translation": "Bu yoqa dərsi yeni başlayanlar üçün əladır."
+            },
+            {
+              "text": "I'm only a beginner, so please speak slowly.",
+              "translation": "Mən hələ yeni başlayanam, ona görə xahiş edirəm, yavaş danışın."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "rhythm",
+      "ipa": "/ˈrɪðəm/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "ritm",
+          "definition": "a regular, repeated pattern of sounds or movements",
+          "synonyms": [
+            "beat"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The children clapped their hands to the rhythm of the song.",
+              "translation": "Uşaqlar mahnının ritminə uyğun əl çaldılar."
+            },
+            {
+              "text": "After the holiday, it was hard to get back into the rhythm of work.",
+              "translation": "Tətildən sonra yenidən iş ritminə qayıtmaq çətin idi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "tune",
+      "ipa": "/tuːn/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "melodiya, hava",
+          "definition": "a series of musical notes that make a song or a piece of music",
+          "synonyms": [
+            "melody",
+            "song"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "My grandmother always hums the same old tune.",
+              "translation": "Nənəm həmişə eyni köhnə melodiyanı zümzümə edir."
+            },
+            {
+              "text": "I can't remember the words, but I know the tune.",
+              "translation": "Sözləri xatırlamıram, amma melodiyanı bilirəm."
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "verb",
+          "translation": "kökləmək",
+          "definition": "to change a musical instrument so that it plays the correct notes",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The guitar sounds strange. You need to tune it.",
+              "translation": "Gitara qəribə səslənir. Onu kökləmək lazımdır."
+            },
+            {
+              "text": "A man came to tune our old piano.",
+              "translation": "Köhnə pianomuzu kökləmək üçün bir usta gəldi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hobby",
+      "ipa": "/ˈhɑːbi/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "hobbi, məşğuliyyət",
+          "definition": "an activity that you enjoy doing in your free time",
+          "synonyms": [
+            "pastime",
+            "interest"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "My father's hobby is fishing.",
+              "translation": "Atamın hobbisi balıq tutmaqdır."
+            },
+            {
+              "text": "She has many hobbies, like painting and dancing.",
+              "translation": "Onun rəsm çəkmək və rəqs etmək kimi çoxlu hobbisi var."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "annoy",
+      "ipa": "/əˈnɔɪ/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "əsəbiləşdirmək, narahat etmək",
+          "definition": "to make someone a little angry",
+          "synonyms": [
+            "bother",
+            "irritate"
+          ],
+          "antonyms": [
+            "please"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "It annoys me when people talk during a film.",
+              "translation": "İnsanlar film zamanı danışanda bu məni əsəbiləşdirir."
+            },
+            {
+              "text": "He was annoyed because the bus was late again.",
+              "translation": "Avtobus yenə gecikdiyi üçün o, əsəbiləşmişdi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sore",
+      "ipa": "/sɔːr/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "ağrıyan",
+          "definition": "painful, especially because you have used a part of your body too much",
+          "synonyms": [
+            "painful",
+            "aching"
+          ],
+          "antonyms": [],
+          "homonyms": [
+            {
+              "word": "soar",
+              "meaning": "to fly or go up high into the sky",
+              "translation": "yüksəklərə qalxmaq, süzmək"
+            }
+          ],
+          "examples": [
+            {
+              "text": "My legs are sore after the long walk.",
+              "translation": "Uzun gəzintidən sonra ayaqlarım ağrıyır."
+            },
+            {
+              "text": "I have a sore throat, so I can't sing today.",
+              "translation": "Boğazım ağrıyır, ona görə bu gün oxuya bilmərəm."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "string",
+      "ipa": "/strɪŋ/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "sim; ip",
+          "definition": "a thin wire on an instrument like a guitar, or a thin piece of rope",
+          "synonyms": [
+            "wire",
+            "cord"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "One of the strings on my guitar broke.",
+              "translation": "Gitaramın simlərindən biri qırıldı."
+            },
+            {
+              "text": "She tied the box with a piece of string.",
+              "translation": "O, qutunu bir parça iplə bağladı."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "figure out",
+      "ipa": "/ˌfɪɡjər ˈaʊt/",
+      "senses": [
+        {
+          "partOfSpeech": "phrasal verb",
+          "translation": "başa düşmək, anlamaq, həll yolunu tapmaq",
+          "definition": "to understand something or find the answer after thinking about it",
+          "synonyms": [
+            "work out",
+            "understand",
+            "solve"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "I can't figure out how this new phone works.",
+              "translation": "Bu yeni telefonun necə işlədiyini başa düşə bilmirəm."
+            },
+            {
+              "text": "We finally figured out where we went wrong.",
+              "translation": "Nəhayət, harada səhv etdiyimizi anladıq."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "steady",
+      "ipa": "/ˈstɛdi/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "sabit, bərabər; möhkəm",
+          "definition": "staying the same and not changing much, or not moving or shaking",
+          "synonyms": [
+            "constant",
+            "regular",
+            "stable"
+          ],
+          "antonyms": [
+            "unsteady",
+            "irregular"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "He drove at a steady speed all the way to Ganja.",
+              "translation": "O, Gəncəyə qədər bütün yolu sabit sürətlə sürdü."
+            },
+            {
+              "text": "Hold the ladder steady while I climb up.",
+              "translation": "Mən yuxarı çıxanda nərdivanı möhkəm tut."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "master",
+      "ipa": "/ˈmæstər/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "mənimsəmək, yaxşı öyrənmək",
+          "definition": "to learn how to do something very well",
+          "synonyms": [
+            "learn",
+            "pick up"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "It takes years to master a foreign language.",
+              "translation": "Xarici dili yaxşı mənimsəmək illər çəkir."
+            },
+            {
+              "text": "He has mastered the art of cooking plov.",
+              "translation": "O, plov bişirmək sənətini mükəmməl öyrənib."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "complicated",
+      "ipa": "/ˈkɑːmplɪkeɪtɪd/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "mürəkkəb, çətin",
+          "definition": "having many parts or details, so it is difficult to understand or do",
+          "synonyms": [
+            "complex",
+            "difficult"
+          ],
+          "antonyms": [
+            "simple",
+            "easy"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The instructions were too complicated for me.",
+              "translation": "Təlimat mənim üçün çox mürəkkəb idi."
+            },
+            {
+              "text": "Our relationship is a little complicated.",
+              "translation": "Bizim münasibətimiz bir az mürəkkəbdir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "tear",
+      "ipa": "/tɪr/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "göz yaşı",
+          "definition": "a drop of water that comes from your eye when you cry",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [
+            {
+              "word": "tear",
+              "meaning": "(pronounced /tɛr/) to pull paper or cloth into pieces",
+              "translation": "cırmaq"
+            }
+          ],
+          "examples": [
+            {
+              "text": "There were tears in her eyes when she said goodbye.",
+              "translation": "Vidalaşanda onun gözlərində yaş var idi."
+            },
+            {
+              "text": "He wiped a tear from his cheek.",
+              "translation": "O, yanağındakı göz yaşını sildi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "awkward",
+      "ipa": "/ˈɔːkwərd/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "yöndəmsiz; narahat, xoşagəlməz",
+          "definition": "not easy or comfortable; moving in a way that is not smooth",
+          "synonyms": [
+            "clumsy",
+            "uncomfortable"
+          ],
+          "antonyms": [
+            "comfortable",
+            "graceful"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "There was an awkward silence after his joke.",
+              "translation": "Onun zarafatından sonra xoşagəlməz bir sükut yarandı."
+            },
+            {
+              "text": "I felt awkward at the party because I didn't know anyone.",
+              "translation": "Ziyafətdə özümü narahat hiss edirdim, çünki heç kimi tanımırdım."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "story": {
+    "title": "Grandpa's Song",
+    "titleTranslation": "Babamın mahnısı",
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "Nigar has been learning to play the guitar for six months.",
+            "translation": "Nigar altı aydır gitara çalmağı öyrənir."
+          },
+          {
+            "text": "It all started as a hobby, but now it has become an important goal.",
+            "translation": "Hər şey bir hobbi kimi başladı, amma indi bu, vacib bir məqsədə çevrilib."
+          },
+          {
+            "text": "Her grandfather Salim is turning eighty in December, and she wants to play his favorite old tune at the party.",
+            "translation": "Babası Səlim dekabrda səksən yaşına çatır və Nigar ad günü məclisində onun ən sevdiyi köhnə melodiyanı çalmaq istəyir."
+          },
+          {
+            "text": "He used to play the same song on his own instrument when she was a little girl.",
+            "translation": "Nigar balaca olanda babası eyni mahnını öz alətində çalardı."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "At first, everything felt awkward.",
+            "translation": "Əvvəlcə hər şey ona yöndəmsiz gəlirdi."
+          },
+          {
+            "text": "Her fingers didn't know where to go, and pressing the strings made her fingertips sore.",
+            "translation": "Barmaqları hara getməli olduqlarını bilmirdi, simləri basmaq isə barmaqlarının uclarını ağrıdırdı."
+          },
+          {
+            "text": "Some chords were so complicated that she almost wanted to give up.",
+            "translation": "Bəzi akkordlar o qədər mürəkkəb idi ki, az qala hər şeydən əl çəkmək istəyirdi."
+          },
+          {
+            "text": "Her teacher, Elnur, kept telling her, “Every beginner feels like this. Don't worry about speed. Just keep a steady rhythm.”",
+            "translation": "Müəllimi Elnur ona dəfələrlə deyirdi: “Hər yeni başlayan belə hiss edir. Sürət barədə narahat olma. Sadəcə ritmi sabit saxla.”"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "So Nigar has been practicing every evening after work.",
+            "translation": "Ona görə də Nigar hər axşam işdən sonra məşq edir."
+          },
+          {
+            "text": "Her younger brother was annoyed at first, because the same notes came through the wall again and again.",
+            "translation": "Kiçik qardaşı əvvəlcə əsəbiləşirdi, çünki eyni notlar divarın o biri tərəfindən dəfələrlə eşidilirdi."
+          },
+          {
+            "text": "But slowly, Nigar figured out how to move her fingers more quickly.",
+            "translation": "Amma Nigar yavaş-yavaş barmaqlarını necə daha cəld tərpətməyi öyrəndi."
+          },
+          {
+            "text": "Last week, her brother knocked on her door and asked, “Have you been practicing Grandpa's song? It actually sounds good now!”",
+            "translation": "Keçən həftə qardaşı onun qapısını döyüb soruşdu: “Babamın mahnısını məşq edirsən? İndi doğrudan da yaxşı səslənir!”"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Nigar hasn't mastered the song yet, but she can play it from beginning to end without stopping.",
+            "translation": "Nigar mahnını hələ tam mənimsəməyib, amma onu əvvəldən axıra qədər dayanmadan çala bilir."
+          },
+          {
+            "text": "She tunes her guitar carefully before every practice.",
+            "translation": "O, hər məşqdən əvvəl gitarasını diqqətlə kökləyir."
+          },
+          {
+            "text": "Yesterday she played the song for Elnur, and he nodded with a smile.",
+            "translation": "Dünən o, mahnını Elnura çaldı, Elnur isə gülümsəyərək başını tərpətdi."
+          },
+          {
+            "text": "“Your grandfather will be very proud,” he said.",
+            "translation": "“Baban səninlə çox fəxr edəcək,” – deyə o bildirdi."
+          },
+          {
+            "text": "Nigar can already imagine the moment: Grandpa listening quietly, with tears in his eyes.",
+            "translation": "Nigar o anı artıq təsəvvür edə bilir: babası sakitcə qulaq asır, gözlərində yaş var."
+          }
+        ]
+      }
+    ],
+    "glossary": [
+      {
+        "term": "has been learning",
+        "lemma": "have been doing",
+        "partOfSpeech": "phrase",
+        "meaning": "started learning in the past and is still learning now",
+        "translation": "öyrənir (bir müddətdir)"
+      },
+      {
+        "term": "play the guitar",
+        "lemma": "play the guitar",
+        "partOfSpeech": "phrase",
+        "meaning": "to make music with a guitar",
+        "translation": "gitara çalmaq"
+      },
+      {
+        "term": "hobby",
+        "lemma": "hobby",
+        "partOfSpeech": "noun",
+        "meaning": "something you enjoy doing in your free time",
+        "translation": "hobbi"
+      },
+      {
+        "term": "goal",
+        "lemma": "goal",
+        "partOfSpeech": "noun",
+        "meaning": "something that you want to achieve",
+        "translation": "məqsəd"
+      },
+      {
+        "term": "is turning eighty",
+        "lemma": "turn",
+        "partOfSpeech": "verb",
+        "meaning": "is becoming eighty years old",
+        "translation": "səksən yaşına çatır"
+      },
+      {
+        "term": "tune",
+        "lemma": "tune",
+        "partOfSpeech": "noun",
+        "meaning": "a piece of music; a melody",
+        "translation": "melodiya"
+      },
+      {
+        "term": "used to play",
+        "lemma": "used to",
+        "partOfSpeech": "phrase",
+        "meaning": "played often in the past, but not now",
+        "translation": "çalardı"
+      },
+      {
+        "term": "instrument",
+        "lemma": "instrument",
+        "partOfSpeech": "noun",
+        "meaning": "an object you use to make music",
+        "translation": "musiqi aləti"
+      },
+      {
+        "term": "awkward",
+        "lemma": "awkward",
+        "partOfSpeech": "adjective",
+        "meaning": "not comfortable or natural",
+        "translation": "yöndəmsiz"
+      },
+      {
+        "term": "pressing",
+        "lemma": "press",
+        "partOfSpeech": "verb",
+        "meaning": "pushing something firmly with your finger",
+        "translation": "basmaq"
+      },
+      {
+        "term": "strings",
+        "lemma": "string",
+        "partOfSpeech": "noun",
+        "meaning": "the thin wires on a guitar",
+        "translation": "simlər"
+      },
+      {
+        "term": "fingertips",
+        "lemma": "fingertip",
+        "partOfSpeech": "noun",
+        "meaning": "the ends of your fingers",
+        "translation": "barmaq ucları"
+      },
+      {
+        "term": "sore",
+        "lemma": "sore",
+        "partOfSpeech": "adjective",
+        "meaning": "painful",
+        "translation": "ağrıyan"
+      },
+      {
+        "term": "chords",
+        "lemma": "chord",
+        "partOfSpeech": "noun",
+        "meaning": "several musical notes played together",
+        "translation": "akkordlar"
+      },
+      {
+        "term": "complicated",
+        "lemma": "complicated",
+        "partOfSpeech": "adjective",
+        "meaning": "difficult because it has many parts",
+        "translation": "mürəkkəb"
+      },
+      {
+        "term": "give up",
+        "lemma": "give up",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "to stop trying to do something",
+        "translation": "əl çəkmək, vaz keçmək"
+      },
+      {
+        "term": "kept telling",
+        "lemma": "keep doing",
+        "partOfSpeech": "phrase",
+        "meaning": "told again and again",
+        "translation": "dəfələrlə deyirdi"
+      },
+      {
+        "term": "beginner",
+        "lemma": "beginner",
+        "partOfSpeech": "noun",
+        "meaning": "a person who is just starting to learn something",
+        "translation": "yeni başlayan"
+      },
+      {
+        "term": "speed",
+        "lemma": "speed",
+        "partOfSpeech": "noun",
+        "meaning": "how fast something happens",
+        "translation": "sürət"
+      },
+      {
+        "term": "steady",
+        "lemma": "steady",
+        "partOfSpeech": "adjective",
+        "meaning": "regular and not changing",
+        "translation": "sabit"
+      },
+      {
+        "term": "rhythm",
+        "lemma": "rhythm",
+        "partOfSpeech": "noun",
+        "meaning": "a regular pattern of sounds",
+        "translation": "ritm"
+      },
+      {
+        "term": "practicing",
+        "lemma": "practice",
+        "partOfSpeech": "verb",
+        "meaning": "doing something again and again to get better",
+        "translation": "məşq edir"
+      },
+      {
+        "term": "annoyed",
+        "lemma": "annoy",
+        "partOfSpeech": "verb",
+        "meaning": "a little angry",
+        "translation": "əsəbiləşmiş"
+      },
+      {
+        "term": "notes",
+        "lemma": "note",
+        "partOfSpeech": "noun",
+        "meaning": "single musical sounds",
+        "translation": "notlar"
+      },
+      {
+        "term": "again and again",
+        "lemma": "again and again",
+        "partOfSpeech": "phrase",
+        "meaning": "many times",
+        "translation": "dəfələrlə"
+      },
+      {
+        "term": "figured out",
+        "lemma": "figure out",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "understood after thinking or trying",
+        "translation": "başa düşdü, öyrəndi"
+      },
+      {
+        "term": "knocked on",
+        "lemma": "knock on",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "hit a door with your hand to ask to come in",
+        "translation": "döydü"
+      },
+      {
+        "term": "actually",
+        "lemma": "actually",
+        "partOfSpeech": "adverb",
+        "meaning": "really; in fact",
+        "translation": "doğrudan da"
+      },
+      {
+        "term": "mastered",
+        "lemma": "master",
+        "partOfSpeech": "verb",
+        "meaning": "learned to do something very well",
+        "translation": "mənimsəyib"
+      },
+      {
+        "term": "from beginning to end",
+        "lemma": "from beginning to end",
+        "partOfSpeech": "phrase",
+        "meaning": "the whole thing, from the start to the finish",
+        "translation": "əvvəldən axıra qədər"
+      },
+      {
+        "term": "tunes",
+        "lemma": "tune",
+        "partOfSpeech": "verb",
+        "meaning": "makes an instrument play the right notes",
+        "translation": "kökləyir"
+      },
+      {
+        "term": "practice",
+        "lemma": "practice",
+        "partOfSpeech": "noun",
+        "meaning": "a time when you practice",
+        "translation": "məşq"
+      },
+      {
+        "term": "nodded",
+        "lemma": "nod",
+        "partOfSpeech": "verb",
+        "meaning": "moved the head up and down to say yes",
+        "translation": "başını tərpətdi"
+      },
+      {
+        "term": "with a smile",
+        "lemma": "with a smile",
+        "partOfSpeech": "phrase",
+        "meaning": "while smiling",
+        "translation": "gülümsəyərək"
+      },
+      {
+        "term": "proud",
+        "lemma": "proud",
+        "partOfSpeech": "adjective",
+        "meaning": "pleased because of what someone has done",
+        "translation": "fəxr edən"
+      },
+      {
+        "term": "imagine",
+        "lemma": "imagine",
+        "partOfSpeech": "verb",
+        "meaning": "to make a picture of something in your mind",
+        "translation": "təsəvvür etmək"
+      },
+      {
+        "term": "quietly",
+        "lemma": "quietly",
+        "partOfSpeech": "adverb",
+        "meaning": "without making much noise",
+        "translation": "sakitcə"
+      },
+      {
+        "term": "tears",
+        "lemma": "tear",
+        "partOfSpeech": "noun",
+        "meaning": "drops of water from your eyes when you cry",
+        "translation": "göz yaşları"
+      }
+    ]
+  },
+  "grammar": {
+    "topic": "Present perfect continuous",
+    "topicTranslation": "Davamedici bitmiş indiki zaman (present perfect continuous)",
+    "explanation": "We use the present perfect continuous for an activity that started in the past and is still happening now, or has just stopped. It often answers the question How long...? with for or since. We form it with have/has + been + verb-ing. We usually don't use it with state verbs like know, like or want. With these verbs, we use the present perfect simple.",
+    "explanationTranslation": "Present perfect continuous keçmişdə başlayıb indi də davam edən və ya təzəcə bitmiş hərəkət üçün işlədilir. O, çox vaxt for və ya since ilə How long...? (Nə vaxtdan bəri...?) sualına cavab verir. Quruluşu: have/has + been + feil-ing. Adətən know, like, want kimi vəziyyət bildirən feillərlə işlədilmir. Bu feillərlə present perfect simple işlədilir.",
+    "rules": [
+      {
+        "text": "Form: have/has + been + verb-ing. (She has been practicing.)",
+        "translation": "Quruluş: have/has + been + feil-ing. (She has been practicing.)"
+      },
+      {
+        "text": "Use for with a period of time (for six months) and since with a starting point (since March).",
+        "translation": "Müddət üçün for (for six months), başlanğıc nöqtəsi üçün since (since March) işlədilir."
+      },
+      {
+        "text": "Negative: haven't/hasn't been + verb-ing. Question: Have/Has + subject + been + verb-ing?",
+        "translation": "İnkar: haven't/hasn't been + feil-ing. Sual: Have/Has + mübtəda + been + feil-ing?"
+      },
+      {
+        "text": "It can explain a present result of a recent activity: Your eyes are red. Have you been crying?",
+        "translation": "O, yaxın keçmişdəki hərəkətin indiki nəticəsini izah edə bilər: Your eyes are red. Have you been crying?"
+      },
+      {
+        "text": "Don't use it with state verbs (know, like, want, believe): say I have known him for years, not I have been knowing him.",
+        "translation": "Vəziyyət feilləri (know, like, want, believe) ilə işlədilmir: I have been knowing him yox, I have known him for years deyilir."
+      }
+    ],
+    "examples": [
+      {
+        "text": "I have been practicing the piano since September.",
+        "translation": "Sentyabrdan bəri pianoda məşq edirəm."
+      },
+      {
+        "text": "How long have you been learning this instrument?",
+        "translation": "Neçə vaxtdır bu aləti öyrənirsən?"
+      },
+      {
+        "text": "My fingers are sore because I have been playing all day.",
+        "translation": "Barmaqlarım ağrıyır, çünki bütün günü çalmışam."
+      },
+      {
+        "text": "The neighbors have been complaining about the noise for weeks.",
+        "translation": "Qonşular həftələrdir səs-küydən şikayətlənirlər."
+      },
+      {
+        "text": "She hasn't been sleeping well recently.",
+        "translation": "Son vaxtlar o, yaxşı yatmır."
+      }
+    ],
+    "exercise": {
+      "instructions": "Choose or write the correct form.",
+      "instructionsTranslation": "Düzgün formanı seçin və ya yazın.",
+      "questions": [
+        {
+          "type": "choice",
+          "prompt": "I ___ for the bus for twenty minutes, and it still isn't here.",
+          "promptTranslation": "Avtobusu iyirmi dəqiqədir gözləyirəm, hələ də gəlməyib.",
+          "options": [
+            "wait",
+            "have been waiting",
+            "waited"
+          ],
+          "answer": "have been waiting",
+          "explanation": "The waiting started in the past and is still happening.",
+          "explanationTranslation": "Gözləmək keçmişdə başlayıb və hələ də davam edir."
+        },
+        {
+          "type": "choice",
+          "prompt": "She has been studying English ___ 2024.",
+          "promptTranslation": "O, 2024-cü ildən bəri ingilis dilini öyrənir.",
+          "options": [
+            "for",
+            "since",
+            "from"
+          ],
+          "answer": "since",
+          "explanation": "Use since with a starting point.",
+          "explanationTranslation": "Başlanğıc nöqtəsi ilə since işlədilir."
+        },
+        {
+          "type": "choice",
+          "prompt": "I ___ Leyla since we were children.",
+          "promptTranslation": "Leylanı uşaqlıqdan tanıyıram.",
+          "options": [
+            "have known",
+            "have been knowing",
+            "am knowing"
+          ],
+          "answer": "have known",
+          "explanation": "Know is a state verb, so we use the present perfect simple.",
+          "explanationTranslation": "Know vəziyyət feilidir, ona görə present perfect simple işlədilir."
+        },
+        {
+          "type": "text",
+          "prompt": "They ___ (play) football all afternoon, so they are very tired.",
+          "promptTranslation": "Onlar bütün günortadan sonra futbol oynayıblar, ona görə çox yorğundurlar.",
+          "acceptedAnswers": [
+            "'ve been playing"
+          ],
+          "answer": "have been playing",
+          "explanation": "The activity explains a present result: they are tired.",
+          "explanationTranslation": "Hərəkət indiki nəticəni izah edir: onlar yorğundurlar."
+        },
+        {
+          "type": "text",
+          "prompt": "How long ___ (he / work) here?",
+          "promptTranslation": "O, nə vaxtdan burada işləyir?",
+          "acceptedAnswers": [],
+          "answer": "has he been working",
+          "explanation": "Question form: has + subject + been + verb-ing.",
+          "explanationTranslation": "Sual forması: has + mübtəda + been + feil-ing."
+        }
+      ]
+    }
+  }
+}
