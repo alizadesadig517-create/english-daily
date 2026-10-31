@@ -1,0 +1,967 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-31",
+  "level": "B1",
+  "translationLanguage": "az",
+  "words": [
+    {
+      "word": "hike",
+      "ipa": "/haɪk/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "piyada yürüş",
+          "definition": "a long walk in the countryside or mountains",
+          "synonyms": [
+            "walk",
+            "trek"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "We went on a hike in the forest last weekend.",
+              "translation": "Keçən həftə sonu meşədə piyada yürüşə çıxdıq."
+            },
+            {
+              "text": "It's a three-hour hike to the lake.",
+              "translation": "Gölə qədər üç saatlıq piyada yol var."
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "verb",
+          "translation": "piyada yürüş etmək",
+          "definition": "to go for a long walk in the countryside or mountains for pleasure",
+          "synonyms": [
+            "walk",
+            "trek"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "They love hiking in the mountains in summer.",
+              "translation": "Onlar yayda dağlarda piyada gəzməyi çox sevirlər."
+            },
+            {
+              "text": "We hiked for six hours and didn't meet anyone.",
+              "translation": "Altı saat piyada getdik və heç kimə rast gəlmədik."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "steep",
+      "ipa": "/stiːp/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "dik, sıldırım",
+          "definition": "going up or down very quickly, so it is hard to climb",
+          "synonyms": [
+            "sharp"
+          ],
+          "antonyms": [
+            "gentle",
+            "flat"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The road to the village is very steep.",
+              "translation": "Kəndə gedən yol çox dikdir."
+            },
+            {
+              "text": "We walked slowly down the steep hill.",
+              "translation": "Dik təpədən yavaş-yavaş aşağı endik."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "trail",
+      "ipa": "/treɪl/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "cığır",
+          "definition": "a path through the countryside, a forest or the mountains",
+          "synonyms": [
+            "path",
+            "track"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Follow the trail and you will reach the waterfall.",
+              "translation": "Cığırla getsən, şəlaləyə çatacaqsan."
+            },
+            {
+              "text": "Some trails are closed in winter because of the snow.",
+              "translation": "Bəzi cığırlar qışda qar səbəbindən bağlı olur."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "peak",
+      "ipa": "/piːk/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "zirvə",
+          "definition": "the pointed top of a mountain",
+          "synonyms": [
+            "top",
+            "summit"
+          ],
+          "antonyms": [
+            "bottom",
+            "foot"
+          ],
+          "homonyms": [
+            {
+              "word": "peek",
+              "meaning": "to look at something quickly and secretly",
+              "translation": "gizlicə baxmaq"
+            }
+          ],
+          "examples": [
+            {
+              "text": "The peak of the mountain was covered with snow.",
+              "translation": "Dağın zirvəsi qarla örtülmüşdü."
+            },
+            {
+              "text": "From the peak, you can see three villages.",
+              "translation": "Zirvədən üç kəndi görmək olar."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "valley",
+      "ipa": "/ˈvæli/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "vadi, dərə",
+          "definition": "a low area of land between hills or mountains, often with a river",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "A small river runs through the valley.",
+              "translation": "Vadidən kiçik bir çay axır."
+            },
+            {
+              "text": "The village lies in a green valley.",
+              "translation": "Kənd yaşıl bir vadidə yerləşir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "exhausted",
+      "ipa": "/ɪɡˈzɔːstɪd/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "əldən düşmüş, çox yorğun",
+          "definition": "extremely tired",
+          "synonyms": [
+            "worn out",
+            "tired"
+          ],
+          "antonyms": [
+            "energetic",
+            "fresh"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "After the long flight, I was exhausted.",
+              "translation": "Uzun uçuşdan sonra əldən düşmüşdüm."
+            },
+            {
+              "text": "The exhausted runners sat down on the grass.",
+              "translation": "Əldən düşmüş qaçışçılar otun üstündə oturdular."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "backpack",
+      "ipa": "/ˈbækpæk/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "bel çantası",
+          "definition": "a bag that you carry on your back",
+          "synonyms": [
+            "rucksack"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Don't forget to put a bottle of water in your backpack.",
+              "translation": "Bel çantana bir şüşə su qoymağı unutma."
+            },
+            {
+              "text": "The children were carrying heavy backpacks full of books.",
+              "translation": "Uşaqlar kitabla dolu ağır bel çantaları daşıyırdılar."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "blister",
+      "ipa": "/ˈblɪstər/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "qabar",
+          "definition": "a small, painful bubble of liquid on the skin, often caused by shoes",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "My new shoes gave me a blister.",
+              "translation": "Yeni ayaqqabılarım ayağımda qabar əmələ gətirdi."
+            },
+            {
+              "text": "He had blisters on his hands after working in the garden.",
+              "translation": "Bağda işlədikdən sonra onun əllərində qabarlar əmələ gəlmişdi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "slip",
+      "ipa": "/slɪp/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "sürüşmək",
+          "definition": "to slide by accident on a wet or smooth surface and almost fall",
+          "synonyms": [
+            "slide",
+            "skid"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Be careful, or you might slip on the wet floor.",
+              "translation": "Ehtiyatlı ol, yoxsa yaş döşəmədə sürüşə bilərsən."
+            },
+            {
+              "text": "She slipped on the ice and hurt her knee.",
+              "translation": "O, buzun üstündə sürüşüb dizini zədələdi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "edge",
+      "ipa": "/ɛdʒ/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "kənar, qıraq",
+          "definition": "the outside part or line of something, where it ends",
+          "synonyms": [
+            "side",
+            "border"
+          ],
+          "antonyms": [
+            "center",
+            "middle"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Don't stand too close to the edge of the platform.",
+              "translation": "Platformanın kənarına çox yaxın durma."
+            },
+            {
+              "text": "There is a small café on the edge of the town.",
+              "translation": "Şəhərin kənarında kiçik bir kafe var."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "fog",
+      "ipa": "/fɑːɡ/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "duman",
+          "definition": "thick cloud near the ground that makes it difficult to see",
+          "synonyms": [
+            "mist"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The flight was late because of heavy fog.",
+              "translation": "Qatı duman səbəbindən reys gecikdi."
+            },
+            {
+              "text": "In the morning, fog covered the whole town.",
+              "translation": "Səhər duman bütün şəhəri bürümüşdü."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "shortcut",
+      "ipa": "/ˈʃɔːrtkʌt/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "qısa yol",
+          "definition": "a quicker or shorter way to get somewhere or to do something",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "We took a shortcut through the park.",
+              "translation": "Parkın içindən qısa yolla getdik."
+            },
+            {
+              "text": "There is no shortcut to learning a language.",
+              "translation": "Dil öyrənməyin qısa yolu yoxdur."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "stream",
+      "ipa": "/striːm/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "kiçik çay, arx",
+          "definition": "a small, narrow river",
+          "synonyms": [
+            "brook",
+            "creek"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The children played by the stream all afternoon.",
+              "translation": "Uşaqlar günortadan sonra bütün vaxtı kiçik çayın kənarında oynadılar."
+            },
+            {
+              "text": "We crossed the stream on a wooden bridge.",
+              "translation": "Kiçik çayı taxta körpü ilə keçdik."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "set off",
+      "ipa": "/ˌsɛt ˈɔːf/",
+      "senses": [
+        {
+          "partOfSpeech": "phrasal verb",
+          "translation": "yola düşmək",
+          "definition": "to start a journey",
+          "synonyms": [
+            "leave",
+            "depart",
+            "set out"
+          ],
+          "antonyms": [
+            "arrive"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "We set off for the village at six in the morning.",
+              "translation": "Səhər saat altıda kəndə yola düşdük."
+            },
+            {
+              "text": "If we set off now, we'll be there before dark.",
+              "translation": "İndi yola düşsək, qaranlıq düşməmiş orada olarıq."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "spectacular",
+      "ipa": "/spɛkˈtækjələr/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "heyrətamiz, möhtəşəm",
+          "definition": "very beautiful or exciting to look at",
+          "synonyms": [
+            "amazing",
+            "stunning",
+            "impressive"
+          ],
+          "antonyms": [
+            "ordinary",
+            "dull"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The view from the top of the tower is spectacular.",
+              "translation": "Qüllənin başından açılan mənzərə heyrətamizdir."
+            },
+            {
+              "text": "We watched a spectacular sunset over the sea.",
+              "translation": "Dənizin üzərində möhtəşəm gün batımını seyr etdik."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "story": {
+    "title": "The Shortcut",
+    "titleTranslation": "Qısa yol",
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "Last Saturday, Tural and his sister Gunel went on a hike in the mountains near Gabala, which is famous for its forests and fresh air.",
+            "translation": "Keçən şənbə Tural və bacısı Günel meşələri və təmiz havası ilə məşhur olan Qəbələ yaxınlığındakı dağlarda piyada yürüşə çıxdılar."
+          },
+          {
+            "text": "They set off early in the morning with sandwiches, water and a map in their backpacks.",
+            "translation": "Onlar səhər tezdən bel çantalarında sendviç, su və xəritə ilə yola düşdülər."
+          },
+          {
+            "text": "The trail went through a green valley and along a small stream.",
+            "translation": "Cığır yaşıl bir vadidən keçir və kiçik bir çayın kənarı ilə uzanırdı."
+          },
+          {
+            "text": "Gunel, who had never hiked before, was taking photos of everything.",
+            "translation": "Əvvəllər heç vaxt yürüşə çıxmamış Günel hər şeyin şəklini çəkirdi."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "By noon, they could see the peak above them.",
+            "translation": "Günortaya yaxın onlar yuxarıda zirvəni görə bilirdilər."
+          },
+          {
+            "text": "“Let's take a shortcut,” Tural said, pointing to a narrow path that went straight up the mountain.",
+            "translation": "“Gəl qısa yolla gedək,” – deyə Tural dağa düz yuxarı qalxan dar bir cığırı göstərdi."
+          },
+          {
+            "text": "It looked faster, but it was much steeper than the main trail.",
+            "translation": "Bu yol daha qısa görünürdü, amma əsas cığırdan xeyli dik idi."
+          },
+          {
+            "text": "Halfway up, Gunel slipped on some loose stones and almost fell.",
+            "translation": "Yolun yarısında Günel yerindən oynayan daşların üstündə sürüşdü və az qala yıxılacaqdı."
+          },
+          {
+            "text": "Her new boots, which she had bought the day before, were giving her painful blisters.",
+            "translation": "Bir gün əvvəl aldığı yeni çəkmələr onun ayaqlarında ağrılı qabarlar əmələ gətirirdi."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Then the weather suddenly changed, and thick fog came down from the mountain.",
+            "translation": "Sonra hava birdən dəyişdi və dağdan qatı duman endi."
+          },
+          {
+            "text": "They couldn't see more than a few meters, so they sat down on a big rock, far from the edge of the path, and waited.",
+            "translation": "Onlar bir neçə metrdən o yana heç nə görə bilmirdilər, ona görə də cığırın kənarından uzaqda, iri bir qayanın üstündə oturub gözlədilər."
+          },
+          {
+            "text": "Tural, who usually makes jokes, was very quiet.",
+            "translation": "Adətən zarafat edən Tural çox sakit idi."
+          },
+          {
+            "text": "“I'm sorry,” he said at last. “The shortcut was a bad idea.”",
+            "translation": "“Bağışla,” – deyə o, nəhayət, dilləndi. “Qısa yol pis fikir idi.”"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Half an hour later, the fog lifted, and they slowly went back down to the main trail.",
+            "translation": "Yarım saat sonra duman çəkildi və onlar yavaş-yavaş aşağı enib əsas cığıra qayıtdılar."
+          },
+          {
+            "text": "They reached the top in the late afternoon, completely exhausted.",
+            "translation": "Onlar axşamüstü, tamamilə əldən düşmüş halda zirvəyə çatdılar."
+          },
+          {
+            "text": "But the view from there was spectacular: the whole valley was shining in the golden light.",
+            "translation": "Amma oradan açılan mənzərə heyrətamiz idi: bütün vadi qızılı işıqda parıldayırdı."
+          },
+          {
+            "text": "Gunel laughed. “Next time, we'll take the long way,” she said.",
+            "translation": "Günel güldü. “Gələn dəfə uzun yolla gedəcəyik,” – dedi."
+          }
+        ]
+      }
+    ],
+    "glossary": [
+      {
+        "term": "went on a hike",
+        "lemma": "go on a hike",
+        "partOfSpeech": "phrase",
+        "meaning": "went for a long walk in the mountains",
+        "translation": "piyada yürüşə çıxdılar"
+      },
+      {
+        "term": "famous for",
+        "lemma": "famous for",
+        "partOfSpeech": "phrase",
+        "meaning": "well known because of something",
+        "translation": "... ilə məşhur"
+      },
+      {
+        "term": "fresh air",
+        "lemma": "fresh air",
+        "partOfSpeech": "phrase",
+        "meaning": "clean air outside",
+        "translation": "təmiz hava"
+      },
+      {
+        "term": "set off",
+        "lemma": "set off",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "started a journey",
+        "translation": "yola düşdülər"
+      },
+      {
+        "term": "backpacks",
+        "lemma": "backpack",
+        "partOfSpeech": "noun",
+        "meaning": "bags that you carry on your back",
+        "translation": "bel çantaları"
+      },
+      {
+        "term": "trail",
+        "lemma": "trail",
+        "partOfSpeech": "noun",
+        "meaning": "a path in the mountains or a forest",
+        "translation": "cığır"
+      },
+      {
+        "term": "valley",
+        "lemma": "valley",
+        "partOfSpeech": "noun",
+        "meaning": "low land between mountains",
+        "translation": "vadi"
+      },
+      {
+        "term": "along",
+        "lemma": "along",
+        "partOfSpeech": "preposition",
+        "meaning": "following the side of something",
+        "translation": "boyunca, kənarı ilə"
+      },
+      {
+        "term": "stream",
+        "lemma": "stream",
+        "partOfSpeech": "noun",
+        "meaning": "a small, narrow river",
+        "translation": "kiçik çay"
+      },
+      {
+        "term": "hiked",
+        "lemma": "hike",
+        "partOfSpeech": "verb",
+        "meaning": "went for a long walk in nature",
+        "translation": "yürüşə çıxmış"
+      },
+      {
+        "term": "taking photos",
+        "lemma": "take a photo",
+        "partOfSpeech": "phrase",
+        "meaning": "making pictures with a camera or phone",
+        "translation": "şəkil çəkirdi"
+      },
+      {
+        "term": "by noon",
+        "lemma": "by noon",
+        "partOfSpeech": "phrase",
+        "meaning": "not later than 12 o'clock in the day",
+        "translation": "günortaya yaxın"
+      },
+      {
+        "term": "peak",
+        "lemma": "peak",
+        "partOfSpeech": "noun",
+        "meaning": "the top of a mountain",
+        "translation": "zirvə"
+      },
+      {
+        "term": "take a shortcut",
+        "lemma": "take a shortcut",
+        "partOfSpeech": "phrase",
+        "meaning": "to go a shorter or quicker way",
+        "translation": "qısa yolla getmək"
+      },
+      {
+        "term": "shortcut",
+        "lemma": "shortcut",
+        "partOfSpeech": "noun",
+        "meaning": "a shorter or quicker way",
+        "translation": "qısa yol"
+      },
+      {
+        "term": "pointing to",
+        "lemma": "point to",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "showing something with your finger",
+        "translation": "göstərərək"
+      },
+      {
+        "term": "narrow",
+        "lemma": "narrow",
+        "partOfSpeech": "adjective",
+        "meaning": "not wide",
+        "translation": "dar"
+      },
+      {
+        "term": "path",
+        "lemma": "path",
+        "partOfSpeech": "noun",
+        "meaning": "a small road for walking",
+        "translation": "cığır"
+      },
+      {
+        "term": "straight up",
+        "lemma": "straight up",
+        "partOfSpeech": "phrase",
+        "meaning": "directly to the top",
+        "translation": "düz yuxarı"
+      },
+      {
+        "term": "steeper",
+        "lemma": "steep",
+        "partOfSpeech": "adjective",
+        "meaning": "going up more sharply",
+        "translation": "daha dik"
+      },
+      {
+        "term": "main",
+        "lemma": "main",
+        "partOfSpeech": "adjective",
+        "meaning": "the biggest or most important",
+        "translation": "əsas"
+      },
+      {
+        "term": "halfway up",
+        "lemma": "halfway up",
+        "partOfSpeech": "phrase",
+        "meaning": "in the middle of the way to the top",
+        "translation": "yolun yarısında"
+      },
+      {
+        "term": "slipped",
+        "lemma": "slip",
+        "partOfSpeech": "verb",
+        "meaning": "slid by accident and almost fell",
+        "translation": "sürüşdü"
+      },
+      {
+        "term": "loose",
+        "lemma": "loose",
+        "partOfSpeech": "adjective",
+        "meaning": "not fixed firmly in place",
+        "translation": "yerindən oynayan"
+      },
+      {
+        "term": "boots",
+        "lemma": "boot",
+        "partOfSpeech": "noun",
+        "meaning": "strong shoes that cover the ankle",
+        "translation": "çəkmələr"
+      },
+      {
+        "term": "the day before",
+        "lemma": "the day before",
+        "partOfSpeech": "phrase",
+        "meaning": "on the previous day",
+        "translation": "bir gün əvvəl"
+      },
+      {
+        "term": "painful",
+        "lemma": "painful",
+        "partOfSpeech": "adjective",
+        "meaning": "causing pain",
+        "translation": "ağrılı"
+      },
+      {
+        "term": "blisters",
+        "lemma": "blister",
+        "partOfSpeech": "noun",
+        "meaning": "small painful bubbles on the skin",
+        "translation": "qabarlar"
+      },
+      {
+        "term": "suddenly",
+        "lemma": "suddenly",
+        "partOfSpeech": "adverb",
+        "meaning": "quickly and without warning",
+        "translation": "birdən"
+      },
+      {
+        "term": "thick",
+        "lemma": "thick",
+        "partOfSpeech": "adjective",
+        "meaning": "difficult to see through",
+        "translation": "qatı"
+      },
+      {
+        "term": "fog",
+        "lemma": "fog",
+        "partOfSpeech": "noun",
+        "meaning": "cloud near the ground",
+        "translation": "duman"
+      },
+      {
+        "term": "came down",
+        "lemma": "come down",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "moved down from a higher place",
+        "translation": "endi"
+      },
+      {
+        "term": "edge",
+        "lemma": "edge",
+        "partOfSpeech": "noun",
+        "meaning": "the side where something ends",
+        "translation": "kənar"
+      },
+      {
+        "term": "makes jokes",
+        "lemma": "make a joke",
+        "partOfSpeech": "phrase",
+        "meaning": "says funny things",
+        "translation": "zarafat edir"
+      },
+      {
+        "term": "at last",
+        "lemma": "at last",
+        "partOfSpeech": "phrase",
+        "meaning": "finally, after a long time",
+        "translation": "nəhayət"
+      },
+      {
+        "term": "lifted",
+        "lemma": "lift",
+        "partOfSpeech": "verb",
+        "meaning": "went away (about fog or clouds)",
+        "translation": "çəkildi"
+      },
+      {
+        "term": "went back down",
+        "lemma": "go back down",
+        "partOfSpeech": "phrase",
+        "meaning": "returned to a lower place",
+        "translation": "geri endilər"
+      },
+      {
+        "term": "reached",
+        "lemma": "reach",
+        "partOfSpeech": "verb",
+        "meaning": "arrived at a place",
+        "translation": "çatdılar"
+      },
+      {
+        "term": "completely",
+        "lemma": "completely",
+        "partOfSpeech": "adverb",
+        "meaning": "totally",
+        "translation": "tamamilə"
+      },
+      {
+        "term": "exhausted",
+        "lemma": "exhausted",
+        "partOfSpeech": "adjective",
+        "meaning": "extremely tired",
+        "translation": "əldən düşmüş"
+      },
+      {
+        "term": "view",
+        "lemma": "view",
+        "partOfSpeech": "noun",
+        "meaning": "what you can see from a place",
+        "translation": "mənzərə"
+      },
+      {
+        "term": "spectacular",
+        "lemma": "spectacular",
+        "partOfSpeech": "adjective",
+        "meaning": "very beautiful to look at",
+        "translation": "heyrətamiz"
+      },
+      {
+        "term": "shining",
+        "lemma": "shine",
+        "partOfSpeech": "verb",
+        "meaning": "giving out bright light",
+        "translation": "parıldayırdı"
+      },
+      {
+        "term": "golden",
+        "lemma": "golden",
+        "partOfSpeech": "adjective",
+        "meaning": "the color of gold",
+        "translation": "qızılı"
+      },
+      {
+        "term": "take the long way",
+        "lemma": "take the long way",
+        "partOfSpeech": "phrase",
+        "meaning": "to go by the longer road",
+        "translation": "uzun yolla getmək"
+      }
+    ]
+  },
+  "grammar": {
+    "topic": "Non-defining relative clauses",
+    "topicTranslation": "Təyin etməyən budaq cümlələr (non-defining relative clauses)",
+    "explanation": "A non-defining relative clause gives extra information about a person, a thing or a place. The sentence is still clear without it. We put commas around it. We use who for people, which for things and where for places. We cannot use that in a non-defining clause.",
+    "explanationTranslation": "Təyin etməyən budaq cümlə şəxs, əşya və ya yer haqqında əlavə məlumat verir. Bu hissə olmadan da cümlənin mənası aydındır. Onu vergüllərlə ayırırıq. İnsanlar üçün who, əşyalar üçün which, yerlər üçün where işlədilir. Bu cür budaq cümlələrdə that işlətmək olmaz.",
+    "rules": [
+      {
+        "text": "Put commas around the extra information: My brother, who lives in Baku, is a doctor.",
+        "translation": "Əlavə məlumatı vergüllərlə ayırın: My brother, who lives in Baku, is a doctor."
+      },
+      {
+        "text": "Use who for people, which for things and animals, and where for places.",
+        "translation": "İnsanlar üçün who, əşya və heyvanlar üçün which, yerlər üçün where işlədin."
+      },
+      {
+        "text": "Use whose to show possession: Gunel, whose boots were new, had blisters.",
+        "translation": "Yiyəliyi göstərmək üçün whose işlədin: Gunel, whose boots were new, had blisters."
+      },
+      {
+        "text": "Never use that in a non-defining clause: say My car, which is old, not My car, that is old.",
+        "translation": "Bu cür budaq cümlələrdə that işlədilmir: My car, that is old yox, My car, which is old deyilir."
+      },
+      {
+        "text": "If you remove the clause, the sentence still makes sense: My brother is a doctor.",
+        "translation": "Budaq cümləni çıxarsanız da, cümlə mənalı qalır: My brother is a doctor."
+      }
+    ],
+    "examples": [
+      {
+        "text": "Gabala, which is in the north of Azerbaijan, is great for hiking.",
+        "translation": "Azərbaycanın şimalında yerləşən Qəbələ piyada yürüş üçün əla yerdir."
+      },
+      {
+        "text": "My uncle, who is a mountain guide, knows every trail here.",
+        "translation": "Dağ bələdçisi olan əmim buradakı hər cığırı tanıyır."
+      },
+      {
+        "text": "We stayed at a small hotel, where the food was excellent.",
+        "translation": "Kiçik bir oteldə qaldıq, orada yeməklər əla idi."
+      },
+      {
+        "text": "My backpack, which I bought last year, is already broken.",
+        "translation": "Keçən il aldığım bel çantası artıq xarab olub."
+      },
+      {
+        "text": "Gunel, whose feet were sore, sat down to rest.",
+        "translation": "Ayaqları ağrıyan Günel dincəlmək üçün oturdu."
+      }
+    ],
+    "exercise": {
+      "instructions": "Choose or write the correct relative pronoun.",
+      "instructionsTranslation": "Düzgün nisbi əvəzliyi seçin və ya yazın.",
+      "questions": [
+        {
+          "type": "choice",
+          "prompt": "My sister, ___ lives in Ganja, is a nurse.",
+          "promptTranslation": "Gəncədə yaşayan bacım tibb bacısıdır.",
+          "options": [
+            "who",
+            "which",
+            "that"
+          ],
+          "answer": "who",
+          "explanation": "Use who for people. That is not possible in a non-defining clause.",
+          "explanationTranslation": "İnsanlar üçün who işlədilir. Bu cür budaq cümlədə that işlətmək olmaz."
+        },
+        {
+          "type": "choice",
+          "prompt": "The Caspian Sea, ___ is the largest lake in the world, is very beautiful.",
+          "promptTranslation": "Dünyanın ən böyük gölü olan Xəzər dənizi çox gözəldir.",
+          "options": [
+            "who",
+            "which",
+            "where"
+          ],
+          "answer": "which",
+          "explanation": "Use which for things and places when they are the subject of the clause.",
+          "explanationTranslation": "Əşya və yer budaq cümlənin mübtədası olanda which işlədilir."
+        },
+        {
+          "type": "choice",
+          "prompt": "We visited Sheki, ___ we tried the famous halva.",
+          "promptTranslation": "Şəkiyə getdik və orada məşhur halvanı daddıq.",
+          "options": [
+            "which",
+            "where",
+            "who"
+          ],
+          "answer": "where",
+          "explanation": "Use where to say what happens in a place.",
+          "explanationTranslation": "Bir yerdə nə baş verdiyini bildirmək üçün where işlədilir."
+        },
+        {
+          "type": "text",
+          "prompt": "Mr. Aliyev, ___ (possession) son is my friend, is a doctor.",
+          "promptTranslation": "Oğlu mənim dostum olan Əliyev bəy həkimdir.",
+          "acceptedAnswers": [],
+          "answer": "whose",
+          "explanation": "Use whose to show that something belongs to someone.",
+          "explanationTranslation": "Nəyinsə kiməsə aid olduğunu göstərmək üçün whose işlədilir."
+        },
+        {
+          "type": "text",
+          "prompt": "This phone, ___ (thing) I bought last month, has stopped working.",
+          "promptTranslation": "Keçən ay aldığım bu telefon artıq işləmir.",
+          "acceptedAnswers": [],
+          "answer": "which",
+          "explanation": "Use which for things. That is not possible after a comma.",
+          "explanationTranslation": "Əşyalar üçün which işlədilir. Vergüldən sonra that işlətmək olmaz."
+        }
+      ]
+    }
+  }
+}
