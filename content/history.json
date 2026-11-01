@@ -1859,6 +1859,66 @@
     {
       "word": "spectacular",
       "date": "2026-10-31"
+    },
+    {
+      "word": "blackout",
+      "date": "2026-11-01"
+    },
+    {
+      "word": "candle",
+      "date": "2026-11-01"
+    },
+    {
+      "word": "flashlight",
+      "date": "2026-11-01"
+    },
+    {
+      "word": "blanket",
+      "date": "2026-11-01"
+    },
+    {
+      "word": "shiver",
+      "date": "2026-11-01"
+    },
+    {
+      "word": "gather",
+      "date": "2026-11-01"
+    },
+    {
+      "word": "warmth",
+      "date": "2026-11-01"
+    },
+    {
+      "word": "dull",
+      "date": "2026-11-01"
+    },
+    {
+      "word": "board game",
+      "date": "2026-11-01"
+    },
+    {
+      "word": "pretend",
+      "date": "2026-11-01"
+    },
+    {
+      "word": "giggle",
+      "date": "2026-11-01"
+    },
+    {
+      "word": "silence",
+      "date": "2026-11-01"
+    },
+    {
+      "word": "unexpected",
+      "date": "2026-11-01"
+    },
+    {
+      "word": "run out of",
+      "date": "2026-11-01"
+    },
+    {
+      "word": "notice",
+      "date": "2026-11-01"
     }
   ],
   "grammarTopics": [
@@ -1985,6 +2045,10 @@
     {
       "topic": "Non-defining relative clauses",
       "date": "2026-10-31"
+    },
+    {
+      "topic": "Past perfect simple",
+      "date": "2026-11-01"
     }
   ]
 }

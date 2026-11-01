@@ -1,0 +1,917 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-01",
+  "level": "B1",
+  "translationLanguage": "az",
+  "words": [
+    {
+      "word": "blackout",
+      "ipa": "/ˈblækaʊt/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "işığın kəsilməsi, elektrik kəsintisi",
+          "definition": "a time when there is no electricity in an area",
+          "synonyms": [
+            "power cut",
+            "outage"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The storm caused a blackout in the whole city.",
+              "translation": "Fırtına bütün şəhərdə işığın kəsilməsinə səbəb oldu."
+            },
+            {
+              "text": "During the blackout, we used candles.",
+              "translation": "İşıq kəsiləndə şamlardan istifadə etdik."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "candle",
+      "ipa": "/ˈkændl/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "şam",
+          "definition": "a stick of wax that you burn to give light",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "She put eight candles on the birthday cake.",
+              "translation": "O, ad günü tortunun üstünə səkkiz şam qoydu."
+            },
+            {
+              "text": "We had dinner by the light of a candle.",
+              "translation": "Şam işığında axşam yeməyi yedik."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "flashlight",
+      "ipa": "/ˈflæʃlaɪt/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "fənər",
+          "definition": "a small electric light that you hold in your hand",
+          "synonyms": [
+            "torch"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Take a flashlight with you. It's dark outside.",
+              "translation": "Özünlə fənər götür. Çöldə qaranlıqdır."
+            },
+            {
+              "text": "He looked for his keys with a flashlight.",
+              "translation": "O, açarlarını fənərlə axtardı."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "blanket",
+      "ipa": "/ˈblæŋkɪt/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "yorğan, adyal",
+          "definition": "a large, warm cover that you put on a bed or around your body",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "It's cold tonight, so take an extra blanket.",
+              "translation": "Bu gecə soyuqdur, bir yorğan da götür."
+            },
+            {
+              "text": "The baby was sleeping under a soft blanket.",
+              "translation": "Körpə yumşaq adyalın altında yatırdı."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "shiver",
+      "ipa": "/ˈʃɪvər/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "titrəmək, əsmək",
+          "definition": "to shake a little because you are cold or afraid",
+          "synonyms": [
+            "shake",
+            "tremble"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "We were shivering at the bus stop.",
+              "translation": "Avtobus dayanacağında titrəyirdik."
+            },
+            {
+              "text": "She shivered when she opened the window.",
+              "translation": "Pəncərəni açanda o, titrədi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "gather",
+      "ipa": "/ˈɡæðər/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "toplaşmaq, yığışmaq; toplamaq",
+          "definition": "to come together in one place, or to collect things",
+          "synonyms": [
+            "meet",
+            "collect"
+          ],
+          "antonyms": [
+            "scatter"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The whole family gathered at Grandma's house for dinner.",
+              "translation": "Bütün ailə axşam yeməyi üçün nənənin evinə yığışdı."
+            },
+            {
+              "text": "We gathered wood for the fire.",
+              "translation": "Tonqal üçün odun topladıq."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "warmth",
+      "ipa": "/wɔːrmθ/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "istilik; hərarət, səmimiyyət",
+          "definition": "the feeling of being warm, or a friendly and kind feeling",
+          "synonyms": [
+            "heat",
+            "kindness"
+          ],
+          "antonyms": [
+            "coldness"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "We sat close to the stove to enjoy its warmth.",
+              "translation": "İstisindən zövq almaq üçün sobaya yaxın oturduq."
+            },
+            {
+              "text": "I'll never forget the warmth of their welcome.",
+              "translation": "Onların səmimi qarşılamasını heç vaxt unutmaram."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "dull",
+      "ipa": "/dʌl/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "darıxdırıcı, maraqsız",
+          "definition": "boring and not interesting",
+          "synonyms": [
+            "boring",
+            "uninteresting"
+          ],
+          "antonyms": [
+            "exciting",
+            "interesting"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The lecture was so dull that I almost fell asleep.",
+              "translation": "Mühazirə o qədər darıxdırıcı idi ki, az qala yuxuya gedəcəkdim."
+            },
+            {
+              "text": "Life in a small town can be a bit dull.",
+              "translation": "Kiçik şəhərdə həyat bir az darıxdırıcı ola bilər."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "board game",
+      "ipa": "/ˈbɔːrd ɡeɪm/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "stolüstü oyun",
+          "definition": "a game that you play by moving pieces on a special board, like chess",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Chess is my favorite board game.",
+              "translation": "Şahmat mənim ən sevdiyim stolüstü oyundur."
+            },
+            {
+              "text": "We played a board game on Sunday evening.",
+              "translation": "Bazar axşamı stolüstü oyun oynadıq."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "pretend",
+      "ipa": "/prɪˈtɛnd/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "özünü ... kimi göstərmək, ...mış kimi etmək",
+          "definition": "to act as if something is true when it is not, often as a game",
+          "synonyms": [
+            "act",
+            "fake"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "He pretended to be asleep when his mother came in.",
+              "translation": "Anası içəri girəndə o, özünü yatmış kimi göstərdi."
+            },
+            {
+              "text": "The kids are pretending to be doctors.",
+              "translation": "Uşaqlar həkimcik oynayırlar."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "giggle",
+      "ipa": "/ˈɡɪɡl/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "xısın-xısın gülmək",
+          "definition": "to laugh in a quiet, silly way, often because something is funny or you are nervous",
+          "synonyms": [
+            "laugh",
+            "chuckle"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The girls giggled at the back of the class.",
+              "translation": "Qızlar sinfin arxasında xısın-xısın gülürdülər."
+            },
+            {
+              "text": "Stop giggling and listen to me!",
+              "translation": "Xısın-xısın gülməyi kəs və mənə qulaq as!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "silence",
+      "ipa": "/ˈsaɪləns/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "sükut, səssizlik",
+          "definition": "a time or state when there is no sound or nobody speaks",
+          "synonyms": [
+            "quiet"
+          ],
+          "antonyms": [
+            "noise"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "There was a long silence after his question.",
+              "translation": "Onun sualından sonra uzun bir sükut yarandı."
+            },
+            {
+              "text": "I love the silence of the forest early in the morning.",
+              "translation": "Səhər tezdən meşənin səssizliyini çox sevirəm."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unexpected",
+      "ipa": "/ˌʌnɪkˈspɛktɪd/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "gözlənilməz",
+          "definition": "surprising because you did not think it would happen",
+          "synonyms": [
+            "surprising",
+            "sudden"
+          ],
+          "antonyms": [
+            "expected",
+            "predictable"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "My uncle paid us an unexpected visit.",
+              "translation": "Əmim bizə gözlənilmədən qonaq gəldi."
+            },
+            {
+              "text": "The ending of the film was completely unexpected.",
+              "translation": "Filmin sonu tamamilə gözlənilməz idi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "run out of",
+      "ipa": "/ˌrʌn ˈaʊt əv/",
+      "senses": [
+        {
+          "partOfSpeech": "phrasal verb",
+          "translation": "qurtarmaq, tükənmək",
+          "definition": "to use all of something so that there is none left",
+          "synonyms": [
+            "use up"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "We've run out of milk, so I'll buy some.",
+              "translation": "Südümüz qurtarıb, ona görə bir az alacağam."
+            },
+            {
+              "text": "My phone is running out of battery.",
+              "translation": "Telefonumun batareyası bitmək üzrədir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "notice",
+      "ipa": "/ˈnoʊtɪs/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "fərqinə varmaq, hiss etmək",
+          "definition": "to see, hear or feel something and become aware of it",
+          "synonyms": [
+            "see",
+            "spot",
+            "observe"
+          ],
+          "antonyms": [
+            "ignore",
+            "miss"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Did you notice anything strange about him?",
+              "translation": "Onda qəribə bir şey hiss etdin?"
+            },
+            {
+              "text": "I noticed that my keys were missing.",
+              "translation": "Açarlarımın yerində olmadığını fərq etdim."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "story": {
+    "title": "The Night the Lights Went Out",
+    "titleTranslation": "İşıqların söndüyü gecə",
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "One cold November evening, there was a sudden blackout in Leyla's building.",
+            "translation": "Noyabrın soyuq bir axşamı Leylanın yaşadığı binada qəfildən işıq kəsildi."
+          },
+          {
+            "text": "Leyla had just started cooking dinner, and her two children had just turned on the TV.",
+            "translation": "Leyla axşam yeməyini təzəcə bişirməyə başlamışdı, iki uşağı isə televizoru yenicə yandırmışdı."
+          },
+          {
+            "text": "Suddenly, everything went dark and quiet.",
+            "translation": "Birdən hər yer qaranlığa və sükuta qərq oldu."
+          },
+          {
+            "text": "Five-year-old Nihad grabbed his mother's hand and asked, “What happened?”",
+            "translation": "Beş yaşlı Nihad anasının əlindən yapışıb soruşdu: “Nə oldu?”"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Leyla found a flashlight in the kitchen drawer, but the battery soon died.",
+            "translation": "Leyla mətbəx çekməcəsində fənər tapdı, amma onun batareyası tezliklə bitdi."
+          },
+          {
+            "text": "She realized that she had forgotten to buy new batteries, and they had completely run out of them.",
+            "translation": "O, yeni batareya almağı unutduğunu anladı, evdə isə bir dənə də batareya qalmamışdı."
+          },
+          {
+            "text": "Luckily, her grandmother had given her a box of candles the year before.",
+            "translation": "Xoşbəxtlikdən, nənəsi bir il əvvəl ona bir qutu şam vermişdi."
+          },
+          {
+            "text": "Leyla lit three candles and put them on the table.",
+            "translation": "Leyla üç şam yandırıb masanın üstünə qoydu."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Without the heat, the apartment quickly got cold, and the children started to shiver.",
+            "translation": "İstilik olmadığı üçün mənzil tez soyudu və uşaqlar titrəməyə başladılar."
+          },
+          {
+            "text": "Leyla brought the thickest blanket from the bedroom, and they all gathered on the sofa.",
+            "translation": "Leyla yataq otağından ən qalın yorğanı gətirdi və hamısı divanda bir yerə yığışdılar."
+          },
+          {
+            "text": "“This is so dull,” said eight-year-old Aylin. “There's nothing to do.”",
+            "translation": "“Bu, çox darıxdırıcıdır,” – deyə səkkiz yaşlı Aylin dedi. “Heç nə edə bilmirik.”"
+          },
+          {
+            "text": "So Leyla took out an old board game that nobody had played for years.",
+            "translation": "Ona görə də Leyla illərdir heç kimin oynamadığı köhnə bir stolüstü oyun çıxardı."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "They played by candlelight, and Nihad pretended to be a king who never lost.",
+            "translation": "Onlar şam işığında oynadılar, Nihad isə özünü heç vaxt uduzmayan bir kral kimi göstərirdi."
+          },
+          {
+            "text": "The children giggled at his silly rules, and Leyla laughed too.",
+            "translation": "Uşaqlar onun gülməli qaydalarına xısın-xısın gülürdülər, Leyla da gülürdü."
+          },
+          {
+            "text": "She noticed that nobody had looked at a phone for two hours.",
+            "translation": "O fərqinə vardı ki, iki saat ərzində heç kim telefona baxmamışdı."
+          },
+          {
+            "text": "When the lights came back on, there was a moment of silence.",
+            "translation": "İşıqlar yenidən yananda bir anlıq sükut çökdü."
+          },
+          {
+            "text": "Then Aylin said, “Mom, can we turn them off again?”",
+            "translation": "Sonra Aylin dedi: “Ana, onları yenidən söndürə bilərikmi?”"
+          },
+          {
+            "text": "It had been an unexpected evening, full of warmth and laughter.",
+            "translation": "Bu, gözlənilməz, hərarət və gülüşlə dolu bir axşam olmuşdu."
+          }
+        ]
+      }
+    ],
+    "glossary": [
+      {
+        "term": "sudden",
+        "lemma": "sudden",
+        "partOfSpeech": "adjective",
+        "meaning": "happening quickly and without warning",
+        "translation": "qəfil"
+      },
+      {
+        "term": "blackout",
+        "lemma": "blackout",
+        "partOfSpeech": "noun",
+        "meaning": "a time when there is no electricity",
+        "translation": "işığın kəsilməsi"
+      },
+      {
+        "term": "had just started",
+        "lemma": "have just done",
+        "partOfSpeech": "phrase",
+        "meaning": "had started a very short time before",
+        "translation": "təzəcə başlamışdı"
+      },
+      {
+        "term": "turned on",
+        "lemma": "turn on",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "made a machine start working",
+        "translation": "yandırmışdı"
+      },
+      {
+        "term": "went dark",
+        "lemma": "go dark",
+        "partOfSpeech": "phrase",
+        "meaning": "became dark",
+        "translation": "qaranlıq oldu"
+      },
+      {
+        "term": "grabbed",
+        "lemma": "grab",
+        "partOfSpeech": "verb",
+        "meaning": "took hold of something quickly",
+        "translation": "yapışdı"
+      },
+      {
+        "term": "flashlight",
+        "lemma": "flashlight",
+        "partOfSpeech": "noun",
+        "meaning": "a small electric light you hold in your hand",
+        "translation": "fənər"
+      },
+      {
+        "term": "drawer",
+        "lemma": "drawer",
+        "partOfSpeech": "noun",
+        "meaning": "a box in a piece of furniture that slides in and out",
+        "translation": "çekməcə"
+      },
+      {
+        "term": "battery",
+        "lemma": "battery",
+        "partOfSpeech": "noun",
+        "meaning": "a thing that gives electricity to a device",
+        "translation": "batareya"
+      },
+      {
+        "term": "died",
+        "lemma": "die",
+        "partOfSpeech": "verb",
+        "meaning": "stopped working (about a battery or machine)",
+        "translation": "bitdi, sıradan çıxdı"
+      },
+      {
+        "term": "realized",
+        "lemma": "realize",
+        "partOfSpeech": "verb",
+        "meaning": "understood something suddenly",
+        "translation": "anladı"
+      },
+      {
+        "term": "had forgotten",
+        "lemma": "forget",
+        "partOfSpeech": "verb",
+        "meaning": "did not remember (before that moment)",
+        "translation": "unutmuşdu"
+      },
+      {
+        "term": "run out of",
+        "lemma": "run out of",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "used all of something",
+        "translation": "qurtarmaq"
+      },
+      {
+        "term": "luckily",
+        "lemma": "luckily",
+        "partOfSpeech": "adverb",
+        "meaning": "because of good luck",
+        "translation": "xoşbəxtlikdən"
+      },
+      {
+        "term": "candles",
+        "lemma": "candle",
+        "partOfSpeech": "noun",
+        "meaning": "sticks of wax that you burn for light",
+        "translation": "şamlar"
+      },
+      {
+        "term": "the year before",
+        "lemma": "the year before",
+        "partOfSpeech": "phrase",
+        "meaning": "in the previous year",
+        "translation": "bir il əvvəl"
+      },
+      {
+        "term": "lit",
+        "lemma": "light",
+        "partOfSpeech": "verb",
+        "meaning": "made something start burning",
+        "translation": "yandırdı"
+      },
+      {
+        "term": "heat",
+        "lemma": "heat",
+        "partOfSpeech": "noun",
+        "meaning": "the system that keeps a building warm",
+        "translation": "istilik"
+      },
+      {
+        "term": "apartment",
+        "lemma": "apartment",
+        "partOfSpeech": "noun",
+        "meaning": "a set of rooms for living in a building",
+        "translation": "mənzil"
+      },
+      {
+        "term": "shiver",
+        "lemma": "shiver",
+        "partOfSpeech": "verb",
+        "meaning": "to shake because you are cold",
+        "translation": "titrəmək"
+      },
+      {
+        "term": "thickest",
+        "lemma": "thick",
+        "partOfSpeech": "adjective",
+        "meaning": "the most thick and heavy",
+        "translation": "ən qalın"
+      },
+      {
+        "term": "blanket",
+        "lemma": "blanket",
+        "partOfSpeech": "noun",
+        "meaning": "a warm cover for a bed",
+        "translation": "yorğan"
+      },
+      {
+        "term": "gathered",
+        "lemma": "gather",
+        "partOfSpeech": "verb",
+        "meaning": "came together in one place",
+        "translation": "yığışdılar"
+      },
+      {
+        "term": "dull",
+        "lemma": "dull",
+        "partOfSpeech": "adjective",
+        "meaning": "boring",
+        "translation": "darıxdırıcı"
+      },
+      {
+        "term": "nothing to do",
+        "lemma": "nothing to do",
+        "partOfSpeech": "phrase",
+        "meaning": "no activity to fill the time",
+        "translation": "heç bir məşğuliyyət yoxdur"
+      },
+      {
+        "term": "took out",
+        "lemma": "take out",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "removed something from a box or cupboard",
+        "translation": "çıxardı"
+      },
+      {
+        "term": "board game",
+        "lemma": "board game",
+        "partOfSpeech": "noun",
+        "meaning": "a game played with pieces on a board",
+        "translation": "stolüstü oyun"
+      },
+      {
+        "term": "for years",
+        "lemma": "for years",
+        "partOfSpeech": "phrase",
+        "meaning": "during many years",
+        "translation": "illərdir"
+      },
+      {
+        "term": "by candlelight",
+        "lemma": "by candlelight",
+        "partOfSpeech": "phrase",
+        "meaning": "with only the light of candles",
+        "translation": "şam işığında"
+      },
+      {
+        "term": "pretended",
+        "lemma": "pretend",
+        "partOfSpeech": "verb",
+        "meaning": "acted as if something was true",
+        "translation": "özünü ... kimi göstərirdi"
+      },
+      {
+        "term": "king",
+        "lemma": "king",
+        "partOfSpeech": "noun",
+        "meaning": "a man who rules a country",
+        "translation": "kral"
+      },
+      {
+        "term": "giggled",
+        "lemma": "giggle",
+        "partOfSpeech": "verb",
+        "meaning": "laughed in a quiet, silly way",
+        "translation": "xısın-xısın güldülər"
+      },
+      {
+        "term": "silly",
+        "lemma": "silly",
+        "partOfSpeech": "adjective",
+        "meaning": "funny in a foolish way",
+        "translation": "gülməli, axmaqca"
+      },
+      {
+        "term": "noticed",
+        "lemma": "notice",
+        "partOfSpeech": "verb",
+        "meaning": "saw and became aware of something",
+        "translation": "fərqinə vardı"
+      },
+      {
+        "term": "came back on",
+        "lemma": "come back on",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "started working again (about lights or power)",
+        "translation": "yenidən yandı"
+      },
+      {
+        "term": "silence",
+        "lemma": "silence",
+        "partOfSpeech": "noun",
+        "meaning": "a time with no sound",
+        "translation": "sükut"
+      },
+      {
+        "term": "turn them off",
+        "lemma": "turn off",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "stop a machine or light working",
+        "translation": "onları söndürmək"
+      },
+      {
+        "term": "unexpected",
+        "lemma": "unexpected",
+        "partOfSpeech": "adjective",
+        "meaning": "surprising",
+        "translation": "gözlənilməz"
+      },
+      {
+        "term": "full of",
+        "lemma": "full of",
+        "partOfSpeech": "phrase",
+        "meaning": "containing a lot of something",
+        "translation": "... ilə dolu"
+      },
+      {
+        "term": "warmth",
+        "lemma": "warmth",
+        "partOfSpeech": "noun",
+        "meaning": "a friendly, kind feeling",
+        "translation": "hərarət"
+      },
+      {
+        "term": "laughter",
+        "lemma": "laughter",
+        "partOfSpeech": "noun",
+        "meaning": "the sound of people laughing",
+        "translation": "gülüş"
+      }
+    ]
+  },
+  "grammar": {
+    "topic": "Past perfect simple",
+    "topicTranslation": "Keçmiş bitmiş zaman (past perfect simple)",
+    "explanation": "We use the past perfect to show that one action happened before another action in the past. It helps the listener understand the order of events. We form it with had + past participle, and it is the same for all persons. It is common with words like before, after, when, already, just and by the time.",
+    "explanationTranslation": "Past perfect keçmişdə bir hərəkətin başqa bir hərəkətdən əvvəl baş verdiyini göstərmək üçün işlədilir. O, dinləyiciyə hadisələrin ardıcıllığını anlamağa kömək edir. Had + feilin üçüncü forması (past participle) ilə düzəlir və bütün şəxslər üçün eynidir. Before, after, when, already, just və by the time kimi sözlərlə tez-tez işlədilir.",
+    "rules": [
+      {
+        "text": "Form: had + past participle (had finished, had gone). It is the same for all persons.",
+        "translation": "Quruluş: had + past participle (had finished, had gone). Bütün şəxslər üçün eynidir."
+      },
+      {
+        "text": "Use it for the earlier of two past actions: When we arrived, the film had started.",
+        "translation": "İki keçmiş hərəkətdən daha əvvəl baş verəni üçün işlədilir: When we arrived, the film had started."
+      },
+      {
+        "text": "Negative: hadn't + past participle. Question: Had + subject + past participle?",
+        "translation": "İnkar: hadn't + past participle. Sual: Had + mübtəda + past participle?"
+      },
+      {
+        "text": "The short form of had is 'd: She'd already left.",
+        "translation": "Had sözünün qısa forması 'd-dir: She'd already left."
+      },
+      {
+        "text": "If before or after already shows the order, the past simple is also fine: I ate after I finished work.",
+        "translation": "Əgər before və ya after ardıcıllığı artıq göstərirsə, past simple da işlətmək olar: I ate after I finished work."
+      }
+    ],
+    "examples": [
+      {
+        "text": "By the time I got home, the blackout had ended.",
+        "translation": "Evə çatanda işıq artıq gəlmişdi."
+      },
+      {
+        "text": "We had run out of candles, so we used our phones.",
+        "translation": "Şamlarımız qurtarmışdı, ona görə telefonlarımızdan istifadə etdik."
+      },
+      {
+        "text": "She noticed that someone had opened the window.",
+        "translation": "O, kiminsə pəncərəni açdığının fərqinə vardı."
+      },
+      {
+        "text": "I had never played that board game before.",
+        "translation": "O stolüstü oyunu əvvəllər heç oynamamışdım."
+      },
+      {
+        "text": "When I called him, he had already gone to bed.",
+        "translation": "Ona zəng edəndə o, artıq yatmışdı."
+      }
+    ],
+    "exercise": {
+      "instructions": "Choose or write the correct form.",
+      "instructionsTranslation": "Düzgün formanı seçin və ya yazın.",
+      "questions": [
+        {
+          "type": "choice",
+          "prompt": "When we arrived at the station, the train ___.",
+          "promptTranslation": "Biz vağzala çatanda qatar artıq getmişdi.",
+          "options": [
+            "left",
+            "had left",
+            "has left"
+          ],
+          "answer": "had left",
+          "explanation": "The train left before we arrived, so we use the past perfect.",
+          "explanationTranslation": "Qatar biz çatmazdan əvvəl getmişdi, ona görə past perfect işlədilir."
+        },
+        {
+          "type": "choice",
+          "prompt": "I couldn't pay because I ___ my wallet at home.",
+          "promptTranslation": "Ödəyə bilmədim, çünki pul kisəmi evdə unutmuşdum.",
+          "options": [
+            "had forgotten",
+            "have forgotten",
+            "forget"
+          ],
+          "answer": "had forgotten",
+          "explanation": "Forgetting the wallet happened before the moment of paying.",
+          "explanationTranslation": "Pul kisəsini unutmaq ödəmə anından əvvəl baş vermişdi."
+        },
+        {
+          "type": "choice",
+          "prompt": "She ___ never seen snow before she moved to Canada.",
+          "promptTranslation": "Kanadaya köçənə qədər o, heç vaxt qar görməmişdi.",
+          "options": [
+            "has",
+            "had",
+            "was"
+          ],
+          "answer": "had",
+          "explanation": "Use had + past participle for an experience before a past moment.",
+          "explanationTranslation": "Keçmişdəki bir andan əvvəlki təcrübə üçün had + past participle işlədilir."
+        },
+        {
+          "type": "text",
+          "prompt": "By the time the lights came back on, the children ___ (fall) asleep.",
+          "promptTranslation": "İşıqlar yenidən yananda uşaqlar artıq yuxuya getmişdilər.",
+          "acceptedAnswers": [
+            "'d fallen"
+          ],
+          "answer": "had fallen",
+          "explanation": "Falling asleep happened before the lights came back on.",
+          "explanationTranslation": "Yuxuya getmək işıqların yanmasından əvvəl baş vermişdi."
+        },
+        {
+          "type": "text",
+          "prompt": "Leyla was tired because she ___ (not / sleep) well.",
+          "promptTranslation": "Leyla yorğun idi, çünki yaxşı yatmamışdı.",
+          "acceptedAnswers": [
+            "had not slept"
+          ],
+          "answer": "hadn't slept",
+          "explanation": "Negative past perfect: hadn't + past participle.",
+          "explanationTranslation": "Past perfect-in inkar forması: hadn't + past participle."
+        }
+      ]
+    }
+  }
+}
