@@ -1,0 +1,951 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-02",
+  "level": "B1",
+  "translationLanguage": "az",
+  "words": [
+    {
+      "word": "adopt",
+      "ipa": "/əˈdɑːpt/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "övladlığa götürmək; (heyvanı) evə götürmək",
+          "definition": "to take a child or an animal into your home and make it part of your family",
+          "synonyms": [],
+          "antonyms": [
+            "abandon"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "We adopted a cat from the animal shelter.",
+              "translation": "Heyvan sığınacağından bir pişik götürdük."
+            },
+            {
+              "text": "The couple adopted a baby girl last year.",
+              "translation": "Cütlük keçən il bir qız uşağını övladlığa götürdü."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "stray",
+      "ipa": "/streɪ/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "sahibsiz",
+          "definition": "(about a pet animal) lost or without a home",
+          "synonyms": [
+            "homeless",
+            "lost"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "There are many stray cats on our street.",
+              "translation": "Küçəmizdə çoxlu sahibsiz pişik var."
+            },
+            {
+              "text": "She gives food to stray dogs every evening.",
+              "translation": "O, hər axşam sahibsiz itlərə yemək verir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "vet",
+      "ipa": "/vɛt/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "baytar",
+          "definition": "a doctor for animals",
+          "synonyms": [
+            "veterinarian"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "We took our dog to the vet because he was sick.",
+              "translation": "İtimiz xəstə olduğu üçün onu baytara apardıq."
+            },
+            {
+              "text": "The vet gave the cat some medicine.",
+              "translation": "Baytar pişiyə dərman verdi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "owner",
+      "ipa": "/ˈoʊnər/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "sahib",
+          "definition": "a person who has something, for example a pet, a house or a business",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The dog waited at the door for its owner.",
+              "translation": "İt sahibini qapının ağzında gözləyirdi."
+            },
+            {
+              "text": "The owner of the café is my cousin.",
+              "translation": "Kafenin sahibi mənim əmim oğludur."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "fur",
+      "ipa": "/fɜːr/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "tük, xəz",
+          "definition": "the thick, soft hair that covers the body of some animals",
+          "synonyms": [
+            "hair",
+            "coat"
+          ],
+          "antonyms": [],
+          "homonyms": [
+            {
+              "word": "fir",
+              "meaning": "a tall tree with thin, sharp leaves that stay green all year",
+              "translation": "küknar"
+            }
+          ],
+          "examples": [
+            {
+              "text": "Our cat has soft white fur.",
+              "translation": "Pişiyimizin yumşaq ağ tükləri var."
+            },
+            {
+              "text": "The dog's fur was wet after the rain.",
+              "translation": "Yağışdan sonra itin tükləri islanmışdı."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "tail",
+      "ipa": "/teɪl/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "quyruq",
+          "definition": "the long part at the back of an animal's body",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [
+            {
+              "word": "tale",
+              "meaning": "a story, often about imaginary events",
+              "translation": "nağıl, hekayə"
+            }
+          ],
+          "examples": [
+            {
+              "text": "The dog was wagging its tail happily.",
+              "translation": "İt sevinclə quyruğunu bulayırdı."
+            },
+            {
+              "text": "Some monkeys use their tails to hold branches.",
+              "translation": "Bəzi meymunlar budaqlardan tutmaq üçün quyruqlarından istifadə edir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bark",
+      "ipa": "/bɑːrk/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "hürmək",
+          "definition": "(about a dog) to make a short, loud sound",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [
+            {
+              "word": "bark",
+              "meaning": "(noun) the hard outer covering of a tree",
+              "translation": "ağac qabığı"
+            }
+          ],
+          "examples": [
+            {
+              "text": "The neighbor's dog barks all night.",
+              "translation": "Qonşunun iti bütün gecə hürür."
+            },
+            {
+              "text": "Our dog always barks at the mailman.",
+              "translation": "İtimiz həmişə poçtalyona hürür."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "scratch",
+      "ipa": "/skrætʃ/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "cırmaqlamaq; qaşımaq",
+          "definition": "to rub or mark something with your nails or with something sharp",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The cat scratched my hand when I tried to pick it up.",
+              "translation": "Pişiyi qucağıma götürmək istəyəndə əlimi cırmaqladı."
+            },
+            {
+              "text": "Try not to scratch your mosquito bites.",
+              "translation": "Ağcaqanad dişləyən yerləri qaşımamağa çalış."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "obey",
+      "ipa": "/oʊˈbeɪ/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "tabe olmaq, əməl etmək",
+          "definition": "to do what a person, a rule or a law tells you to do",
+          "synonyms": [
+            "follow",
+            "listen to"
+          ],
+          "antonyms": [
+            "disobey",
+            "ignore"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The dog has learned to obey simple commands.",
+              "translation": "İt sadə əmrlərə tabe olmağı öyrənib."
+            },
+            {
+              "text": "Drivers must obey the traffic rules.",
+              "translation": "Sürücülər yol hərəkəti qaydalarına əməl etməlidirlər."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "cage",
+      "ipa": "/keɪdʒ/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "qəfəs",
+          "definition": "a box made of metal bars or wire, where animals or birds are kept",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "My grandmother keeps two birds in a cage.",
+              "translation": "Nənəm qəfəsdə iki quş saxlayır."
+            },
+            {
+              "text": "The lions walked around their cage.",
+              "translation": "Şirlər qəfəslərinin içində o tərəf-bu tərəfə gəzirdilər."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "chew",
+      "ipa": "/tʃuː/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "çeynəmək; gəmirmək",
+          "definition": "to break food or something else into small pieces with your teeth",
+          "synonyms": [
+            "bite"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Chew your food well before you swallow it.",
+              "translation": "Yeməyi udmazdan əvvəl yaxşı çeynə."
+            },
+            {
+              "text": "The puppy chewed my new slippers.",
+              "translation": "Küçük təzə başmaqlarımı gəmirdi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "adorable",
+      "ipa": "/əˈdɔːrəbl/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "çox şirin, sevimli",
+          "definition": "very sweet and lovely",
+          "synonyms": [
+            "cute",
+            "lovely",
+            "sweet"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "What an adorable baby!",
+              "translation": "Nə şirin körpədir!"
+            },
+            {
+              "text": "The kittens were so adorable that everyone wanted one.",
+              "translation": "Pişik balaları o qədər şirin idi ki, hamı birini istəyirdi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "responsibility",
+      "ipa": "/rɪˌspɑːnsəˈbɪləti/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "məsuliyyət, vəzifə",
+          "definition": "a duty to take care of someone or something, or to do a job",
+          "synonyms": [
+            "duty"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Looking after a baby is a big responsibility.",
+              "translation": "Körpəyə baxmaq böyük məsuliyyətdir."
+            },
+            {
+              "text": "It's my responsibility to lock the office at night.",
+              "translation": "Axşamlar ofisi bağlamaq mənim vəzifəmdir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "take care of",
+      "ipa": "/ˌteɪk ˈkɛr əv/",
+      "senses": [
+        {
+          "partOfSpeech": "phrase",
+          "translation": "qayğısına qalmaq, baxmaq",
+          "definition": "to look after someone or something and keep them safe and well",
+          "synonyms": [
+            "look after",
+            "care for"
+          ],
+          "antonyms": [
+            "neglect"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Who will take care of your plants while you're away?",
+              "translation": "Sən yoxkən güllərinə kim baxacaq?"
+            },
+            {
+              "text": "She is taking care of her sick grandmother.",
+              "translation": "O, xəstə nənəsinin qayğısına qalır."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "gentle",
+      "ipa": "/ˈdʒɛntl/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "mülayim, yumşaq",
+          "definition": "kind and calm, and careful not to hurt anyone",
+          "synonyms": [
+            "kind",
+            "soft",
+            "calm"
+          ],
+          "antonyms": [
+            "rough",
+            "violent"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Be gentle with the baby.",
+              "translation": "Körpəyə qarşı yumşaq və ehtiyatlı ol."
+            },
+            {
+              "text": "Our dog is big but very gentle with children.",
+              "translation": "İtimiz böyükdür, amma uşaqlarla çox mülayimdir."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "story": {
+    "title": "The Dog at the Bus Stop",
+    "titleTranslation": "Avtobus dayanacağındakı it",
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "For weeks, a small stray dog lived at the bus stop near Kamran's office.",
+            "translation": "Həftələrlə kiçik bir sahibsiz it Kamranın ofisinin yaxınlığındakı avtobus dayanacağında yaşayırdı."
+          },
+          {
+            "text": "She had dirty brown fur, a short tail and the saddest eyes Kamran had ever seen.",
+            "translation": "Onun çirkli qəhvəyi tükləri, qısa quyruğu və Kamranın indiyə qədər gördüyü ən qəmgin gözləri var idi."
+          },
+          {
+            "text": "Every morning he shared his breakfast with her, although he knew it wasn't enough.",
+            "translation": "Hər səhər o, səhər yeməyini onunla bölüşürdü, baxmayaraq ki, bunun kifayət etmədiyini bilirdi."
+          },
+          {
+            "text": "He wanted to adopt her.",
+            "translation": "O, iti evə götürmək istəyirdi."
+          },
+          {
+            "text": "However, he lived in a small apartment, and he had never had a pet.",
+            "translation": "Lakin o, kiçik bir mənzildə yaşayırdı və heç vaxt ev heyvanı saxlamamışdı."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "One rainy evening, he found her shivering under a bench.",
+            "translation": "Yağışlı bir axşam o, iti skamyanın altında titrəyən halda tapdı."
+          },
+          {
+            "text": "This time he didn't hesitate.",
+            "translation": "Bu dəfə o, tərəddüd etmədi."
+          },
+          {
+            "text": "He took her home and named her Findiq, because her fur was the color of hazelnuts.",
+            "translation": "Onu evə apardı və adını Fındıq qoydu, çünki tükləri fındıq rəngində idi."
+          },
+          {
+            "text": "The next day, he took her to the vet, who said she was about two years old and healthy.",
+            "translation": "Ertəsi gün onu baytara apardı, baytar isə itin təxminən iki yaşında və sağlam olduğunu dedi."
+          },
+          {
+            "text": "The vet also gave him a small cage for car trips.",
+            "translation": "Baytar ona maşın səfərləri üçün kiçik bir qəfəs də verdi."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The first week was not easy.",
+            "translation": "İlk həftə asan olmadı."
+          },
+          {
+            "text": "Findiq chewed his shoes, scratched the door and barked at every noise in the hallway.",
+            "translation": "Fındıq onun ayaqqabılarını gəmirdi, qapını cırmaqlayırdı və dəhlizdəki hər səsə hürürdü."
+          },
+          {
+            "text": "His neighbor complained, and Kamran started to wonder if he was a good owner.",
+            "translation": "Qonşusu şikayət etdi və Kamran yaxşı sahib olub-olmadığı barədə düşünməyə başladı."
+          },
+          {
+            "text": "Even though he was tired after work, he walked her twice a day and taught her to obey simple commands like “sit” and “stay.”",
+            "translation": "İşdən sonra yorğun olsa da, onu gündə iki dəfə gəzdirir və ona “otur”, “gözlə” kimi sadə əmrlərə tabe olmağı öyrədirdi."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Slowly, Findiq changed.",
+            "translation": "Yavaş-yavaş Fındıq dəyişdi."
+          },
+          {
+            "text": "She became calm and gentle, and she stopped barking at night.",
+            "translation": "O, sakit və mülayim oldu, gecələr hürməyi də dayandırdı."
+          },
+          {
+            "text": "Even the neighbor, who had complained before, now thinks she is adorable.",
+            "translation": "Hətta əvvəllər şikayət edən qonşu da indi onu çox şirin hesab edir."
+          },
+          {
+            "text": "Having a dog is a big responsibility, and Kamran's life is busier than before.",
+            "translation": "İt saxlamaq böyük məsuliyyətdir və Kamranın həyatı əvvəlkindən daha məşğuldur."
+          },
+          {
+            "text": "However, when he comes home and Findiq runs to the door, wagging her tail, he knows it was the right choice.",
+            "translation": "Lakin evə gələndə Fındıq quyruğunu bulaya-bulaya qapıya qaçır və Kamran bunun düzgün seçim olduğunu bilir."
+          },
+          {
+            "text": "“You take care of me too,” he often tells her with a smile.",
+            "translation": "“Sən də mənim qayğıma qalırsan,” – deyə o, tez-tez gülümsəyərək itə deyir."
+          }
+        ]
+      }
+    ],
+    "glossary": [
+      {
+        "term": "for weeks",
+        "lemma": "for weeks",
+        "partOfSpeech": "phrase",
+        "meaning": "during several weeks",
+        "translation": "həftələrlə"
+      },
+      {
+        "term": "stray",
+        "lemma": "stray",
+        "partOfSpeech": "adjective",
+        "meaning": "without a home or an owner",
+        "translation": "sahibsiz"
+      },
+      {
+        "term": "bus stop",
+        "lemma": "bus stop",
+        "partOfSpeech": "noun",
+        "meaning": "a place where buses stop for passengers",
+        "translation": "avtobus dayanacağı"
+      },
+      {
+        "term": "dirty",
+        "lemma": "dirty",
+        "partOfSpeech": "adjective",
+        "meaning": "not clean",
+        "translation": "çirkli"
+      },
+      {
+        "term": "fur",
+        "lemma": "fur",
+        "partOfSpeech": "noun",
+        "meaning": "the soft hair on an animal's body",
+        "translation": "tük"
+      },
+      {
+        "term": "tail",
+        "lemma": "tail",
+        "partOfSpeech": "noun",
+        "meaning": "the long part at the back of an animal",
+        "translation": "quyruq"
+      },
+      {
+        "term": "had ever seen",
+        "lemma": "have ever seen",
+        "partOfSpeech": "phrase",
+        "meaning": "had seen at any time before then",
+        "translation": "indiyə qədər görmüşdü"
+      },
+      {
+        "term": "shared",
+        "lemma": "share",
+        "partOfSpeech": "verb",
+        "meaning": "gave part of something to someone else",
+        "translation": "bölüşürdü"
+      },
+      {
+        "term": "although",
+        "lemma": "although",
+        "partOfSpeech": "conjunction",
+        "meaning": "used to show a contrast",
+        "translation": "baxmayaraq ki"
+      },
+      {
+        "term": "adopt",
+        "lemma": "adopt",
+        "partOfSpeech": "verb",
+        "meaning": "to take an animal or child into your family",
+        "translation": "evə götürmək"
+      },
+      {
+        "term": "however",
+        "lemma": "however",
+        "partOfSpeech": "adverb",
+        "meaning": "used to show a contrast with the sentence before",
+        "translation": "lakin"
+      },
+      {
+        "term": "pet",
+        "lemma": "pet",
+        "partOfSpeech": "noun",
+        "meaning": "an animal that you keep at home",
+        "translation": "ev heyvanı"
+      },
+      {
+        "term": "rainy",
+        "lemma": "rainy",
+        "partOfSpeech": "adjective",
+        "meaning": "with a lot of rain",
+        "translation": "yağışlı"
+      },
+      {
+        "term": "shivering",
+        "lemma": "shiver",
+        "partOfSpeech": "verb",
+        "meaning": "shaking because of the cold",
+        "translation": "titrəyən"
+      },
+      {
+        "term": "bench",
+        "lemma": "bench",
+        "partOfSpeech": "noun",
+        "meaning": "a long seat for two or more people, often outside",
+        "translation": "skamya"
+      },
+      {
+        "term": "didn't hesitate",
+        "lemma": "hesitate",
+        "partOfSpeech": "verb",
+        "meaning": "did not wait or stop before doing something",
+        "translation": "tərəddüd etmədi"
+      },
+      {
+        "term": "named",
+        "lemma": "name",
+        "partOfSpeech": "verb",
+        "meaning": "gave a name to someone",
+        "translation": "ad qoydu"
+      },
+      {
+        "term": "hazelnuts",
+        "lemma": "hazelnut",
+        "partOfSpeech": "noun",
+        "meaning": "small round brown nuts",
+        "translation": "fındıq"
+      },
+      {
+        "term": "vet",
+        "lemma": "vet",
+        "partOfSpeech": "noun",
+        "meaning": "a doctor for animals",
+        "translation": "baytar"
+      },
+      {
+        "term": "healthy",
+        "lemma": "healthy",
+        "partOfSpeech": "adjective",
+        "meaning": "not sick; in good condition",
+        "translation": "sağlam"
+      },
+      {
+        "term": "cage",
+        "lemma": "cage",
+        "partOfSpeech": "noun",
+        "meaning": "a box with bars for keeping animals",
+        "translation": "qəfəs"
+      },
+      {
+        "term": "car trips",
+        "lemma": "car trip",
+        "partOfSpeech": "noun",
+        "meaning": "journeys in a car",
+        "translation": "maşın səfərləri"
+      },
+      {
+        "term": "chewed",
+        "lemma": "chew",
+        "partOfSpeech": "verb",
+        "meaning": "bit something many times with the teeth",
+        "translation": "gəmirdi"
+      },
+      {
+        "term": "scratched",
+        "lemma": "scratch",
+        "partOfSpeech": "verb",
+        "meaning": "marked something with nails or claws",
+        "translation": "cırmaqladı"
+      },
+      {
+        "term": "barked",
+        "lemma": "bark",
+        "partOfSpeech": "verb",
+        "meaning": "made the short, loud sound of a dog",
+        "translation": "hürdü"
+      },
+      {
+        "term": "noise",
+        "lemma": "noise",
+        "partOfSpeech": "noun",
+        "meaning": "a sound, often a loud one",
+        "translation": "səs"
+      },
+      {
+        "term": "hallway",
+        "lemma": "hallway",
+        "partOfSpeech": "noun",
+        "meaning": "a passage between rooms or apartments",
+        "translation": "dəhliz"
+      },
+      {
+        "term": "complained",
+        "lemma": "complain",
+        "partOfSpeech": "verb",
+        "meaning": "said that something was wrong or annoying",
+        "translation": "şikayət etdi"
+      },
+      {
+        "term": "wonder",
+        "lemma": "wonder",
+        "partOfSpeech": "verb",
+        "meaning": "to think about something because you are not sure",
+        "translation": "fikirləşmək, şübhələnmək"
+      },
+      {
+        "term": "owner",
+        "lemma": "owner",
+        "partOfSpeech": "noun",
+        "meaning": "a person who has a pet or a thing",
+        "translation": "sahib"
+      },
+      {
+        "term": "even though",
+        "lemma": "even though",
+        "partOfSpeech": "conjunction",
+        "meaning": "a stronger form of although",
+        "translation": "...sa da, baxmayaraq ki"
+      },
+      {
+        "term": "walked her",
+        "lemma": "walk a dog",
+        "partOfSpeech": "phrase",
+        "meaning": "took the dog outside for a walk",
+        "translation": "onu gəzdirirdi"
+      },
+      {
+        "term": "twice a day",
+        "lemma": "twice a day",
+        "partOfSpeech": "phrase",
+        "meaning": "two times every day",
+        "translation": "gündə iki dəfə"
+      },
+      {
+        "term": "obey",
+        "lemma": "obey",
+        "partOfSpeech": "verb",
+        "meaning": "to do what someone tells you",
+        "translation": "tabe olmaq"
+      },
+      {
+        "term": "commands",
+        "lemma": "command",
+        "partOfSpeech": "noun",
+        "meaning": "orders that tell someone what to do",
+        "translation": "əmrlər"
+      },
+      {
+        "term": "calm",
+        "lemma": "calm",
+        "partOfSpeech": "adjective",
+        "meaning": "quiet and relaxed",
+        "translation": "sakit"
+      },
+      {
+        "term": "gentle",
+        "lemma": "gentle",
+        "partOfSpeech": "adjective",
+        "meaning": "kind and careful",
+        "translation": "mülayim"
+      },
+      {
+        "term": "stopped barking",
+        "lemma": "stop doing",
+        "partOfSpeech": "phrase",
+        "meaning": "did not bark any more",
+        "translation": "hürməyi dayandırdı"
+      },
+      {
+        "term": "adorable",
+        "lemma": "adorable",
+        "partOfSpeech": "adjective",
+        "meaning": "very sweet and lovely",
+        "translation": "çox şirin"
+      },
+      {
+        "term": "responsibility",
+        "lemma": "responsibility",
+        "partOfSpeech": "noun",
+        "meaning": "a duty to take care of something",
+        "translation": "məsuliyyət"
+      },
+      {
+        "term": "busier",
+        "lemma": "busy",
+        "partOfSpeech": "adjective",
+        "meaning": "having more things to do",
+        "translation": "daha məşğul"
+      },
+      {
+        "term": "wagging",
+        "lemma": "wag",
+        "partOfSpeech": "verb",
+        "meaning": "moving the tail from side to side",
+        "translation": "bulaya-bulaya"
+      },
+      {
+        "term": "the right choice",
+        "lemma": "the right choice",
+        "partOfSpeech": "phrase",
+        "meaning": "the correct decision",
+        "translation": "düzgün seçim"
+      },
+      {
+        "term": "take care of",
+        "lemma": "take care of",
+        "partOfSpeech": "phrase",
+        "meaning": "to look after someone",
+        "translation": "qayğısına qalmaq"
+      },
+      {
+        "term": "with a smile",
+        "lemma": "with a smile",
+        "partOfSpeech": "phrase",
+        "meaning": "while smiling",
+        "translation": "gülümsəyərək"
+      }
+    ]
+  },
+  "grammar": {
+    "topic": "Linking words for contrast: although, even though, however",
+    "topicTranslation": "Ziddiyyət bildirən bağlayıcı sözlər: although, even though, however",
+    "explanation": "We use although, even though and however to show a contrast between two ideas. Although and even though join two parts of one sentence: Although it was late, we went out. Even though is a little stronger than although. However usually starts a new sentence and has a comma after it: It was late. However, we went out.",
+    "explanationTranslation": "Although, even though və however iki fikir arasındakı ziddiyyəti göstərmək üçün işlədilir. Although və even though bir cümlənin iki hissəsini birləşdirir: Although it was late, we went out. Even though although-dan bir az daha güclü məna verir. However adətən yeni cümləni başlayır və ondan sonra vergül qoyulur: It was late. However, we went out.",
+    "rules": [
+      {
+        "text": "although / even though + subject + verb: Although he was tired, he walked the dog.",
+        "translation": "although / even though + mübtəda + feil: Although he was tired, he walked the dog."
+      },
+      {
+        "text": "The although-part can come first or second. If it comes first, put a comma after it: Even though it rained, we went out. / We went out even though it rained.",
+        "translation": "Although hissəsi cümlənin əvvəlində və ya sonunda gələ bilər. Əvvəldə gələndə ondan sonra vergül qoyulur: Even though it rained, we went out. / We went out even though it rained."
+      },
+      {
+        "text": "However starts a new sentence and needs a comma after it: The flat is small. However, it is cheap.",
+        "translation": "However yeni cümləni başlayır və ondan sonra vergül qoyulur: The flat is small. However, it is cheap."
+      },
+      {
+        "text": "Don't use but together with although: say Although it was cold, we swam, not Although it was cold, but we swam.",
+        "translation": "Although ilə birlikdə but işlədilmir: Although it was cold, but we swam yox, Although it was cold, we swam deyilir."
+      }
+    ],
+    "examples": [
+      {
+        "text": "Although the dog was dirty, she was very friendly.",
+        "translation": "İt çirkli olsa da, çox mehriban idi."
+      },
+      {
+        "text": "Even though I'm allergic to cats, I love them.",
+        "translation": "Pişiklərə allergiyam olsa da, onları çox sevirəm."
+      },
+      {
+        "text": "A pet is fun. However, it is also a big responsibility.",
+        "translation": "Ev heyvanı əyləncəlidir. Lakin bu, həm də böyük məsuliyyətdir."
+      },
+      {
+        "text": "We wanted a big dog. However, our apartment was too small.",
+        "translation": "Biz böyük it istəyirdik. Lakin mənzilimiz çox kiçik idi."
+      },
+      {
+        "text": "She obeyed the rules even though she didn't like them.",
+        "translation": "Qaydaları bəyənməsə də, onlara əməl edirdi."
+      }
+    ],
+    "exercise": {
+      "instructions": "Choose or write the correct linking word.",
+      "instructionsTranslation": "Düzgün bağlayıcı sözü seçin və ya yazın.",
+      "questions": [
+        {
+          "type": "choice",
+          "prompt": "___ it was raining, we went for a walk.",
+          "promptTranslation": "Yağış yağsa da, gəzintiyə çıxdıq.",
+          "options": [
+            "Although",
+            "However",
+            "But"
+          ],
+          "answer": "Although",
+          "explanation": "Although joins two parts of one sentence.",
+          "explanationTranslation": "Although bir cümlənin iki hissəsini birləşdirir."
+        },
+        {
+          "type": "choice",
+          "prompt": "The hotel was expensive. ___, the rooms were small.",
+          "promptTranslation": "Otel baha idi. Lakin otaqlar kiçik idi.",
+          "options": [
+            "Although",
+            "However",
+            "Even though"
+          ],
+          "answer": "However",
+          "explanation": "However starts a new sentence and has a comma after it.",
+          "explanationTranslation": "However yeni cümləni başlayır və ondan sonra vergül qoyulur."
+        },
+        {
+          "type": "choice",
+          "prompt": "Even though he studied hard, he ___ the exam.",
+          "promptTranslation": "Çox oxusa da, imtahandan kəsildi.",
+          "options": [
+            "passed",
+            "failed"
+          ],
+          "answer": "failed",
+          "explanation": "Even though shows an unexpected result, so the second part is the opposite of what we expect.",
+          "explanationTranslation": "Even though gözlənilməz nəticəni göstərir, ona görə ikinci hissə gözlədiyimizin əksidir."
+        },
+        {
+          "type": "text",
+          "prompt": "I like my job. ___ (contrast word, new sentence), the salary is low.",
+          "promptTranslation": "İşimi sevirəm. Lakin maaş azdır.",
+          "acceptedAnswers": [],
+          "answer": "However",
+          "explanation": "However starts a new sentence that shows a contrast.",
+          "explanationTranslation": "However ziddiyyət bildirən yeni cümləni başlayır."
+        },
+        {
+          "type": "text",
+          "prompt": "She went to work ___ (two words) she felt ill.",
+          "promptTranslation": "Özünü pis hiss etsə də, işə getdi.",
+          "acceptedAnswers": [
+            "although"
+          ],
+          "answer": "even though",
+          "explanation": "Even though joins two contrasting parts of one sentence.",
+          "explanationTranslation": "Even though bir cümlənin bir-birinə zidd iki hissəsini birləşdirir."
+        }
+      ]
+    }
+  }
+}

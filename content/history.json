@@ -1919,6 +1919,66 @@
     {
       "word": "notice",
       "date": "2026-11-01"
+    },
+    {
+      "word": "adopt",
+      "date": "2026-11-02"
+    },
+    {
+      "word": "stray",
+      "date": "2026-11-02"
+    },
+    {
+      "word": "vet",
+      "date": "2026-11-02"
+    },
+    {
+      "word": "owner",
+      "date": "2026-11-02"
+    },
+    {
+      "word": "fur",
+      "date": "2026-11-02"
+    },
+    {
+      "word": "tail",
+      "date": "2026-11-02"
+    },
+    {
+      "word": "bark",
+      "date": "2026-11-02"
+    },
+    {
+      "word": "scratch",
+      "date": "2026-11-02"
+    },
+    {
+      "word": "obey",
+      "date": "2026-11-02"
+    },
+    {
+      "word": "cage",
+      "date": "2026-11-02"
+    },
+    {
+      "word": "chew",
+      "date": "2026-11-02"
+    },
+    {
+      "word": "adorable",
+      "date": "2026-11-02"
+    },
+    {
+      "word": "responsibility",
+      "date": "2026-11-02"
+    },
+    {
+      "word": "take care of",
+      "date": "2026-11-02"
+    },
+    {
+      "word": "gentle",
+      "date": "2026-11-02"
     }
   ],
   "grammarTopics": [
@@ -2049,6 +2109,10 @@
     {
       "topic": "Past perfect simple",
       "date": "2026-11-01"
+    },
+    {
+      "topic": "Linking words for contrast: although, even though, however",
+      "date": "2026-11-02"
     }
   ]
 }
