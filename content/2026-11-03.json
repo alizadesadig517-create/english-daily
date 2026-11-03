@@ -1,0 +1,940 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-03",
+  "level": "B1",
+  "translationLanguage": "az",
+  "words": [
+    {
+      "word": "exhibition",
+      "ipa": "/ˌɛksɪˈbɪʃən/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "sərgi",
+          "definition": "a show of art or other interesting things that people can go and see",
+          "synonyms": [
+            "show"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "There is a new photo exhibition at the gallery.",
+              "translation": "Qalereyada yeni foto sərgisi var."
+            },
+            {
+              "text": "Thousands of people visited the exhibition last month.",
+              "translation": "Keçən ay minlərlə insan sərgiyə baxdı."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "ancient",
+      "ipa": "/ˈeɪnʃənt/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "qədim",
+          "definition": "very old; from a time thousands of years ago",
+          "synonyms": [
+            "old"
+          ],
+          "antonyms": [
+            "modern",
+            "new"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "We visited the remains of an ancient city.",
+              "translation": "Qədim bir şəhərin qalıqlarına baxdıq."
+            },
+            {
+              "text": "This ancient tree is more than five hundred years old.",
+              "translation": "Bu qədim ağacın beş yüz ildən çox yaşı var."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "collection",
+      "ipa": "/kəˈlɛkʃən/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "kolleksiya, toplu",
+          "definition": "a group of similar things that someone has collected",
+          "synonyms": [
+            "set"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "My father has a big collection of old stamps.",
+              "translation": "Atamın köhnə markalardan ibarət böyük kolleksiyası var."
+            },
+            {
+              "text": "The museum's collection includes many famous paintings.",
+              "translation": "Muzeyin kolleksiyasına çoxlu məşhur rəsm əsəri daxildir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "display",
+      "ipa": "/dɪˈspleɪ/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "nümayiş, vitrin",
+          "definition": "an arrangement of things for people to look at",
+          "synonyms": [
+            "show"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "There was a beautiful display of flowers at the entrance.",
+              "translation": "Girişdə gözəl gül kompozisiyası var idi."
+            },
+            {
+              "text": "The new phones are on display in the shop window.",
+              "translation": "Yeni telefonlar mağazanın vitrinində nümayiş olunur."
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "verb",
+          "translation": "nümayiş etdirmək, sərgiləmək",
+          "definition": "to put something in a place where people can see it",
+          "synonyms": [
+            "show",
+            "exhibit"
+          ],
+          "antonyms": [
+            "hide"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The bakery displays its best cakes near the door.",
+              "translation": "Şirniyyat sexi ən yaxşı tortlarını qapının yanında sərgiləyir."
+            },
+            {
+              "text": "Her paintings were displayed at the city library.",
+              "translation": "Onun rəsmləri şəhər kitabxanasında nümayiş etdirildi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "century",
+      "ipa": "/ˈsɛntʃəri/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "əsr",
+          "definition": "a period of one hundred years",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "This bridge was built in the 19th century.",
+              "translation": "Bu körpü XIX əsrdə tikilib."
+            },
+            {
+              "text": "Life has changed a lot over the last century.",
+              "translation": "Son bir əsrdə həyat çox dəyişib."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "statue",
+      "ipa": "/ˈstætʃuː/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "heykəl",
+          "definition": "a figure of a person or an animal made of stone, metal or wood",
+          "synonyms": [
+            "sculpture"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "There is a statue of a famous poet in the park.",
+              "translation": "Parkda məşhur bir şairin heykəli var."
+            },
+            {
+              "text": "Tourists took photos next to the bronze statue.",
+              "translation": "Turistlər tunc heykəlin yanında şəkil çəkdirdilər."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "coin",
+      "ipa": "/kɔɪn/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "sikkə, qəpik",
+          "definition": "a small, flat, round piece of metal used as money",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "I found a few coins in my coat pocket.",
+              "translation": "Paltomun cibində bir neçə sikkə tapdım."
+            },
+            {
+              "text": "He collects coins from different countries.",
+              "translation": "O, müxtəlif ölkələrin sikkələrini toplayır."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "archaeologist",
+      "ipa": "/ˌɑːrkiˈɑːlədʒɪst/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "arxeoloq",
+          "definition": "a person who studies the life of people in the past by digging up and examining old objects and buildings",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The archaeologists found an old pot under the ground.",
+              "translation": "Arxeoloqlar yerin altında köhnə bir küp tapdılar."
+            },
+            {
+              "text": "My aunt works as an archaeologist in Sheki.",
+              "translation": "Bibim Şəkidə arxeoloq işləyir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "discover",
+      "ipa": "/dɪˈskʌvər/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "kəşf etmək, aşkar etmək",
+          "definition": "to find something or learn about something for the first time",
+          "synonyms": [
+            "find",
+            "find out"
+          ],
+          "antonyms": [
+            "lose"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Scientists discovered a new kind of fish in the lake.",
+              "translation": "Alimlər göldə yeni balıq növü kəşf etdilər."
+            },
+            {
+              "text": "I discovered a great little café near my office.",
+              "translation": "Ofisimin yaxınlığında əla kiçik bir kafe kəşf etdim."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "fascinating",
+      "ipa": "/ˈfæsəneɪtɪŋ/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "çox maraqlı, valehedici",
+          "definition": "very interesting",
+          "synonyms": [
+            "interesting",
+            "amazing"
+          ],
+          "antonyms": [
+            "boring",
+            "dull"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "We watched a fascinating film about the ocean.",
+              "translation": "Okean haqqında çox maraqlı bir film izlədik."
+            },
+            {
+              "text": "Her stories about life in Japan are fascinating.",
+              "translation": "Onun Yaponiyadakı həyat haqqında hekayələri valehedicidir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "reveal",
+      "ipa": "/rɪˈviːl/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "üzə çıxarmaq, açıqlamaq",
+          "definition": "to show or tell something that was hidden or secret",
+          "synonyms": [
+            "show",
+            "uncover"
+          ],
+          "antonyms": [
+            "hide",
+            "conceal"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The old letters revealed a family secret.",
+              "translation": "Köhnə məktublar bir ailə sirrini üzə çıxardı."
+            },
+            {
+              "text": "He finally revealed the name of the winner.",
+              "translation": "O, nəhayət qalibin adını açıqladı."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "valuable",
+      "ipa": "/ˈvæljuəbl/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "qiymətli, dəyərli",
+          "definition": "worth a lot of money, or very useful and important",
+          "synonyms": [
+            "precious",
+            "expensive"
+          ],
+          "antonyms": [
+            "worthless",
+            "cheap"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Keep your valuable things in the hotel safe.",
+              "translation": "Qiymətli əşyalarını oteldəki seyfdə saxla."
+            },
+            {
+              "text": "Thank you for your valuable advice.",
+              "translation": "Dəyərli məsləhətiniz üçün təşəkkür edirəm."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "fragile",
+      "ipa": "/ˈfrædʒəl/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "kövrək, asan sınan",
+          "definition": "easy to break or damage",
+          "synonyms": [
+            "delicate",
+            "breakable"
+          ],
+          "antonyms": [
+            "strong",
+            "solid"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Be careful with that box. The glasses inside are fragile.",
+              "translation": "O qutuya ehtiyatla yanaş. İçindəki stəkanlar kövrəkdir."
+            },
+            {
+              "text": "The old book was so fragile that its pages were falling out.",
+              "translation": "Köhnə kitab o qədər kövrək idi ki, səhifələri tökülürdü."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "ruin",
+      "ipa": "/ˈruːɪn/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "xarabalıq",
+          "definition": "the parts of a building or town that are left after it has been destroyed (usually ruins)",
+          "synonyms": [
+            "remains"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "We walked around the ruins of the old castle.",
+              "translation": "Köhnə qalanın xarabalıqları arasında gəzdik."
+            },
+            {
+              "text": "The fire left the old house in ruins.",
+              "translation": "Yanğın köhnə evi xarabalığa çevirdi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "dig up",
+      "ipa": "/ˌdɪɡ ˈʌp/",
+      "senses": [
+        {
+          "partOfSpeech": "phrasal verb",
+          "translation": "qazıb çıxarmaq",
+          "definition": "to find something by digging in the ground",
+          "synonyms": [
+            "unearth"
+          ],
+          "antonyms": [
+            "bury"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Our dog likes to dig up bones in the garden.",
+              "translation": "İtimiz bağda sümükləri qazıb çıxarmağı sevir."
+            },
+            {
+              "text": "Farmers sometimes dig up old coins in their fields.",
+              "translation": "Fermerlər bəzən tarlalarında köhnə sikkələri qazıb çıxarırlar."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "story": {
+    "title": "A Trip to the Past",
+    "titleTranslation": "Keçmişə səyahət",
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "Emil, who is eleven, had to write a school project about the history of his city.",
+            "translation": "On bir yaşlı Emil şəhərinin tarixi haqqında məktəb layihəsi yazmalı idi."
+          },
+          {
+            "text": "So on Saturday, his uncle Rashad took him to the city history museum so that he could get some ideas.",
+            "translation": "Ona görə də şənbə günü əmisi Rəşad onu şəhər tarixi muzeyinə apardı ki, bir neçə fikir tapa bilsin."
+          },
+          {
+            "text": "At first, Emil wasn't excited. “Museums are boring,” he said.",
+            "translation": "Əvvəlcə Emil həvəsli deyildi. “Muzeylər darıxdırıcıdır,” – dedi."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "But the new exhibition on the first floor changed his mind.",
+            "translation": "Amma birinci mərtəbədəki yeni sərgi onun fikrini dəyişdi."
+          },
+          {
+            "text": "It showed objects from an ancient town that archaeologists had discovered near the sea.",
+            "translation": "Orada arxeoloqların dəniz yaxınlığında aşkar etdiyi qədim bir şəhərdən tapılmış əşyalar nümayiş olunurdu."
+          },
+          {
+            "text": "There were photos of the ruins, old tools and a huge collection of coins.",
+            "translation": "Xarabalıqların şəkilləri, köhnə alətlər və böyük bir sikkə kolleksiyası var idi."
+          },
+          {
+            "text": "Some of the coins were more than two thousand years old.",
+            "translation": "Sikkələrin bəzilərinin iki min ildən çox yaşı var idi."
+          },
+          {
+            "text": "Emil pressed his face against the glass to see them better.",
+            "translation": "Emil onları daha yaxşı görmək üçün üzünü şüşəyə dirədi."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "A friendly guide explained that the objects were very valuable and fragile, so they were kept in special display cases.",
+            "translation": "Mehriban bir bələdçi izah etdi ki, əşyalar çox qiymətli və kövrəkdir, ona görə onlar xüsusi vitrinlərdə saxlanılır."
+          },
+          {
+            "text": "“Archaeologists work very slowly in order not to break anything,” she said.",
+            "translation": "“Arxeoloqlar heç nəyi sındırmamaq üçün çox yavaş işləyirlər,” – dedi."
+          },
+          {
+            "text": "“Sometimes it takes them months to dig up a single wall.”",
+            "translation": "“Bəzən tək bir divarı qazıb çıxarmaq onlara aylar çəkir.”"
+          },
+          {
+            "text": "Then she showed them a stone statue of a woman, which is displayed in the middle of the hall.",
+            "translation": "Sonra o, onlara zalın ortasında nümayiş olunan daş qadın heykəlini göstərdi."
+          },
+          {
+            "text": "“It is about fifteen centuries old,” she said, “and it reveals a lot about how people dressed at that time.”",
+            "translation": "“Onun təxminən on beş əsrlik tarixi var,” – dedi, – “və o, həmin dövrdə insanların necə geyindiyi haqqında çox şey üzə çıxarır.”"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Emil took lots of notes so that he wouldn't forget anything.",
+            "translation": "Emil heç nəyi unutmamaq üçün çoxlu qeyd götürdü."
+          },
+          {
+            "text": "On the way home, he couldn't stop talking.",
+            "translation": "Evə qayıdarkən o, danışmaqdan dayana bilmirdi."
+          },
+          {
+            "text": "“That was fascinating!” he said. “Can we come back next month to see the second floor?”",
+            "translation": "“Çox maraqlı idi!” – dedi. “Gələn ay ikinci mərtəbəni görmək üçün yenə gələ bilərik?”"
+          },
+          {
+            "text": "Rashad smiled. “Maybe museums aren't so boring after all.”",
+            "translation": "Rəşad gülümsədi. “Deyəsən, muzeylər o qədər də darıxdırıcı deyilmiş.”"
+          }
+        ]
+      }
+    ],
+    "glossary": [
+      {
+        "term": "school project",
+        "lemma": "school project",
+        "partOfSpeech": "noun",
+        "meaning": "a piece of work that students do for school",
+        "translation": "məktəb layihəsi"
+      },
+      {
+        "term": "history",
+        "lemma": "history",
+        "partOfSpeech": "noun",
+        "meaning": "events in the past",
+        "translation": "tarix"
+      },
+      {
+        "term": "museum",
+        "lemma": "museum",
+        "partOfSpeech": "noun",
+        "meaning": "a building where people can see old or interesting things",
+        "translation": "muzey"
+      },
+      {
+        "term": "so that",
+        "lemma": "so that",
+        "partOfSpeech": "conjunction",
+        "meaning": "used to say why someone does something",
+        "translation": "ki, ...sın deyə"
+      },
+      {
+        "term": "excited",
+        "lemma": "excited",
+        "partOfSpeech": "adjective",
+        "meaning": "happy and full of interest",
+        "translation": "həvəsli"
+      },
+      {
+        "term": "boring",
+        "lemma": "boring",
+        "partOfSpeech": "adjective",
+        "meaning": "not interesting",
+        "translation": "darıxdırıcı"
+      },
+      {
+        "term": "exhibition",
+        "lemma": "exhibition",
+        "partOfSpeech": "noun",
+        "meaning": "a show of interesting things in a museum",
+        "translation": "sərgi"
+      },
+      {
+        "term": "floor",
+        "lemma": "floor",
+        "partOfSpeech": "noun",
+        "meaning": "a level of a building",
+        "translation": "mərtəbə"
+      },
+      {
+        "term": "changed his mind",
+        "lemma": "change your mind",
+        "partOfSpeech": "phrase",
+        "meaning": "made him think differently",
+        "translation": "fikrini dəyişdi"
+      },
+      {
+        "term": "objects",
+        "lemma": "object",
+        "partOfSpeech": "noun",
+        "meaning": "things that you can see and touch",
+        "translation": "əşyalar"
+      },
+      {
+        "term": "ancient",
+        "lemma": "ancient",
+        "partOfSpeech": "adjective",
+        "meaning": "very old",
+        "translation": "qədim"
+      },
+      {
+        "term": "archaeologists",
+        "lemma": "archaeologist",
+        "partOfSpeech": "noun",
+        "meaning": "people who study ancient objects and places",
+        "translation": "arxeoloqlar"
+      },
+      {
+        "term": "discovered",
+        "lemma": "discover",
+        "partOfSpeech": "verb",
+        "meaning": "found for the first time",
+        "translation": "aşkar etmişdi"
+      },
+      {
+        "term": "ruins",
+        "lemma": "ruin",
+        "partOfSpeech": "noun",
+        "meaning": "what is left of old buildings",
+        "translation": "xarabalıqlar"
+      },
+      {
+        "term": "huge",
+        "lemma": "huge",
+        "partOfSpeech": "adjective",
+        "meaning": "very big",
+        "translation": "nəhəng, böyük"
+      },
+      {
+        "term": "collection",
+        "lemma": "collection",
+        "partOfSpeech": "noun",
+        "meaning": "a group of similar things kept together",
+        "translation": "kolleksiya"
+      },
+      {
+        "term": "coins",
+        "lemma": "coin",
+        "partOfSpeech": "noun",
+        "meaning": "round pieces of metal money",
+        "translation": "sikkələr"
+      },
+      {
+        "term": "pressed his face against",
+        "lemma": "press against",
+        "partOfSpeech": "phrase",
+        "meaning": "pushed his face close to something",
+        "translation": "üzünü dirədi"
+      },
+      {
+        "term": "glass",
+        "lemma": "glass",
+        "partOfSpeech": "noun",
+        "meaning": "a hard material that you can see through",
+        "translation": "şüşə"
+      },
+      {
+        "term": "guide",
+        "lemma": "guide",
+        "partOfSpeech": "noun",
+        "meaning": "a person who shows visitors around a place",
+        "translation": "bələdçi"
+      },
+      {
+        "term": "explained",
+        "lemma": "explain",
+        "partOfSpeech": "verb",
+        "meaning": "told someone about something so they could understand",
+        "translation": "izah etdi"
+      },
+      {
+        "term": "valuable",
+        "lemma": "valuable",
+        "partOfSpeech": "adjective",
+        "meaning": "worth a lot of money",
+        "translation": "qiymətli"
+      },
+      {
+        "term": "fragile",
+        "lemma": "fragile",
+        "partOfSpeech": "adjective",
+        "meaning": "easy to break",
+        "translation": "kövrək"
+      },
+      {
+        "term": "display cases",
+        "lemma": "display case",
+        "partOfSpeech": "noun",
+        "meaning": "glass boxes where objects are shown",
+        "translation": "vitrinlər"
+      },
+      {
+        "term": "in order not to",
+        "lemma": "in order not to",
+        "partOfSpeech": "phrase",
+        "meaning": "so that something does not happen",
+        "translation": "...mamaq üçün"
+      },
+      {
+        "term": "it takes them months",
+        "lemma": "it takes time",
+        "partOfSpeech": "phrase",
+        "meaning": "they need months",
+        "translation": "onlara aylar çəkir"
+      },
+      {
+        "term": "dig up",
+        "lemma": "dig up",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "to find something by digging in the ground",
+        "translation": "qazıb çıxarmaq"
+      },
+      {
+        "term": "single",
+        "lemma": "single",
+        "partOfSpeech": "adjective",
+        "meaning": "only one",
+        "translation": "tək"
+      },
+      {
+        "term": "statue",
+        "lemma": "statue",
+        "partOfSpeech": "noun",
+        "meaning": "a figure of a person made of stone or metal",
+        "translation": "heykəl"
+      },
+      {
+        "term": "displayed",
+        "lemma": "display",
+        "partOfSpeech": "verb",
+        "meaning": "shown to the public",
+        "translation": "nümayiş olunan"
+      },
+      {
+        "term": "in the middle of",
+        "lemma": "in the middle of",
+        "partOfSpeech": "phrase",
+        "meaning": "in the center of",
+        "translation": "ortasında"
+      },
+      {
+        "term": "hall",
+        "lemma": "hall",
+        "partOfSpeech": "noun",
+        "meaning": "a large room",
+        "translation": "zal"
+      },
+      {
+        "term": "centuries",
+        "lemma": "century",
+        "partOfSpeech": "noun",
+        "meaning": "periods of one hundred years",
+        "translation": "əsrlər"
+      },
+      {
+        "term": "reveals",
+        "lemma": "reveal",
+        "partOfSpeech": "verb",
+        "meaning": "shows something that was not known",
+        "translation": "üzə çıxarır"
+      },
+      {
+        "term": "dressed",
+        "lemma": "dress",
+        "partOfSpeech": "verb",
+        "meaning": "wore clothes",
+        "translation": "geyinirdi"
+      },
+      {
+        "term": "at that time",
+        "lemma": "at that time",
+        "partOfSpeech": "phrase",
+        "meaning": "in that period in the past",
+        "translation": "həmin dövrdə"
+      },
+      {
+        "term": "took lots of notes",
+        "lemma": "take notes",
+        "partOfSpeech": "phrase",
+        "meaning": "wrote down a lot of information",
+        "translation": "çoxlu qeyd götürdü"
+      },
+      {
+        "term": "on the way home",
+        "lemma": "on the way home",
+        "partOfSpeech": "phrase",
+        "meaning": "while going home",
+        "translation": "evə qayıdarkən"
+      },
+      {
+        "term": "couldn't stop talking",
+        "lemma": "can't stop doing",
+        "partOfSpeech": "phrase",
+        "meaning": "talked all the time",
+        "translation": "danışmaqdan dayana bilmirdi"
+      },
+      {
+        "term": "fascinating",
+        "lemma": "fascinating",
+        "partOfSpeech": "adjective",
+        "meaning": "very interesting",
+        "translation": "çox maraqlı"
+      },
+      {
+        "term": "come back",
+        "lemma": "come back",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "to return to a place",
+        "translation": "yenə gəlmək, qayıtmaq"
+      },
+      {
+        "term": "after all",
+        "lemma": "after all",
+        "partOfSpeech": "phrase",
+        "meaning": "used to say that something is different from what you thought",
+        "translation": "deyəsən, əslində"
+      }
+    ]
+  },
+  "grammar": {
+    "topic": "Expressing purpose: to, in order to, so that",
+    "topicTranslation": "Məqsəd bildirmə: to, in order to, so that",
+    "explanation": "We use to + verb to say why someone does something: I went to the shop to buy milk. In order to means the same, but it is more formal. For a negative purpose, we use in order not to + verb. When the purpose has its own subject, we use so that + subject + can/could/will/would: I wrote it down so that I wouldn't forget.",
+    "explanationTranslation": "Kiminsə bir işi nə üçün etdiyini bildirmək üçün to + feil işlədilir: I went to the shop to buy milk. In order to eyni mənanı verir, amma daha rəsmi səslənir. İnkar məqsəd üçün in order not to + feil işlədilir. Məqsəd hissəsinin öz mübtədası olanda so that + mübtəda + can/could/will/would işlədilir: I wrote it down so that I wouldn't forget.",
+    "rules": [
+      {
+        "text": "to + base verb: She went to the museum to see the new exhibition.",
+        "translation": "to + feilin əsas forması: She went to the museum to see the new exhibition."
+      },
+      {
+        "text": "in order to + base verb is more formal: We left early in order to avoid the traffic.",
+        "translation": "in order to + feilin əsas forması daha rəsmidir: We left early in order to avoid the traffic."
+      },
+      {
+        "text": "For a negative purpose, use in order not to + verb: I whispered in order not to wake the baby.",
+        "translation": "İnkar məqsəd üçün in order not to + feil işlədin: I whispered in order not to wake the baby."
+      },
+      {
+        "text": "so that + subject + can/will (present) or could/would (past): I'll call you so that you know. He took notes so that he wouldn't forget.",
+        "translation": "so that + mübtəda + can/will (indiki zaman) və ya could/would (keçmiş zaman): I'll call you so that you know. He took notes so that he wouldn't forget."
+      },
+      {
+        "text": "Don't use for + verb for purpose: say I came to see you, not I came for see you.",
+        "translation": "Məqsəd üçün for + feil işlədilmir: I came for see you yox, I came to see you deyilir."
+      }
+    ],
+    "examples": [
+      {
+        "text": "We went to the museum to see the ancient coins.",
+        "translation": "Qədim sikkələri görmək üçün muzeyə getdik."
+      },
+      {
+        "text": "The statues are kept behind glass in order to protect them.",
+        "translation": "Heykəlləri qorumaq üçün onları şüşə arxasında saxlayırlar."
+      },
+      {
+        "text": "She spoke quietly so that she wouldn't disturb anyone.",
+        "translation": "Heç kimi narahat etməmək üçün o, sakit danışırdı."
+      },
+      {
+        "text": "Archaeologists work slowly in order not to damage anything.",
+        "translation": "Arxeoloqlar heç nəyə zərər verməmək üçün yavaş işləyirlər."
+      },
+      {
+        "text": "I'm saving money so that I can travel next summer.",
+        "translation": "Gələn yay səyahət edə bilmək üçün pul yığıram."
+      }
+    ],
+    "exercise": {
+      "instructions": "Choose or write the correct answer.",
+      "instructionsTranslation": "Düzgün cavabı seçin və ya yazın.",
+      "questions": [
+        {
+          "type": "choice",
+          "prompt": "I went to the bank ___ some money.",
+          "promptTranslation": "Bir az pul götürmək üçün banka getdim.",
+          "options": [
+            "to get",
+            "for get",
+            "for getting"
+          ],
+          "answer": "to get",
+          "explanation": "Use to + verb to say why you do something.",
+          "explanationTranslation": "Bir işi nə üçün etdiyinizi bildirmək üçün to + feil işlədilir."
+        },
+        {
+          "type": "choice",
+          "prompt": "We left early ___ we could get good seats.",
+          "promptTranslation": "Yaxşı yerlər tuta bilmək üçün tez çıxdıq.",
+          "options": [
+            "to",
+            "so that",
+            "in order to"
+          ],
+          "answer": "so that",
+          "explanation": "Use so that before a subject + could.",
+          "explanationTranslation": "Mübtəda + could-dan əvvəl so that işlədilir."
+        },
+        {
+          "type": "choice",
+          "prompt": "He wrote the date on his hand ___ forget it.",
+          "promptTranslation": "Tarixi unutmamaq üçün onu əlinin üstünə yazdı.",
+          "options": [
+            "in order not to",
+            "not in order to",
+            "so that not"
+          ],
+          "answer": "in order not to",
+          "explanation": "For a negative purpose, use in order not to + verb.",
+          "explanationTranslation": "İnkar məqsəd üçün in order not to + feil işlədilir."
+        },
+        {
+          "type": "text",
+          "prompt": "She turned on the light so that she ___ (can) read.",
+          "promptTranslation": "Oxuya bilmək üçün o, işığı yandırdı.",
+          "acceptedAnswers": [],
+          "answer": "could",
+          "explanation": "In a past sentence, so that is followed by could.",
+          "explanationTranslation": "Keçmiş zamanda olan cümlədə so that-dan sonra could işlədilir."
+        },
+        {
+          "type": "text",
+          "prompt": "They traveled to Gabala ___ (three words, formal) see the mountains.",
+          "promptTranslation": "Onlar dağları görmək üçün Qəbələyə getdilər.",
+          "acceptedAnswers": [
+            "to"
+          ],
+          "answer": "in order to",
+          "explanation": "In order to + verb is a formal way to express purpose.",
+          "explanationTranslation": "In order to + feil məqsədi bildirməyin rəsmi yoludur."
+        }
+      ]
+    }
+  }
+}

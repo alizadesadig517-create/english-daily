@@ -1979,6 +1979,66 @@
     {
       "word": "gentle",
       "date": "2026-11-02"
+    },
+    {
+      "word": "exhibition",
+      "date": "2026-11-03"
+    },
+    {
+      "word": "ancient",
+      "date": "2026-11-03"
+    },
+    {
+      "word": "collection",
+      "date": "2026-11-03"
+    },
+    {
+      "word": "display",
+      "date": "2026-11-03"
+    },
+    {
+      "word": "century",
+      "date": "2026-11-03"
+    },
+    {
+      "word": "statue",
+      "date": "2026-11-03"
+    },
+    {
+      "word": "coin",
+      "date": "2026-11-03"
+    },
+    {
+      "word": "archaeologist",
+      "date": "2026-11-03"
+    },
+    {
+      "word": "discover",
+      "date": "2026-11-03"
+    },
+    {
+      "word": "fascinating",
+      "date": "2026-11-03"
+    },
+    {
+      "word": "reveal",
+      "date": "2026-11-03"
+    },
+    {
+      "word": "valuable",
+      "date": "2026-11-03"
+    },
+    {
+      "word": "fragile",
+      "date": "2026-11-03"
+    },
+    {
+      "word": "ruin",
+      "date": "2026-11-03"
+    },
+    {
+      "word": "dig up",
+      "date": "2026-11-03"
     }
   ],
   "grammarTopics": [
@@ -2113,6 +2173,10 @@
     {
       "topic": "Linking words for contrast: although, even though, however",
       "date": "2026-11-02"
+    },
+    {
+      "topic": "Expressing purpose: to, in order to, so that",
+      "date": "2026-11-03"
     }
   ]
 }
