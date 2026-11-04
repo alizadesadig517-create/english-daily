@@ -134,6 +134,7 @@ textarea.in { min-height: 120px; resize: vertical; font-weight: 600; }
 .sheet .tr { font-size: 20px; color: var(--primary-dark); font-weight: 900; }
 .sheet .m { margin-top: 6px; font-weight: 600; }
 .scrim { position: fixed; inset: 0; z-index: 19; background: rgba(0,0,0,.25); }
+.toast { position: fixed; z-index: 30; left: max(16px, env(safe-area-inset-left, 0px)); right: max(16px, env(safe-area-inset-right, 0px)); top: calc(12px + env(safe-area-inset-top, 0px)); max-width: 608px; margin: 0 auto; background: var(--fg); color: var(--bg); border-radius: 14px; padding: 12px 14px; font-weight: 800; font-size: 15px; box-shadow: 0 8px 24px rgba(0,0,0,.25); }
 .choices .opt { white-space: normal; }
 
 /* Result */
@@ -191,6 +192,7 @@ window.DATA = /*__DATA__*/null;
   function tone(seq) {
     try {
       ac = ac || new (window.AudioContext || window.webkitAudioContext)();
+      if (ac.state === 'suspended') ac.resume();
       let t = ac.currentTime;
       seq.forEach(([f, d]) => { const o = ac.createOscillator(), g = ac.createGain(); o.type = 'sine'; o.frequency.value = f; g.gain.setValueAtTime(.0001, t); g.gain.exponentialRampToValueAtTime(.25, t + .02); g.gain.exponentialRampToValueAtTime(.0001, t + d); o.connect(g).connect(ac.destination); o.start(t); o.stop(t + d); t += d; });
     } catch (e) { }
@@ -198,16 +200,33 @@ window.DATA = /*__DATA__*/null;
   const dingOk = () => tone([[660, .12], [880, .18]]);
   const dingBad = () => tone([[220, .25]]);
   const dingWin = () => tone([[523, .12], [659, .12], [784, .12], [1046, .3]]);
-  let voice = null;
+  let voice = null, ttsState = 'unknown', ttsWarned = false;
+  function ttsFailed(why) {
+    if (ttsState === 'ok') return;
+    ttsState = 'fail'; S.ttsWhy = why;
+    if (ttsWarned) return; ttsWarned = true;
+    toast('🔇 Səs bu görünüşdə işləmir (' + why + '). Linki Chrome brauzerində açın: orada səs adətən işləyir.');
+  }
   function speak(text, rate) {
     try {
-      const ss = window.speechSynthesis; if (!ss) return;
+      const ss = window.speechSynthesis;
+      if (!ss || typeof SpeechSynthesisUtterance === 'undefined') return ttsFailed('speechSynthesis yoxdur');
       ss.cancel();
       const u = new SpeechSynthesisUtterance(text); u.lang = 'en-US'; u.rate = rate || .92;
       if (!voice) { const vs = ss.getVoices(); voice = vs.find(v => /en[-_]US/i.test(v.lang) && /natural|premium|enhanced|google/i.test(v.name)) || vs.find(v => /en[-_]US/i.test(v.lang)) || vs.find(v => /^en/i.test(v.lang)) || null; }
       if (voice) u.voice = voice;
+      let started = false;
+      u.onstart = () => { started = true; ttsState = 'ok'; };
+      u.onerror = ev => { if (!started && ev && ev.error !== 'interrupted' && ev.error !== 'canceled') ttsFailed('xəta: ' + ev.error); };
       ss.speak(u);
-    } catch (e) { }
+      if (ttsState !== 'ok') setTimeout(() => { if (!started && !ss.speaking) ttsFailed(ss.getVoices().length ? 'səs başlamadı' : 'səs paketi tapılmadı'); }, 1500);
+    } catch (e) { ttsFailed('xəta: ' + (e && e.message || e)); }
+  }
+  function toast(msg) {
+    const old = document.getElementById('toast'); if (old) old.remove();
+    const t = document.createElement('div'); t.id = 'toast'; t.className = 'toast'; t.textContent = msg;
+    t.addEventListener('click', () => t.remove());
+    document.body.appendChild(t); setTimeout(() => t.remove(), 7000);
   }
 
   // ---------- storage ----------
@@ -220,11 +239,13 @@ window.DATA = /*__DATA__*/null;
     saveLocal();
     if (!S.db) return;
     const db = S.db, prog = JSON.parse(JSON.stringify(S.progress)), day = JSON.parse(JSON.stringify(S.day));
-    writing = writing.then(() => db.doc('progress/main').set(prog)).then(() => db.doc('days/' + D.date).set(day)).catch(() => { S.dbState = 'error'; });
+    writing = writing.then(() => db.doc('progress/main').set(prog)).then(() => db.doc('days/' + D.date).set(day))
+      .then(() => { S.dbState = 'ok'; S.dbErr = ''; S.savedAt = new Date(); if (S.screen === 'home') renderHome(); })
+      .catch(e => { S.dbState = 'error'; S.dbErr = (e && (e.code || e.message)) || String(e); if (S.screen === 'home') renderHome(); });
   }
   async function initDb() {
     let db = null;
-    try { db = window.claude && window.claude.use ? await window.claude.use('db') : null; } catch (e) { db = null; }
+    try { db = window.claude && window.claude.use ? await window.claude.use('db') : null; } catch (e) { db = null; S.dbErr = (e && (e.code || e.message)) || String(e); }
     if (!db) { S.dbState = 'none'; if (S.screen === 'home') renderHome(); return; }
     S.db = db;
     try {
@@ -233,7 +254,9 @@ window.DATA = /*__DATA__*/null;
       const d = await db.doc('days/' + D.date).get();
       if (d.exists) S.day = Object.assign(S.day, d.data());
       S.dbState = 'ok'; saveLocal();
-    } catch (e) { S.dbState = 'error'; }
+      // progress made before the database answered (or in an earlier visit without it) is pushed up once
+      if (S.day.completed.length || S.day.choice || S.day.mission) persist();
+    } catch (e) { S.dbState = 'error'; S.dbErr = (e && (e.code || e.message)) || String(e); }
     if (S.screen === 'home') renderHome();
   }
 
@@ -330,7 +353,11 @@ window.DATA = /*__DATA__*/null;
     const done = new Set(S.day.completed);
     let unlockedUpTo = 0; nodes.forEach((n, i) => { if (done.has(n.id)) unlockedUpTo = i + 1; });
     const ep = D.extras.episode;
-    const dbNote = S.dbState === 'none' ? 'İrəliləyiş yalnız bu brauzerdə saxlanılır.' : S.dbState === 'error' ? 'Baza ilə əlaqə yoxdur, irəliləyiş bu brauzerdə saxlanılır.' : S.dbState === 'loading' ? 'İrəliləyiş yüklənir…' : '';
+    const hhmm = d => d ? String(d.getHours()).padStart(2, '0') + ':' + String(d.getMinutes()).padStart(2, '0') : '';
+    const dbNote = S.dbState === 'none' ? '⚠️ Bulud bazası bu görünüşdə açılmadı' + (S.dbErr ? ' (' + S.dbErr + ')' : '') + '. İrəliləyiş yalnız bu cihazda saxlanılır və səhər mənə çatmır.'
+      : S.dbState === 'error' ? '⚠️ Bazaya yazmaq alınmadı (' + (S.dbErr || 'naməlum') + '). İrəliləyiş bu cihazda saxlanıldı.'
+      : S.dbState === 'loading' ? 'İrəliləyiş yüklənir…'
+      : S.savedAt ? '☁️ Saxlanıldı ' + hhmm(S.savedAt) + ' · səhər seçimini və missiyanı oxuyacağam' : '☁️ Bazaya qoşuldu · hər bölmənin sonunda saxlanılır';
     app.innerHTML = `
       <div class="top"><div><div class="eyebrow">${esc(D.dateLabel)}</div><h1>${esc(D.series.title)}</h1></div><div class="hearts" style="margin-left:auto">${S.progress.streak > 0 ? '🔥 ' + S.progress.streak : ''}</div></div>
       <div class="stage"><div class="stack">
