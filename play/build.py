@@ -67,11 +67,15 @@ def main(argv):
         "lesson": {"words": lesson["words"], "story": lesson.get("story"), "grammar": lesson["grammar"]},
         "extras": extras,
         "series": {"title": series.get("title", "English Daily"), "titleAz": series.get("titleAz", "")},
-        "characters": [{"name": c["name"], "look": c.get("look", {})} for c in series.get("characters", [])],
+        "characters": [{"name": c["name"], "look": c.get("look", {}), "voice": c.get("voice", "female")}
+                       for c in series.get("characters", [])],
         "review": review_pool(today),
     }
     if data["lesson"]["story"] is None:
         sys.exit("the interactive page needs a story (storyEnabled)")
+    sys.path.insert(0, PLAY)
+    from audio import build_audio
+    data["audio"] = build_audio(data)
     with open(os.path.join(PLAY, "template.html"), encoding="utf-8") as f:
         html = f.read()
     payload = json.dumps(data, ensure_ascii=False).replace("</", "<\\/")

@@ -283,7 +283,26 @@ window.DATA = /*__DATA__*/null;
   const sCombo = () => tone([[880, .07], [1109, .07], [1319, .14]]);
   let voice = null, ttsState = 'unknown', ttsWarned = false;
   function ttsFailed(why) { if (ttsState === 'ok') return; ttsState = 'fail'; if (ttsWarned) return; ttsWarned = true; toast('🔇 Səs bu görünüşdə işləmir (' + why + '). Linki Chrome brauzerində açsanız, səs adətən işləyir.'); }
+  // pre-recorded clips (play/audio.py); key must match audio_key() there
+  const AUDIO = D.audio || {};
+  const audioKey = t => String(t || '').toLowerCase().replace(/’/g, "'").replace(/[“”"]/g, '').replace(/[^\p{L}\p{N}_' ]/gu, ' ').replace(/\s+/g, ' ').trim();
+  let player = null;
   function speak(text, rate) {
+    const src = AUDIO[audioKey(text)];
+    if (!src) (S.miss = S.miss || []).push(text);
+    if (src) {
+      try { if (window.speechSynthesis) speechSynthesis.cancel(); } catch (e) { }
+      try {
+        if (!player) player = new Audio();
+        player.pause(); player.src = src; player.playbackRate = rate && rate < .8 ? .7 : 1; player.preservesPitch = true;
+        const p = player.play(); if (p && p.catch) p.catch(() => speakTts(text, rate));
+        return;
+      } catch (e) { }
+    }
+    speakTts(text, rate);
+  }
+  function stopSpeech() { try { if (player) player.pause(); } catch (e) { } try { if (window.speechSynthesis) speechSynthesis.cancel(); } catch (e) { } }
+  function speakTts(text, rate) {
     try {
       const ss = window.speechSynthesis;
       if (!ss || typeof SpeechSynthesisUtterance === 'undefined') return ttsFailed('speechSynthesis yoxdur');
@@ -574,7 +593,7 @@ window.DATA = /*__DATA__*/null;
   }
 
   function bindCommon() {
-    document.getElementById('quit').addEventListener('click', () => { try { speechSynthesis.cancel(); } catch (e) { } renderHome(); });
+    document.getElementById('quit').addEventListener('click', () => { stopSpeech(); renderHome(); });
     app.querySelectorAll('[data-say]').forEach(b => b.addEventListener('click', ev => { ev.stopPropagation(); speak(b.dataset.say, b.dataset.slow ? .55 : undefined); }));
   }
   function bindEx(e) {

@@ -334,8 +334,19 @@ After the push, build the Duolingo-style page and publish it to the **same**
 artifact link every day (the learner has it bookmarked):
 
 ```bash
+python3 -c "import piper" 2>/dev/null || pip install -q piper-tts   # approved by the learner on 2026-11-04
 python3 play/build.py $DATE        # writes play/build/today.html (not committed)
 ```
+
+`build.py` records every word, example, glossary term and story sentence
+with Piper (two voices: female for the narrator and female characters, male
+for male characters, set by `voice` in `play/series.json`; voice models are
+downloaded on first use into `play/build/voices`, about 125 MB) and embeds the
+clips in the page. It must print `audio: N clips ...`. If it prints
+`WARNING: no audio`, fix the cause (install piper-tts or ffmpeg) and build
+again; publish without audio only if that fails, and say so in the report.
+Give every new character a `voice` (`"female"` or `"male"`) in
+`play/series.json`.
 
 Then publish `play/build/today.html` with the `Artifact` tool, passing
 `url` = the link in `play/ARTIFACT_URL` so the existing page is updated in
