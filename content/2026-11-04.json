@@ -1,0 +1,1034 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-04",
+  "level": "B1",
+  "translationLanguage": "az",
+  "words": [
+    {
+      "word": "lock",
+      "ipa": "/lɑːk/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "kilidləmək, bağlamaq",
+          "definition": "to close something with a key so that nobody can open it",
+          "synonyms": [
+            "close",
+            "shut"
+          ],
+          "antonyms": [
+            "unlock",
+            "open"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Don't forget to lock the door when you leave.",
+              "translation": "Çıxanda qapını kilidləməyi unutma."
+            },
+            {
+              "text": "He locked his bike to the fence.",
+              "translation": "O, velosipedini kilidlə hasara bağladı."
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "noun",
+          "translation": "qıfıl, kilid",
+          "definition": "a thing on a door, a window or a box that you open and close with a key",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "We need a new lock for the front door.",
+              "translation": "Giriş qapısı üçün yeni qıfıl lazımdır."
+            },
+            {
+              "text": "The key was stuck in the lock.",
+              "translation": "Açar kilidin içində ilişib qalmışdı."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "locksmith",
+      "ipa": "/ˈlɑːksmɪθ/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "çilingər",
+          "definition": "a person whose job is to make and repair locks and keys",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "We called a locksmith to open the door.",
+              "translation": "Qapını açmaq üçün çilingər çağırdıq."
+            },
+            {
+              "text": "The locksmith made a copy of my key in five minutes.",
+              "translation": "Çilingər beş dəqiqəyə açarımın surətini düzəltdi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "search",
+      "ipa": "/sɜːrtʃ/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "axtarmaq",
+          "definition": "to look carefully for something or someone",
+          "synonyms": [
+            "look for",
+            "hunt"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The police searched the whole area.",
+              "translation": "Polis bütün ərazini axtardı."
+            },
+            {
+              "text": "I searched the internet for a cheap flight.",
+              "translation": "İnternetdə ucuz aviabilet axtardım."
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "noun",
+          "translation": "axtarış",
+          "definition": "an attempt to find someone or something by looking carefully",
+          "synonyms": [
+            "hunt"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "After a long search, we found the cat under the bed.",
+              "translation": "Uzun axtarışdan sonra pişiyi çarpayının altında tapdıq."
+            },
+            {
+              "text": "Type the name of the city in the search box.",
+              "translation": "Şəhərin adını axtarış xanasına yazın."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "ladder",
+      "ipa": "/ˈlædər/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "nərdivan",
+          "definition": "a piece of equipment with steps that you climb to reach high places",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "He went up the ladder to fix the roof.",
+              "translation": "O, damı təmir etmək üçün nərdivanla yuxarı çıxdı."
+            },
+            {
+              "text": "Hold the ladder, please. I don't want to fall.",
+              "translation": "Zəhmət olmasa, nərdivanı tut. Yıxılmaq istəmirəm."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "balcony",
+      "ipa": "/ˈbælkəni/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "eyvan",
+          "definition": "a small area with a wall or rail on the outside of a building, above the ground",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "We drink tea on the balcony every evening.",
+              "translation": "Hər axşam eyvanda çay içirik."
+            },
+            {
+              "text": "Our hotel room had a balcony with a sea view.",
+              "translation": "Otel otağımızın dənizə baxan eyvanı var idi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "climb",
+      "ipa": "/klaɪm/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "dırmaşmaq, qalxmaq",
+          "definition": "to go up something, often using your hands and feet",
+          "synonyms": [
+            "go up"
+          ],
+          "antonyms": [
+            "go down"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The children love climbing trees.",
+              "translation": "Uşaqlar ağaclara dırmaşmağı çox sevirlər."
+            },
+            {
+              "text": "We climbed to the top of the hill.",
+              "translation": "Təpənin başına qalxdıq."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "desperate",
+      "ipa": "/ˈdɛspərət/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "çarəsiz, ümidsiz; çox ehtiyacı olan",
+          "definition": "feeling that you will do anything to change a very bad situation, or wanting something very much",
+          "synonyms": [
+            "hopeless"
+          ],
+          "antonyms": [
+            "hopeful",
+            "calm"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The desperate parents asked everyone for help.",
+              "translation": "Çarəsiz valideynlər hamıdan kömək istədilər."
+            },
+            {
+              "text": "After the long run, he was desperate for a glass of water.",
+              "translation": "Uzun qaçışdan sonra o, bir stəkan suya can atırdı."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "doorbell",
+      "ipa": "/ˈdɔːrbɛl/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "qapı zəngi",
+          "definition": "a bell or button by a door that you press so that the people inside know you are there",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The doorbell rang while I was in the shower.",
+              "translation": "Mən duşda olanda qapı zəngi çaldı."
+            },
+            {
+              "text": "Please ring the doorbell. Don't knock.",
+              "translation": "Zəhmət olmasa, zəngi basın. Qapını döyməyin."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "emergency",
+      "ipa": "/ɪˈmɜːrdʒənsi/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "təcili vəziyyət, fövqəladə hal",
+          "definition": "a sudden, dangerous situation in which you need help quickly",
+          "synonyms": [
+            "crisis"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "In an emergency, call 112.",
+              "translation": "Təcili vəziyyətdə 112-yə zəng edin."
+            },
+            {
+              "text": "The plane made an emergency landing.",
+              "translation": "Təyyarə məcburi eniş etdi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "fee",
+      "ipa": "/fiː/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "haqq, ödəniş",
+          "definition": "money that you pay for a service, for example to a doctor or a school",
+          "synonyms": [
+            "charge",
+            "cost"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The museum has no entrance fee on Sundays.",
+              "translation": "Bazar günləri muzeyə giriş haqqı alınmır."
+            },
+            {
+              "text": "The bank charges a small fee for this service.",
+              "translation": "Bank bu xidmət üçün kiçik bir haqq alır."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "clumsy",
+      "ipa": "/ˈklʌmzi/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "yöndəmsiz, əl-qolu dolaşan",
+          "definition": "moving in a way that is not careful, so that you often drop, hit or break things",
+          "synonyms": [
+            "awkward"
+          ],
+          "antonyms": [
+            "graceful",
+            "careful"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "I'm so clumsy. I've broken another glass!",
+              "translation": "Mən çox yöndəmsizəm. Yenə bir stəkan sındırdım!"
+            },
+            {
+              "text": "The puppy was clumsy and kept falling over.",
+              "translation": "Küçük yöndəmsiz idi və tez-tez yıxılırdı."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hurry",
+      "ipa": "/ˈhɜːri/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "tələsmək",
+          "definition": "to do something or go somewhere quickly because there is not much time",
+          "synonyms": [
+            "rush"
+          ],
+          "antonyms": [
+            "slow down"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Hurry, or we'll miss the train!",
+              "translation": "Tələs, yoxsa qatara gecikəcəyik!"
+            },
+            {
+              "text": "She hurried home because it was starting to rain.",
+              "translation": "Yağış başladığı üçün o, evə tələsdi."
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "noun",
+          "translation": "tələsik",
+          "definition": "a situation in which you need to do something quickly",
+          "synonyms": [
+            "rush"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Sorry, I can't talk now. I'm in a hurry.",
+              "translation": "Bağışla, indi danışa bilmirəm. Tələsirəm."
+            },
+            {
+              "text": "There's no hurry. Take your time.",
+              "translation": "Tələsməyə ehtiyac yoxdur. Rahat ol."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "grab",
+      "ipa": "/ɡræb/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "qapmaq, cəld götürmək",
+          "definition": "to take something quickly and suddenly",
+          "synonyms": [
+            "seize",
+            "snatch"
+          ],
+          "antonyms": [
+            "let go"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "She grabbed her coat and ran out of the door.",
+              "translation": "O, paltosunu qapıb qapıdan çölə qaçdı."
+            },
+            {
+              "text": "Let's grab a coffee before the meeting.",
+              "translation": "Görüşdən əvvəl tələsik bir qəhvə içək."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "turn up",
+      "ipa": "/ˌtɜːrn ˈʌp/",
+      "senses": [
+        {
+          "partOfSpeech": "phrasal verb",
+          "translation": "gəlib çıxmaq, peyda olmaq",
+          "definition": "to arrive somewhere, often when people don't expect you",
+          "synonyms": [
+            "arrive",
+            "show up",
+            "appear"
+          ],
+          "antonyms": [
+            "disappear"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Only five people turned up for the meeting.",
+              "translation": "Görüşə cəmi beş nəfər gəldi."
+            },
+            {
+              "text": "He always turns up late.",
+              "translation": "O, həmişə gecikib gəlir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "stranger",
+      "ipa": "/ˈstreɪndʒər/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "yad adam, tanımadığı adam",
+          "definition": "a person you do not know",
+          "synonyms": [],
+          "antonyms": [
+            "friend",
+            "acquaintance"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Children shouldn't talk to strangers.",
+              "translation": "Uşaqlar tanımadıqları adamlarla danışmamalıdırlar."
+            },
+            {
+              "text": "A stranger helped me carry my bags to the bus.",
+              "translation": "Tanımadığım bir adam çantalarımı avtobusa qədər daşımağa kömək etdi."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "story": {
+    "title": "Locked Out",
+    "titleTranslation": "Qapı arxasında",
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "It was almost midnight when Sevda got home from her friend's birthday party.",
+            "translation": "Sevda rəfiqəsinin ad günündən evə qayıdanda gecə yarısına az qalmışdı."
+          },
+          {
+            "text": "She searched her bag for her keys, but they weren't there.",
+            "translation": "O, açarlarını tapmaq üçün çantasını axtardı, amma açarlar orada deyildi."
+          },
+          {
+            "text": "She looked everywhere: in her coat pockets, under the mat, even in her shoes.",
+            "translation": "Hər yeri axtardı: paltosunun ciblərini, qapının ağzındakı palazın altını, hətta ayaqqabılarının içini."
+          },
+          {
+            "text": "Then she remembered: she had left them on the kitchen table, and the door had locked automatically behind her.",
+            "translation": "Sonra yadına düşdü: açarları mətbəx masasının üstündə qoymuşdu, qapı isə arxasınca avtomatik bağlanmışdı."
+          },
+          {
+            "text": "“Nobody is home, and I can't get in,” she thought.",
+            "translation": "“Evdə heç kim yoxdur, mən də içəri girə bilmirəm,” – deyə düşündü."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "She rang her neighbor's doorbell, but nobody answered.",
+            "translation": "Qonşusunun qapı zəngini basdı, amma heç kim cavab vermədi."
+          },
+          {
+            "text": "Her phone battery was almost dead, so she had to hurry.",
+            "translation": "Telefonunun batareyası az qala bitmişdi, ona görə tələsməli idi."
+          },
+          {
+            "text": "She found the number of an emergency locksmith online and called him.",
+            "translation": "İnternetdə təcili çağırışa gələn çilingərin nömrəsini tapdı və ona zəng etdi."
+          },
+          {
+            "text": "“I can come in an hour,” he said. “But there's an extra fee at night.”",
+            "translation": "“Bir saata gələ bilərəm,” – dedi. “Amma gecələr əlavə ödəniş var.”"
+          },
+          {
+            "text": "Sevda was tired and desperate, so she agreed.",
+            "translation": "Sevda yorğun və çarəsiz idi, ona görə razılaşdı."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "While she was waiting, she had an idea.",
+            "translation": "Gözləyərkən ağlına bir fikir gəldi."
+          },
+          {
+            "text": "Her apartment was on the second floor, and the balcony door was open.",
+            "translation": "Onun mənzili ikinci mərtəbədə idi və eyvanın qapısı açıq idi."
+          },
+          {
+            "text": "Maybe someone in the building had a ladder?",
+            "translation": "Bəlkə binada kiminsə nərdivanı var idi?"
+          },
+          {
+            "text": "She had always been a bit clumsy, so climbing up to the balcony wasn't a great plan, but she was ready to try anything.",
+            "translation": "O, həmişə bir az yöndəmsiz olmuşdu, ona görə eyvana dırmaşmaq yaxşı fikir deyildi, amma o, hər şeyi sınamağa hazır idi."
+          },
+          {
+            "text": "Just then, a stranger who was walking his dog turned up with a flashlight.",
+            "translation": "Elə bu vaxt itini gəzdirən tanımadığı bir adam əlində fənərlə peyda oldu."
+          },
+          {
+            "text": "“Do you need any help?” he asked.",
+            "translation": "“Köməyə ehtiyacınız var?” – deyə soruşdu."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "He turned out to be Murad, who lived on the fifth floor and kept a long ladder in the basement.",
+            "translation": "Məlum oldu ki, o, beşinci mərtəbədə yaşayan Muraddır və zirzəmidə uzun bir nərdivanı var."
+          },
+          {
+            "text": "He held the ladder while Sevda climbed carefully onto the balcony.",
+            "translation": "Sevda ehtiyatla eyvana dırmaşanda Murad nərdivanı tutdu."
+          },
+          {
+            "text": "She grabbed her keys from the table, called the locksmith to cancel, and ran downstairs to thank Murad.",
+            "translation": "O, açarlarını masadan qapdı, çilingərə zəng edib sifarişi ləğv etdi və Murada təşəkkür etmək üçün aşağı qaçdı."
+          },
+          {
+            "text": "Since then, she always checks her bag twice before she leaves, and she keeps a spare key at her mother's house.",
+            "translation": "O vaxtdan bəri o, evdən çıxmazdan əvvəl çantasını həmişə iki dəfə yoxlayır və ehtiyat açarı anasının evində saxlayır."
+          }
+        ]
+      }
+    ],
+    "glossary": [
+      {
+        "term": "almost midnight",
+        "lemma": "almost midnight",
+        "partOfSpeech": "phrase",
+        "meaning": "very close to 12 o'clock at night",
+        "translation": "gecə yarısına az qalmış"
+      },
+      {
+        "term": "got home",
+        "lemma": "get home",
+        "partOfSpeech": "phrase",
+        "meaning": "arrived at home",
+        "translation": "evə qayıtdı"
+      },
+      {
+        "term": "searched",
+        "lemma": "search",
+        "partOfSpeech": "verb",
+        "meaning": "looked carefully for something",
+        "translation": "axtardı"
+      },
+      {
+        "term": "everywhere",
+        "lemma": "everywhere",
+        "partOfSpeech": "adverb",
+        "meaning": "in all places",
+        "translation": "hər yer"
+      },
+      {
+        "term": "pockets",
+        "lemma": "pocket",
+        "partOfSpeech": "noun",
+        "meaning": "small bags sewn into clothes",
+        "translation": "ciblər"
+      },
+      {
+        "term": "mat",
+        "lemma": "mat",
+        "partOfSpeech": "noun",
+        "meaning": "a small piece of thick material on the floor by a door",
+        "translation": "palaz"
+      },
+      {
+        "term": "remembered",
+        "lemma": "remember",
+        "partOfSpeech": "verb",
+        "meaning": "thought of something again",
+        "translation": "yadına düşdü"
+      },
+      {
+        "term": "had left",
+        "lemma": "leave",
+        "partOfSpeech": "verb",
+        "meaning": "had put something somewhere and not taken it",
+        "translation": "qoymuşdu"
+      },
+      {
+        "term": "locked",
+        "lemma": "lock",
+        "partOfSpeech": "verb",
+        "meaning": "closed with a key",
+        "translation": "bağlanmışdı"
+      },
+      {
+        "term": "automatically",
+        "lemma": "automatically",
+        "partOfSpeech": "adverb",
+        "meaning": "by itself, without a person doing it",
+        "translation": "avtomatik"
+      },
+      {
+        "term": "nobody",
+        "lemma": "nobody",
+        "partOfSpeech": "pronoun",
+        "meaning": "no person",
+        "translation": "heç kim"
+      },
+      {
+        "term": "get in",
+        "lemma": "get in",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "to enter a place",
+        "translation": "içəri girmək"
+      },
+      {
+        "term": "rang",
+        "lemma": "ring",
+        "partOfSpeech": "verb",
+        "meaning": "pressed a bell so that it made a sound",
+        "translation": "basdı"
+      },
+      {
+        "term": "doorbell",
+        "lemma": "doorbell",
+        "partOfSpeech": "noun",
+        "meaning": "a bell by a door",
+        "translation": "qapı zəngi"
+      },
+      {
+        "term": "almost dead",
+        "lemma": "almost dead",
+        "partOfSpeech": "phrase",
+        "meaning": "nearly empty (about a battery)",
+        "translation": "az qala bitmişdi"
+      },
+      {
+        "term": "hurry",
+        "lemma": "hurry",
+        "partOfSpeech": "verb",
+        "meaning": "to do something quickly",
+        "translation": "tələsmək"
+      },
+      {
+        "term": "emergency",
+        "lemma": "emergency",
+        "partOfSpeech": "noun",
+        "meaning": "a sudden situation when you need help quickly",
+        "translation": "təcili vəziyyət"
+      },
+      {
+        "term": "locksmith",
+        "lemma": "locksmith",
+        "partOfSpeech": "noun",
+        "meaning": "a person who repairs locks and keys",
+        "translation": "çilingər"
+      },
+      {
+        "term": "online",
+        "lemma": "online",
+        "partOfSpeech": "adverb",
+        "meaning": "on the internet",
+        "translation": "internetdə"
+      },
+      {
+        "term": "in an hour",
+        "lemma": "in an hour",
+        "partOfSpeech": "phrase",
+        "meaning": "one hour from now",
+        "translation": "bir saata"
+      },
+      {
+        "term": "extra",
+        "lemma": "extra",
+        "partOfSpeech": "adjective",
+        "meaning": "more than usual",
+        "translation": "əlavə"
+      },
+      {
+        "term": "fee",
+        "lemma": "fee",
+        "partOfSpeech": "noun",
+        "meaning": "money you pay for a service",
+        "translation": "ödəniş, haqq"
+      },
+      {
+        "term": "desperate",
+        "lemma": "desperate",
+        "partOfSpeech": "adjective",
+        "meaning": "ready to do anything because the situation is bad",
+        "translation": "çarəsiz"
+      },
+      {
+        "term": "agreed",
+        "lemma": "agree",
+        "partOfSpeech": "verb",
+        "meaning": "said yes",
+        "translation": "razılaşdı"
+      },
+      {
+        "term": "had an idea",
+        "lemma": "have an idea",
+        "partOfSpeech": "phrase",
+        "meaning": "suddenly thought of a plan",
+        "translation": "ağlına bir fikir gəldi"
+      },
+      {
+        "term": "second floor",
+        "lemma": "second floor",
+        "partOfSpeech": "phrase",
+        "meaning": "the level of a building above the ground floor",
+        "translation": "ikinci mərtəbə"
+      },
+      {
+        "term": "balcony",
+        "lemma": "balcony",
+        "partOfSpeech": "noun",
+        "meaning": "a small area outside an apartment, above the ground",
+        "translation": "eyvan"
+      },
+      {
+        "term": "someone",
+        "lemma": "someone",
+        "partOfSpeech": "pronoun",
+        "meaning": "a person, but we don't know who",
+        "translation": "kimsə"
+      },
+      {
+        "term": "ladder",
+        "lemma": "ladder",
+        "partOfSpeech": "noun",
+        "meaning": "steps that you climb to reach high places",
+        "translation": "nərdivan"
+      },
+      {
+        "term": "clumsy",
+        "lemma": "clumsy",
+        "partOfSpeech": "adjective",
+        "meaning": "not careful in the way you move",
+        "translation": "yöndəmsiz"
+      },
+      {
+        "term": "climbing up",
+        "lemma": "climb",
+        "partOfSpeech": "verb",
+        "meaning": "going up using hands and feet",
+        "translation": "dırmaşmaq"
+      },
+      {
+        "term": "anything",
+        "lemma": "anything",
+        "partOfSpeech": "pronoun",
+        "meaning": "any thing at all",
+        "translation": "hər şey"
+      },
+      {
+        "term": "just then",
+        "lemma": "just then",
+        "partOfSpeech": "phrase",
+        "meaning": "at exactly that moment",
+        "translation": "elə bu vaxt"
+      },
+      {
+        "term": "stranger",
+        "lemma": "stranger",
+        "partOfSpeech": "noun",
+        "meaning": "a person you don't know",
+        "translation": "tanımadığı adam"
+      },
+      {
+        "term": "walking his dog",
+        "lemma": "walk a dog",
+        "partOfSpeech": "phrase",
+        "meaning": "taking his dog outside for a walk",
+        "translation": "itini gəzdirən"
+      },
+      {
+        "term": "turned up",
+        "lemma": "turn up",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "arrived when nobody expected it",
+        "translation": "peyda oldu"
+      },
+      {
+        "term": "flashlight",
+        "lemma": "flashlight",
+        "partOfSpeech": "noun",
+        "meaning": "a small electric light you hold in your hand",
+        "translation": "fənər"
+      },
+      {
+        "term": "turned out",
+        "lemma": "turn out",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "became known as a fact",
+        "translation": "məlum oldu"
+      },
+      {
+        "term": "basement",
+        "lemma": "basement",
+        "partOfSpeech": "noun",
+        "meaning": "a room or floor under the ground in a building",
+        "translation": "zirzəmi"
+      },
+      {
+        "term": "held",
+        "lemma": "hold",
+        "partOfSpeech": "verb",
+        "meaning": "kept something in his hands",
+        "translation": "tutdu"
+      },
+      {
+        "term": "carefully",
+        "lemma": "carefully",
+        "partOfSpeech": "adverb",
+        "meaning": "slowly and with attention",
+        "translation": "ehtiyatla"
+      },
+      {
+        "term": "onto",
+        "lemma": "onto",
+        "partOfSpeech": "preposition",
+        "meaning": "to a position on something",
+        "translation": "üstünə"
+      },
+      {
+        "term": "grabbed",
+        "lemma": "grab",
+        "partOfSpeech": "verb",
+        "meaning": "took quickly",
+        "translation": "qapdı"
+      },
+      {
+        "term": "cancel",
+        "lemma": "cancel",
+        "partOfSpeech": "verb",
+        "meaning": "to say that something will not happen",
+        "translation": "ləğv etmək"
+      },
+      {
+        "term": "downstairs",
+        "lemma": "downstairs",
+        "partOfSpeech": "adverb",
+        "meaning": "to a lower floor",
+        "translation": "aşağı"
+      },
+      {
+        "term": "since then",
+        "lemma": "since then",
+        "partOfSpeech": "phrase",
+        "meaning": "from that time until now",
+        "translation": "o vaxtdan bəri"
+      },
+      {
+        "term": "checks",
+        "lemma": "check",
+        "partOfSpeech": "verb",
+        "meaning": "looks at something to make sure it is OK",
+        "translation": "yoxlayır"
+      },
+      {
+        "term": "twice",
+        "lemma": "twice",
+        "partOfSpeech": "adverb",
+        "meaning": "two times",
+        "translation": "iki dəfə"
+      },
+      {
+        "term": "spare key",
+        "lemma": "spare key",
+        "partOfSpeech": "phrase",
+        "meaning": "an extra key you keep in case you lose yours",
+        "translation": "ehtiyat açar"
+      }
+    ]
+  },
+  "grammar": {
+    "topic": "Indefinite pronouns: some-, any-, no-, every-",
+    "topicTranslation": "Qeyri-müəyyən əvəzliklər: some-, any-, no-, every-",
+    "explanation": "Indefinite pronouns talk about people, things or places without saying exactly which ones. We make them with some-, any-, no- or every- + -one/-body (people), -thing (things) or -where (places). Use some- in positive sentences and offers, any- in questions and negative sentences, no- with a positive verb to give a negative meaning, and every- for all people, things or places. They take a singular verb: Everyone is here.",
+    "explanationTranslation": "Qeyri-müəyyən əvəzliklər insanlar, əşyalar və ya yerlər haqqında onların konkret hansı olduğunu demədən danışmaq üçün işlədilir. Onlar some-, any-, no- və ya every- + -one/-body (insanlar), -thing (əşyalar) və ya -where (yerlər) ilə düzəlir. Some- təsdiq cümlələrində və təkliflərdə, any- sual və inkar cümlələrində, no- inkar mənası vermək üçün təsdiq formalı feillə, every- isə bütün insanlar, əşyalar və ya yerlər üçün işlədilir. Onlardan sonra feil təkdə gəlir: Everyone is here.",
+    "rules": [
+      {
+        "text": "Use some- in positive sentences: Someone is at the door. I want something to drink.",
+        "translation": "Təsdiq cümlələrində some- işlədin: Someone is at the door. I want something to drink."
+      },
+      {
+        "text": "Use any- in questions and negatives: Is anybody home? I can't find my keys anywhere.",
+        "translation": "Sual və inkar cümlələrində any- işlədin: Is anybody home? I can't find my keys anywhere."
+      },
+      {
+        "text": "No- already has a negative meaning, so use a positive verb: Nobody answered (not Nobody didn't answer).",
+        "translation": "No- artıq inkar mənası verir, ona görə feil təsdiq formasında olur: Nobody answered (Nobody didn't answer yox)."
+      },
+      {
+        "text": "Every- means all: Everything is ready. I looked everywhere.",
+        "translation": "Every- hamısı, bütün mənasını verir: Everything is ready. I looked everywhere."
+      },
+      {
+        "text": "Use a singular verb after these pronouns: Everybody knows him. Nothing was wrong.",
+        "translation": "Bu əvəzliklərdən sonra feil təkdə işlədilir: Everybody knows him. Nothing was wrong."
+      }
+    ],
+    "examples": [
+      {
+        "text": "Someone has taken my umbrella.",
+        "translation": "Kimsə çətirimi götürüb."
+      },
+      {
+        "text": "Is there anything I can do to help?",
+        "translation": "Kömək üçün edə biləcəyim bir şey varmı?"
+      },
+      {
+        "text": "We searched everywhere, but we found nothing.",
+        "translation": "Hər yeri axtardıq, amma heç nə tapmadıq."
+      },
+      {
+        "text": "Nobody in the building had a ladder.",
+        "translation": "Binada heç kimin nərdivanı yox idi."
+      },
+      {
+        "text": "Everyone was surprised when the stranger turned up.",
+        "translation": "Tanımadığımız adam peyda olanda hamı təəccübləndi."
+      }
+    ],
+    "exercise": {
+      "instructions": "Choose or write the correct pronoun.",
+      "instructionsTranslation": "Düzgün əvəzliyi seçin və ya yazın.",
+      "questions": [
+        {
+          "type": "choice",
+          "prompt": "I'm hungry, but there isn't ___ in the fridge.",
+          "promptTranslation": "Acam, amma soyuducuda heç nə yoxdur.",
+          "options": [
+            "something",
+            "anything",
+            "nothing"
+          ],
+          "answer": "anything",
+          "explanation": "Use any- in negative sentences.",
+          "explanationTranslation": "İnkar cümlələrində any- işlədilir."
+        },
+        {
+          "type": "choice",
+          "prompt": "I rang the bell, but ___ answered.",
+          "promptTranslation": "Zəngi basdım, amma heç kim cavab vermədi.",
+          "options": [
+            "anybody",
+            "nobody",
+            "somebody"
+          ],
+          "answer": "nobody",
+          "explanation": "Nobody gives a negative meaning with a positive verb.",
+          "explanationTranslation": "Nobody təsdiq formalı feillə inkar mənası verir."
+        },
+        {
+          "type": "choice",
+          "prompt": "___ in the class likes Mr. Rauf. He's a great teacher.",
+          "promptTranslation": "Sinifdə hamı Rauf müəllimi sevir. O, əla müəllimdir.",
+          "options": [
+            "Everyone",
+            "Anyone",
+            "Nobody"
+          ],
+          "answer": "Everyone",
+          "explanation": "Every- means all people, and it takes a singular verb: likes.",
+          "explanationTranslation": "Every- bütün insanlar mənasını verir və ondan sonra feil təkdə gəlir: likes."
+        },
+        {
+          "type": "text",
+          "prompt": "Have you seen my glasses? I can't find them ___ (place).",
+          "promptTranslation": "Eynəyimi görmüsən? Onu heç yerdə tapa bilmirəm.",
+          "acceptedAnswers": [],
+          "answer": "anywhere",
+          "explanation": "Use any- in negative sentences; -where is for places.",
+          "explanationTranslation": "İnkar cümlələrində any- işlədilir; -where yerlər üçündür."
+        },
+        {
+          "type": "text",
+          "prompt": "Listen! I think ___ (person) is knocking on the door.",
+          "promptTranslation": "Qulaq as! Deyəsən, kimsə qapını döyür.",
+          "acceptedAnswers": [
+            "somebody"
+          ],
+          "answer": "someone",
+          "explanation": "Use some- in positive sentences; -one is for people.",
+          "explanationTranslation": "Təsdiq cümlələrində some- işlədilir; -one insanlar üçündür."
+        }
+      ]
+    }
+  }
+}

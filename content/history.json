@@ -2039,6 +2039,66 @@
     {
       "word": "dig up",
       "date": "2026-11-03"
+    },
+    {
+      "word": "lock",
+      "date": "2026-11-04"
+    },
+    {
+      "word": "locksmith",
+      "date": "2026-11-04"
+    },
+    {
+      "word": "search",
+      "date": "2026-11-04"
+    },
+    {
+      "word": "ladder",
+      "date": "2026-11-04"
+    },
+    {
+      "word": "balcony",
+      "date": "2026-11-04"
+    },
+    {
+      "word": "climb",
+      "date": "2026-11-04"
+    },
+    {
+      "word": "desperate",
+      "date": "2026-11-04"
+    },
+    {
+      "word": "doorbell",
+      "date": "2026-11-04"
+    },
+    {
+      "word": "emergency",
+      "date": "2026-11-04"
+    },
+    {
+      "word": "fee",
+      "date": "2026-11-04"
+    },
+    {
+      "word": "clumsy",
+      "date": "2026-11-04"
+    },
+    {
+      "word": "hurry",
+      "date": "2026-11-04"
+    },
+    {
+      "word": "grab",
+      "date": "2026-11-04"
+    },
+    {
+      "word": "turn up",
+      "date": "2026-11-04"
+    },
+    {
+      "word": "stranger",
+      "date": "2026-11-04"
     }
   ],
   "grammarTopics": [
@@ -2177,6 +2237,10 @@
     {
       "topic": "Expressing purpose: to, in order to, so that",
       "date": "2026-11-03"
+    },
+    {
+      "topic": "Indefinite pronouns: some-, any-, no-, every-",
+      "date": "2026-11-04"
     }
   ]
 }
