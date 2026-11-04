@@ -335,26 +335,40 @@ artifact link every day (the learner has it bookmarked):
 
 ```bash
 python3 -c "import piper" 2>/dev/null || pip install -q piper-tts   # approved by the learner on 2026-11-04
-python3 play/build.py $DATE        # writes play/build/today.html (not committed)
+python3 play/build.py $DATE        # writes play/build/site/ (not committed)
 ```
 
-`build.py` records every word, example, glossary term and story sentence
-with Piper (two voices: female for the narrator and female characters, male
-for male characters, set by `voice` in `play/series.json`; voice models are
-downloaded on first use into `play/build/voices`, about 125 MB) and embeds the
-clips in the page. It must print `audio: N clips ...`. If it prints
-`WARNING: no audio`, fix the cause (install piper-tts or ffmpeg) and build
-again; publish without audio only if that fails, and say so in the report.
-Give every new character a `voice` (`"female"` or `"male"`) in
-`play/series.json`.
+`build.py` writes `play/build/site/index.html` (the page, with today's lesson
+and the archive list), `data/<date>.json` for every lesson (the archive) and
+`audio/$DATE.json`: every word, example, glossary term and story sentence
+recorded with Piper (female voice for the narrator and female characters,
+male for male characters, set by `voice` in `play/series.json`; voice models
+are downloaded on first use into `play/build/voices`, about 125 MB). It must
+print `audio: N clips ...`. If it prints `WARNING: no audio`, fix the cause
+(install piper-tts or ffmpeg) and build again; publish without audio only if
+that fails, and say so in the report. Give every new character a `voice`
+(`"female"` or `"male"`) in `play/series.json`. The last line it prints lists
+the lessons whose audio is now older than the newest 30.
 
-Then publish `play/build/today.html` with the `Artifact` tool, passing
-`url` = the link in `play/ARTIFACT_URL` so the existing page is updated in
-place, and `label` = `"Episode <number> · <DATE>"`. Do not pass `icon` or
-`capabilities` (the page keeps `db` + `user`). If the publish is refused
-because the artifact was not read in this session, read it first
-(`action: "read"`, same `url`) and publish again. If publishing fails after
-two attempts, report it; the lesson JSON is already on `main`.
+Then publish with the `Artifact` tool, updating the same link:
+
+1. `action: "list"`, `scope: "files"`, `url` = the link in `play/ARTIFACT_URL`
+   (this also lets you remove old files).
+2. Publish: `file_path` = `play/build/site/index.html`, `url` = that link,
+   `root` = `play/build/site`, `label` = `"Episode <number> · <DATE>"`, and
+   `files` = a map with `"data/<DATE>.json": "data/<DATE>.json"`,
+   `"audio/<DATE>.json": "audio/<DATE>.json"`, and
+   `"audio/<old date>.json": null` for every listed audio file whose date is
+   in the "audio to remove" line (keeps about 30 days of audio, ~2 MB each).
+   Also send any `data/<date>.json` that the listing does not show yet.
+   Do not pass `icon` or `capabilities` (the page keeps `db` + `user`).
+3. If the publish is refused because the artifact was not read in this
+   session, read it first (`action: "read"`, same `url`) and publish again.
+   If publishing fails after two attempts, report it; the lesson JSON is
+   already on `main`.
+
+The learner opens the same link every evening; there is no separate
+notification. Mention the link in the report.
 
 ## 9. Report
 

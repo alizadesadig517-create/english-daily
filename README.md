@@ -18,10 +18,11 @@ schema/lesson.schema.json  the lesson format (the contract between routine and a
 scripts/validate.py      checks lessons against the schema and the quality rules
 routine/daily-content.md the full instructions for the daily routine
 play/template.html       the interactive (Duolingo-style) lesson page
-play/build.py            fills the template with one day's data -> play/build/today.html
+play/build.py            builds play/build/site/: the page, data/<date>.json (archive), audio/<date>.json
 play/days/YYYY-MM-DD.json  per-day extras: episode choices, questions, mission, feedback
 play/series.json         the running serial: characters, rules, episodes, choices
-play/ARTIFACT_URL        the link of the published interactive page (updated daily)
+play/audio.py            records words and sentences with Piper (text-to-speech) for the page
+play/ARTIFACT_URL        the link of the published interactive page (updated daily, with an archive)
 .github/workflows/       builds the APK and publishes it as a GitHub Release
 ```
 
