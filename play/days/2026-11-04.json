@@ -1,0 +1,42 @@
+{
+  "format": "story",
+  "episode": {
+    "number": 1,
+    "title": "Locked Out",
+    "recap": "Birinci epizod. Sevda ilə tanış ol: gecə yarısı, bağlı qapı və beşinci mərtəbədən gələn kömək.",
+    "cliffhanger": "The next morning, Sevda finds a note under her door: “You left something on the balcony.” But she is sure she left nothing there. What does she do?",
+    "cliffhangerAz": "Səhər Sevda qapısının altında bir qeyd tapır: “Eyvanda nəsə qoymusan.” Amma o, orada heç nə qoymadığına əmindir. Nə etsin?",
+    "choices": [
+      {"id": "A", "text": "Go up to the fifth floor and ask Murad about the note.", "textAz": "Beşinci mərtəbəyə qalxıb Muraddan qeydi soruşsun."},
+      {"id": "B", "text": "Check the balcony first, carefully.", "textAz": "Əvvəlcə ehtiyatla eyvanı yoxlasın."},
+      {"id": "C", "text": "Ignore the note and hurry to work.", "textAz": "Qeydə fikir verməyib işə tələssin."}
+    ],
+    "next": "Epizod 2: qapının altındakı qeyd. Sabah səhər 5-də hazır olur."
+  },
+  "comprehension": [
+    {
+      "question": "Why couldn't Sevda get into her apartment?",
+      "options": ["She had left her keys on the kitchen table.", "She had lost her keys at the party.", "The lock was broken."],
+      "answer": "She had left her keys on the kitchen table.",
+      "explanation": "Açarları mətbəx masasının üstündə qalmışdı və qapı arxasınca avtomatik bağlanmışdı."
+    },
+    {
+      "question": "Why did Sevda agree to pay the locksmith's extra fee?",
+      "options": ["She was tired and desperate.", "The locksmith was her neighbor.", "Her mother told her to."],
+      "answer": "She was tired and desperate.",
+      "explanation": "Yorğun və çarəsiz olduğu üçün razılaşdı."
+    },
+    {
+      "question": "How did Sevda finally get her keys?",
+      "options": ["Murad held a ladder and she climbed onto the balcony.", "The locksmith opened the door.", "Her neighbor had a spare key."],
+      "answer": "Murad held a ladder and she climbed onto the balcony.",
+      "explanation": "Murad nərdivanı tutdu, Sevda eyvana dırmaşıb açarları götürdü."
+    }
+  ],
+  "mission": {
+    "text": "Write 2-3 sentences about your evening today. Use at least two of these words.",
+    "textAz": "Bugünkü axşamın haqqında 2-3 cümlə yaz. Bu sözlərdən ən azı ikisini işlət.",
+    "words": ["hurry", "grab", "search", "desperate"]
+  },
+  "feedback": null
+}

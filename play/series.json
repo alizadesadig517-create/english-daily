@@ -1,0 +1,34 @@
+{
+  "title": "The Fifth Floor",
+  "titleAz": "Beşinci mərtəbə",
+  "genre": "light mystery with humor, everyday Baku life, a media-company workplace",
+  "premise": "Sevda, 28, works at a small media company in Baku. After she locks herself out one night, a quiet neighbor from the fifth floor, Murad, helps her with a ladder. Small strange things start to happen in the building, and every episode ends with a question the learner answers. Warm, funny, a little mysterious. No violence, politics, religion or brands.",
+  "characters": [
+    {"name": "Sevda", "role": "main character, 28, works at a media company, a bit clumsy, curious, kind"},
+    {"name": "Murad", "role": "neighbor on the fifth floor, quiet, keeps a ladder in the basement, knows everyone in the building"},
+    {"name": "Aunt Zarifa", "role": "elderly neighbor on the first floor, knows every rumor, loves tea"},
+    {"name": "Kamran", "role": "Sevda's colleague at the media company, jokes a lot"}
+  ],
+  "rules": [
+    "One episode per day. The episode is the lesson's story in content/<DATE>.json and must still follow routine/daily-content.md (all new words appear, glossary complete).",
+    "Start each episode with a one-sentence reminder of what happened before, woven into the text.",
+    "End each episode with a cliffhanger and 2-3 choices (play/days/<DATE>.json). The next episode follows the choice the learner made (read from the artifact database). If no choice was made, pick the first one.",
+    "Use the learner's mission sentences from the previous day when natural (a character can say or think them), and give one short friendly feedback line on them in play/days/<DATE>.json 'feedback'.",
+    "Keep the overall mystery slow: one small clue per episode, resolve it after about 10-14 episodes, then start a new storyline with the same people."
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "date": "2026-11-04",
+      "title": "Locked Out",
+      "summary": "Sevda locks herself out at midnight, calls a locksmith, and is rescued by Murad from the fifth floor, who holds a ladder while she climbs to her balcony. She cancels the locksmith and now keeps a spare key at her mother's.",
+      "cliffhanger": "The next morning Sevda finds a note under her door: 'You left something on the balcony.' But she is sure she left nothing there.",
+      "choices": [
+        {"id": "A", "text": "Go up to the fifth floor and ask Murad about the note."},
+        {"id": "B", "text": "Check the balcony first, carefully."},
+        {"id": "C", "text": "Ignore the note and hurry to work."}
+      ],
+      "chosen": null
+    }
+  ]
+}

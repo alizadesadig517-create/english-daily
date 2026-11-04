@@ -1,0 +1,518 @@
+<title>English Daily</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Nunito:wght@600;800;900&display=swap">
+<style>
+/* Layout: one-screen app. Sticky top bar with progress, scrolling stage, fixed bottom action. */
+:root {
+  --bg: #f4f8f5; --surface: #ffffff; --fg: #1b2a26; --muted: #5f7570; --line: #d9e4de;
+  --primary: #19a877; --primary-dark: #127a57; --primary-soft: #dff5ea;
+  --accent: #ff9d2e; --accent-dark: #d97a0b; --accent-soft: #fff0dc;
+  --danger: #e2504f; --danger-dark: #b23a39; --danger-soft: #fde4e4;
+  --info: #3b82f6; --info-soft: #e3edff;
+  --font: "Nunito", "Segoe UI", system-ui, sans-serif;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg: #0f1b17; --surface: #182621; --fg: #eaf3ee; --muted: #9db3aa; --line: #2b3d36;
+  --primary: #2cc48e; --primary-dark: #1b8f66; --primary-soft: #1d3a30;
+  --accent: #ffad4a; --accent-dark: #c77a12; --accent-soft: #3d2c14;
+  --danger: #f06a69; --danger-dark: #b64443; --danger-soft: #3f2222;
+  --info: #6aa2ff; --info-soft: #1f2d48;
+  color-scheme: dark;
+} }
+:root[data-theme="dark"] {
+  --bg: #0f1b17; --surface: #182621; --fg: #eaf3ee; --muted: #9db3aa; --line: #2b3d36;
+  --primary: #2cc48e; --primary-dark: #1b8f66; --primary-soft: #1d3a30;
+  --accent: #ffad4a; --accent-dark: #c77a12; --accent-soft: #3d2c14;
+  --danger: #f06a69; --danger-dark: #b64443; --danger-soft: #3f2222;
+  --info: #6aa2ff; --info-soft: #1f2d48;
+  color-scheme: dark;
+}
+html, body { height: 100%; }
+body { margin: 0; background: var(--bg); color: var(--fg); font-family: var(--font); font-size: 17px; line-height: 1.45; -webkit-tap-highlight-color: transparent; }
+body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); z-index: 10; background: var(--bg); }
+* { box-sizing: border-box; }
+button { font: inherit; color: inherit; cursor: pointer; }
+button:focus-visible, input:focus-visible, textarea:focus-visible { outline: 3px solid var(--info); outline-offset: 2px; }
+#app { height: 100%; display: flex; flex-direction: column; max-width: 640px; margin: 0 auto; }
+.top { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5; display: flex; align-items: center; gap: 12px; padding-block: 10px; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); background: var(--bg); }
+.icon-btn { background: none; border: 0; padding: 6px; border-radius: 10px; color: var(--muted); font-size: 22px; line-height: 1; }
+.icon-btn:active { background: var(--line); }
+.bar { flex: 1; height: 14px; background: var(--line); border-radius: 999px; overflow: hidden; }
+.bar > i { display: block; height: 100%; width: 0; background: var(--primary); border-radius: 999px; transition: width .35s ease; position: relative; }
+.bar > i::after { content: ""; position: absolute; left: 8px; right: 8px; top: 3px; height: 4px; border-radius: 999px; background: rgba(255,255,255,.35); }
+.hearts { color: var(--danger); font-weight: 900; font-variant-numeric: tabular-nums; display: flex; align-items: center; gap: 4px; }
+.stage { flex: 1; overflow-y: auto; padding-block: 8px 24px; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+.foot { padding-block: 12px calc(12px + env(safe-area-inset-bottom, 0px)); padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); border-top: 2px solid var(--line); background: var(--bg); }
+.foot.ok { background: var(--primary-soft); border-color: transparent; }
+.foot.bad { background: var(--danger-soft); border-color: transparent; }
+.fb { display: flex; gap: 10px; align-items: flex-start; margin-bottom: 12px; font-weight: 800; }
+.fb .t { font-size: 20px; font-weight: 900; }
+.fb .x { font-weight: 600; color: var(--fg); margin-top: 2px; }
+.foot.ok .fb { color: var(--primary-dark); }
+.foot.bad .fb { color: var(--danger-dark); }
+
+.btn { display: block; width: 100%; border: 0; border-radius: 16px; padding: 14px 18px; font-weight: 900; font-size: 17px; text-transform: uppercase; letter-spacing: .04em; background: var(--primary); color: #fff; box-shadow: 0 4px 0 var(--primary-dark); transition: transform .05s; }
+.btn:active { transform: translateY(3px); box-shadow: 0 1px 0 var(--primary-dark); }
+.btn:disabled { background: var(--line); color: var(--muted); box-shadow: none; cursor: default; }
+.btn.danger { background: var(--danger); box-shadow: 0 4px 0 var(--danger-dark); }
+.btn.ghost { background: var(--surface); color: var(--fg); box-shadow: 0 4px 0 var(--line); }
+.btn.accent { background: var(--accent); box-shadow: 0 4px 0 var(--accent-dark); color: #1b1200; }
+
+h1, h2, h3 { margin: 0; text-wrap: balance; line-height: 1.2; }
+h1 { font-size: 26px; font-weight: 900; }
+h2 { font-size: 22px; font-weight: 900; }
+.eyebrow { font-size: 12px; font-weight: 900; letter-spacing: .12em; text-transform: uppercase; color: var(--muted); }
+.muted { color: var(--muted); }
+.card { background: var(--surface); border: 2px solid var(--line); border-radius: 18px; padding: 16px; }
+.stack { display: flex; flex-direction: column; gap: 14px; }
+.row { display: flex; gap: 10px; align-items: center; flex-wrap: wrap; }
+
+/* Home */
+.stats { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; }
+.stat { background: var(--surface); border: 2px solid var(--line); border-radius: 16px; padding: 10px 8px; text-align: center; }
+.stat b { display: block; font-size: 24px; font-weight: 900; font-variant-numeric: tabular-nums; }
+.stat span { font-size: 12px; color: var(--muted); font-weight: 800; text-transform: uppercase; letter-spacing: .06em; }
+.stat.fire b { color: var(--accent-dark); }
+.path { display: flex; flex-direction: column; gap: 12px; }
+.node { display: flex; gap: 14px; align-items: center; width: 100%; text-align: left; background: var(--surface); border: 2px solid var(--line); border-radius: 18px; padding: 14px; box-shadow: 0 4px 0 var(--line); }
+.node:active { transform: translateY(2px); box-shadow: 0 2px 0 var(--line); }
+.node .ic { width: 52px; height: 52px; border-radius: 50%; display: grid; place-items: center; font-size: 26px; background: var(--primary-soft); flex: none; }
+.node.done .ic { background: var(--primary); color: #fff; }
+.node.locked { opacity: .55; }
+.node.locked .ic { background: var(--line); }
+.node .tt { font-weight: 900; font-size: 18px; }
+.node .ss { color: var(--muted); font-size: 14px; font-weight: 700; }
+.node .xp { margin-left: auto; font-weight: 900; color: var(--accent-dark); font-variant-numeric: tabular-nums; white-space: nowrap; }
+.banner { background: var(--accent-soft); border: 2px solid var(--accent); border-radius: 18px; padding: 14px 16px; }
+.note { font-size: 14px; color: var(--muted); font-weight: 700; }
+
+/* Exercises */
+.q { font-size: 22px; font-weight: 900; margin-bottom: 14px; text-wrap: balance; }
+.q small { display: block; font-size: 14px; color: var(--muted); font-weight: 800; letter-spacing: .08em; text-transform: uppercase; margin-bottom: 8px; }
+.opts { display: flex; flex-direction: column; gap: 10px; }
+.opt { text-align: left; background: var(--surface); border: 2px solid var(--line); border-radius: 14px; padding: 13px 14px; font-weight: 800; font-size: 17px; box-shadow: 0 3px 0 var(--line); display: flex; gap: 12px; align-items: center; }
+.opt .k { width: 28px; height: 28px; border-radius: 8px; border: 2px solid var(--line); display: grid; place-items: center; font-size: 13px; color: var(--muted); flex: none; }
+.opt.sel { border-color: var(--info); background: var(--info-soft); box-shadow: 0 3px 0 var(--info); }
+.opt.right { border-color: var(--primary); background: var(--primary-soft); box-shadow: 0 3px 0 var(--primary); }
+.opt.wrong { border-color: var(--danger); background: var(--danger-soft); box-shadow: 0 3px 0 var(--danger); }
+.opt:disabled { cursor: default; }
+.speak { width: 72px; height: 72px; border-radius: 18px; border: 0; background: var(--info); color: #fff; font-size: 32px; box-shadow: 0 4px 0 #2456b3; }
+.speak.sm { width: 44px; height: 44px; font-size: 20px; border-radius: 12px; }
+.speak:active { transform: translateY(3px); box-shadow: 0 1px 0 #2456b3; }
+.line { min-height: 60px; border-bottom: 2px solid var(--line); display: flex; flex-wrap: wrap; gap: 8px; padding: 8px 0 12px; margin-bottom: 18px; }
+.bank { display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; }
+.tile { background: var(--surface); border: 2px solid var(--line); border-radius: 12px; padding: 8px 12px; font-weight: 800; box-shadow: 0 3px 0 var(--line); font-size: 17px; }
+.tile:active { transform: translateY(2px); box-shadow: 0 1px 0 var(--line); }
+.tile.used { visibility: hidden; }
+.in { width: 100%; font: inherit; font-weight: 800; font-size: 18px; padding: 14px; border-radius: 14px; border: 2px solid var(--line); background: var(--surface); color: var(--fg); }
+textarea.in { min-height: 120px; resize: vertical; font-weight: 600; }
+.pairs { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+.pairs .opt { justify-content: center; text-align: center; min-height: 64px; padding: 10px; }
+.pairs .opt.gone { visibility: hidden; }
+.wcard { text-align: center; }
+.wcard .w { font-size: 34px; font-weight: 900; margin-top: 8px; }
+.wcard .ipa { color: var(--muted); font-weight: 700; margin-bottom: 8px; }
+.wcard .tr { font-size: 22px; font-weight: 900; color: var(--primary-dark); }
+.wcard .def { margin: 10px 0 0; font-weight: 600; }
+.ex { margin-top: 14px; padding: 12px; border-radius: 14px; background: var(--bg); text-align: left; }
+.ex b { display: block; }
+.ex i { color: var(--muted); font-style: normal; font-weight: 600; }
+.pos { display: inline-block; font-size: 12px; font-weight: 900; letter-spacing: .08em; text-transform: uppercase; background: var(--accent-soft); color: var(--accent-dark); border-radius: 999px; padding: 3px 10px; }
+.rule { padding: 10px 12px; border-left: 4px solid var(--primary); background: var(--bg); border-radius: 0 12px 12px 0; }
+.rule i { display: block; color: var(--muted); font-style: normal; font-weight: 600; font-size: 15px; margin-top: 2px; }
+
+/* Story */
+.story p { margin: 0 0 14px; font-size: 19px; line-height: 1.6; }
+.story .s { display: inline; }
+.story .w { cursor: pointer; border-radius: 4px; }
+.story .w:active { background: var(--info-soft); }
+.story .g { color: var(--primary-dark); font-weight: 800; }
+.story .tr { display: block; color: var(--muted); font-size: 15px; font-weight: 600; margin: 2px 0 6px; }
+.tog { font-size: 12px; font-weight: 900; color: var(--info); background: none; border: 0; padding: 0 4px; vertical-align: middle; }
+.sheet { position: fixed; left: 0; right: 0; bottom: 0; z-index: 20; background: var(--surface); border-radius: 22px 22px 0 0; border-top: 2px solid var(--line); padding-block: 16px calc(20px + env(safe-area-inset-bottom, 0px)); padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); box-shadow: 0 -10px 30px rgba(0,0,0,.15); max-width: 640px; margin: 0 auto; }
+.sheet .w { font-size: 24px; font-weight: 900; }
+.sheet .tr { font-size: 20px; color: var(--primary-dark); font-weight: 900; }
+.sheet .m { margin-top: 6px; font-weight: 600; }
+.scrim { position: fixed; inset: 0; z-index: 19; background: rgba(0,0,0,.25); }
+.choices .opt { white-space: normal; }
+
+/* Result */
+.result { text-align: center; padding-top: 24px; }
+.result .big { font-size: 64px; line-height: 1; }
+.result h1 { margin: 12px 0 6px; }
+.tiles { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; margin: 18px 0; }
+.tiles .stat b { color: var(--accent-dark); }
+.tiles .stat.g b { color: var(--primary-dark); }
+.tiles .stat.i b { color: var(--info); }
+.shake { animation: shake .3s; }
+@keyframes shake { 25% { transform: translateX(-6px); } 75% { transform: translateX(6px); } }
+.pop { animation: pop .3s; }
+@keyframes pop { 50% { transform: scale(1.06); } }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; transition: none !important; } }
+</style>
+
+<div id="app"></div>
+
+<script>
+window.DATA = /*__DATA__*/null;
+</script>
+<script>
+(function () {
+  const D = window.DATA;
+  const app = document.getElementById('app');
+  const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+  const norm = s => String(s || '').toLowerCase().replace(/[’']/g, "'").replace(/[^\p{L}\p{N}' ]/gu, ' ').replace(/\s+/g, ' ').trim();
+  const shuffle = a => { a = a.slice(); for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; } return a; };
+  const pick = (a, n, not) => shuffle(a.filter(x => x !== not)).slice(0, n);
+  const XP = { ex: 10, intro: 0, read: 15, mission: 25, choice: 10 };
+
+  // ---------- state ----------
+  const S = {
+    progress: { streak: 0, lastDate: null, xp: 0, days: 0, weak: {} },
+    day: { date: D.date, completed: [], xp: 0, correct: 0, total: 0, choice: null, mission: null },
+    db: null, dbState: 'loading', screen: 'home',
+    node: null, queue: [], i: 0, hearts: 5, earned: 0, ok: 0, asked: 0, startedAt: 0, answer: null, checked: false, matched: 0,
+  };
+  const yesterday = (d => { const t = new Date(d + 'T12:00:00Z'); t.setUTCDate(t.getUTCDate() - 1); return t.toISOString().slice(0, 10); })(D.date);
+
+  // ---------- nodes ----------
+  const F = D.extras.format || 'story';
+  const nodes = [
+    { id: 'words', ic: '📘', tt: 'Yeni sözlər', ss: D.lesson.words.length + ' söz · kartlar və tapşırıqlar', xp: D.lesson.words.length * 6 + 30 },
+    { id: 'story', ic: F === 'dialogue' ? '💬' : F === 'article' ? '📰' : '📖', tt: D.extras.episode ? 'Epizod ' + D.extras.episode.number + ': ' + D.lesson.story.title : D.lesson.story.title, ss: F === 'dialogue' ? 'Dialoq · oxu və cavabla' : F === 'article' ? 'Məqalə · oxu və cavabla' : 'Hekayə · oxu, seç, davam et', xp: 60 },
+    { id: 'grammar', ic: '🧩', tt: 'Qrammatika', ss: D.lesson.grammar.topic, xp: 50 },
+    { id: 'review', ic: F === 'boss' ? '👑' : '🔁', tt: F === 'boss' ? 'Həftənin boss testi' : 'Təkrar', ss: F === 'boss' ? 'Bu həftənin sözləri · vaxtla' : 'Əvvəlki günlərin sözləri', xp: F === 'boss' ? 120 : 60 },
+    { id: 'mission', ic: '✍️', tt: 'Bugünkü missiya', ss: 'Öz cümlələrin · sabah hekayəyə düşür', xp: 25 },
+  ];
+  if (!D.review.length) nodes.splice(3, 1);
+
+  // ---------- audio ----------
+  let ac = null;
+  function tone(seq) {
+    try {
+      ac = ac || new (window.AudioContext || window.webkitAudioContext)();
+      let t = ac.currentTime;
+      seq.forEach(([f, d]) => { const o = ac.createOscillator(), g = ac.createGain(); o.type = 'sine'; o.frequency.value = f; g.gain.setValueAtTime(.0001, t); g.gain.exponentialRampToValueAtTime(.25, t + .02); g.gain.exponentialRampToValueAtTime(.0001, t + d); o.connect(g).connect(ac.destination); o.start(t); o.stop(t + d); t += d; });
+    } catch (e) { }
+  }
+  const dingOk = () => tone([[660, .12], [880, .18]]);
+  const dingBad = () => tone([[220, .25]]);
+  const dingWin = () => tone([[523, .12], [659, .12], [784, .12], [1046, .3]]);
+  let voice = null;
+  function speak(text, rate) {
+    try {
+      const ss = window.speechSynthesis; if (!ss) return;
+      ss.cancel();
+      const u = new SpeechSynthesisUtterance(text); u.lang = 'en-US'; u.rate = rate || .92;
+      if (!voice) { const vs = ss.getVoices(); voice = vs.find(v => /en[-_]US/i.test(v.lang) && /natural|premium|enhanced|google/i.test(v.name)) || vs.find(v => /en[-_]US/i.test(v.lang)) || vs.find(v => /^en/i.test(v.lang)) || null; }
+      if (voice) u.voice = voice;
+      ss.speak(u);
+    } catch (e) { }
+  }
+
+  // ---------- storage ----------
+  function loadLocal() {
+    try { const p = JSON.parse(localStorage.getItem('ed-progress') || 'null'); if (p) S.progress = Object.assign(S.progress, p); const d = JSON.parse(localStorage.getItem('ed-day-' + D.date) || 'null'); if (d) S.day = Object.assign(S.day, d); } catch (e) { }
+  }
+  function saveLocal() { try { localStorage.setItem('ed-progress', JSON.stringify(S.progress)); localStorage.setItem('ed-day-' + D.date, JSON.stringify(S.day)); } catch (e) { } }
+  let writing = Promise.resolve();
+  function persist() {
+    saveLocal();
+    if (!S.db) return;
+    const db = S.db, prog = JSON.parse(JSON.stringify(S.progress)), day = JSON.parse(JSON.stringify(S.day));
+    writing = writing.then(() => db.doc('progress/main').set(prog)).then(() => db.doc('days/' + D.date).set(day)).catch(() => { S.dbState = 'error'; });
+  }
+  async function initDb() {
+    let db = null;
+    try { db = window.claude && window.claude.use ? await window.claude.use('db') : null; } catch (e) { db = null; }
+    if (!db) { S.dbState = 'none'; if (S.screen === 'home') renderHome(); return; }
+    S.db = db;
+    try {
+      const p = await db.doc('progress/main').get();
+      if (p.exists) S.progress = Object.assign(S.progress, p.data());
+      const d = await db.doc('days/' + D.date).get();
+      if (d.exists) S.day = Object.assign(S.day, d.data());
+      S.dbState = 'ok'; saveLocal();
+    } catch (e) { S.dbState = 'error'; }
+    if (S.screen === 'home') renderHome();
+  }
+
+  // ---------- exercise builders ----------
+  const W = D.lesson.words;
+  const wordMain = w => w.senses[0];
+  const allTr = W.map(w => wordMain(w).translation);
+  function firstEx(w) { for (const s of w.senses) if (s.examples && s.examples[0]) return s.examples[0]; return null; }
+  function exChoose(w, pool) {
+    const s = wordMain(w);
+    return { type: 'choose', sub: 'Tərcüməni seç', q: w.word, speak: w.word, ipa: w.ipa, options: shuffle([s.translation, ...pick(pool.map(x => wordMain(x).translation), 3, s.translation)]), answer: s.translation, explain: s.definition };
+  }
+  function exReverse(w, pool) {
+    const s = wordMain(w);
+    return { type: 'choose', sub: 'İngiliscəsini seç', q: s.translation, options: shuffle([w.word, ...pick(pool.map(x => x.word), 3, w.word)]), answer: w.word, explain: s.definition, speakAfter: w.word };
+  }
+  function exListen(w, pool) {
+    return { type: 'listen', sub: 'Dinlə və seç', speak: w.word, options: shuffle([w.word, ...pick(pool.map(x => x.word), 3, w.word)]), answer: w.word, explain: wordMain(w).translation };
+  }
+  function exBuild(sentence, translation, poolWords) {
+    const toks = sentence.replace(/[“”"]/g, '').split(/\s+/).filter(Boolean);
+    if (toks.length < 3 || toks.length > 14) return null;
+    const extra = pick(poolWords.map(w => w.word).filter(x => !x.includes(' ') && !toks.map(norm).includes(norm(x))), 2);
+    return { type: 'build', sub: 'Cümləni qur', q: translation, tokens: shuffle(toks.concat(extra)), answerTokens: toks, speakAfter: sentence };
+  }
+  function exGap(sentence, translation, word, pool) {
+    const re = new RegExp('\\b(' + word.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + '\\w*)\\b', 'i');
+    const m = sentence.match(re); if (!m) return null;
+    const gapped = sentence.replace(m[1], '____');
+    return { type: 'choose', sub: 'Boşluğu doldur', q: gapped, hint: translation, options: shuffle([m[1], ...pick(pool.map(x => x.word), 3, word).map(x => x)]), answer: m[1], explain: wordMain(W.find(w => w.word === word) || { senses: [{ translation: '' }] }).translation, speakAfter: sentence };
+  }
+  function exType(w) { const s = wordMain(w); const e = firstEx(w); return { type: 'type', sub: 'İngiliscə yaz', q: s.translation, hint: e ? e.translation : s.definition, answer: w.word, accepted: [], speakAfter: w.word }; }
+  function exMatch(ws) { return { type: 'match', sub: 'Cütləri uyğunlaşdır', pairs: ws.map(w => ({ a: w.word, b: wordMain(w).translation })) }; }
+
+  function buildWords() {
+    const q = [];
+    const groups = []; for (let i = 0; i < W.length; i += 5) groups.push(W.slice(i, i + 5));
+    groups.forEach(g => {
+      g.forEach(w => q.push({ type: 'intro', word: w }));
+      q.push(exMatch(g));
+      shuffle(g).forEach((w, k) => {
+        if (k % 3 === 0) q.push(exChoose(w, W)); else if (k % 3 === 1) q.push(exReverse(w, W)); else q.push(exListen(w, W));
+      });
+      const w1 = g[0], e1 = firstEx(w1); const b = e1 ? exBuild(e1.text, e1.translation, W) : null; if (b) q.push(b);
+      const w2 = g[Math.min(2, g.length - 1)], e2 = firstEx(w2); const gp = e2 ? exGap(e2.text, e2.translation, w2.word, W) : null; if (gp) q.push(gp);
+    });
+    return q;
+  }
+  function buildStory() {
+    const q = [{ type: 'read' }];
+    (D.extras.comprehension || []).forEach(c => q.push({ type: 'choose', sub: 'Hekayəyə görə', q: c.question, options: shuffle(c.options), answer: c.answer, explain: c.explanation || '' }));
+    const sents = []; D.lesson.story.paragraphs.forEach(p => p.sentences.forEach(s => sents.push(s)));
+    const used = new Set();
+    shuffle(W).forEach(w => {
+      if (used.size >= 4) return;
+      const s = sents.find(x => !used.has(x.text) && new RegExp('\\b' + w.word.split(' ')[0] + '\\w*\\b', 'i').test(x.text) && x.text.split(/\s+/).length <= 16);
+      if (s) { const g = exGap(s.text, s.translation, w.word.split(' ')[0], W); if (g) { g.sub = 'Hekayədən: boşluğu doldur'; q.push(g); used.add(s.text); } }
+    });
+    const short = sents.filter(s => s.text.split(/\s+/).length <= 9);
+    if (short.length) { const s = short[Math.floor(Math.random() * short.length)]; const b = exBuild(s.text, s.translation, W); if (b) q.push(b); }
+    if (D.extras.episode && D.extras.episode.choices && D.extras.episode.choices.length) q.push({ type: 'choice' });
+    return q;
+  }
+  function buildGrammar() {
+    const G = D.lesson.grammar;
+    const q = [{ type: 'gintro' }];
+    G.exercise.questions.forEach(x => {
+      if (x.type === 'choice') q.push({ type: 'choose', sub: 'Qrammatika', q: x.prompt, hint: x.promptTranslation, options: shuffle(x.options), answer: x.answer, explain: x.explanationTranslation || x.explanation });
+      else q.push({ type: 'type', sub: 'Qrammatika · boşluğu yaz', q: x.prompt, hint: x.promptTranslation, answer: x.answer, accepted: x.acceptedAnswers || [], explain: x.explanationTranslation || x.explanation });
+    });
+    shuffle(G.examples).slice(0, 2).forEach(e => { const b = exBuild(e.text, e.translation, W); if (b) q.push(b); });
+    return q;
+  }
+  function buildReview() {
+    const R = D.review.map(r => ({ word: r.word, ipa: r.ipa, senses: [{ translation: r.translation, definition: r.definition || '', examples: r.example ? [r.example] : [] }] }));
+    const n = F === 'boss' ? Math.min(20, R.length) : Math.min(12, R.length);
+    const q = [];
+    shuffle(R).slice(0, n).forEach((w, k) => {
+      const m = k % 5;
+      if (m === 0) q.push(exChoose(w, R)); else if (m === 1) q.push(exListen(w, R)); else if (m === 2) q.push(exReverse(w, R)); else if (m === 3) q.push(exType(w)); else { const e = firstEx(w); const g = e ? exGap(e.text, e.translation, w.word, R) : null; q.push(g || exChoose(w, R)); }
+    });
+    if (R.length >= 5) q.splice(3, 0, exMatch(shuffle(R).slice(0, 5)));
+    return q;
+  }
+
+  // ---------- rendering ----------
+  function startNode(id) {
+    S.node = id; S.i = 0; S.hearts = 5; S.earned = 0; S.ok = 0; S.asked = 0; S.startedAt = Date.now();
+    S.queue = id === 'words' ? buildWords() : id === 'story' ? buildStory() : id === 'grammar' ? buildGrammar() : id === 'review' ? buildReview() : [{ type: 'mission' }];
+    S.screen = 'ex'; renderEx();
+  }
+  function renderHome() {
+    S.screen = 'home';
+    const done = new Set(S.day.completed);
+    let unlockedUpTo = 0; nodes.forEach((n, i) => { if (done.has(n.id)) unlockedUpTo = i + 1; });
+    const ep = D.extras.episode;
+    const dbNote = S.dbState === 'none' ? 'İrəliləyiş yalnız bu brauzerdə saxlanılır.' : S.dbState === 'error' ? 'Baza ilə əlaqə yoxdur, irəliləyiş bu brauzerdə saxlanılır.' : S.dbState === 'loading' ? 'İrəliləyiş yüklənir…' : '';
+    app.innerHTML = `
+      <div class="top"><div><div class="eyebrow">${esc(D.dateLabel)}</div><h1>${esc(D.series.title)}</h1></div><div class="hearts" style="margin-left:auto">${S.progress.streak > 0 ? '🔥 ' + S.progress.streak : ''}</div></div>
+      <div class="stage"><div class="stack">
+        <div class="stats">
+          <div class="stat fire"><b>${S.progress.streak}</b><span>gün ardıcıl</span></div>
+          <div class="stat"><b>${S.progress.xp}</b><span>ümumi XP</span></div>
+          <div class="stat"><b>${S.day.xp}</b><span>bu gün</span></div>
+        </div>
+        ${ep ? `<div class="banner"><div class="eyebrow">${esc(D.series.title)} · epizod ${ep.number}</div><div style="font-weight:900;font-size:18px;margin-top:4px">${esc(D.lesson.story.title)}</div>${ep.recap ? `<div class="note" style="margin-top:6px">${esc(ep.recap)}</div>` : ''}${D.extras.feedback ? `<div class="note" style="margin-top:8px">💬 ${esc(D.extras.feedback)}</div>` : ''}</div>` : ''}
+        <div class="path">${nodes.map((n, i) => { const d = done.has(n.id), locked = i > unlockedUpTo; return `<button class="node ${d ? 'done' : ''} ${locked ? 'locked' : ''}" data-node="${n.id}" ${locked ? 'disabled' : ''}><div class="ic">${d ? '✓' : n.ic}</div><div><div class="tt">${esc(n.tt)}</div><div class="ss">${esc(n.ss)}</div></div><div class="xp">${d ? '✓' : '+' + n.xp + ' XP'}</div></button>`; }).join('')}</div>
+        ${dbNote ? `<div class="note">${esc(dbNote)}</div>` : ''}
+        <div class="note">Səviyyə ${esc(D.level)} · ${W.length} yeni söz · ${esc(D.lesson.grammar.topic)}</div>
+      </div></div>`;
+    app.querySelectorAll('[data-node]').forEach(b => b.addEventListener('click', () => startNode(b.dataset.node)));
+  }
+
+  function top() {
+    const pct = Math.round(100 * S.i / S.queue.length);
+    return `<div class="top"><button class="icon-btn" id="quit" aria-label="Çıx">✕</button><div class="bar"><i style="width:${pct}%"></i></div><div class="hearts">❤️ ${S.hearts}</div></div>`;
+  }
+  function foot(label, disabled) { return `<div class="foot" id="foot"><button class="btn" id="go" ${disabled ? 'disabled' : ''}>${label}</button></div>`; }
+
+  function renderEx() {
+    if (S.i >= S.queue.length) return renderResult();
+    const e = S.queue[S.i]; S.answer = null; S.checked = false; S.matched = 0;
+    let body = '', label = 'Yoxla', disabled = true;
+    if (e.type === 'intro') {
+      const w = e.word; label = 'Davam'; disabled = false;
+      body = `<div class="q"><small>Yeni söz</small></div><div class="card wcard"><button class="speak" data-say="${esc(w.word)}" aria-label="Səsləndir">🔊</button><div class="w">${esc(w.word)}</div><div class="ipa">${esc(w.ipa)}</div>
+        ${w.senses.map(s => `<div style="margin-top:12px"><span class="pos">${esc(s.partOfSpeech)}</span><div class="tr">${esc(s.translation)}</div><p class="def">${esc(s.definition)}</p>${s.examples.slice(0, 2).map(x => `<div class="ex"><b>${esc(x.text)} <button class="speak sm" data-say="${esc(x.text)}" aria-label="Səsləndir">🔊</button></b><i>${esc(x.translation)}</i></div>`).join('')}</div>`).join('')}</div>`;
+    } else if (e.type === 'choose' || e.type === 'listen') {
+      body = `<div class="q"><small>${esc(e.sub)}</small>${e.type === 'listen' ? `<div class="row"><button class="speak" data-say="${esc(e.speak)}" aria-label="Dinlə">🔊</button><button class="speak sm" data-say="${esc(e.speak)}" data-slow="1" aria-label="Yavaş">🐢</button></div>` : `<div class="row">${e.speak ? `<button class="speak sm" data-say="${esc(e.speak)}" aria-label="Səsləndir">🔊</button>` : ''}<span>${esc(e.q)}</span></div>${e.ipa ? `<div class="muted" style="font-size:15px;font-weight:700">${esc(e.ipa)}</div>` : ''}${e.hint ? `<div class="muted" style="font-size:15px;font-weight:600;margin-top:4px">${esc(e.hint)}</div>` : ''}`}</div>
+        <div class="opts">${e.options.map((o, i) => `<button class="opt" data-opt="${esc(o)}"><span class="k">${i + 1}</span><span>${esc(o)}</span></button>`).join('')}</div>`;
+    } else if (e.type === 'build') {
+      body = `<div class="q"><small>${esc(e.sub)}</small>${esc(e.q)}</div><div class="line" id="line"></div><div class="bank" id="bank">${e.tokens.map((t, i) => `<button class="tile" data-tok="${i}">${esc(t)}</button>`).join('')}</div>`;
+    } else if (e.type === 'type') {
+      body = `<div class="q"><small>${esc(e.sub)}</small>${esc(e.q)}${e.hint ? `<div class="muted" style="font-size:15px;font-weight:600;margin-top:6px">${esc(e.hint)}</div>` : ''}</div><input class="in" id="inp" autocomplete="off" autocapitalize="off" spellcheck="false" placeholder="İngiliscə yaz…">`;
+    } else if (e.type === 'match') {
+      const L = shuffle(e.pairs.map((p, i) => ({ t: p.a, i }))), R = shuffle(e.pairs.map((p, i) => ({ t: p.b, i })));
+      body = `<div class="q"><small>${esc(e.sub)}</small>Sözü tərcüməsi ilə birləşdir</div><div class="pairs"><div class="opts">${L.map(x => `<button class="opt" data-side="a" data-i="${x.i}"><span>${esc(x.t)}</span></button>`).join('')}</div><div class="opts">${R.map(x => `<button class="opt" data-side="b" data-i="${x.i}"><span>${esc(x.t)}</span></button>`).join('')}</div></div>`;
+      label = 'Davam';
+    } else if (e.type === 'read') {
+      label = 'Oxudum'; disabled = false;
+      body = renderStory();
+    } else if (e.type === 'gintro') {
+      const G = D.lesson.grammar; label = 'Davam'; disabled = false;
+      body = `<div class="q"><small>Qrammatika</small>${esc(G.topic)}</div><div class="card stack"><div class="muted" style="font-weight:800">${esc(G.topicTranslation)}</div><p style="margin:0;font-weight:600">${esc(G.explanationTranslation)}</p>${G.rules.map(r => `<div class="rule"><b>${esc(r.text)}</b><i>${esc(r.translation)}</i></div>`).join('')}<div class="eyebrow">Nümunələr</div>${G.examples.map(x => `<div class="ex"><b>${esc(x.text)} <button class="speak sm" data-say="${esc(x.text)}" aria-label="Səsləndir">🔊</button></b><i>${esc(x.translation)}</i></div>`).join('')}</div>`;
+    } else if (e.type === 'choice') {
+      const ep = D.extras.episode; label = 'Seçimi təsdiqlə';
+      body = `<div class="q"><small>Sən qərar ver</small>${esc(ep.cliffhanger || '')}</div><div class="muted" style="font-weight:700;margin:-6px 0 12px">${esc(ep.cliffhangerAz || '')}</div><div class="opts choices">${ep.choices.map((c, i) => `<button class="opt" data-choice="${esc(c.id)}"><span class="k">${String.fromCharCode(65 + i)}</span><span>${esc(c.text)}<br><span class="muted" style="font-size:14px;font-weight:600">${esc(c.textAz || '')}</span></span></button>`).join('')}</div><div class="note" style="margin-top:12px">Seçimin sabahkı epizodu dəyişir.</div>`;
+    } else if (e.type === 'mission') {
+      const m = D.extras.mission || {}; label = 'Göndər'; disabled = !S.day.mission;
+      body = `<div class="q"><small>Bugünkü missiya</small>${esc(m.text || '')}</div><div class="muted" style="font-weight:700;margin:-6px 0 12px">${esc(m.textAz || '')}</div>${m.words ? `<div class="row" style="margin-bottom:12px">${m.words.map(w => `<span class="pos">${esc(w)}</span>`).join('')}</div>` : ''}<textarea class="in" id="mission" placeholder="İngiliscə yaz…">${esc(S.day.mission || '')}</textarea><div class="note" style="margin-top:10px">Səhər oxuyub qısa rəy verirəm və cümlələrin növbəti epizoda düşür.</div>`;
+    }
+    app.innerHTML = top() + `<div class="stage">${body}</div>` + foot(label, disabled);
+    bindEx(e);
+  }
+
+  function renderStory() {
+    const st = D.lesson.story;
+    const gl = st.glossary.slice().sort((a, b) => b.term.length - a.term.length);
+    const html = st.paragraphs.map((p, pi) => '<p>' + p.sentences.map((s, si) => {
+      // split sentence into glossary terms and plain words
+      let text = s.text, parts = [], i = 0;
+      const lower = text.toLowerCase();
+      const marks = [];
+      gl.forEach(g => { const t = g.term.toLowerCase(); let from = 0; while (true) { const k = lower.indexOf(t, from); if (k < 0) break; const before = k === 0 ? ' ' : lower[k - 1], after = lower[k + t.length] || ' '; if (!/[\p{L}\p{N}]/u.test(before) && !/[\p{L}\p{N}]/u.test(after) && !marks.some(m => k < m.end && k + t.length > m.start)) marks.push({ start: k, end: k + t.length, g }); from = k + t.length; } });
+      marks.sort((a, b) => a.start - b.start);
+      marks.forEach(m => { if (m.start > i) parts.push({ t: text.slice(i, m.start) }); parts.push({ t: text.slice(m.start, m.end), g: m.g }); i = m.end; });
+      if (i < text.length) parts.push({ t: text.slice(i) });
+      const inner = parts.map(pt => pt.g ? `<span class="w g" data-g="${esc(pt.g.term)}">${esc(pt.t)}</span>` : esc(pt.t)).join('');
+      return `<span class="s">${inner} <button class="tog" data-tr="${pi}-${si}" aria-label="Tərcümə">az</button><span class="tr" id="tr-${pi}-${si}" hidden>${esc(s.translation)}</span></span> `;
+    }).join('') + '</p>').join('');
+    const ep = D.extras.episode;
+    return `<div class="q"><small>${esc(F === 'dialogue' ? 'Dialoq' : F === 'article' ? 'Məqalə' : ep ? D.series.title + ' · epizod ' + ep.number : 'Hekayə')}</small>${esc(st.title)}<div class="muted" style="font-size:15px;font-weight:700">${esc(st.titleTranslation)}</div></div>
+      <div class="row" style="margin-bottom:12px"><button class="speak sm" id="readall" aria-label="Hamısını səsləndir">🔊</button><span class="note">Sözə toxun: tərcümə. “az”: cümlənin tərcüməsi.</span></div>
+      <div class="story card">${html}</div>`;
+  }
+
+  function bindEx(e) {
+    const go = document.getElementById('go');
+    document.getElementById('quit').addEventListener('click', () => { if (S.i > 0 && !confirmQuit()) return; renderHome(); });
+    app.querySelectorAll('[data-say]').forEach(b => b.addEventListener('click', ev => { ev.stopPropagation(); speak(b.dataset.say, b.dataset.slow ? .6 : undefined); }));
+    if (e.type === 'intro' && e.word) setTimeout(() => speak(e.word.word), 150);
+    if (e.type === 'listen') setTimeout(() => speak(e.speak), 200);
+    if (e.type === 'choose' || e.type === 'listen') {
+      app.querySelectorAll('[data-opt]').forEach(b => b.addEventListener('click', () => { if (S.checked) return; app.querySelectorAll('[data-opt]').forEach(x => x.classList.remove('sel')); b.classList.add('sel'); S.answer = b.dataset.opt; go.disabled = false; }));
+    }
+    if (e.type === 'build') {
+      const line = document.getElementById('line'), bank = document.getElementById('bank'); const chosen = [];
+      const redraw = () => { line.innerHTML = chosen.map(i => `<button class="tile" data-un="${i}">${esc(e.tokens[i])}</button>`).join(''); bank.querySelectorAll('.tile').forEach(t => t.classList.toggle('used', chosen.includes(+t.dataset.tok))); line.querySelectorAll('[data-un]').forEach(t => t.addEventListener('click', () => { if (S.checked) return; chosen.splice(chosen.indexOf(+t.dataset.un), 1); redraw(); })); S.answer = chosen.map(i => e.tokens[i]).join(' '); go.disabled = chosen.length === 0; };
+      bank.querySelectorAll('.tile').forEach(t => t.addEventListener('click', () => { if (S.checked || chosen.includes(+t.dataset.tok)) return; chosen.push(+t.dataset.tok); redraw(); }));
+    }
+    if (e.type === 'type') { const inp = document.getElementById('inp'); inp.addEventListener('input', () => { S.answer = inp.value; go.disabled = !inp.value.trim(); }); inp.addEventListener('keydown', ev => { if (ev.key === 'Enter' && !go.disabled) go.click(); }); setTimeout(() => inp.focus(), 50); }
+    if (e.type === 'match') {
+      let selA = null, selB = null;
+      const tryMatch = () => { if (selA === null || selB === null) return; const a = app.querySelector(`[data-side="a"][data-i="${selA}"]`), b = app.querySelector(`[data-side="b"][data-i="${selB}"]`); if (selA === selB) { a.classList.add('right'); b.classList.add('right'); dingOk(); setTimeout(() => { a.classList.add('gone'); b.classList.add('gone'); }, 350); S.matched++; if (S.matched === e.pairs.length) { S.asked++; S.ok++; S.earned += XP.ex; go.disabled = false; } } else { a.classList.add('wrong'); b.classList.add('wrong'); dingBad(); S.hearts = Math.max(0, S.hearts - 1); app.querySelector('.hearts').textContent = '❤️ ' + S.hearts; setTimeout(() => { a.classList.remove('wrong'); b.classList.remove('wrong'); }, 500); } a.classList.remove('sel'); b.classList.remove('sel'); selA = selB = null; };
+      app.querySelectorAll('[data-side]').forEach(b => b.addEventListener('click', () => { if (b.classList.contains('gone')) return; const side = b.dataset.side; app.querySelectorAll(`[data-side="${side}"]`).forEach(x => x.classList.remove('sel')); b.classList.add('sel'); if (side === 'a') { selA = +b.dataset.i; speak(b.textContent.trim()); } else selB = +b.dataset.i; tryMatch(); }));
+      go.addEventListener('click', () => next());
+      return;
+    }
+    if (e.type === 'read') {
+      app.querySelectorAll('[data-g]').forEach(s => s.addEventListener('click', () => { const g = D.lesson.story.glossary.find(x => x.term === s.dataset.g); if (g) showSheet(g); }));
+      app.querySelectorAll('[data-tr]').forEach(b => b.addEventListener('click', () => { const t = document.getElementById('tr-' + b.dataset.tr); t.hidden = !t.hidden; }));
+      const all = D.lesson.story.paragraphs.map(p => p.sentences.map(s => s.text).join(' ')).join(' ');
+      document.getElementById('readall').addEventListener('click', () => speak(all));
+      go.addEventListener('click', () => { S.earned += XP.read; next(); }); return;
+    }
+    if (e.type === 'intro' || e.type === 'gintro') { go.addEventListener('click', () => next()); return; }
+    if (e.type === 'choice') {
+      app.querySelectorAll('[data-choice]').forEach(b => b.addEventListener('click', () => { app.querySelectorAll('[data-choice]').forEach(x => x.classList.remove('sel')); b.classList.add('sel'); S.answer = b.dataset.choice; go.disabled = false; }));
+      go.addEventListener('click', () => { const c = D.extras.episode.choices.find(x => x.id === S.answer); S.day.choice = { id: c.id, text: c.text }; S.earned += XP.choice; persist(); dingOk(); next(); }); return;
+    }
+    if (e.type === 'mission') {
+      const ta = document.getElementById('mission'); ta.addEventListener('input', () => { go.disabled = ta.value.trim().length < 8; });
+      go.addEventListener('click', () => { S.day.mission = ta.value.trim(); S.earned += XP.mission; dingOk(); next(); }); return;
+    }
+    go.addEventListener('click', () => { if (!S.checked) check(e); else next(); });
+  }
+  function confirmQuit() { return true; }
+
+  function check(e) {
+    let ok = false, correctText = e.answer;
+    if (e.type === 'choose' || e.type === 'listen') ok = S.answer === e.answer;
+    else if (e.type === 'build') { ok = norm(S.answer) === norm(e.answerTokens.join(' ')); correctText = e.answerTokens.join(' '); }
+    else if (e.type === 'type') { const a = norm(S.answer); ok = [e.answer, ...(e.accepted || [])].some(x => norm(x) === a); }
+    S.checked = true; S.asked++;
+    const foot = document.getElementById('foot'), go = document.getElementById('go');
+    if (e.type === 'choose' || e.type === 'listen') app.querySelectorAll('[data-opt]').forEach(b => { b.disabled = true; if (b.dataset.opt === e.answer) b.classList.add('right'); else if (b.dataset.opt === S.answer && !ok) b.classList.add('wrong'); });
+    if (e.type === 'type') document.getElementById('inp').disabled = true;
+    if (ok) { S.ok++; S.earned += XP.ex; dingOk(); foot.classList.add('ok'); foot.insertAdjacentHTML('afterbegin', `<div class="fb"><span class="t">✓ Düzdür!</span>${e.explain ? `<span class="x">${esc(e.explain)}</span>` : ''}</div>`); }
+    else {
+      S.hearts = Math.max(0, S.hearts - 1); app.querySelector('.hearts').textContent = '❤️ ' + S.hearts; dingBad(); foot.classList.add('bad'); app.querySelector('.stage').classList.add('shake');
+      foot.insertAdjacentHTML('afterbegin', `<div class="fb"><span class="t">✗</span><span><div class="t" style="font-size:16px">Düzgün cavab: ${esc(correctText)}</div>${e.explain ? `<span class="x">${esc(e.explain)}</span>` : ''}</span></div>`);
+      if (!e.retried) S.queue.push(Object.assign({}, e, { retried: true }));
+      const key = e.speakAfter || e.answer; if (key && S.node) { const w = (e.type === 'type' || e.sub === 'Tərcüməni seç' || e.sub === 'İngiliscəsini seç' || e.type === 'listen') ? e.answer : null; if (w) S.progress.weak[w] = (S.progress.weak[w] || 0) + 1; }
+    }
+    if (e.speakAfter) speak(e.speakAfter); else if (e.speak && e.type !== 'listen') speak(e.speak);
+    go.textContent = 'Davam'; go.className = 'btn' + (ok ? '' : ' danger'); go.disabled = false;
+  }
+  function next() { S.i++; renderEx(); }
+
+  function showSheet(g) {
+    const old = app.querySelector('.sheet'); if (old) { old.remove(); app.querySelector('.scrim').remove(); }
+    app.insertAdjacentHTML('beforeend', `<div class="scrim" id="scrim"></div><div class="sheet"><div class="row"><div class="w">${esc(g.term)}</div><button class="speak sm" data-say="${esc(g.term)}" aria-label="Səsləndir">🔊</button><span class="pos">${esc(g.partOfSpeech)}</span></div>${g.lemma !== g.term ? `<div class="muted" style="font-weight:700">${esc(g.lemma)}</div>` : ''}<div class="tr">${esc(g.translation)}</div><div class="m">${esc(g.meaning)}</div></div>`);
+    const close = () => { const s = app.querySelector('.sheet'); if (s) s.remove(); const c = app.querySelector('.scrim'); if (c) c.remove(); };
+    document.getElementById('scrim').addEventListener('click', close);
+    app.querySelector('.sheet [data-say]').addEventListener('click', () => speak(g.term));
+    speak(g.term);
+  }
+
+  function renderResult() {
+    S.screen = 'result';
+    const node = nodes.find(n => n.id === S.node);
+    const first = !S.day.completed.includes(S.node);
+    const acc = S.asked ? Math.round(100 * S.ok / S.asked) : 100;
+    const secs = Math.round((Date.now() - S.startedAt) / 1000);
+    let bonus = 0; if (first) { if (acc === 100 && S.asked > 0) bonus += 20; if (S.hearts === 5 && S.asked > 0) bonus += 10; }
+    const gained = first ? S.earned + bonus : Math.round(S.earned / 2);
+    if (first) S.day.completed.push(S.node);
+    S.day.xp += gained; S.day.correct += S.ok; S.day.total += S.asked; S.progress.xp += gained;
+    if (S.progress.lastDate !== D.date) { S.progress.streak = S.progress.lastDate === yesterday ? S.progress.streak + 1 : 1; S.progress.lastDate = D.date; S.progress.days = (S.progress.days || 0) + 1; }
+    persist(); dingWin();
+    const allDone = nodes.every(n => S.day.completed.includes(n.id));
+    const ep = D.extras.episode;
+    app.innerHTML = `<div class="top"></div><div class="stage result">
+      <div class="big pop">${allDone ? '🏆' : acc === 100 ? '🌟' : '🎉'}</div>
+      <h1>${allDone ? 'Bugünkü dərs tamamdır!' : esc(node.tt) + ' bitdi'}</h1>
+      <div class="muted" style="font-weight:700">${first ? '' : 'Təkrar keçid: XP-nin yarısı'}</div>
+      <div class="tiles"><div class="stat"><b>+${gained}</b><span>XP</span></div><div class="stat g"><b>${acc}%</b><span>dəqiqlik</span></div><div class="stat i"><b>${Math.floor(secs / 60)}:${String(secs % 60).padStart(2, '0')}</b><span>vaxt</span></div></div>
+      ${bonus ? `<div class="note">Bonus: ${acc === 100 ? 'səhvsiz +20' : ''} ${S.hearts === 5 && S.asked > 0 ? '· bütün ürəklər +10' : ''}</div>` : ''}
+      ${allDone && ep && ep.next ? `<div class="banner" style="text-align:left;margin-top:16px"><div class="eyebrow">Sabah</div><div style="font-weight:800">${esc(ep.next)}</div></div>` : ''}
+      ${S.node === 'story' && S.day.choice ? `<div class="note" style="margin-top:14px">Seçimin: ${esc(S.day.choice.text)}</div>` : ''}
+    </div><div class="foot"><button class="btn" id="home">Davam</button></div>`;
+    document.getElementById('home').addEventListener('click', renderHome);
+  }
+
+  // ---------- boot ----------
+  window.__ED = S;
+  loadLocal();
+  if (window.speechSynthesis) { try { window.speechSynthesis.onvoiceschanged = () => { voice = null; }; } catch (e) { } }
+  renderHome();
+  initDb();
+})();
+</script>

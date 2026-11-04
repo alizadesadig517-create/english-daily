@@ -17,6 +17,11 @@ config/settings.json     your learner settings - the routine reads these
 schema/lesson.schema.json  the lesson format (the contract between routine and app)
 scripts/validate.py      checks lessons against the schema and the quality rules
 routine/daily-content.md the full instructions for the daily routine
+play/template.html       the interactive (Duolingo-style) lesson page
+play/build.py            fills the template with one day's data -> play/build/today.html
+play/days/YYYY-MM-DD.json  per-day extras: episode choices, questions, mission, feedback
+play/series.json         the running serial: characters, rules, episodes, choices
+play/ARTIFACT_URL        the link of the published interactive page (updated daily)
 .github/workflows/       builds the APK and publishes it as a GitHub Release
 ```
 
@@ -114,6 +119,12 @@ The routine is a scheduled Claude Code session that writes each day's lesson.
    branch (unrestricted branch pushes) for this repository.
 3. Run it once by hand to check: a new `content/<today>.json` should appear and
    `python3 scripts/validate.py` reports `OK`.
+
+Every run also continues the serial story ("The Fifth Floor"), reads the choice
+and mission sentences you entered on the interactive page the day before, and
+republishes that page (link in `play/ARTIFACT_URL`) with the new episode, word
+exercises, grammar, review and mission. Your streak and XP live in the page's
+own database.
 
 The routine never overwrites an existing day, never repeats a word or grammar
 topic (it uses `content/history.json`), and only commits after the validator
