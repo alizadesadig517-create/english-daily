@@ -270,8 +270,18 @@ newest existing file in `play/days/` exactly:
   `cliffhanger` + `cliffhangerAz` (the open question at the end of today's
   episode), `choices` (2-3 items `{id: "A"|"B"|"C", text, textAz}`), `next`
   (one teaser line in the learner's language for tomorrow).
+- `speakers`: which story sentences are spoken by a character, as
+  `{"<paragraph index>-<sentence index>": "<name>"}` (both 0-based; e.g.
+  `"1-3": "Murad"`). Every sentence not listed is narration. Use the exact
+  names from `play/series.json` `characters`; a sentence with a quote of a
+  character's words or thoughts gets that character. A new minor character
+  (a waiter, a taxi driver) may be named here without being added to the
+  series; they get a generic face.
 - `comprehension`: 3 questions about today's story, each `{question,
-  options (3), answer (= one option exactly), explanation (learner's language)}`.
+  options (3), answer (= one option exactly), explanation (learner's language),
+  after}`, where `after` is the 0-based index of the paragraph after which the
+  question appears (the answer must be in or before that paragraph). Spread
+  them through the story.
 - `mission`: `text` + `textAz` (a 2-3 sentence writing task about the learner's
   own day) and `words` (3-4 of today's words to use).
 - `feedback`: one friendly line in the learner's language about yesterday's

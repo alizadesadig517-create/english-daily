@@ -1,5 +1,6 @@
 {
   "format": "story",
+  "speakers": {"0-4": "Sevda", "1-3": "Locksmith", "2-2": "Sevda", "2-5": "Murad"},
   "episode": {
     "number": 1,
     "title": "Locked Out",
@@ -18,19 +19,22 @@
       "question": "Why couldn't Sevda get into her apartment?",
       "options": ["She had left her keys on the kitchen table.", "She had lost her keys at the party.", "The lock was broken."],
       "answer": "She had left her keys on the kitchen table.",
-      "explanation": "Açarları mətbəx masasının üstündə qalmışdı və qapı arxasınca avtomatik bağlanmışdı."
+      "explanation": "Açarları mətbəx masasının üstündə qalmışdı və qapı arxasınca avtomatik bağlanmışdı.",
+      "after": 0
     },
     {
       "question": "Why did Sevda agree to pay the locksmith's extra fee?",
       "options": ["She was tired and desperate.", "The locksmith was her neighbor.", "Her mother told her to."],
       "answer": "She was tired and desperate.",
-      "explanation": "Yorğun və çarəsiz olduğu üçün razılaşdı."
+      "explanation": "Yorğun və çarəsiz olduğu üçün razılaşdı.",
+      "after": 1
     },
     {
       "question": "How did Sevda finally get her keys?",
       "options": ["Murad held a ladder and she climbed onto the balcony.", "The locksmith opened the door.", "Her neighbor had a spare key."],
       "answer": "Murad held a ladder and she climbed onto the balcony.",
-      "explanation": "Murad nərdivanı tutdu, Sevda eyvana dırmaşıb açarları götürdü."
+      "explanation": "Murad nərdivanı tutdu, Sevda eyvana dırmaşıb açarları götürdü.",
+      "after": 3
     }
   ],
   "mission": {

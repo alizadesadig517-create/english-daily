@@ -4,10 +4,11 @@
   "genre": "light mystery with humor, everyday Baku life, a media-company workplace",
   "premise": "Sevda, 28, works at a small media company in Baku. After she locks herself out one night, a quiet neighbor from the fifth floor, Murad, helps her with a ladder. Small strange things start to happen in the building, and every episode ends with a question the learner answers. Warm, funny, a little mysterious. No violence, politics, religion or brands.",
   "characters": [
-    {"name": "Sevda", "role": "main character, 28, works at a media company, a bit clumsy, curious, kind"},
-    {"name": "Murad", "role": "neighbor on the fifth floor, quiet, keeps a ladder in the basement, knows everyone in the building"},
-    {"name": "Aunt Zarifa", "role": "elderly neighbor on the first floor, knows every rumor, loves tea"},
-    {"name": "Kamran", "role": "Sevda's colleague at the media company, jokes a lot"}
+    {"name": "Sevda", "role": "main character, 28, works at a media company, a bit clumsy, curious, kind. She is also the coach who reacts to the learner's answers on the page.", "look": {"bg": "#ffd9c7", "skin": "#f1c29a", "hair": "#3b2416", "style": "long"}},
+    {"name": "Murad", "role": "neighbor on the fifth floor, quiet, keeps a ladder in the basement, knows everyone in the building", "look": {"bg": "#cfe7ff", "skin": "#e0ae86", "hair": "#1f1a17", "style": "short", "beard": true}},
+    {"name": "Aunt Zarifa", "role": "elderly neighbor on the first floor, knows every rumor, loves tea", "look": {"bg": "#f3dcff", "skin": "#f0c7a5", "hair": "#bdbdbd", "style": "bun", "glasses": true}},
+    {"name": "Kamran", "role": "Sevda's colleague at the media company, jokes a lot", "look": {"bg": "#d6f5e3", "skin": "#d9a27a", "hair": "#2a1d14", "style": "curly"}},
+    {"name": "Locksmith", "role": "the night locksmith Sevda called in episode 1; may return", "look": {"bg": "#ffe8b0", "skin": "#e3b48e", "hair": "#2f4f7f", "style": "cap"}}
   ],
   "rules": [
     "One episode per day. The episode is the lesson's story in content/<DATE>.json and must still follow routine/daily-content.md (all new words appear, glossary complete).",

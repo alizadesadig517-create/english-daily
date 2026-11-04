@@ -66,7 +66,8 @@ def main(argv):
         "lang": lesson["translationLanguage"],
         "lesson": {"words": lesson["words"], "story": lesson.get("story"), "grammar": lesson["grammar"]},
         "extras": extras,
-        "series": {"title": series.get("title", "English Daily")},
+        "series": {"title": series.get("title", "English Daily"), "titleAz": series.get("titleAz", "")},
+        "characters": [{"name": c["name"], "look": c.get("look", {})} for c in series.get("characters", [])],
         "review": review_pool(today),
     }
     if data["lesson"]["story"] is None:
