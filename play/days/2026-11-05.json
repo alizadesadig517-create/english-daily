@@ -1,0 +1,82 @@
+{
+  "format": "article",
+  "speakers": {
+    "0-3": "Murad",
+    "0-4": "Sevda",
+    "0-5": "Murad",
+    "1-1": "Leyla",
+    "1-2": "Kamran",
+    "3-3": "Sevda"
+  },
+  "episode": {
+    "number": 2,
+    "title": "The Note",
+    "recap": "Sevda qapısının altında sirli bir qeyd tapdı: “Eyvanda nəsə qoymusan.” Dünən seçim edilmədi, ona görə Sevda birinci variantla gedir və Muraddan soruşur.",
+    "cliffhanger": "Sevda has a mysterious key with the label “Basement, room 3.” What should she do with it?",
+    "cliffhangerAz": "Sevdanın əlində “Zirzəmi, 3 nömrəli otaq” etiketli sirli bir açar var. Onunla nə etsin?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Ask Aunt Zarifa. She knows every story in the building.",
+        "textAz": "Zərifə xaladan soruşsun. O, binadakı hər əhvalatı bilir."
+      },
+      {
+        "id": "B",
+        "text": "Post a photo of the box in the building's group chat.",
+        "textAz": "Qutunun şəklini binanın qrup çatında paylaşsın."
+      },
+      {
+        "id": "C",
+        "text": "Go down to the basement and try the key in room 3.",
+        "textAz": "Zirzəmiyə enib açarı 3 nömrəli otaqda yoxlasın."
+      }
+    ],
+    "next": "Epizod 3: açar kimə aiddir? Seçimin sabahkı epizodu müəyyən edəcək."
+  },
+  "comprehension": [
+    {
+      "question": "Why does Murad say that the note is not from him?",
+      "options": [
+        "It is not his handwriting.",
+        "He was not at home last night.",
+        "He never writes notes."
+      ],
+      "answer": "It is not his handwriting.",
+      "explanation": "Murad deyir ki, bu onun xətti deyil, onunku daha pisdir.",
+      "after": 0
+    },
+    {
+      "question": "What does the article say about notifications?",
+      "options": [
+        "If you turn on every notification, your phone will never stop ringing.",
+        "Notifications help you sleep better.",
+        "Group chats don't send notifications."
+      ],
+      "answer": "If you turn on every notification, your phone will never stop ringing.",
+      "explanation": "Məqaləyə görə, bütün bildirişləri açsanız, telefonunuz heç vaxt susmayacaq.",
+      "after": 2
+    },
+    {
+      "question": "What did Sevda find behind the flower pot?",
+      "options": [
+        "A wooden box with an old key inside.",
+        "A letter from Murad.",
+        "Her lost phone."
+      ],
+      "answer": "A wooden box with an old key inside.",
+      "explanation": "Gül dibçəyinin arxasında içində köhnə açar olan taxta qutu tapdı.",
+      "after": 3
+    }
+  ],
+  "mission": {
+    "text": "Write 2-3 sentences about something mysterious or surprising that happened to you recently. Use at least two of these words.",
+    "textAz": "Bu yaxınlarda başına gələn sirli və ya təəccüblü bir hadisə haqqında 2-3 cümlə yaz. Bu sözlərdən ən azı ikisini işlət.",
+    "words": [
+      "mysterious",
+      "guess",
+      "puzzled",
+      "come across"
+    ]
+  },
+  "feedback": null
+}

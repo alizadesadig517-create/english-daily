@@ -2099,6 +2099,66 @@
     {
       "word": "stranger",
       "date": "2026-11-04"
+    },
+    {
+      "word": "handwriting",
+      "date": "2026-11-05"
+    },
+    {
+      "word": "mysterious",
+      "date": "2026-11-05"
+    },
+    {
+      "word": "clue",
+      "date": "2026-11-05"
+    },
+    {
+      "word": "suspect",
+      "date": "2026-11-05"
+    },
+    {
+      "word": "guess",
+      "date": "2026-11-05"
+    },
+    {
+      "word": "belong",
+      "date": "2026-11-05"
+    },
+    {
+      "word": "post",
+      "date": "2026-11-05"
+    },
+    {
+      "word": "notification",
+      "date": "2026-11-05"
+    },
+    {
+      "word": "headline",
+      "date": "2026-11-05"
+    },
+    {
+      "word": "editor",
+      "date": "2026-11-05"
+    },
+    {
+      "word": "label",
+      "date": "2026-11-05"
+    },
+    {
+      "word": "wooden",
+      "date": "2026-11-05"
+    },
+    {
+      "word": "yawn",
+      "date": "2026-11-05"
+    },
+    {
+      "word": "come across",
+      "date": "2026-11-05"
+    },
+    {
+      "word": "puzzled",
+      "date": "2026-11-05"
     }
   ],
   "grammarTopics": [
@@ -2241,6 +2301,10 @@
     {
       "topic": "Indefinite pronouns: some-, any-, no-, every-",
       "date": "2026-11-04"
+    },
+    {
+      "topic": "Modals of deduction: must, might, can't",
+      "date": "2026-11-05"
     }
   ]
 }

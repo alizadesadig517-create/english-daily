@@ -60,6 +60,17 @@
         "style": "cap"
       },
       "voice": "male"
+    },
+    {
+      "name": "Leyla",
+      "role": "Sevda's editor at the media company, strict but fair, loves a good headline",
+      "look": {
+        "bg": "#e3e8ff",
+        "skin": "#eebf98",
+        "hair": "#5a2e1a",
+        "style": "bun"
+      },
+      "voice": "female"
     }
   ],
   "rules": [
@@ -88,6 +99,28 @@
         {
           "id": "C",
           "text": "Ignore the note and hurry to work."
+        }
+      ],
+      "chosen": "A"
+    },
+    {
+      "number": 2,
+      "date": "2026-11-05",
+      "title": "The Note",
+      "summary": "Murad says the note is not in his handwriting and suggests someone from the building group chat, where Aunt Zarifa posts everything. At work, editor Leyla asks Sevda to write an article about building group chats. In the evening Sevda finds a small wooden box on her balcony with an old key labeled 'Basement, room 3'.",
+      "cliffhanger": "Sevda has a mysterious key labeled 'Basement, room 3'. What should she do with it?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Ask Aunt Zarifa. She knows every story in the building."
+        },
+        {
+          "id": "B",
+          "text": "Post a photo of the box in the building's group chat."
+        },
+        {
+          "id": "C",
+          "text": "Go down to the basement and try the key in room 3."
         }
       ],
       "chosen": null

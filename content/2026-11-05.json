@@ -1,0 +1,1039 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-05",
+  "level": "B1",
+  "translationLanguage": "az",
+  "words": [
+    {
+      "word": "handwriting",
+      "ipa": "/ˈhændˌraɪtɪŋ/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "xət, əl yazısı",
+          "definition": "the way a person writes letters with a pen or pencil",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Your handwriting is so neat!",
+              "translation": "Sənin xəttin çox səliqəlidir!"
+            },
+            {
+              "text": "I can't read the doctor's handwriting.",
+              "translation": "Həkimin yazısını oxuya bilmirəm."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "mysterious",
+      "ipa": "/mɪˈstɪriəs/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "sirli, müəmmalı",
+          "definition": "strange and difficult to understand or explain",
+          "synonyms": [
+            "strange",
+            "puzzling",
+            "secret"
+          ],
+          "antonyms": [
+            "clear",
+            "ordinary"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "A mysterious man was standing outside the building.",
+              "translation": "Binanın qarşısında sirli bir kişi dayanmışdı."
+            },
+            {
+              "text": "The lights went off for mysterious reasons.",
+              "translation": "İşıqlar müəmmalı səbəblərdən söndü."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "clue",
+      "ipa": "/kluː/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "ipucu",
+          "definition": "a piece of information that helps you find the answer to a problem or a mystery",
+          "synonyms": [
+            "hint",
+            "sign"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The police found an important clue near the door.",
+              "translation": "Polis qapının yanında vacib bir ipucu tapdı."
+            },
+            {
+              "text": "Can you give me a clue? I don't know the answer.",
+              "translation": "Mənə ipucu verə bilərsən? Cavabı bilmirəm."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "suspect",
+      "ipa": "/səˈspɛkt/, /ˈsʌspɛkt/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "şübhələnmək",
+          "definition": "to think that something is probably true, or that someone did something bad",
+          "synonyms": [
+            "think",
+            "doubt"
+          ],
+          "antonyms": [
+            "trust"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "I suspect that my brother ate the last piece of cake.",
+              "translation": "Şübhələnirəm ki, tortun son tikəsini qardaşım yeyib."
+            },
+            {
+              "text": "Nobody suspected the quiet neighbor.",
+              "translation": "Heç kim sakit qonşudan şübhələnmədi."
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "noun",
+          "translation": "şübhəli (şəxs)",
+          "definition": "a person who may have done something wrong",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The police are talking to two suspects.",
+              "translation": "Polis iki şübhəli ilə danışır."
+            },
+            {
+              "text": "In this story, every neighbor is a suspect.",
+              "translation": "Bu hekayədə hər qonşu şübhəlidir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "guess",
+      "ipa": "/ɡɛs/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "təxmin etmək",
+          "definition": "to give an answer when you are not sure that it is right",
+          "synonyms": [
+            "imagine",
+            "estimate"
+          ],
+          "antonyms": [
+            "know"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Guess who I met at the market today!",
+              "translation": "Təxmin et, bu gün bazarda kimi gördüm!"
+            },
+            {
+              "text": "I guessed the answer, and it was right.",
+              "translation": "Cavabı təxmin etdim və düz çıxdı."
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "noun",
+          "translation": "təxmin",
+          "definition": "an answer or an opinion that you give when you are not sure",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "My guess is that it will rain tonight.",
+              "translation": "Mənim təxminimcə, bu axşam yağış yağacaq."
+            },
+            {
+              "text": "Have a guess! How old is this house?",
+              "translation": "Bir təxmin et! Bu ev neçə yaşındadır?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "belong",
+      "ipa": "/bɪˈlɔːŋ/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "aid olmaq, məxsus olmaq",
+          "definition": "to be someone's property (belong to someone), or to be in the right place",
+          "synonyms": [
+            "be owned by"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "This umbrella belongs to my sister.",
+              "translation": "Bu çətir bacıma məxsusdur."
+            },
+            {
+              "text": "Do these keys belong to you?",
+              "translation": "Bu açarlar sənindir?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "post",
+      "ipa": "/poʊst/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "paylaşmaq (internetdə)",
+          "definition": "to put a message, a photo or a video on a website or in a chat",
+          "synonyms": [
+            "share",
+            "publish"
+          ],
+          "antonyms": [
+            "delete"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "She posted a photo of her new kitchen.",
+              "translation": "O, yeni mətbəxinin şəklini paylaşdı."
+            },
+            {
+              "text": "Please don't post my picture without asking.",
+              "translation": "Zəhmət olmasa, icazəsiz mənim şəklimi paylaşma."
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "noun",
+          "translation": "paylaşım, yazı",
+          "definition": "a message or a photo that someone puts online",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "His last post got hundreds of likes.",
+              "translation": "Onun son paylaşımı yüzlərlə bəyənmə topladı."
+            },
+            {
+              "text": "I read an interesting post about healthy food.",
+              "translation": "Sağlam qida haqqında maraqlı bir yazı oxudum."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "notification",
+      "ipa": "/ˌnoʊtəfɪˈkeɪʃən/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "bildiriş",
+          "definition": "a message on your phone or computer that tells you something new has happened",
+          "synonyms": [
+            "alert",
+            "message"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "I turned off notifications so that I can study.",
+              "translation": "Dərs oxuya bilmək üçün bildirişləri söndürdüm."
+            },
+            {
+              "text": "My phone shows a notification every time I get a message.",
+              "translation": "Mesaj gələndə telefonum hər dəfə bildiriş göstərir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "headline",
+      "ipa": "/ˈhɛdlaɪn/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "başlıq",
+          "definition": "the title of a news story, written in large letters",
+          "synonyms": [
+            "title"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The headline was about the new metro station.",
+              "translation": "Başlıq yeni metro stansiyası haqqında idi."
+            },
+            {
+              "text": "Don't just read the headlines. Read the whole article.",
+              "translation": "Yalnız başlıqları oxuma. Bütün məqaləni oxu."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "editor",
+      "ipa": "/ˈɛdɪtər/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "redaktor",
+          "definition": "a person whose job is to check and correct texts and decide what goes into a newspaper, book or website",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The editor asked me to make the article shorter.",
+              "translation": "Redaktor məndən məqaləni qısaltmağı xahiş etdi."
+            },
+            {
+              "text": "She works as an editor at a news website.",
+              "translation": "O, bir xəbər saytında redaktor işləyir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "label",
+      "ipa": "/ˈleɪbəl/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "etiket, yarlık",
+          "definition": "a small piece of paper or cloth on something that gives information about it",
+          "synonyms": [
+            "tag",
+            "sticker"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Read the label before you take the medicine.",
+              "translation": "Dərmanı içməzdən əvvəl etiketini oxu."
+            },
+            {
+              "text": "The label on the box said “Fragile.”",
+              "translation": "Qutunun üstündəki etiketdə “Kövrəkdir” yazılmışdı."
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "verb",
+          "translation": "etiket yapışdırmaq; damğa vurmaq",
+          "definition": "to put a label on something, or to describe someone with a word, often unfairly",
+          "synonyms": [
+            "mark",
+            "tag"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "We labeled all the boxes before we moved.",
+              "translation": "Köçməzdən əvvəl bütün qutulara etiket yapışdırdıq."
+            },
+            {
+              "text": "Don't label people as lazy.",
+              "translation": "İnsanlara tənbəl damğası vurma."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "wooden",
+      "ipa": "/ˈwʊdn/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "taxta, ağacdan",
+          "definition": "made of wood",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "My grandfather made a small wooden chair.",
+              "translation": "Babam kiçik bir taxta stul düzəltdi."
+            },
+            {
+              "text": "There is a wooden bridge over the river.",
+              "translation": "Çayın üstündə taxta körpü var."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "yawn",
+      "ipa": "/jɔːn/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "əsnəmək",
+          "definition": "to open your mouth wide and breathe in deeply, because you are tired or bored",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Everyone was yawning during the long meeting.",
+              "translation": "Uzun iclas zamanı hamı əsnəyirdi."
+            },
+            {
+              "text": "He yawned and said good night.",
+              "translation": "O, əsnədi və gecəniz xeyrə qalsın dedi."
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "noun",
+          "translation": "əsnəmə",
+          "definition": "the act of opening your mouth wide because you are tired or bored",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "She tried to hide a yawn.",
+              "translation": "O, əsnəməsini gizlətməyə çalışdı."
+            },
+            {
+              "text": "One yawn in the room, and soon everyone was yawning.",
+              "translation": "Otaqda biri əsnədi və tezliklə hamı əsnəməyə başladı."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "come across",
+      "ipa": "/ˌkʌm əˈkrɔːs/",
+      "senses": [
+        {
+          "partOfSpeech": "phrasal verb",
+          "translation": "rast gəlmək, təsadüfən tapmaq",
+          "definition": "to find or meet something or someone by chance",
+          "synonyms": [
+            "find",
+            "run into",
+            "discover"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "I often come across new words in English songs.",
+              "translation": "İngilis mahnılarında tez-tez yeni sözlərə rast gəlirəm."
+            },
+            {
+              "text": "If you come across my glasses, please tell me.",
+              "translation": "Eynəyimə rast gəlsən, zəhmət olmasa, mənə de."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "puzzled",
+      "ipa": "/ˈpʌzəld/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "çaşqın, çaşmış",
+          "definition": "confused because you cannot understand something",
+          "synonyms": [
+            "confused"
+          ],
+          "antonyms": [
+            "sure"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "She looked puzzled when she saw the note.",
+              "translation": "Qeydi görəndə o, çaşqın görünürdü."
+            },
+            {
+              "text": "I'm puzzled. Why is the door open?",
+              "translation": "Çaşmışam. Qapı niyə açıqdır?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "story": {
+    "title": "The Note",
+    "titleTranslation": "Qeyd",
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "The morning after she locked herself out, Sevda found a mysterious note under her door: “You left something on the balcony.”",
+            "translation": "Qapı arxasında qaldığı gecənin səhəri Sevda qapısının altında sirli bir qeyd tapdı: “Eyvanda nəsə qoymusan.”"
+          },
+          {
+            "text": "She took the note and went up to the fifth floor to ask Murad about it.",
+            "translation": "O, qeydi götürüb bu barədə Muraddan soruşmaq üçün beşinci mərtəbəyə qalxdı."
+          },
+          {
+            "text": "Murad opened the door, still in his pajamas, and yawned.",
+            "translation": "Murad hələ də pijamada qapını açdı və əsnədi."
+          },
+          {
+            "text": "“That's not my handwriting,” he said, looking at the note. “Mine is much worse.”",
+            "translation": "“Bu, mənim xəttim deyil,” – deyə o, qeydə baxaraq dedi. “Mənimki daha pisdir.”"
+          },
+          {
+            "text": "“Then who wrote it?” Sevda asked, puzzled.",
+            "translation": "“Bəs onda kim yazıb?” – deyə Sevda çaşqın halda soruşdu."
+          },
+          {
+            "text": "“I can't guess. It might be someone from the building's group chat. Aunt Zarifa posts everything there.”",
+            "translation": "“Təxmin edə bilmirəm. Bəlkə də binanın qrup çatından kimsədir. Zərifə xala hər şeyi ora yazır.”"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "At work, Sevda's editor, Leyla, had a new task for her.",
+            "translation": "İşdə Sevdanın redaktoru Leyla onun üçün yeni tapşırıq hazırlamışdı."
+          },
+          {
+            "text": "“Our readers love stories about neighbors,” she said. “Write a short article about building group chats, and give it a good headline.”",
+            "translation": "“Oxucularımız qonşular haqqında yazıları çox sevirlər,” – dedi. “Bina qrup çatları haqqında qısa bir məqalə yaz və ona yaxşı bir başlıq qoy.”"
+          },
+          {
+            "text": "Kamran laughed. “That must be easy for you. You have a real mystery in your own building!”",
+            "translation": "Kamran güldü. “Bu, sənin üçün asan olmalıdır. Öz binanda əsl sirr var!”"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "By lunchtime, the article was ready, and its headline was “Your Building Has a Secret Life Online.”",
+            "translation": "Nahar vaxtı məqalə hazır idi, başlığı isə belə idi: “Binanızın internetdə gizli həyatı var.”"
+          },
+          {
+            "text": "Today, many apartment buildings have their own group chat.",
+            "translation": "Bu gün bir çox yaşayış binasının öz qrup çatı var."
+          },
+          {
+            "text": "Neighbors post photos of lost cats, ask to borrow a ladder and share news about water cuts.",
+            "translation": "Qonşular itmiş pişiklərin şəkillərini paylaşır, nərdivan borc istəyir və su kəsintiləri barədə xəbər verirlər."
+          },
+          {
+            "text": "But be careful: if you turn on every notification, your phone will never stop ringing!",
+            "translation": "Amma ehtiyatlı olun: bütün bildirişləri açsanız, telefonunuz heç vaxt susmayacaq!"
+          },
+          {
+            "text": "The best chats have one simple rule: be kind, and check the facts before you share a rumor.",
+            "translation": "Ən yaxşı çatların bir sadə qaydası var: mehriban olun və şaiyə paylaşmazdan əvvəl faktları yoxlayın."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "In the evening, Sevda finally checked her balcony.",
+            "translation": "Axşam Sevda nəhayət eyvanını yoxladı."
+          },
+          {
+            "text": "Behind a flower pot, she was surprised to come across a small wooden box that did not belong to her.",
+            "translation": "Gül dibçəyinin arxasında ona aid olmayan kiçik bir taxta qutuya rast gəlib təəccübləndi."
+          },
+          {
+            "text": "Inside, there was an old key with a paper label: “Basement, room 3.”",
+            "translation": "İçində kağız etiketli köhnə bir açar var idi: “Zirzəmi, 3 nömrəli otaq.”"
+          },
+          {
+            "text": "“Someone must want me to find this,” she thought. “And it can't be a joke. This box looks really old.”",
+            "translation": "“Deyəsən, kimsə bunu tapmağımı istəyir,” – deyə düşündü. “Zarafat da ola bilməz. Bu qutu çox köhnə görünür.”"
+          },
+          {
+            "text": "She didn't suspect anyone yet, but now she had one clue: the key.",
+            "translation": "O, hələ heç kimdən şübhələnmirdi, amma indi əlində bir ipucu var idi: açar."
+          },
+          {
+            "text": "What should she do next?",
+            "translation": "İndi nə etməlidir?"
+          }
+        ]
+      }
+    ],
+    "glossary": [
+      {
+        "term": "the morning after",
+        "lemma": "the morning after",
+        "partOfSpeech": "phrase",
+        "meaning": "on the next morning",
+        "translation": "ertəsi səhər"
+      },
+      {
+        "term": "locked herself out",
+        "lemma": "lock yourself out",
+        "partOfSpeech": "phrase",
+        "meaning": "closed the door and could not get back in without a key",
+        "translation": "qapı arxasında qaldı"
+      },
+      {
+        "term": "mysterious",
+        "lemma": "mysterious",
+        "partOfSpeech": "adjective",
+        "meaning": "strange and hard to explain",
+        "translation": "sirli"
+      },
+      {
+        "term": "note",
+        "lemma": "note",
+        "partOfSpeech": "noun",
+        "meaning": "a short written message",
+        "translation": "qeyd"
+      },
+      {
+        "term": "went up to",
+        "lemma": "go up to",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "climbed to a higher floor",
+        "translation": "qalxdı"
+      },
+      {
+        "term": "pajamas",
+        "lemma": "pajamas",
+        "partOfSpeech": "noun",
+        "meaning": "clothes that you wear in bed",
+        "translation": "pijama"
+      },
+      {
+        "term": "yawned",
+        "lemma": "yawn",
+        "partOfSpeech": "verb",
+        "meaning": "opened his mouth wide because he was tired",
+        "translation": "əsnədi"
+      },
+      {
+        "term": "handwriting",
+        "lemma": "handwriting",
+        "partOfSpeech": "noun",
+        "meaning": "the way someone writes with a pen",
+        "translation": "xət"
+      },
+      {
+        "term": "puzzled",
+        "lemma": "puzzled",
+        "partOfSpeech": "adjective",
+        "meaning": "confused",
+        "translation": "çaşqın"
+      },
+      {
+        "term": "guess",
+        "lemma": "guess",
+        "partOfSpeech": "verb",
+        "meaning": "to give an answer when you are not sure",
+        "translation": "təxmin etmək"
+      },
+      {
+        "term": "might",
+        "lemma": "might",
+        "partOfSpeech": "verb",
+        "meaning": "used to say that something is possible",
+        "translation": "bəlkə də"
+      },
+      {
+        "term": "group chat",
+        "lemma": "group chat",
+        "partOfSpeech": "noun",
+        "meaning": "an online conversation with many people",
+        "translation": "qrup çatı"
+      },
+      {
+        "term": "posts",
+        "lemma": "post",
+        "partOfSpeech": "verb",
+        "meaning": "puts messages or photos online",
+        "translation": "paylaşır, yazır"
+      },
+      {
+        "term": "at work",
+        "lemma": "at work",
+        "partOfSpeech": "phrase",
+        "meaning": "in the place where you work",
+        "translation": "işdə"
+      },
+      {
+        "term": "editor",
+        "lemma": "editor",
+        "partOfSpeech": "noun",
+        "meaning": "a person who checks and chooses texts for a newspaper or website",
+        "translation": "redaktor"
+      },
+      {
+        "term": "task",
+        "lemma": "task",
+        "partOfSpeech": "noun",
+        "meaning": "a piece of work that you must do",
+        "translation": "tapşırıq"
+      },
+      {
+        "term": "readers",
+        "lemma": "reader",
+        "partOfSpeech": "noun",
+        "meaning": "people who read something",
+        "translation": "oxucular"
+      },
+      {
+        "term": "article",
+        "lemma": "article",
+        "partOfSpeech": "noun",
+        "meaning": "a piece of writing in a newspaper or on a website",
+        "translation": "məqalə"
+      },
+      {
+        "term": "headline",
+        "lemma": "headline",
+        "partOfSpeech": "noun",
+        "meaning": "the title of a news story",
+        "translation": "başlıq"
+      },
+      {
+        "term": "must be",
+        "lemma": "must",
+        "partOfSpeech": "verb",
+        "meaning": "used to say that you are almost sure",
+        "translation": "olmalıdır, yəqin ki"
+      },
+      {
+        "term": "mystery",
+        "lemma": "mystery",
+        "partOfSpeech": "noun",
+        "meaning": "something strange that nobody can explain",
+        "translation": "sirr"
+      },
+      {
+        "term": "by lunchtime",
+        "lemma": "by lunchtime",
+        "partOfSpeech": "phrase",
+        "meaning": "not later than lunch",
+        "translation": "nahar vaxtına qədər"
+      },
+      {
+        "term": "secret life",
+        "lemma": "secret life",
+        "partOfSpeech": "phrase",
+        "meaning": "a hidden part of someone's life",
+        "translation": "gizli həyat"
+      },
+      {
+        "term": "online",
+        "lemma": "online",
+        "partOfSpeech": "adverb",
+        "meaning": "on the internet",
+        "translation": "internetdə"
+      },
+      {
+        "term": "apartment buildings",
+        "lemma": "apartment building",
+        "partOfSpeech": "noun",
+        "meaning": "buildings with many homes in them",
+        "translation": "yaşayış binaları"
+      },
+      {
+        "term": "lost cats",
+        "lemma": "lost",
+        "partOfSpeech": "adjective",
+        "meaning": "cats that cannot find their way home",
+        "translation": "itmiş pişiklər"
+      },
+      {
+        "term": "borrow",
+        "lemma": "borrow",
+        "partOfSpeech": "verb",
+        "meaning": "to take something that you will give back",
+        "translation": "borc almaq"
+      },
+      {
+        "term": "water cuts",
+        "lemma": "water cut",
+        "partOfSpeech": "noun",
+        "meaning": "times when there is no water in the pipes",
+        "translation": "su kəsintiləri"
+      },
+      {
+        "term": "turn on",
+        "lemma": "turn on",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "to make something start working",
+        "translation": "açmaq, yandırmaq"
+      },
+      {
+        "term": "notification",
+        "lemma": "notification",
+        "partOfSpeech": "noun",
+        "meaning": "a message on your phone about something new",
+        "translation": "bildiriş"
+      },
+      {
+        "term": "stop ringing",
+        "lemma": "stop ringing",
+        "partOfSpeech": "phrase",
+        "meaning": "make no more sounds",
+        "translation": "susmaq"
+      },
+      {
+        "term": "check the facts",
+        "lemma": "check the facts",
+        "partOfSpeech": "phrase",
+        "meaning": "make sure that information is true",
+        "translation": "faktları yoxlamaq"
+      },
+      {
+        "term": "rumor",
+        "lemma": "rumor",
+        "partOfSpeech": "noun",
+        "meaning": "a story that may not be true",
+        "translation": "şaiyə"
+      },
+      {
+        "term": "finally",
+        "lemma": "finally",
+        "partOfSpeech": "adverb",
+        "meaning": "after a long time",
+        "translation": "nəhayət"
+      },
+      {
+        "term": "flower pot",
+        "lemma": "flower pot",
+        "partOfSpeech": "noun",
+        "meaning": "a container for a plant",
+        "translation": "gül dibçəyi"
+      },
+      {
+        "term": "was surprised",
+        "lemma": "be surprised",
+        "partOfSpeech": "phrase",
+        "meaning": "felt that something was unexpected",
+        "translation": "təəccübləndi"
+      },
+      {
+        "term": "come across",
+        "lemma": "come across",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "to find something by chance",
+        "translation": "rast gəlmək"
+      },
+      {
+        "term": "wooden",
+        "lemma": "wooden",
+        "partOfSpeech": "adjective",
+        "meaning": "made of wood",
+        "translation": "taxta"
+      },
+      {
+        "term": "belong to",
+        "lemma": "belong",
+        "partOfSpeech": "verb",
+        "meaning": "to be someone's property",
+        "translation": "aid olmaq"
+      },
+      {
+        "term": "label",
+        "lemma": "label",
+        "partOfSpeech": "noun",
+        "meaning": "a small piece of paper with information on something",
+        "translation": "etiket"
+      },
+      {
+        "term": "basement",
+        "lemma": "basement",
+        "partOfSpeech": "noun",
+        "meaning": "the floor under the ground in a building",
+        "translation": "zirzəmi"
+      },
+      {
+        "term": "can't be",
+        "lemma": "can't",
+        "partOfSpeech": "verb",
+        "meaning": "used to say that you are sure something is not true",
+        "translation": "ola bilməz"
+      },
+      {
+        "term": "joke",
+        "lemma": "joke",
+        "partOfSpeech": "noun",
+        "meaning": "something you say or do to make people laugh",
+        "translation": "zarafat"
+      },
+      {
+        "term": "suspect",
+        "lemma": "suspect",
+        "partOfSpeech": "verb",
+        "meaning": "to think that someone did something",
+        "translation": "şübhələnmək"
+      },
+      {
+        "term": "clue",
+        "lemma": "clue",
+        "partOfSpeech": "noun",
+        "meaning": "information that helps you solve a mystery",
+        "translation": "ipucu"
+      }
+    ]
+  },
+  "grammar": {
+    "topic": "Modals of deduction: must, might, can't",
+    "topicTranslation": "Ehtimal bildirən modal feillər: must, might, can't",
+    "explanation": "We use must, might and can't to say how sure we are about something in the present. Must means we are almost sure that something is true. Might (also may or could) means that it is possible, but we are not sure. Can't means we are almost sure that something is not true. After these modals, we use the base form of the verb.",
+    "explanationTranslation": "Must, might və can't indiki zamanda bir şeyə nə qədər əmin olduğumuzu bildirmək üçün işlədilir. Must bir şeyin doğru olduğuna demək olar ki, əmin olduğumuzu göstərir. Might (həmçinin may və ya could) bunun mümkün olduğunu, amma əmin olmadığımızı bildirir. Can't isə bir şeyin doğru olmadığına demək olar ki, əmin olduğumuzu göstərir. Bu modal feillərdən sonra feilin əsas forması gəlir.",
+    "rules": [
+      {
+        "text": "must + base verb = I'm almost sure it's true: She must be tired. She worked all night.",
+        "translation": "must + feilin əsas forması = demək olar ki, əminəm ki, doğrudur: She must be tired. She worked all night."
+      },
+      {
+        "text": "might / may / could + base verb = it's possible: It might be Aunt Zarifa's box.",
+        "translation": "might / may / could + feilin əsas forması = mümkündür: It might be Aunt Zarifa's box."
+      },
+      {
+        "text": "can't + base verb = I'm almost sure it isn't true: It can't be Murad. He was asleep.",
+        "translation": "can't + feilin əsas forması = demək olar ki, əminəm ki, doğru deyil: It can't be Murad. He was asleep."
+      },
+      {
+        "text": "Don't use mustn't for deduction. The opposite of must is can't: He must be at home. → He can't be at home.",
+        "translation": "Ehtimal bildirəndə mustn't işlədilmir. Must-un əksi can't-dır: He must be at home. → He can't be at home."
+      },
+      {
+        "text": "For an action happening now, use modal + be + -ing: He must be sleeping.",
+        "translation": "İndi baş verən hərəkət üçün modal + be + -ing işlədin: He must be sleeping."
+      }
+    ],
+    "examples": [
+      {
+        "text": "That's not my handwriting, so the note must be from someone else.",
+        "translation": "Bu, mənim xəttim deyil, deməli qeyd başqa birindəndir."
+      },
+      {
+        "text": "The box looks very old. It might belong to an old neighbor.",
+        "translation": "Qutu çox köhnə görünür. Bəlkə də köhnə bir qonşuya aiddir."
+      },
+      {
+        "text": "It can't be a joke. Nobody plays jokes with an old key.",
+        "translation": "Bu, zarafat ola bilməz. Heç kim köhnə açarla zarafat etməz."
+      },
+      {
+        "text": "Murad is yawning. He must be very sleepy.",
+        "translation": "Murad əsnəyir. Yəqin ki, çox yuxuludur."
+      },
+      {
+        "text": "I'm puzzled. Someone could be watching my balcony.",
+        "translation": "Çaşmışam. Kimsə eyvanımı izləyə bilər."
+      }
+    ],
+    "exercise": {
+      "instructions": "Choose or write the correct modal verb.",
+      "instructionsTranslation": "Düzgün modal feili seçin və ya yazın.",
+      "questions": [
+        {
+          "type": "choice",
+          "prompt": "Kamran is laughing at his phone. He ___ be reading a funny post.",
+          "promptTranslation": "Kamran telefonuna baxıb gülür. Yəqin ki, gülməli bir paylaşım oxuyur.",
+          "options": [
+            "must",
+            "can't",
+            "mustn't"
+          ],
+          "answer": "must",
+          "explanation": "We are almost sure, so we use must.",
+          "explanationTranslation": "Demək olar ki, əminik, ona görə must işlədilir."
+        },
+        {
+          "type": "choice",
+          "prompt": "That ___ be Aunt Zarifa. She is in Ganja this week.",
+          "promptTranslation": "O, Zərifə xala ola bilməz. Bu həftə o, Gəncədədir.",
+          "options": [
+            "must",
+            "might",
+            "can't"
+          ],
+          "answer": "can't",
+          "explanation": "We are sure it isn't true, so we use can't.",
+          "explanationTranslation": "Bunun doğru olmadığına əminik, ona görə can't işlədilir."
+        },
+        {
+          "type": "choice",
+          "prompt": "I'm not sure where Murad is. He ___ be in the basement.",
+          "promptTranslation": "Muradın harada olduğunu dəqiq bilmirəm. Bəlkə də zirzəmidədir.",
+          "options": [
+            "might",
+            "can't",
+            "must"
+          ],
+          "answer": "might",
+          "explanation": "We are not sure, so we use might.",
+          "explanationTranslation": "Əmin deyilik, ona görə might işlədilir."
+        },
+        {
+          "type": "text",
+          "prompt": "This key is very old. It ___ (almost sure: yes) be from the 1990s.",
+          "promptTranslation": "Bu açar çox köhnədir. Yəqin ki, 1990-cı illərdəndir.",
+          "acceptedAnswers": [],
+          "answer": "must",
+          "explanation": "Must means we are almost sure it is true.",
+          "explanationTranslation": "Must bir şeyin doğru olduğuna demək olar ki, əmin olduğumuzu bildirir."
+        },
+        {
+          "type": "text",
+          "prompt": "You've just eaten a big pizza. You ___ (almost sure: not true) be hungry again!",
+          "promptTranslation": "İndicə böyük bir pizza yedin. Yenə ac ola bilməzsən!",
+          "acceptedAnswers": [
+            "cannot",
+            "can not"
+          ],
+          "answer": "can't",
+          "explanation": "Can't means we are almost sure it isn't true.",
+          "explanationTranslation": "Can't bir şeyin doğru olmadığına demək olar ki, əmin olduğumuzu bildirir."
+        }
+      ]
+    }
+  }
+}
