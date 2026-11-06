@@ -123,6 +123,28 @@
           "text": "Go down to the basement and try the key in room 3."
         }
       ],
+      "chosen": "A"
+    },
+    {
+      "number": 3,
+      "date": "2026-11-06",
+      "title": "Aunt Zarifa's Tea",
+      "summary": "Aunt Zarifa recognizes the key: it belonged to Mr. Bahram, a watchmaker and the former owner of Sevda's apartment, who loved secrets and riddles and moved away when he retired in 1998, promising to leave a hint for the next kind owner. Room 3 in the basement was his workshop and nobody has opened it for years; Sevda needs permission from the building manager, Mr. Tofig. Zarifa gives Sevda an unsigned envelope addressed only to her apartment number.",
+      "cliffhanger": "An envelope with only Sevda's apartment number on it. What should she do?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Open the envelope right now, in front of Aunt Zarifa."
+        },
+        {
+          "id": "B",
+          "text": "Take it home and open it alone."
+        },
+        {
+          "id": "C",
+          "text": "Go to Mr. Tofig first and ask for permission to open room 3."
+        }
+      ],
       "chosen": null
     }
   ]

@@ -1,0 +1,85 @@
+{
+  "format": "story",
+  "speakers": {
+    "1-1": "Aunt Zarifa",
+    "1-2": "Aunt Zarifa",
+    "1-3": "Aunt Zarifa",
+    "2-1": "Aunt Zarifa",
+    "2-2": "Aunt Zarifa",
+    "2-4": "Sevda",
+    "3-2": "Aunt Zarifa",
+    "3-3": "Aunt Zarifa",
+    "3-5": "Aunt Zarifa"
+  },
+  "episode": {
+    "number": 3,
+    "title": "Aunt Zarifa's Tea",
+    "recap": "Sevda eyvanında “Zirzəmi, 3 nömrəli otaq” etiketli köhnə bir açar tapdı. Dünən seçim edilmədi, ona görə Sevda birinci variantla gedir: açarı Zərifə xalaya göstərir.",
+    "cliffhanger": "Aunt Zarifa gives Sevda an envelope with only her apartment number on it. What should Sevda do?",
+    "cliffhangerAz": "Zərifə xala Sevdaya üstündə yalnız mənzilinin nömrəsi olan bir zərf verir. Sevda nə etsin?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Open the envelope right now, in front of Aunt Zarifa.",
+        "textAz": "Zərfi elə indi, Zərifə xalanın yanında açsın."
+      },
+      {
+        "id": "B",
+        "text": "Take it home and open it alone.",
+        "textAz": "Onu evə aparıb tək açsın."
+      },
+      {
+        "id": "C",
+        "text": "Go to Mr. Tofig first and ask for permission to open room 3.",
+        "textAz": "Əvvəlcə Tofiq bəyin yanına gedib 3 nömrəli otağı açmaq üçün icazə istəsin."
+      }
+    ],
+    "next": "Epizod 4: zərfin içində nə var? Sabah həm də həftənin boss testi."
+  },
+  "comprehension": [
+    {
+      "question": "Who did the key belong to?",
+      "options": [
+        "Mr. Bahram, the former owner of Sevda's apartment.",
+        "Murad's grandfather.",
+        "Aunt Zarifa's husband."
+      ],
+      "answer": "Mr. Bahram, the former owner of Sevda's apartment.",
+      "explanation": "Açar Sevdanın mənzilinin keçmiş sahibi Bəhram müəllimə məxsus idi.",
+      "after": 1
+    },
+    {
+      "question": "Why did Mr. Bahram leave the building?",
+      "options": [
+        "He retired and moved away to live with his daughter.",
+        "He lost his job.",
+        "He didn't like his neighbors."
+      ],
+      "answer": "He retired and moved away to live with his daughter.",
+      "explanation": "1998-ci ildə təqaüdə çıxıb qızının yanına köçdü.",
+      "after": 2
+    },
+    {
+      "question": "What does Sevda need before she goes into room 3?",
+      "options": [
+        "Permission from the building manager.",
+        "A new key from the locksmith.",
+        "A letter from Mr. Bahram."
+      ],
+      "answer": "Permission from the building manager.",
+      "explanation": "İçəri girməzdən əvvəl bina müdiri Tofiq bəydən icazə almalıdır.",
+      "after": 3
+    }
+  ],
+  "mission": {
+    "text": "Write 2-3 sentences: what did someone ask you today? Report their questions, for example: “My colleague asked me if I wanted coffee.” Use at least two of these words.",
+    "textAz": "Bu gün kimsə səndən nə soruşdu? 2-3 cümlə ilə həmin sualları dolayı nitqlə yaz, məsələn: “My colleague asked me if I wanted coffee.” Bu sözlərdən ən azı ikisini işlət.",
+    "words": [
+      "insist",
+      "permission",
+      "secret",
+      "sip"
+    ]
+  },
+  "feedback": null
+}

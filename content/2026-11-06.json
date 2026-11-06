@@ -1,0 +1,1011 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-06",
+  "level": "B1",
+  "translationLanguage": "az",
+  "words": [
+    {
+      "word": "workshop",
+      "ipa": "/ˈwɜːrkʃɑːp/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "emalatxana; seminar",
+          "definition": "a room where people make or repair things; also a short class where people learn a skill",
+          "synonyms": [
+            "studio",
+            "seminar"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "My uncle has a small workshop in his garage.",
+              "translation": "Əmimin qarajında kiçik bir emalatxanası var."
+            },
+            {
+              "text": "I went to a photography workshop last weekend.",
+              "translation": "Keçən həftə sonu fotoqrafiya seminarına getdim."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "retire",
+      "ipa": "/rɪˈtaɪər/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "təqaüdə çıxmaq",
+          "definition": "to stop working, usually because you have reached a certain age",
+          "synonyms": [
+            "stop working"
+          ],
+          "antonyms": [
+            "work"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "My father retired at the age of sixty-five.",
+              "translation": "Atam altmış beş yaşında təqaüdə çıxdı."
+            },
+            {
+              "text": "When she retires, she wants to live by the sea.",
+              "translation": "Təqaüdə çıxanda o, dəniz kənarında yaşamaq istəyir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "secret",
+      "ipa": "/ˈsiːkrət/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "sirr",
+          "definition": "something that you know but do not tell other people",
+          "synonyms": [
+            "mystery"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Can you keep a secret?",
+              "translation": "Sirr saxlaya bilirsən?"
+            },
+            {
+              "text": "The secret of her success is hard work.",
+              "translation": "Onun uğurunun sirri zəhmətdir."
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "adjective",
+          "translation": "gizli",
+          "definition": "known only by a few people",
+          "synonyms": [
+            "hidden",
+            "private"
+          ],
+          "antonyms": [
+            "public",
+            "open"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "They had a secret meeting after work.",
+              "translation": "İşdən sonra onların gizli görüşü oldu."
+            },
+            {
+              "text": "Is there a secret door in this old house?",
+              "translation": "Bu köhnə evdə gizli qapı var?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "nod",
+      "ipa": "/nɑːd/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "başını tərpətmək (razılıq bildirmək)",
+          "definition": "to move your head down and up, to say yes or hello",
+          "synonyms": [],
+          "antonyms": [
+            "shake your head"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "She nodded and smiled at me.",
+              "translation": "O, başını tərpədib mənə gülümsədi."
+            },
+            {
+              "text": "If you agree, just nod.",
+              "translation": "Razısansa, sadəcə başını tərpət."
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "noun",
+          "translation": "baş işarəsi",
+          "definition": "a quick movement of the head down and up",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "He gave me a friendly nod from across the room.",
+              "translation": "O, otağın o biri başından mənə səmimi baş işarəsi etdi."
+            },
+            {
+              "text": "With a small nod, the teacher let us start.",
+              "translation": "Müəllim kiçik bir baş işarəsi ilə başlamağımıza icazə verdi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "permission",
+      "ipa": "/pərˈmɪʃən/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "icazə",
+          "definition": "the act of allowing someone to do something",
+          "synonyms": [
+            "approval",
+            "consent"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "You need permission to park here.",
+              "translation": "Burada maşın saxlamaq üçün icazə lazımdır."
+            },
+            {
+              "text": "She asked her boss for permission to leave early.",
+              "translation": "O, tez çıxmaq üçün müdirindən icazə istədi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "rusty",
+      "ipa": "/ˈrʌsti/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "paslı; (bacarıq) zəifləmiş",
+          "definition": "covered with rust, the red-brown marks on old metal; also not as good as before because you have not practiced",
+          "synonyms": [],
+          "antonyms": [
+            "shiny"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The gate was old and rusty.",
+              "translation": "Darvaza köhnə və paslı idi."
+            },
+            {
+              "text": "My French is a bit rusty.",
+              "translation": "Fransız dilim bir az zəifləyib."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "dusty",
+      "ipa": "/ˈdʌsti/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "tozlu",
+          "definition": "covered with dust, very small pieces of dirt",
+          "synonyms": [
+            "dirty"
+          ],
+          "antonyms": [
+            "clean"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The old books on the shelf were dusty.",
+              "translation": "Rəfdəki köhnə kitablar tozlu idi."
+            },
+            {
+              "text": "We drove along a dusty road to the village.",
+              "translation": "Kəndə tozlu bir yolla getdik."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hint",
+      "ipa": "/hɪnt/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "işarə, eyham",
+          "definition": "a small piece of information that helps you guess something",
+          "synonyms": [
+            "clue",
+            "tip"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Give me a hint, please!",
+              "translation": "Zəhmət olmasa, mənə bir işarə ver!"
+            },
+            {
+              "text": "She gave me a hint about my birthday present.",
+              "translation": "O, ad günü hədiyyəm haqqında mənə eyham vurdu."
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "verb",
+          "translation": "eyham vurmaq",
+          "definition": "to say something in an indirect way",
+          "synonyms": [
+            "suggest"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "He hinted that he might change jobs.",
+              "translation": "O, iş dəyişə biləcəyinə eyham vurdu."
+            },
+            {
+              "text": "She didn't say it directly, but she hinted at it.",
+              "translation": "O, bunu açıq demədi, amma eyham vurdu."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "former",
+      "ipa": "/ˈfɔːrmər/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "keçmiş, əvvəlki",
+          "definition": "existing or being something in the past, but not now",
+          "synonyms": [
+            "previous"
+          ],
+          "antonyms": [
+            "current",
+            "present"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "He met his former teacher at the airport.",
+              "translation": "O, hava limanında keçmiş müəllimi ilə rastlaşdı."
+            },
+            {
+              "text": "The former owner of the café still visits every week.",
+              "translation": "Kafenin əvvəlki sahibi hələ də hər həftə gəlir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sip",
+      "ipa": "/sɪp/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "qurtum",
+          "definition": "a very small amount of a drink",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Can I have a sip of your coffee?",
+              "translation": "Qəhvəndən bir qurtum içə bilərəm?"
+            },
+            {
+              "text": "She took a sip and smiled.",
+              "translation": "O, bir qurtum içib gülümsədi."
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "verb",
+          "translation": "qurtum-qurtum içmək",
+          "definition": "to drink slowly, taking small amounts",
+          "synonyms": [],
+          "antonyms": [
+            "gulp"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "We sat on the balcony, sipping tea.",
+              "translation": "Eyvanda oturub qurtum-qurtum çay içirdik."
+            },
+            {
+              "text": "He sipped his water slowly.",
+              "translation": "O, suyunu yavaş-yavaş qurtumladı."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "tray",
+      "ipa": "/treɪ/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "sini, podnos",
+          "definition": "a flat object with low edges, used for carrying food or drinks",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The waiter brought our drinks on a tray.",
+              "translation": "Ofisiant içkilərimizi sinidə gətirdi."
+            },
+            {
+              "text": "She put the cups back on the tray.",
+              "translation": "O, fincanları yenidən sininin üstünə qoydu."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "insist",
+      "ipa": "/ɪnˈsɪst/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "israr etmək",
+          "definition": "to say firmly that something must happen or is true",
+          "synonyms": [
+            "demand"
+          ],
+          "antonyms": [
+            "give up"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "My mother insisted on driving me to the station.",
+              "translation": "Anam məni vağzala aparmaqda israr etdi."
+            },
+            {
+              "text": "He insists that he is right.",
+              "translation": "O, haqlı olduğunu israrla deyir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "stare",
+      "ipa": "/stɛr/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "gözünü zilləmək, baxıb qalmaq",
+          "definition": "to look at someone or something for a long time",
+          "synonyms": [
+            "gaze",
+            "look"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Why are you staring at me?",
+              "translation": "Niyə mənə gözünü zilləmisən?"
+            },
+            {
+              "text": "She stared out of the window for an hour.",
+              "translation": "O, bir saat pəncərədən baxıb qaldı."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "move away",
+      "ipa": "/ˌmuːv əˈweɪ/",
+      "senses": [
+        {
+          "partOfSpeech": "phrasal verb",
+          "translation": "köçüb getmək",
+          "definition": "to go to live in a different place",
+          "synonyms": [
+            "relocate",
+            "leave"
+          ],
+          "antonyms": [
+            "stay"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Our best friends moved away last year.",
+              "translation": "Ən yaxın dostlarımız keçən il köçüb getdilər."
+            },
+            {
+              "text": "I don't want to move away from my family.",
+              "translation": "Ailəmdən uzağa köçmək istəmirəm."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "envelope",
+      "ipa": "/ˈɛnvəloʊp/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "zərf",
+          "definition": "a flat paper cover that you put a letter in",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "She put the letter in an envelope.",
+              "translation": "O, məktubu zərfə qoydu."
+            },
+            {
+              "text": "Write the address on the envelope.",
+              "translation": "Ünvanı zərfin üstünə yaz."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "story": {
+    "title": "Aunt Zarifa's Tea",
+    "titleTranslation": "Zərifə xalanın çayı",
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "After she found the old key on her balcony, Sevda decided to visit Aunt Zarifa on the first floor.",
+            "translation": "Eyvanında köhnə açarı tapandan sonra Sevda birinci mərtəbədə yaşayan Zərifə xalanın yanına getməyə qərar verdi."
+          },
+          {
+            "text": "Aunt Zarifa opened the door with a big smile and insisted on making tea.",
+            "translation": "Zərifə xala geniş təbəssümlə qapını açdı və çay dəmləməkdə israr etdi."
+          },
+          {
+            "text": "She came back from the kitchen with a tray of tea, lemon and homemade jam.",
+            "translation": "O, mətbəxdən çay, limon və ev mürəbbəsi olan bir sini ilə qayıtdı."
+          },
+          {
+            "text": "Sevda took a sip, then showed her the wooden box.",
+            "translation": "Sevda bir qurtum içdi, sonra ona taxta qutunu göstərdi."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Aunt Zarifa stared at the key for a long time.",
+            "translation": "Zərifə xala uzun müddət açara gözünü zillədi."
+          },
+          {
+            "text": "“I know this key,” she said quietly. “It belonged to Mr. Bahram, the former owner of your apartment.”",
+            "translation": "“Mən bu açarı tanıyıram,” – deyə o, sakitcə dedi. “Bu, sənin mənzilinin keçmiş sahibi Bəhram müəllimə məxsus idi.”"
+          },
+          {
+            "text": "“He was a watchmaker, and he would spend every evening in his little workshop in the basement.”",
+            "translation": "“O, saatsaz idi və hər axşamını zirzəmidəki kiçik emalatxanasında keçirərdi.”"
+          },
+          {
+            "text": "“He would fix everyone's clocks for free, and he loved secrets and riddles.”",
+            "translation": "“Hamının saatlarını pulsuz təmir edərdi, sirləri və tapmacaları da çox sevərdi.”"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Sevda asked her why Mr. Bahram had left the building.",
+            "translation": "Sevda ondan Bəhram müəllimin binadan niyə getdiyini soruşdu."
+          },
+          {
+            "text": "“When he retired in 1998, he moved away to live with his daughter in another city,” Aunt Zarifa said.",
+            "translation": "“1998-ci ildə təqaüdə çıxanda başqa şəhərdə yaşayan qızının yanına köçüb getdi,” – deyə Zərifə xala cavab verdi."
+          },
+          {
+            "text": "“Before he left, he told me that one day a kind person would live in his apartment, and he would leave them a little hint.”",
+            "translation": "“Getməzdən əvvəl mənə dedi ki, bir gün onun mənzilində mehriban bir insan yaşayacaq və o, həmin insana kiçik bir işarə qoyacaq.”"
+          },
+          {
+            "text": "Sevda nodded slowly, but she was still puzzled.",
+            "translation": "Sevda yavaş-yavaş başını tərpətdi, amma hələ də çaşqın idi."
+          },
+          {
+            "text": "“But who put the box on my balcony this week?”",
+            "translation": "“Bəs bu həftə qutunu mənim eyvanıma kim qoyub?”"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "She also wanted to know if anyone had opened room 3 since then.",
+            "translation": "O, həmçinin o vaxtdan bəri kiminsə 3 nömrəli otağı açıb-açmadığını bilmək istədi."
+          },
+          {
+            "text": "Aunt Zarifa leaned closer and lowered her voice.",
+            "translation": "Zərifə xala ona tərəf əyildi və səsini alçaltdı."
+          },
+          {
+            "text": "“Nobody has opened it for years. It must be very dusty, and the lock is probably rusty.”",
+            "translation": "“Neçə illərdir heç kim onu açmayıb. Yəqin ki, içini toz basıb, qıfıl da çox güman paslanıb.”"
+          },
+          {
+            "text": "“And you will need permission from the building manager, Mr. Tofig, before you go in.”",
+            "translation": "“Bir də içəri girməzdən əvvəl bina müdiri Tofiq bəydən icazə almalısan.”"
+          },
+          {
+            "text": "Then she took an old envelope out of a drawer.",
+            "translation": "Sonra o, çekməcədən köhnə bir zərf çıxardı."
+          },
+          {
+            "text": "“This came for you yesterday,” she said. “There's no name on it, only your apartment number.”",
+            "translation": "“Bu, dünən sənin üçün gəlib,” – dedi. “Üstündə ad yoxdur, yalnız sənin mənzilinin nömrəsi var.”"
+          }
+        ]
+      }
+    ],
+    "glossary": [
+      {
+        "term": "decided",
+        "lemma": "decide",
+        "partOfSpeech": "verb",
+        "meaning": "made a choice",
+        "translation": "qərar verdi"
+      },
+      {
+        "term": "first floor",
+        "lemma": "first floor",
+        "partOfSpeech": "phrase",
+        "meaning": "the floor at street level",
+        "translation": "birinci mərtəbə"
+      },
+      {
+        "term": "with a big smile",
+        "lemma": "with a big smile",
+        "partOfSpeech": "phrase",
+        "meaning": "smiling widely",
+        "translation": "geniş təbəssümlə"
+      },
+      {
+        "term": "insisted on",
+        "lemma": "insist",
+        "partOfSpeech": "verb",
+        "meaning": "said firmly that she wanted to do it",
+        "translation": "israr etdi"
+      },
+      {
+        "term": "making tea",
+        "lemma": "make tea",
+        "partOfSpeech": "phrase",
+        "meaning": "preparing tea",
+        "translation": "çay dəmləmək"
+      },
+      {
+        "term": "came back",
+        "lemma": "come back",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "returned",
+        "translation": "qayıtdı"
+      },
+      {
+        "term": "tray",
+        "lemma": "tray",
+        "partOfSpeech": "noun",
+        "meaning": "a flat object for carrying cups and plates",
+        "translation": "sini"
+      },
+      {
+        "term": "homemade jam",
+        "lemma": "homemade jam",
+        "partOfSpeech": "phrase",
+        "meaning": "sweet fruit food made at home",
+        "translation": "ev mürəbbəsi"
+      },
+      {
+        "term": "sip",
+        "lemma": "sip",
+        "partOfSpeech": "noun",
+        "meaning": "a very small amount of a drink",
+        "translation": "qurtum"
+      },
+      {
+        "term": "wooden box",
+        "lemma": "wooden box",
+        "partOfSpeech": "phrase",
+        "meaning": "a box made of wood",
+        "translation": "taxta qutu"
+      },
+      {
+        "term": "stared at",
+        "lemma": "stare",
+        "partOfSpeech": "verb",
+        "meaning": "looked at something for a long time",
+        "translation": "gözünü zillədi"
+      },
+      {
+        "term": "for a long time",
+        "lemma": "for a long time",
+        "partOfSpeech": "phrase",
+        "meaning": "during many minutes or years",
+        "translation": "uzun müddət"
+      },
+      {
+        "term": "quietly",
+        "lemma": "quietly",
+        "partOfSpeech": "adverb",
+        "meaning": "in a soft voice",
+        "translation": "sakitcə"
+      },
+      {
+        "term": "belonged to",
+        "lemma": "belong",
+        "partOfSpeech": "verb",
+        "meaning": "was the property of",
+        "translation": "məxsus idi"
+      },
+      {
+        "term": "former",
+        "lemma": "former",
+        "partOfSpeech": "adjective",
+        "meaning": "in the past, but not now",
+        "translation": "keçmiş"
+      },
+      {
+        "term": "owner",
+        "lemma": "owner",
+        "partOfSpeech": "noun",
+        "meaning": "the person who has something",
+        "translation": "sahib"
+      },
+      {
+        "term": "watchmaker",
+        "lemma": "watchmaker",
+        "partOfSpeech": "noun",
+        "meaning": "a person who makes and repairs watches and clocks",
+        "translation": "saatsaz"
+      },
+      {
+        "term": "would spend",
+        "lemma": "would",
+        "partOfSpeech": "verb",
+        "meaning": "used to talk about a repeated action in the past",
+        "translation": "keçirərdi"
+      },
+      {
+        "term": "workshop",
+        "lemma": "workshop",
+        "partOfSpeech": "noun",
+        "meaning": "a room where someone makes or repairs things",
+        "translation": "emalatxana"
+      },
+      {
+        "term": "basement",
+        "lemma": "basement",
+        "partOfSpeech": "noun",
+        "meaning": "the floor under the ground",
+        "translation": "zirzəmi"
+      },
+      {
+        "term": "fix",
+        "lemma": "fix",
+        "partOfSpeech": "verb",
+        "meaning": "to repair",
+        "translation": "təmir etmək"
+      },
+      {
+        "term": "for free",
+        "lemma": "for free",
+        "partOfSpeech": "phrase",
+        "meaning": "without asking for money",
+        "translation": "pulsuz"
+      },
+      {
+        "term": "secrets",
+        "lemma": "secret",
+        "partOfSpeech": "noun",
+        "meaning": "things that other people do not know",
+        "translation": "sirlər"
+      },
+      {
+        "term": "riddles",
+        "lemma": "riddle",
+        "partOfSpeech": "noun",
+        "meaning": "funny or difficult questions that you must guess",
+        "translation": "tapmacalar"
+      },
+      {
+        "term": "asked her why",
+        "lemma": "ask why",
+        "partOfSpeech": "phrase",
+        "meaning": "asked a question about the reason",
+        "translation": "ondan niyə ... soruşdu"
+      },
+      {
+        "term": "retired",
+        "lemma": "retire",
+        "partOfSpeech": "verb",
+        "meaning": "stopped working because of age",
+        "translation": "təqaüdə çıxdı"
+      },
+      {
+        "term": "moved away",
+        "lemma": "move away",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "went to live in another place",
+        "translation": "köçüb getdi"
+      },
+      {
+        "term": "kind",
+        "lemma": "kind",
+        "partOfSpeech": "adjective",
+        "meaning": "friendly and caring",
+        "translation": "mehriban"
+      },
+      {
+        "term": "hint",
+        "lemma": "hint",
+        "partOfSpeech": "noun",
+        "meaning": "a small piece of help to guess something",
+        "translation": "işarə"
+      },
+      {
+        "term": "nodded",
+        "lemma": "nod",
+        "partOfSpeech": "verb",
+        "meaning": "moved her head down and up",
+        "translation": "başını tərpətdi"
+      },
+      {
+        "term": "puzzled",
+        "lemma": "puzzled",
+        "partOfSpeech": "adjective",
+        "meaning": "confused",
+        "translation": "çaşqın"
+      },
+      {
+        "term": "wanted to know if",
+        "lemma": "want to know if",
+        "partOfSpeech": "phrase",
+        "meaning": "asked whether",
+        "translation": "...-ıb-ımadığını bilmək istədi"
+      },
+      {
+        "term": "since then",
+        "lemma": "since then",
+        "partOfSpeech": "phrase",
+        "meaning": "from that time until now",
+        "translation": "o vaxtdan bəri"
+      },
+      {
+        "term": "leaned closer",
+        "lemma": "lean",
+        "partOfSpeech": "verb",
+        "meaning": "moved her body nearer",
+        "translation": "ona tərəf əyildi"
+      },
+      {
+        "term": "lowered her voice",
+        "lemma": "lower your voice",
+        "partOfSpeech": "phrase",
+        "meaning": "started to speak more quietly",
+        "translation": "səsini alçaltdı"
+      },
+      {
+        "term": "for years",
+        "lemma": "for years",
+        "partOfSpeech": "phrase",
+        "meaning": "during many years",
+        "translation": "illərdir"
+      },
+      {
+        "term": "dusty",
+        "lemma": "dusty",
+        "partOfSpeech": "adjective",
+        "meaning": "covered with dust",
+        "translation": "tozlu"
+      },
+      {
+        "term": "rusty",
+        "lemma": "rusty",
+        "partOfSpeech": "adjective",
+        "meaning": "covered with red-brown marks from age",
+        "translation": "paslı"
+      },
+      {
+        "term": "probably",
+        "lemma": "probably",
+        "partOfSpeech": "adverb",
+        "meaning": "very likely",
+        "translation": "çox güman"
+      },
+      {
+        "term": "permission",
+        "lemma": "permission",
+        "partOfSpeech": "noun",
+        "meaning": "when someone allows you to do something",
+        "translation": "icazə"
+      },
+      {
+        "term": "building manager",
+        "lemma": "building manager",
+        "partOfSpeech": "noun",
+        "meaning": "the person who takes care of a building",
+        "translation": "bina müdiri"
+      },
+      {
+        "term": "envelope",
+        "lemma": "envelope",
+        "partOfSpeech": "noun",
+        "meaning": "a paper cover for a letter",
+        "translation": "zərf"
+      },
+      {
+        "term": "drawer",
+        "lemma": "drawer",
+        "partOfSpeech": "noun",
+        "meaning": "a box in a piece of furniture that slides in and out",
+        "translation": "çekməcə"
+      },
+      {
+        "term": "apartment number",
+        "lemma": "apartment number",
+        "partOfSpeech": "phrase",
+        "meaning": "the number of a home in a building",
+        "translation": "mənzilin nömrəsi"
+      }
+    ]
+  },
+  "grammar": {
+    "topic": "Reported speech: questions",
+    "topicTranslation": "Dolayı nitq: suallar",
+    "explanation": "When we report a question, we change it into a normal sentence: the subject comes before the verb, and we don't use do, does or did. For yes/no questions, we use if or whether. For wh- questions, we keep the question word (what, where, why, who...). As with reported statements, the tense usually moves one step back after a past verb like asked or wanted to know, and there is no question mark.",
+    "explanationTranslation": "Sualı dolayı nitqə çevirəndə onu adi cümləyə çeviririk: mübtəda feildən əvvəl gəlir və do, does, did işlədilmir. Bəli/xeyr suallarında if və ya whether işlədilir. Xüsusi suallarda sual sözü (what, where, why, who...) saxlanılır. Dolayı nəqli cümlələrdə olduğu kimi, asked və ya wanted to know kimi keçmiş zamanda olan feildən sonra zaman adətən bir pillə geri çəkilir və sual işarəsi qoyulmur.",
+    "rules": [
+      {
+        "text": "Wh- questions: asked + question word + subject + verb: “Where do you live?” → She asked where I lived.",
+        "translation": "Xüsusi suallar: asked + sual sözü + mübtəda + feil: “Where do you live?” → She asked where I lived."
+      },
+      {
+        "text": "Yes/no questions: asked + if/whether + subject + verb: “Are you tired?” → He asked if I was tired.",
+        "translation": "Bəli/xeyr sualları: asked + if/whether + mübtəda + feil: “Are you tired?” → He asked if I was tired."
+      },
+      {
+        "text": "Don't use do/does/did: “Why did he leave?” → She asked why he had left (not why did he leave).",
+        "translation": "Do/does/did işlədilmir: “Why did he leave?” → She asked why he had left (why did he leave yox)."
+      },
+      {
+        "text": "Tenses move back: present → past, past → past perfect, will → would, can → could.",
+        "translation": "Zamanlar geri çəkilir: present → past, past → past perfect, will → would, can → could."
+      },
+      {
+        "text": "There is no question mark at the end: He asked if I could help.",
+        "translation": "Cümlənin sonunda sual işarəsi qoyulmur: He asked if I could help."
+      }
+    ],
+    "examples": [
+      {
+        "text": "“Why did Mr. Bahram leave?” → Sevda asked why Mr. Bahram had left.",
+        "translation": "“Bəhram müəllim niyə getdi?” → Sevda Bəhram müəllimin niyə getdiyini soruşdu."
+      },
+      {
+        "text": "“Do you know this key?” → She asked if Aunt Zarifa knew the key.",
+        "translation": "“Bu açarı tanıyırsınız?” → O, Zərifə xaladan açarı tanıyıb-tanımadığını soruşdu."
+      },
+      {
+        "text": "“Can I open room 3?” → Sevda asked whether she could open room 3.",
+        "translation": "“3 nömrəli otağı aça bilərəm?” → Sevda 3 nömrəli otağı aça bilib-bilməyəcəyini soruşdu."
+      },
+      {
+        "text": "“Where is the building manager?” → I asked where the building manager was.",
+        "translation": "“Bina müdiri haradadır?” → Bina müdirinin harada olduğunu soruşdum."
+      },
+      {
+        "text": "My neighbor asked me if I wanted some tea.",
+        "translation": "Qonşum məndən çay istəyib-istəmədiyimi soruşdu."
+      }
+    ],
+    "exercise": {
+      "instructions": "Choose or write the correct form.",
+      "instructionsTranslation": "Düzgün formanı seçin və ya yazın.",
+      "questions": [
+        {
+          "type": "choice",
+          "prompt": "“Where do you work?” → He asked me where I ___.",
+          "promptTranslation": "“Harada işləyirsən?” → O, məndən harada işlədiyimi soruşdu.",
+          "options": [
+            "worked",
+            "do work",
+            "did I work"
+          ],
+          "answer": "worked",
+          "explanation": "No do/does/did, and the tense moves back: work → worked.",
+          "explanationTranslation": "Do/does/did işlədilmir və zaman geri çəkilir: work → worked."
+        },
+        {
+          "type": "choice",
+          "prompt": "“Are you hungry?” → She asked ___ I was hungry.",
+          "promptTranslation": "“Acsan?” → O, ac olub-olmadığımı soruşdu.",
+          "options": [
+            "if",
+            "that",
+            "what"
+          ],
+          "answer": "if",
+          "explanation": "Yes/no questions are reported with if or whether.",
+          "explanationTranslation": "Bəli/xeyr sualları if və ya whether ilə ötürülür."
+        },
+        {
+          "type": "choice",
+          "prompt": "“What did you buy?” → They asked me what I ___.",
+          "promptTranslation": "“Nə aldın?” → Onlar məndən nə aldığımı soruşdular.",
+          "options": [
+            "had bought",
+            "did buy",
+            "bought did"
+          ],
+          "answer": "had bought",
+          "explanation": "The past simple moves back to the past perfect.",
+          "explanationTranslation": "Past simple past perfect-ə çevrilir."
+        },
+        {
+          "type": "text",
+          "prompt": "“Can you help me?” → He asked if I ___ (can) help him.",
+          "promptTranslation": "“Mənə kömək edə bilərsən?” → O, ona kömək edə bilib-bilməyəcəyimi soruşdu.",
+          "acceptedAnswers": [],
+          "answer": "could",
+          "explanation": "Can moves back to could.",
+          "explanationTranslation": "Can could-a çevrilir."
+        },
+        {
+          "type": "text",
+          "prompt": "“Will you come tomorrow?” → She asked whether I ___ (will) come the next day.",
+          "promptTranslation": "“Sabah gələcəksən?” → O, ertəsi gün gəlib-gəlməyəcəyimi soruşdu.",
+          "acceptedAnswers": [],
+          "answer": "would",
+          "explanation": "Will moves back to would.",
+          "explanationTranslation": "Will would-a çevrilir."
+        }
+      ]
+    }
+  }
+}
