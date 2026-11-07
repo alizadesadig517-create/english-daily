@@ -1,0 +1,79 @@
+{
+  "format": "boss",
+  "speakers": {
+    "1-3": "Aunt Zarifa",
+    "2-0": "Sevda",
+    "2-1": "Aunt Zarifa"
+  },
+  "episode": {
+    "number": 4,
+    "title": "The Clock That Never Moves",
+    "recap": "Zərifə xala Sevdaya üstündə yalnız mənzilinin nömrəsi olan bir zərf verdi. Dünən seçim edilmədi, ona görə Sevda birinci variantla gedir: zərfi elə oradaca açır.",
+    "cliffhanger": "The riddle says: “Find the clock that never moves, and the door will open.” The lobby clock has been stuck for years. What should Sevda do?",
+    "cliffhangerAz": "Tapmacada deyilir: “Heç vaxt tərpənməyən saatı tap, qapı açılacaq.” Vestibüldəki saat illərdir dayanıb. Sevda nə etsin?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Check the old clock in the lobby right away.",
+        "textAz": "Dərhal vestibüldəki köhnə saatı yoxlasın."
+      },
+      {
+        "id": "B",
+        "text": "Ask Mr. Tofig for permission and open room 3 first.",
+        "textAz": "Tofiq bəydən icazə alıb əvvəlcə 3 nömrəli otağı açsın."
+      },
+      {
+        "id": "C",
+        "text": "Show the riddle to Murad. He knows everyone in the building.",
+        "textAz": "Tapmacanı Murada göstərsin. O, binada hamını tanıyır."
+      }
+    ],
+    "next": "Epizod 5: saatın arxasında nə gizlənib? Bu gün həm də həftənin boss testi var!"
+  },
+  "comprehension": [
+    {
+      "question": "What did the riddle say?",
+      "options": [
+        "Find the clock that never moves, and the door will open.",
+        "Open room 3 at midnight.",
+        "Ask Murad for the key."
+      ],
+      "answer": "Find the clock that never moves, and the door will open.",
+      "explanation": "Tapmacada yazılıb: “Heç vaxt tərpənməyən saatı tap, qapı açılacaq.”",
+      "after": 0
+    },
+    {
+      "question": "How does Aunt Zarifa know that “B.” is Mr. Bahram?",
+      "options": [
+        "The handwriting is the same as on her old photo.",
+        "Mr. Bahram called her yesterday.",
+        "Murad told her."
+      ],
+      "answer": "The handwriting is the same as on her old photo.",
+      "explanation": "Köhnə şəklin arxasındakı xət tapmacadakı xətlə eynidir.",
+      "after": 1
+    },
+    {
+      "question": "Where was the envelope yesterday morning?",
+      "options": [
+        "In Aunt Zarifa's mailbox.",
+        "Under Sevda's door.",
+        "Behind the lobby clock."
+      ],
+      "answer": "In Aunt Zarifa's mailbox.",
+      "explanation": "Zərf dünən səhər Zərifə xalanın poçt qutusunda idi.",
+      "after": 2
+    }
+  ],
+  "mission": {
+    "text": "Write 2-3 questions you would like to ask Mr. Bahram. Use one subject question (Who ...?) and one object question (What did ...?), and at least two of these words.",
+    "textAz": "Bəhram müəllimə vermək istədiyin 2-3 sual yaz. Bir mübtəda sualı (Who ...?) və bir tamamlıq sualı (What did ...?) işlət, bu sözlərdən ən azı ikisini də istifadə et.",
+    "words": [
+      "riddle",
+      "deliver",
+      "certain",
+      "alive"
+    ]
+  },
+  "feedback": null
+}

@@ -2219,6 +2219,66 @@
     {
       "word": "envelope",
       "date": "2026-11-06"
+    },
+    {
+      "word": "riddle",
+      "date": "2026-11-07"
+    },
+    {
+      "word": "gasp",
+      "date": "2026-11-07"
+    },
+    {
+      "word": "signature",
+      "date": "2026-11-07"
+    },
+    {
+      "word": "faded",
+      "date": "2026-11-07"
+    },
+    {
+      "word": "frame",
+      "date": "2026-11-07"
+    },
+    {
+      "word": "deliver",
+      "date": "2026-11-07"
+    },
+    {
+      "word": "tremble",
+      "date": "2026-11-07"
+    },
+    {
+      "word": "apparently",
+      "date": "2026-11-07"
+    },
+    {
+      "word": "alive",
+      "date": "2026-11-07"
+    },
+    {
+      "word": "lobby",
+      "date": "2026-11-07"
+    },
+    {
+      "word": "stuck",
+      "date": "2026-11-07"
+    },
+    {
+      "word": "pick up",
+      "date": "2026-11-07"
+    },
+    {
+      "word": "certain",
+      "date": "2026-11-07"
+    },
+    {
+      "word": "mailbox",
+      "date": "2026-11-07"
+    },
+    {
+      "word": "unfold",
+      "date": "2026-11-07"
     }
   ],
   "grammarTopics": [
@@ -2369,6 +2429,10 @@
     {
       "topic": "Reported speech: questions",
       "date": "2026-11-06"
+    },
+    {
+      "topic": "Subject and object questions",
+      "date": "2026-11-07"
     }
   ]
 }

@@ -145,6 +145,28 @@
           "text": "Go to Mr. Tofig first and ask for permission to open room 3."
         }
       ],
+      "chosen": "A"
+    },
+    {
+      "number": 4,
+      "date": "2026-11-07",
+      "title": "The Clock That Never Moves",
+      "summary": "Sevda opens the envelope at Aunt Zarifa's: a riddle signed 'B.' says 'Find the clock that never moves, and the door will open.' Zarifa compares it with the back of an old framed photo and is certain it is Mr. Bahram's handwriting, so he must still be alive. The envelope appeared in Zarifa's mailbox very early; Sevda remembers the lobby clock, stuck at a quarter past seven for years.",
+      "cliffhanger": "The lobby clock has been stuck for years. What should Sevda do?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Check the old clock in the lobby right away."
+        },
+        {
+          "id": "B",
+          "text": "Ask Mr. Tofig for permission and open room 3 first."
+        },
+        {
+          "id": "C",
+          "text": "Show the riddle to Murad. He knows everyone in the building."
+        }
+      ],
       "chosen": null
     }
   ]

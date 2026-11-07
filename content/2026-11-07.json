@@ -1,0 +1,856 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-07",
+  "level": "B1",
+  "translationLanguage": "az",
+  "words": [
+    {
+      "word": "riddle",
+      "ipa": "/ˈrɪdl/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "tapmaca",
+          "definition": "a question or a short text with a hidden meaning that you have to guess",
+          "synonyms": [
+            "puzzle",
+            "mystery"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "My grandfather loved telling riddles.",
+              "translation": "Babam tapmaca deməyi çox sevirdi."
+            },
+            {
+              "text": "Can you guess the answer to this riddle?",
+              "translation": "Bu tapmacanın cavabını tapa bilərsən?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "gasp",
+      "ipa": "/ɡæsp/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "təəccübdən nəfəsi kəsilmək",
+          "definition": "to breathe in suddenly and loudly because you are surprised, shocked or in pain",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Everyone gasped when the lights went off.",
+              "translation": "İşıqlar sönəndə hamının nəfəsi kəsildi."
+            },
+            {
+              "text": "She gasped at the beautiful view.",
+              "translation": "Gözəl mənzərəni görəndə onun nəfəsi kəsildi."
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "noun",
+          "translation": "qəfil nəfəs, təəccüb səsi",
+          "definition": "a short, loud breath because of surprise or pain",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "There was a gasp from the audience.",
+              "translation": "Tamaşaçıların arasından təəccüb səsi eşidildi."
+            },
+            {
+              "text": "With a gasp, he dropped his cup.",
+              "translation": "O, qəfildən nəfəsini içinə çəkib fincanı yerə saldı."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "signature",
+      "ipa": "/ˈsɪɡnətʃər/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "imza",
+          "definition": "your name written in your own special way, for example at the end of a letter",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Please put your signature at the bottom of the page.",
+              "translation": "Zəhmət olmasa, səhifənin aşağısında imzanızı qoyun."
+            },
+            {
+              "text": "I can't read the signature on this letter.",
+              "translation": "Bu məktubdakı imzanı oxuya bilmirəm."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "faded",
+      "ipa": "/ˈfeɪdɪd/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "solğun, rəngi getmiş",
+          "definition": "having lost its color or brightness over time",
+          "synonyms": [
+            "pale"
+          ],
+          "antonyms": [
+            "bright",
+            "fresh"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "He was wearing faded blue jeans.",
+              "translation": "Onun əynində rəngi solmuş göy cins şalvar var idi."
+            },
+            {
+              "text": "The old photo was faded and yellow.",
+              "translation": "Köhnə şəkil solğun və saralmış idi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "frame",
+      "ipa": "/freɪm/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "çərçivə",
+          "definition": "a border made of wood, metal or plastic around a picture, a door or a window",
+          "synonyms": [
+            "border"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "She put our wedding photo in a silver frame.",
+              "translation": "O, toy şəklimizi gümüşü çərçivəyə qoydu."
+            },
+            {
+              "text": "The window frame is old and needs paint.",
+              "translation": "Pəncərə çərçivəsi köhnədir, rənglənməlidir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "deliver",
+      "ipa": "/dɪˈlɪvər/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "çatdırmaq, gətirmək",
+          "definition": "to take letters, packages or goods to a person or a place",
+          "synonyms": [
+            "bring"
+          ],
+          "antonyms": [
+            "collect"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The pizza was delivered in twenty minutes.",
+              "translation": "Pizza iyirmi dəqiqəyə çatdırıldı."
+            },
+            {
+              "text": "Who delivers the mail on your street?",
+              "translation": "Sizin küçədə poçtu kim gətirir?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "tremble",
+      "ipa": "/ˈtrɛmbəl/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "titrəmək, əsmək",
+          "definition": "to shake slightly because you are afraid, excited, nervous or cold",
+          "synonyms": [
+            "shake",
+            "shiver"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "My hands were trembling before the interview.",
+              "translation": "Müsahibədən əvvəl əllərim titrəyirdi."
+            },
+            {
+              "text": "Her voice trembled when she said goodbye.",
+              "translation": "Vidalaşanda onun səsi titrədi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "apparently",
+      "ipa": "/əˈpærəntli/",
+      "senses": [
+        {
+          "partOfSpeech": "adverb",
+          "translation": "görünür, deyilənə görə",
+          "definition": "according to what you have heard or read; it seems that",
+          "synonyms": [
+            "seemingly"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Apparently, the shop is closed on Mondays.",
+              "translation": "Deyilənə görə, mağaza bazar ertəsi bağlıdır."
+            },
+            {
+              "text": "He was apparently very angry about it.",
+              "translation": "Görünür, o, buna görə çox əsəbiləşmişdi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "alive",
+      "ipa": "/əˈlaɪv/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "sağ, diri",
+          "definition": "living, not dead",
+          "synonyms": [
+            "living"
+          ],
+          "antonyms": [
+            "dead"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Is your great-grandmother still alive?",
+              "translation": "Nənənin anası hələ sağdır?"
+            },
+            {
+              "text": "The fish was still alive when we bought it.",
+              "translation": "Balığı alanda o, hələ diri idi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "lobby",
+      "ipa": "/ˈlɑːbi/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "vestibül, foye",
+          "definition": "the large area just inside the entrance of a building such as a hotel or an apartment building",
+          "synonyms": [
+            "hall",
+            "entrance hall"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Let's meet in the hotel lobby at six.",
+              "translation": "Saat altıda otelin foyesində görüşək."
+            },
+            {
+              "text": "There are mailboxes in the lobby of our building.",
+              "translation": "Binamızın vestibülündə poçt qutuları var."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "stuck",
+      "ipa": "/stʌk/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "ilişib qalmış, tərpənməyən",
+          "definition": "not able to move, or fixed in one position",
+          "synonyms": [
+            "fixed",
+            "trapped"
+          ],
+          "antonyms": [
+            "free",
+            "loose"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The door is stuck. I can't open it.",
+              "translation": "Qapı ilişib. Onu aça bilmirəm."
+            },
+            {
+              "text": "We were stuck in traffic for an hour.",
+              "translation": "Bir saat tıxacda ilişib qaldıq."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "pick up",
+      "ipa": "/ˌpɪk ˈʌp/",
+      "senses": [
+        {
+          "partOfSpeech": "phrasal verb",
+          "translation": "götürmək, qaldırmaq; (maşınla) gəlib götürmək",
+          "definition": "to lift something from a surface; also to collect someone in a car",
+          "synonyms": [
+            "lift",
+            "collect"
+          ],
+          "antonyms": [
+            "put down"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Please pick up your clothes from the floor.",
+              "translation": "Zəhmət olmasa, paltarlarını yerdən götür."
+            },
+            {
+              "text": "I'll pick up the kids from school at four.",
+              "translation": "Saat dörddə uşaqları məktəbdən götürəcəyəm."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "certain",
+      "ipa": "/ˈsɜːrtn/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "əmin; müəyyən",
+          "definition": "completely sure; also used for a particular thing without saying exactly which",
+          "synonyms": [
+            "sure",
+            "confident"
+          ],
+          "antonyms": [
+            "unsure",
+            "uncertain"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Are you certain that you locked the door?",
+              "translation": "Qapını kilidlədiyinə əminsən?"
+            },
+            {
+              "text": "The museum is free on certain days.",
+              "translation": "Muzeyə müəyyən günlərdə giriş pulsuzdur."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "mailbox",
+      "ipa": "/ˈmeɪlbɑːks/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "poçt qutusu",
+          "definition": "a box where letters are delivered to your home, or where you put letters to send them",
+          "synonyms": [
+            "letterbox"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "I check my mailbox every evening.",
+              "translation": "Hər axşam poçt qutumu yoxlayıram."
+            },
+            {
+              "text": "There was a postcard in the mailbox.",
+              "translation": "Poçt qutusunda bir açıqca var idi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unfold",
+      "ipa": "/ʌnˈfoʊld/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "açmaq (qatlanmış şeyi)",
+          "definition": "to open something that was folded so that it becomes flat",
+          "synonyms": [
+            "open",
+            "spread out"
+          ],
+          "antonyms": [
+            "fold"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "He unfolded the map and looked for the river.",
+              "translation": "O, xəritəni açıb çayı axtardı."
+            },
+            {
+              "text": "She carefully unfolded the old letter.",
+              "translation": "O, köhnə məktubu ehtiyatla açdı."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "story": {
+    "title": "The Clock That Never Moves",
+    "titleTranslation": "Heç vaxt tərpənməyən saat",
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "Sevda couldn't wait, so she opened the envelope right there, at Aunt Zarifa's kitchen table.",
+            "translation": "Sevda səbr edə bilmədi və zərfi elə oradaca, Zərifə xalanın mətbəx masasının arxasında açdı."
+          },
+          {
+            "text": "Her hands were trembling a little as she unfolded the paper inside.",
+            "translation": "İçindəki kağızı açanda əlləri bir az titrəyirdi."
+          },
+          {
+            "text": "It was a short riddle, written in old-fashioned blue ink:",
+            "translation": "Bu, köhnə üslubda göy mürəkkəblə yazılmış qısa bir tapmaca idi:"
+          },
+          {
+            "text": "“Find the clock that never moves, and the door will open.”",
+            "translation": "“Heç vaxt tərpənməyən saatı tap, qapı açılacaq.”"
+          },
+          {
+            "text": "At the bottom, there was a signature: just one letter, “B.”",
+            "translation": "Aşağıda bir imza var idi: cəmi bir hərf – “B.”"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Aunt Zarifa gasped.",
+            "translation": "Zərifə xalanın təəccübdən nəfəsi kəsildi."
+          },
+          {
+            "text": "She picked up an old photo in a wooden frame from the shelf and turned it over.",
+            "translation": "O, rəfdən taxta çərçivədə olan köhnə bir şəkli götürüb arxasını çevirdi."
+          },
+          {
+            "text": "On the back, in faded ink, there was the same handwriting: “To Zarifa, from B.”",
+            "translation": "Arxa tərəfdə solğun mürəkkəblə eyni xətlə yazılmışdı: “Zərifəyə, B.-dən.”"
+          },
+          {
+            "text": "“It's Bahram's handwriting, I'm certain,” she whispered. “So he must still be alive!”",
+            "translation": "“Bu, Bəhramın xəttidir, əminəm,” – deyə pıçıldadı. “Deməli, o, hələ sağdır!”"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "“But who delivered the envelope?” Sevda asked.",
+            "translation": "“Bəs zərfi kim gətirib?” – deyə Sevda soruşdu."
+          },
+          {
+            "text": "“It was in my mailbox yesterday morning,” Aunt Zarifa said. “Apparently, someone came very early, before anyone woke up.”",
+            "translation": "“Dünən səhər poçt qutumda idi,” – deyə Zərifə xala dedi. “Görünür, kimsə çox tezdən, hamı oyanmamış gəlib.”"
+          },
+          {
+            "text": "Then Sevda remembered the big clock in the lobby.",
+            "translation": "Sonra Sevda vestibüldəki böyük saatı xatırladı."
+          },
+          {
+            "text": "Everyone in the building walked past it every day without really looking at it.",
+            "translation": "Binadakı hər kəs hər gün ona diqqətlə baxmadan yanından keçirdi."
+          },
+          {
+            "text": "Its hands had been stuck at a quarter past seven for as long as anyone could remember.",
+            "translation": "Hamının yadında olduğu vaxtdan bəri onun əqrəbləri yeddini on beş dəqiqə keçəndə ilişib qalmışdı."
+          },
+          {
+            "text": "Who sent the riddle, and what is hidden behind the clock?",
+            "translation": "Tapmacanı kim göndərib və saatın arxasında nə gizlənib?"
+          }
+        ]
+      }
+    ],
+    "glossary": [
+      {
+        "term": "couldn't wait",
+        "lemma": "can't wait",
+        "partOfSpeech": "phrase",
+        "meaning": "was too excited to wait",
+        "translation": "səbr edə bilmədi"
+      },
+      {
+        "term": "envelope",
+        "lemma": "envelope",
+        "partOfSpeech": "noun",
+        "meaning": "a paper cover for a letter",
+        "translation": "zərf"
+      },
+      {
+        "term": "right there",
+        "lemma": "right there",
+        "partOfSpeech": "phrase",
+        "meaning": "in exactly that place",
+        "translation": "elə oradaca"
+      },
+      {
+        "term": "trembling",
+        "lemma": "tremble",
+        "partOfSpeech": "verb",
+        "meaning": "shaking a little because of fear or excitement",
+        "translation": "titrəyirdi"
+      },
+      {
+        "term": "unfolded",
+        "lemma": "unfold",
+        "partOfSpeech": "verb",
+        "meaning": "opened something that was folded",
+        "translation": "açdı"
+      },
+      {
+        "term": "riddle",
+        "lemma": "riddle",
+        "partOfSpeech": "noun",
+        "meaning": "a question with a hidden meaning that you must guess",
+        "translation": "tapmaca"
+      },
+      {
+        "term": "old-fashioned",
+        "lemma": "old-fashioned",
+        "partOfSpeech": "adjective",
+        "meaning": "in the style of the past",
+        "translation": "köhnə üslublu"
+      },
+      {
+        "term": "ink",
+        "lemma": "ink",
+        "partOfSpeech": "noun",
+        "meaning": "the colored liquid in a pen",
+        "translation": "mürəkkəb"
+      },
+      {
+        "term": "at the bottom",
+        "lemma": "at the bottom",
+        "partOfSpeech": "phrase",
+        "meaning": "in the lowest part",
+        "translation": "aşağıda"
+      },
+      {
+        "term": "signature",
+        "lemma": "signature",
+        "partOfSpeech": "noun",
+        "meaning": "a name written in a person's own way",
+        "translation": "imza"
+      },
+      {
+        "term": "gasped",
+        "lemma": "gasp",
+        "partOfSpeech": "verb",
+        "meaning": "breathed in suddenly because of surprise",
+        "translation": "nəfəsi kəsildi"
+      },
+      {
+        "term": "picked up",
+        "lemma": "pick up",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "took something in her hand",
+        "translation": "götürdü"
+      },
+      {
+        "term": "frame",
+        "lemma": "frame",
+        "partOfSpeech": "noun",
+        "meaning": "a border around a picture",
+        "translation": "çərçivə"
+      },
+      {
+        "term": "shelf",
+        "lemma": "shelf",
+        "partOfSpeech": "noun",
+        "meaning": "a flat board on a wall for keeping things",
+        "translation": "rəf"
+      },
+      {
+        "term": "turned it over",
+        "lemma": "turn over",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "moved it so that the other side was on top",
+        "translation": "arxasını çevirdi"
+      },
+      {
+        "term": "on the back",
+        "lemma": "on the back",
+        "partOfSpeech": "phrase",
+        "meaning": "on the other side",
+        "translation": "arxa tərəfdə"
+      },
+      {
+        "term": "faded",
+        "lemma": "faded",
+        "partOfSpeech": "adjective",
+        "meaning": "no longer bright",
+        "translation": "solğun"
+      },
+      {
+        "term": "handwriting",
+        "lemma": "handwriting",
+        "partOfSpeech": "noun",
+        "meaning": "the way a person writes",
+        "translation": "xət"
+      },
+      {
+        "term": "certain",
+        "lemma": "certain",
+        "partOfSpeech": "adjective",
+        "meaning": "completely sure",
+        "translation": "əmin"
+      },
+      {
+        "term": "whispered",
+        "lemma": "whisper",
+        "partOfSpeech": "verb",
+        "meaning": "said very quietly",
+        "translation": "pıçıldadı"
+      },
+      {
+        "term": "alive",
+        "lemma": "alive",
+        "partOfSpeech": "adjective",
+        "meaning": "living, not dead",
+        "translation": "sağ"
+      },
+      {
+        "term": "delivered",
+        "lemma": "deliver",
+        "partOfSpeech": "verb",
+        "meaning": "brought to a person or a place",
+        "translation": "gətirib"
+      },
+      {
+        "term": "mailbox",
+        "lemma": "mailbox",
+        "partOfSpeech": "noun",
+        "meaning": "a box for letters at your home",
+        "translation": "poçt qutusu"
+      },
+      {
+        "term": "apparently",
+        "lemma": "apparently",
+        "partOfSpeech": "adverb",
+        "meaning": "it seems that",
+        "translation": "görünür"
+      },
+      {
+        "term": "woke up",
+        "lemma": "wake up",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "stopped sleeping",
+        "translation": "oyandı"
+      },
+      {
+        "term": "remembered",
+        "lemma": "remember",
+        "partOfSpeech": "verb",
+        "meaning": "thought of something from the past",
+        "translation": "xatırladı"
+      },
+      {
+        "term": "lobby",
+        "lemma": "lobby",
+        "partOfSpeech": "noun",
+        "meaning": "the area inside the entrance of a building",
+        "translation": "vestibül"
+      },
+      {
+        "term": "walked past",
+        "lemma": "walk past",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "went by something without stopping",
+        "translation": "yanından keçirdi"
+      },
+      {
+        "term": "hands",
+        "lemma": "hand",
+        "partOfSpeech": "noun",
+        "meaning": "the long thin parts of a clock that point to the time",
+        "translation": "əqrəblər"
+      },
+      {
+        "term": "stuck",
+        "lemma": "stuck",
+        "partOfSpeech": "adjective",
+        "meaning": "not able to move",
+        "translation": "ilişib qalmış"
+      },
+      {
+        "term": "a quarter past seven",
+        "lemma": "a quarter past",
+        "partOfSpeech": "phrase",
+        "meaning": "fifteen minutes after seven o'clock",
+        "translation": "yeddini on beş dəqiqə keçir"
+      },
+      {
+        "term": "for as long as anyone could remember",
+        "lemma": "for as long as anyone can remember",
+        "partOfSpeech": "phrase",
+        "meaning": "for a very long time",
+        "translation": "hamının yadında olduğu vaxtdan bəri"
+      },
+      {
+        "term": "hidden",
+        "lemma": "hide",
+        "partOfSpeech": "verb",
+        "meaning": "put where nobody can see it",
+        "translation": "gizlənib"
+      }
+    ]
+  },
+  "grammar": {
+    "topic": "Subject and object questions",
+    "topicTranslation": "Mübtəda və tamamlıq sualları",
+    "explanation": "When who or what asks about the subject (the person or thing that does the action), we don't use do, does or did, and the verb comes right after the question word: Who delivered the envelope? (Someone delivered it.) When who or what asks about the object (the person or thing that receives the action), we use do, does or did, as in a normal question: Who did you see? (You saw someone.)",
+    "explanationTranslation": "Who və ya what mübtəda haqqında soruşanda (hərəkəti edən şəxs və ya əşya), do, does, did işlədilmir və feil sual sözündən dərhal sonra gəlir: Who delivered the envelope? (Kimsə zərfi gətirib.) Who və ya what tamamlıq haqqında soruşanda (hərəkətin yönəldiyi şəxs və ya əşya), adi sualda olduğu kimi do, does, did işlədilir: Who did you see? (Sən kimisə gördün.)",
+    "rules": [
+      {
+        "text": "Subject question: Who/What + verb: Who wrote the note? What happened?",
+        "translation": "Mübtəda sualı: Who/What + feil: Who wrote the note? What happened?"
+      },
+      {
+        "text": "Object question: Who/What + do/does/did + subject + verb: What did the note say? Who did Sevda visit?",
+        "translation": "Tamamlıq sualı: Who/What + do/does/did + mübtəda + feil: What did the note say? Who did Sevda visit?"
+      },
+      {
+        "text": "In present simple subject questions, the verb is singular: Who lives on the fifth floor?",
+        "translation": "Present simple-da mübtəda suallarında feil təkdə olur: Who lives on the fifth floor?"
+      },
+      {
+        "text": "Compare: Who called Sevda? (someone called her) / Who did Sevda call? (she called someone)",
+        "translation": "Müqayisə edin: Who called Sevda? (kimsə ona zəng etdi) / Who did Sevda call? (o, kiməsə zəng etdi)"
+      }
+    ],
+    "examples": [
+      {
+        "text": "Who delivered the envelope?",
+        "translation": "Zərfi kim gətirib?"
+      },
+      {
+        "text": "What did the riddle say?",
+        "translation": "Tapmacada nə yazılmışdı?"
+      },
+      {
+        "text": "Who lives in apartment 7?",
+        "translation": "7 nömrəli mənzildə kim yaşayır?"
+      },
+      {
+        "text": "Who did Aunt Zarifa call?",
+        "translation": "Zərifə xala kimə zəng etdi?"
+      },
+      {
+        "text": "What happened to the clock in the lobby?",
+        "translation": "Vestibüldəki saata nə olub?"
+      }
+    ],
+    "exercise": {
+      "instructions": "Choose or write the correct question form.",
+      "instructionsTranslation": "Düzgün sual formasını seçin və ya yazın.",
+      "questions": [
+        {
+          "type": "choice",
+          "prompt": "Who ___ the window? It's cold in here!",
+          "promptTranslation": "Pəncərəni kim açıb? Burada soyuqdur!",
+          "options": [
+            "opened",
+            "did open",
+            "did you open"
+          ],
+          "answer": "opened",
+          "explanation": "Who is the subject (someone opened it), so we don't use did.",
+          "explanationTranslation": "Who mübtədadır (kimsə açıb), ona görə did işlədilmir."
+        },
+        {
+          "type": "choice",
+          "prompt": "What ___ for breakfast this morning?",
+          "promptTranslation": "Bu səhər səhər yeməyində nə yedin?",
+          "options": [
+            "did you eat",
+            "you ate",
+            "ate you"
+          ],
+          "answer": "did you eat",
+          "explanation": "What is the object (you ate something), so we use did.",
+          "explanationTranslation": "What tamamlıqdır (sən nəsə yedin), ona görə did işlədilir."
+        },
+        {
+          "type": "choice",
+          "prompt": "Who ___ on the first floor?",
+          "promptTranslation": "Birinci mərtəbədə kim yaşayır?",
+          "options": [
+            "lives",
+            "live",
+            "do live"
+          ],
+          "answer": "lives",
+          "explanation": "In a present simple subject question, the verb is singular: lives.",
+          "explanationTranslation": "Present simple-da mübtəda sualında feil təkdə olur: lives."
+        },
+        {
+          "type": "text",
+          "prompt": "Who ___ (call) you last night? (someone called you)",
+          "promptTranslation": "Dünən gecə sənə kim zəng etdi?",
+          "acceptedAnswers": [],
+          "answer": "called",
+          "explanation": "Who is the subject, so we use the past simple without did.",
+          "explanationTranslation": "Who mübtədadır, ona görə did olmadan past simple işlədilir."
+        },
+        {
+          "type": "text",
+          "prompt": "What ___ (Sevda / find) on her balcony?",
+          "promptTranslation": "Sevda eyvanında nə tapdı?",
+          "acceptedAnswers": [],
+          "answer": "did Sevda find",
+          "explanation": "What is the object (Sevda found something), so we use did + subject + verb.",
+          "explanationTranslation": "What tamamlıqdır (Sevda nəsə tapdı), ona görə did + mübtəda + feil işlədilir."
+        }
+      ]
+    }
+  }
+}
