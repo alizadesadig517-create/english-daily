@@ -71,6 +71,18 @@
         "style": "bun"
       },
       "voice": "female"
+    },
+    {
+      "name": "Mr. Tofig",
+      "role": "the building manager, strict and a little grumpy at first, but fair; knows that Mr. Bahram still pays for room 3",
+      "look": {
+        "bg": "#e6eef0",
+        "skin": "#dcab85",
+        "hair": "#8a8a8a",
+        "style": "short",
+        "glasses": true
+      },
+      "voice": "male"
     }
   ],
   "rules": [
@@ -165,6 +177,28 @@
         {
           "id": "C",
           "text": "Show the riddle to Murad. He knows everyone in the building."
+        }
+      ],
+      "chosen": "A"
+    },
+    {
+      "number": 5,
+      "date": "2026-11-08",
+      "title": "Behind the Glass",
+      "summary": "Early on Sunday Sevda examines the lobby clock and finds a hidden compartment with a map of the basement, room 3 circled, and a note: 7:15 is when Mr. Bahram closed his workshop for the last time. The building manager, Mr. Tofig, catches her; he reveals that Mr. Bahram called him last week and still pays for room 3 every year. He allows Sevda to open it tomorrow evening, but she must bring a witness.",
+      "cliffhanger": "Who should go with Sevda as her witness?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Murad. He has a flashlight and a ladder."
+        },
+        {
+          "id": "B",
+          "text": "Aunt Zarifa. She knew Mr. Bahram well."
+        },
+        {
+          "id": "C",
+          "text": "Nobody yet. First ask Mr. Tofig for Mr. Bahram's phone number and call him."
         }
       ],
       "chosen": null

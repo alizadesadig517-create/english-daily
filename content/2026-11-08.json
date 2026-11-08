@@ -1,0 +1,1063 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-08",
+  "level": "B1",
+  "translationLanguage": "az",
+  "words": [
+    {
+      "word": "glance",
+      "ipa": "/ɡlæns/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "nəzər salmaq, ötəri baxmaq",
+          "definition": "to look at something or someone quickly",
+          "synonyms": [
+            "look",
+            "peek"
+          ],
+          "antonyms": [
+            "stare"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "She glanced at her watch and stood up.",
+              "translation": "O, saatına nəzər salıb ayağa qalxdı."
+            },
+            {
+              "text": "He glanced around the room, looking for his friend.",
+              "translation": "O, dostunu axtararaq otağa ötəri göz gəzdirdi."
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "noun",
+          "translation": "ötəri baxış",
+          "definition": "a quick look",
+          "synonyms": [
+            "look"
+          ],
+          "antonyms": [
+            "stare"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "I knew at a glance that something was wrong.",
+              "translation": "Bir baxışdan nəyinsə qaydasında olmadığını başa düşdüm."
+            },
+            {
+              "text": "She gave me a quick glance and smiled.",
+              "translation": "O, mənə ötəri baxıb gülümsədi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "tiny",
+      "ipa": "/ˈtaɪni/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "kiçicik, xırda",
+          "definition": "very small",
+          "synonyms": [
+            "small",
+            "little"
+          ],
+          "antonyms": [
+            "huge",
+            "enormous"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "They live in a tiny apartment in the city center.",
+              "translation": "Onlar şəhər mərkəzində kiçicik bir mənzildə yaşayırlar."
+            },
+            {
+              "text": "There was a tiny spider on the wall.",
+              "translation": "Divarda xırda bir hörümçək var idi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "compartment",
+      "ipa": "/kəmˈpɑːrtmənt/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "bölmə, gözcük; kupe",
+          "definition": "a separate small space inside something, such as a bag, a box or a train",
+          "synonyms": [
+            "section"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "My bag has a secret compartment for my passport.",
+              "translation": "Çantamda pasportum üçün gizli bir gözcük var."
+            },
+            {
+              "text": "We found an empty compartment on the train.",
+              "translation": "Qatarda boş bir kupe tapdıq."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "twist",
+      "ipa": "/twɪst/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "burmaq, fırlatmaq; burxutmaq",
+          "definition": "to turn something with your hand, or to bend something so that it changes shape",
+          "synonyms": [
+            "turn",
+            "rotate"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Twist the cap to open the bottle.",
+              "translation": "Şüşəni açmaq üçün qapağı bur."
+            },
+            {
+              "text": "She twisted her ankle on the stairs.",
+              "translation": "O, pilləkəndə ayağını burxutdu."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "creak",
+      "ipa": "/kriːk/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "cırıldamaq",
+          "definition": "to make a long, high sound, like an old door or floor when it moves",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The old wooden stairs creaked under my feet.",
+              "translation": "Köhnə taxta pilləkən ayağımın altında cırıldayırdı."
+            },
+            {
+              "text": "The door creaks every time you open it.",
+              "translation": "Qapı hər dəfə açılanda cırıldayır."
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "noun",
+          "translation": "cırıltı",
+          "definition": "a long, high sound made by something old when it moves",
+          "synonyms": [],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "We heard a creak from the kitchen.",
+              "translation": "Mətbəxdən cırıltı səsi eşitdik."
+            },
+            {
+              "text": "With a loud creak, the gate opened.",
+              "translation": "Darvaza bərk cırıltı ilə açıldı."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "mark",
+      "ipa": "/mɑːrk/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "işarələmək, qeyd etmək",
+          "definition": "to put a sign, a line or a color on something to show something",
+          "synonyms": [
+            "label",
+            "highlight"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "I marked the important words in yellow.",
+              "translation": "Vacib sözləri sarı rənglə işarələdim."
+            },
+            {
+              "text": "Mark the meeting in your calendar.",
+              "translation": "Görüşü təqviminizdə qeyd edin."
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "noun",
+          "translation": "ləkə, işarə; qiymət",
+          "definition": "a spot or a line on a surface; also a grade for school work",
+          "synonyms": [
+            "spot",
+            "sign",
+            "grade"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "There's a coffee mark on your shirt.",
+              "translation": "Köynəyində qəhvə ləkəsi var."
+            },
+            {
+              "text": "She got top marks in her English exam.",
+              "translation": "O, ingilis dili imtahanından ən yüksək qiyməti aldı."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "witness",
+      "ipa": "/ˈwɪtnəs/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "şahid",
+          "definition": "a person who sees something happen, or who is present when something is done",
+          "synonyms": [
+            "observer"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The police are looking for witnesses to the accident.",
+              "translation": "Polis qəzanın şahidlərini axtarır."
+            },
+            {
+              "text": "You need two witnesses to sign the document.",
+              "translation": "Sənədi imzalamaq üçün iki şahid lazımdır."
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "verb",
+          "translation": "şahidi olmaq",
+          "definition": "to see something happen",
+          "synonyms": [
+            "see",
+            "observe"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Did anyone witness the accident?",
+              "translation": "Qəzanın şahidi olan varmı?"
+            },
+            {
+              "text": "We witnessed a beautiful sunrise from the mountain.",
+              "translation": "Dağdan gözəl gün doğuşunun şahidi olduq."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "approach",
+      "ipa": "/əˈproʊtʃ/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "yaxınlaşmaq",
+          "definition": "to move closer to someone or something",
+          "synonyms": [
+            "come closer"
+          ],
+          "antonyms": [
+            "move away"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "A young man approached me and asked for directions.",
+              "translation": "Bir gənc mənə yaxınlaşıb yol soruşdu."
+            },
+            {
+              "text": "Winter is approaching, so the days are getting shorter.",
+              "translation": "Qış yaxınlaşır, ona görə günlər qısalır."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "allow",
+      "ipa": "/əˈlaʊ/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "icazə vermək",
+          "definition": "to let someone do something",
+          "synonyms": [
+            "permit",
+            "let"
+          ],
+          "antonyms": [
+            "forbid",
+            "ban"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "My parents didn't allow me to go to the party.",
+              "translation": "Valideynlərim ziyafətə getməyimə icazə vermədilər."
+            },
+            {
+              "text": "Dogs are not allowed in this park.",
+              "translation": "Bu parka itlə girmək olmaz."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "examine",
+      "ipa": "/ɪɡˈzæmɪn/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "diqqətlə yoxlamaq, müayinə etmək",
+          "definition": "to look at something or someone carefully to learn about it or to find a problem",
+          "synonyms": [
+            "check",
+            "inspect",
+            "study"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The doctor examined my throat.",
+              "translation": "Həkim boğazımı müayinə etdi."
+            },
+            {
+              "text": "We examined the old map closely.",
+              "translation": "Köhnə xəritəni diqqətlə nəzərdən keçirdik."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "loose",
+      "ipa": "/luːs/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "boş, laxlamış; gen",
+          "definition": "not firmly fixed in place; also not tight on your body",
+          "synonyms": [
+            "wobbly",
+            "baggy"
+          ],
+          "antonyms": [
+            "tight",
+            "firm"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "One of my teeth is loose.",
+              "translation": "Dişlərimdən biri laxlayıb."
+            },
+            {
+              "text": "These trousers are too loose for me.",
+              "translation": "Bu şalvar mənə çox gendir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "circle",
+      "ipa": "/ˈsɜːrkəl/",
+      "senses": [
+        {
+          "partOfSpeech": "noun",
+          "translation": "dairə",
+          "definition": "a round shape, like the letter O",
+          "synonyms": [
+            "ring"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The children sat in a circle on the floor.",
+              "translation": "Uşaqlar yerdə dairə şəklində oturdular."
+            },
+            {
+              "text": "Draw a circle around the right answer.",
+              "translation": "Düzgün cavabın ətrafına dairə çək."
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "verb",
+          "translation": "dairəyə almaq; dövrə vurmaq",
+          "definition": "to draw a circle around something, or to move around something in a circle",
+          "synonyms": [
+            "go around"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Circle the words you don't know.",
+              "translation": "Bilmədiyin sözləri dairəyə al."
+            },
+            {
+              "text": "A plane circled above the airport.",
+              "translation": "Bir təyyarə hava limanının üzərində dövrə vururdu."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "empty",
+      "ipa": "/ˈɛmpti/",
+      "senses": [
+        {
+          "partOfSpeech": "adjective",
+          "translation": "boş",
+          "definition": "with nothing or nobody inside",
+          "synonyms": [
+            "vacant",
+            "bare"
+          ],
+          "antonyms": [
+            "full"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "The fridge is almost empty.",
+              "translation": "Soyuducu demək olar ki, boşdur."
+            },
+            {
+              "text": "The streets were empty early in the morning.",
+              "translation": "Səhər tezdən küçələr boş idi."
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "verb",
+          "translation": "boşaltmaq",
+          "definition": "to take everything out of something",
+          "synonyms": [
+            "clear"
+          ],
+          "antonyms": [
+            "fill"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Can you empty the trash, please?",
+              "translation": "Zəhmət olmasa, zibil qabını boşalda bilərsən?"
+            },
+            {
+              "text": "She emptied her bag onto the table.",
+              "translation": "O, çantasını masanın üstünə boşaltdı."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "frown",
+      "ipa": "/fraʊn/",
+      "senses": [
+        {
+          "partOfSpeech": "verb",
+          "translation": "qaşqabaq tökmək, qaşlarını çatmaq",
+          "definition": "to bring your eyebrows together because you are angry, worried or thinking hard",
+          "synonyms": [
+            "scowl"
+          ],
+          "antonyms": [
+            "smile"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "Why are you frowning? Is something wrong?",
+              "translation": "Niyə qaşqabağını tökmüsən? Nəsə olub?"
+            },
+            {
+              "text": "He frowned at the long list of tasks.",
+              "translation": "O, uzun tapşırıq siyahısına baxıb qaşlarını çatdı."
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "noun",
+          "translation": "qaşqabaq",
+          "definition": "the look on your face when you bring your eyebrows together",
+          "synonyms": [],
+          "antonyms": [
+            "smile"
+          ],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "She looked at the bill with a frown.",
+              "translation": "O, qaşqabaqla hesaba baxdı."
+            },
+            {
+              "text": "His frown disappeared when he heard the good news.",
+              "translation": "Yaxşı xəbəri eşidəndə onun qaşqabağı açıldı."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "turn out",
+      "ipa": "/ˌtɜːrn ˈaʊt/",
+      "senses": [
+        {
+          "partOfSpeech": "phrasal verb",
+          "translation": "məlum olmaq; nəticələnmək",
+          "definition": "to be discovered to be true, or to happen in a particular way in the end",
+          "synonyms": [
+            "prove",
+            "end up"
+          ],
+          "antonyms": [],
+          "homonyms": [],
+          "examples": [
+            {
+              "text": "It turns out that we went to the same school.",
+              "translation": "Məlum olur ki, biz eyni məktəbdə oxumuşuq."
+            },
+            {
+              "text": "Don't worry, everything will turn out fine.",
+              "translation": "Narahat olma, hər şey yaxşı olacaq."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "story": {
+    "title": "Behind the Glass",
+    "titleTranslation": "Şüşənin arxasında",
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "Early on Sunday morning, before the neighbors woke up, Sevda went down to the lobby to examine the old clock.",
+            "translation": "Bazar günü səhər tezdən, qonşular oyanmamış, Sevda köhnə saatı diqqətlə yoxlamaq üçün vestibülə endi."
+          },
+          {
+            "text": "It was a tall wooden clock with a glass door, and its hands still showed a quarter past seven.",
+            "translation": "Bu, şüşə qapılı hündür taxta saat idi və əqrəbləri hələ də yeddini on beş dəqiqə keçəni göstərirdi."
+          },
+          {
+            "text": "The little door creaked when she opened it.",
+            "translation": "Kiçik qapını açanda o, cırıldadı."
+          },
+          {
+            "text": "Inside, she noticed a tiny brass handle that was a little loose.",
+            "translation": "İçəridə bir az laxlamış kiçicik mis bir dəstəyin fərqinə vardı."
+          },
+          {
+            "text": "She twisted it carefully, and a small hidden compartment opened.",
+            "translation": "O, dəstəyi ehtiyatla burdu və kiçik gizli bir gözcük açıldı."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The compartment wasn't empty.",
+            "translation": "Gözcük boş deyildi."
+          },
+          {
+            "text": "Inside, there was an old map of the basement, and room 3 was marked with a red circle.",
+            "translation": "İçində zirzəminin köhnə bir planı var idi və 3 nömrəli otaq qırmızı dairə ilə işarələnmişdi."
+          },
+          {
+            "text": "Next to it, someone had written: “7:15 is the time I closed my workshop for the last time. B.”",
+            "translation": "Yanında kimsə yazmışdı: “7:15 – emalatxanamı sonuncu dəfə bağladığım vaxtdır. B.”"
+          },
+          {
+            "text": "Sevda glanced at the clock again and felt a shiver.",
+            "translation": "Sevda yenidən saata nəzər saldı və bədənindən üşütmə keçdi."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Suddenly, she heard footsteps behind her.",
+            "translation": "Birdən arxasında ayaq səsləri eşitdi."
+          },
+          {
+            "text": "Mr. Tofig, the building manager, was approaching with a cup of coffee and a big frown.",
+            "translation": "Bina müdiri Tofiq bəy əlində bir fincan qəhvə ilə, qaşqabaqlı halda ona yaxınlaşırdı."
+          },
+          {
+            "text": "“What are you doing with that clock?” he asked. “It hasn't been touched for twenty years!”",
+            "translation": "“O saatla nə edirsən?” – deyə soruşdu. “İyirmi ildir ona heç kim toxunmayıb!”"
+          },
+          {
+            "text": "Sevda explained everything and showed him the map.",
+            "translation": "Sevda hər şeyi izah etdi və ona planı göstərdi."
+          },
+          {
+            "text": "Slowly, his frown turned into a smile.",
+            "translation": "Yavaş-yavaş onun qaşqabağı təbəssümə çevrildi."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "“Well, this is strange,” he said. “Mr. Bahram called me last week. He asked if room 3 had been opened.”",
+            "translation": "“Bu, qəribədir,” – dedi. “Bəhram müəllim keçən həftə mənə zəng etdi. 3 nömrəli otağın açılıb-açılmadığını soruşdu.”"
+          },
+          {
+            "text": "“It turns out that he still pays for that room every year!”",
+            "translation": "“Məlum olur ki, o, hələ də hər il o otaq üçün pul ödəyir!”"
+          },
+          {
+            "text": "“So, can I go in?” Sevda asked.",
+            "translation": "“Yəni içəri girə bilərəm?” – deyə Sevda soruşdu."
+          },
+          {
+            "text": "“I'll allow it,” Mr. Tofig said, “but the door will be opened tomorrow evening, and you must bring a witness.”",
+            "translation": "“İcazə verirəm,” – dedi Tofiq bəy, – “amma qapı sabah axşam açılacaq və sən özünlə bir şahid gətirməlisən.”"
+          },
+          {
+            "text": "Who should go with her?",
+            "translation": "Onunla kim getməlidir?"
+          }
+        ]
+      }
+    ],
+    "glossary": [
+      {
+        "term": "early on Sunday morning",
+        "lemma": "early in the morning",
+        "partOfSpeech": "phrase",
+        "meaning": "at the start of Sunday",
+        "translation": "bazar günü səhər tezdən"
+      },
+      {
+        "term": "woke up",
+        "lemma": "wake up",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "stopped sleeping",
+        "translation": "oyandı"
+      },
+      {
+        "term": "went down to",
+        "lemma": "go down to",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "moved to a lower floor",
+        "translation": "endi"
+      },
+      {
+        "term": "lobby",
+        "lemma": "lobby",
+        "partOfSpeech": "noun",
+        "meaning": "the area inside the entrance of a building",
+        "translation": "vestibül"
+      },
+      {
+        "term": "examine",
+        "lemma": "examine",
+        "partOfSpeech": "verb",
+        "meaning": "to look at something carefully",
+        "translation": "diqqətlə yoxlamaq"
+      },
+      {
+        "term": "glass door",
+        "lemma": "glass door",
+        "partOfSpeech": "phrase",
+        "meaning": "a door made of glass",
+        "translation": "şüşə qapı"
+      },
+      {
+        "term": "hands",
+        "lemma": "hand",
+        "partOfSpeech": "noun",
+        "meaning": "the thin parts of a clock that show the time",
+        "translation": "əqrəblər"
+      },
+      {
+        "term": "a quarter past seven",
+        "lemma": "a quarter past",
+        "partOfSpeech": "phrase",
+        "meaning": "fifteen minutes after seven o'clock",
+        "translation": "yeddini on beş dəqiqə keçir"
+      },
+      {
+        "term": "creaked",
+        "lemma": "creak",
+        "partOfSpeech": "verb",
+        "meaning": "made a long, high sound",
+        "translation": "cırıldadı"
+      },
+      {
+        "term": "noticed",
+        "lemma": "notice",
+        "partOfSpeech": "verb",
+        "meaning": "saw something and paid attention to it",
+        "translation": "fərqinə vardı"
+      },
+      {
+        "term": "tiny",
+        "lemma": "tiny",
+        "partOfSpeech": "adjective",
+        "meaning": "very small",
+        "translation": "kiçicik"
+      },
+      {
+        "term": "brass",
+        "lemma": "brass",
+        "partOfSpeech": "adjective",
+        "meaning": "made of a yellow metal",
+        "translation": "mis"
+      },
+      {
+        "term": "handle",
+        "lemma": "handle",
+        "partOfSpeech": "noun",
+        "meaning": "the part of something that you hold or turn",
+        "translation": "dəstək"
+      },
+      {
+        "term": "loose",
+        "lemma": "loose",
+        "partOfSpeech": "adjective",
+        "meaning": "not firmly fixed",
+        "translation": "laxlamış"
+      },
+      {
+        "term": "twisted",
+        "lemma": "twist",
+        "partOfSpeech": "verb",
+        "meaning": "turned with her hand",
+        "translation": "burdu"
+      },
+      {
+        "term": "carefully",
+        "lemma": "carefully",
+        "partOfSpeech": "adverb",
+        "meaning": "slowly and with attention",
+        "translation": "ehtiyatla"
+      },
+      {
+        "term": "hidden",
+        "lemma": "hidden",
+        "partOfSpeech": "adjective",
+        "meaning": "that people cannot see",
+        "translation": "gizli"
+      },
+      {
+        "term": "compartment",
+        "lemma": "compartment",
+        "partOfSpeech": "noun",
+        "meaning": "a small separate space inside something",
+        "translation": "gözcük"
+      },
+      {
+        "term": "empty",
+        "lemma": "empty",
+        "partOfSpeech": "adjective",
+        "meaning": "with nothing inside",
+        "translation": "boş"
+      },
+      {
+        "term": "map",
+        "lemma": "map",
+        "partOfSpeech": "noun",
+        "meaning": "a drawing that shows where places are",
+        "translation": "plan, xəritə"
+      },
+      {
+        "term": "basement",
+        "lemma": "basement",
+        "partOfSpeech": "noun",
+        "meaning": "the floor under the ground",
+        "translation": "zirzəmi"
+      },
+      {
+        "term": "marked",
+        "lemma": "mark",
+        "partOfSpeech": "verb",
+        "meaning": "showed with a sign or a color",
+        "translation": "işarələnmişdi"
+      },
+      {
+        "term": "circle",
+        "lemma": "circle",
+        "partOfSpeech": "noun",
+        "meaning": "a round shape",
+        "translation": "dairə"
+      },
+      {
+        "term": "next to",
+        "lemma": "next to",
+        "partOfSpeech": "preposition",
+        "meaning": "very near, at the side of",
+        "translation": "yanında"
+      },
+      {
+        "term": "for the last time",
+        "lemma": "for the last time",
+        "partOfSpeech": "phrase",
+        "meaning": "and never again after that",
+        "translation": "sonuncu dəfə"
+      },
+      {
+        "term": "glanced at",
+        "lemma": "glance",
+        "partOfSpeech": "verb",
+        "meaning": "looked quickly at",
+        "translation": "nəzər saldı"
+      },
+      {
+        "term": "felt a shiver",
+        "lemma": "feel a shiver",
+        "partOfSpeech": "phrase",
+        "meaning": "suddenly felt cold or afraid",
+        "translation": "üşütmə keçdi"
+      },
+      {
+        "term": "footsteps",
+        "lemma": "footstep",
+        "partOfSpeech": "noun",
+        "meaning": "the sound of someone walking",
+        "translation": "ayaq səsləri"
+      },
+      {
+        "term": "building manager",
+        "lemma": "building manager",
+        "partOfSpeech": "noun",
+        "meaning": "the person who takes care of a building",
+        "translation": "bina müdiri"
+      },
+      {
+        "term": "approaching",
+        "lemma": "approach",
+        "partOfSpeech": "verb",
+        "meaning": "coming closer",
+        "translation": "yaxınlaşırdı"
+      },
+      {
+        "term": "frown",
+        "lemma": "frown",
+        "partOfSpeech": "noun",
+        "meaning": "an angry or worried look on the face",
+        "translation": "qaşqabaq"
+      },
+      {
+        "term": "hasn't been touched",
+        "lemma": "be touched",
+        "partOfSpeech": "phrase",
+        "meaning": "nobody has put a hand on it",
+        "translation": "ona toxunulmayıb"
+      },
+      {
+        "term": "explained",
+        "lemma": "explain",
+        "partOfSpeech": "verb",
+        "meaning": "told so that someone could understand",
+        "translation": "izah etdi"
+      },
+      {
+        "term": "turned into",
+        "lemma": "turn into",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "changed and became something else",
+        "translation": "çevrildi"
+      },
+      {
+        "term": "had been opened",
+        "lemma": "be opened",
+        "partOfSpeech": "phrase",
+        "meaning": "someone had opened it",
+        "translation": "açılıb-açılmadığını"
+      },
+      {
+        "term": "turns out",
+        "lemma": "turn out",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "is discovered to be true",
+        "translation": "məlum olur"
+      },
+      {
+        "term": "pays for",
+        "lemma": "pay for",
+        "partOfSpeech": "phrasal verb",
+        "meaning": "gives money for",
+        "translation": "pul ödəyir"
+      },
+      {
+        "term": "allow",
+        "lemma": "allow",
+        "partOfSpeech": "verb",
+        "meaning": "to let someone do something",
+        "translation": "icazə vermək"
+      },
+      {
+        "term": "will be opened",
+        "lemma": "be opened",
+        "partOfSpeech": "phrase",
+        "meaning": "someone will open it",
+        "translation": "açılacaq"
+      },
+      {
+        "term": "witness",
+        "lemma": "witness",
+        "partOfSpeech": "noun",
+        "meaning": "a person who sees something happen",
+        "translation": "şahid"
+      }
+    ]
+  },
+  "grammar": {
+    "topic": "Passive voice: present perfect and future",
+    "topicTranslation": "Məchul növ: present perfect və gələcək zaman",
+    "explanation": "We use the passive when the action is more important than the person who does it, or when we don't know who does it. Present perfect passive: has/have + been + past participle (The clock hasn't been touched for years). Future passive: will + be + past participle (The door will be opened tomorrow). If we want to say who does the action, we add by + the person.",
+    "explanationTranslation": "Məchul növ hərəkəti kimin etdiyindən daha vacib olanda və ya hərəkəti kimin etdiyini bilmədikdə işlədilir. Present perfect məchul: has/have + been + past participle (The clock hasn't been touched for years). Gələcək zaman məchul: will + be + past participle (The door will be opened tomorrow). Hərəkəti kimin etdiyini demək istəsək, by + şəxs əlavə edirik.",
+    "rules": [
+      {
+        "text": "Present perfect passive: has/have been + past participle: The room has been cleaned.",
+        "translation": "Present perfect məchul: has/have been + past participle: The room has been cleaned."
+      },
+      {
+        "text": "Negative and question: It hasn't been opened. / Has it been opened?",
+        "translation": "İnkar və sual: It hasn't been opened. / Has it been opened?"
+      },
+      {
+        "text": "Future passive: will be + past participle: The results will be announced on Monday.",
+        "translation": "Gələcək zaman məchul: will be + past participle: The results will be announced on Monday."
+      },
+      {
+        "text": "Add by + person only when it is important: The door will be opened by Mr. Tofig.",
+        "translation": "By + şəxs yalnız vacib olanda əlavə edilir: The door will be opened by Mr. Tofig."
+      },
+      {
+        "text": "Don't forget been: The letter has been sent (not The letter has sent).",
+        "translation": "Been sözünü unutmayın: The letter has been sent (The letter has sent yox)."
+      }
+    ],
+    "examples": [
+      {
+        "text": "The clock hasn't been touched for twenty years.",
+        "translation": "İyirmi ildir saata toxunulmayıb."
+      },
+      {
+        "text": "Room 3 has been marked with a red circle.",
+        "translation": "3 nömrəli otaq qırmızı dairə ilə işarələnib."
+      },
+      {
+        "text": "The door will be opened tomorrow evening.",
+        "translation": "Qapı sabah axşam açılacaq."
+      },
+      {
+        "text": "Has the envelope been delivered yet?",
+        "translation": "Zərf artıq çatdırılıbmı?"
+      },
+      {
+        "text": "A witness will be needed.",
+        "translation": "Şahid lazım olacaq."
+      }
+    ],
+    "exercise": {
+      "instructions": "Choose or write the correct passive form.",
+      "instructionsTranslation": "Düzgün məchul formanı seçin və ya yazın.",
+      "questions": [
+        {
+          "type": "choice",
+          "prompt": "The windows ___ yet. They're still dirty.",
+          "promptTranslation": "Pəncərələr hələ silinməyib. Hələ də çirklidirlər.",
+          "options": [
+            "haven't been cleaned",
+            "haven't cleaned",
+            "won't clean"
+          ],
+          "answer": "haven't been cleaned",
+          "explanation": "The windows don't clean themselves, so we use the passive: haven't been + past participle.",
+          "explanationTranslation": "Pəncərələr özləri silmir, ona görə məchul növ işlədilir: haven't been + past participle."
+        },
+        {
+          "type": "choice",
+          "prompt": "Don't worry, your package ___ tomorrow.",
+          "promptTranslation": "Narahat olma, bağlaman sabah çatdırılacaq.",
+          "options": [
+            "will be delivered",
+            "will deliver",
+            "has delivered"
+          ],
+          "answer": "will be delivered",
+          "explanation": "Future passive: will be + past participle.",
+          "explanationTranslation": "Gələcək zamanın məchul forması: will be + past participle."
+        },
+        {
+          "type": "choice",
+          "prompt": "___ the report been finished?",
+          "promptTranslation": "Hesabat bitirilibmi?",
+          "options": [
+            "Has",
+            "Will",
+            "Is"
+          ],
+          "answer": "Has",
+          "explanation": "Present perfect passive question: Has + subject + been + past participle?",
+          "explanationTranslation": "Present perfect məchul sual: Has + mübtəda + been + past participle?"
+        },
+        {
+          "type": "text",
+          "prompt": "The new bridge ___ (open) next year.",
+          "promptTranslation": "Yeni körpü gələn il açılacaq.",
+          "acceptedAnswers": [],
+          "answer": "will be opened",
+          "explanation": "Next year = future, so we use will be + past participle.",
+          "explanationTranslation": "Gələn il gələcək zamandır, ona görə will be + past participle işlədilir."
+        },
+        {
+          "type": "text",
+          "prompt": "My bike ___ (steal)! I can't find it anywhere.",
+          "promptTranslation": "Velosipedimi oğurlayıblar! Onu heç yerdə tapa bilmirəm.",
+          "acceptedAnswers": [
+            "'s been stolen"
+          ],
+          "answer": "has been stolen",
+          "explanation": "We don't know who did it, and the result is now: has been + past participle.",
+          "explanationTranslation": "Kimin etdiyini bilmirik və nəticə indi görünür: has been + past participle."
+        }
+      ]
+    }
+  }
+}

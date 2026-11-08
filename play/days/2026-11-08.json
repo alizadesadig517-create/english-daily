@@ -1,0 +1,81 @@
+{
+  "format": "story",
+  "speakers": {
+    "2-2": "Mr. Tofig",
+    "3-0": "Mr. Tofig",
+    "3-1": "Mr. Tofig",
+    "3-2": "Sevda",
+    "3-3": "Mr. Tofig"
+  },
+  "episode": {
+    "number": 5,
+    "title": "Behind the Glass",
+    "recap": "Tapmacada deyilir: “Heç vaxt tərpənməyən saatı tap.” Dünən seçim edilmədi, ona görə Sevda birinci variantla gedir: dərhal vestibüldəki köhnə saatı yoxlayır.",
+    "cliffhanger": "Mr. Tofig will open room 3 tomorrow evening, but Sevda must bring a witness. Who should go with her?",
+    "cliffhangerAz": "Tofiq bəy sabah axşam 3 nömrəli otağı açacaq, amma Sevda özü ilə şahid gətirməlidir. Onunla kim getsin?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Murad. He has a flashlight and a ladder.",
+        "textAz": "Murad. Onun fənəri və nərdivanı var."
+      },
+      {
+        "id": "B",
+        "text": "Aunt Zarifa. She knew Mr. Bahram well.",
+        "textAz": "Zərifə xala. O, Bəhram müəllimi yaxşı tanıyırdı."
+      },
+      {
+        "id": "C",
+        "text": "Nobody yet. First ask Mr. Tofig for Mr. Bahram's phone number and call him.",
+        "textAz": "Hələ heç kim. Əvvəlcə Tofiq bəydən Bəhram müəllimin nömrəsini alıb ona zəng etsin."
+      }
+    ],
+    "next": "Epizod 6: 3 nömrəli otağın qapısı açılır. Seçimin kimin Sevdanın yanında olacağını müəyyən edəcək."
+  },
+  "comprehension": [
+    {
+      "question": "What did Sevda find inside the clock?",
+      "options": [
+        "A small hidden compartment.",
+        "A second key.",
+        "A photo of Mr. Bahram."
+      ],
+      "answer": "A small hidden compartment.",
+      "explanation": "Laxlamış mis dəstəyi burduqda kiçik gizli gözcük açıldı.",
+      "after": 0
+    },
+    {
+      "question": "What does 7:15 mean, according to the note?",
+      "options": [
+        "It's the time Mr. Bahram closed his workshop for the last time.",
+        "It's the time the lobby opens.",
+        "It's Mr. Bahram's birthday."
+      ],
+      "answer": "It's the time Mr. Bahram closed his workshop for the last time.",
+      "explanation": "Qeydə görə, 7:15 Bəhram müəllimin emalatxanasını sonuncu dəfə bağladığı vaxtdır.",
+      "after": 1
+    },
+    {
+      "question": "What surprising thing does Mr. Tofig say?",
+      "options": [
+        "Mr. Bahram still pays for room 3 every year.",
+        "Room 3 was sold last year.",
+        "He has never heard of Mr. Bahram."
+      ],
+      "answer": "Mr. Bahram still pays for room 3 every year.",
+      "explanation": "Məlum olur ki, Bəhram müəllim hələ də hər il o otaq üçün pul ödəyir.",
+      "after": 3
+    }
+  ],
+  "mission": {
+    "text": "Write 2-3 sentences about your home or your street using the passive: something that has been done recently, and something that will be done soon. Use at least two of these words.",
+    "textAz": "Evin və ya küçən haqqında məchul növdə 2-3 cümlə yaz: bu yaxınlarda edilmiş bir iş və tezliklə ediləcək bir iş. Bu sözlərdən ən azı ikisini işlət.",
+    "words": [
+      "empty",
+      "allow",
+      "examine",
+      "tiny"
+    ]
+  },
+  "feedback": null
+}
